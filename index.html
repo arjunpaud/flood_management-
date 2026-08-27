@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="ne">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<title>रसुवा–भोटेकोशी बाढी · लाइभ बुलेटिन</title>
+<meta name="description" content="रसुवा–भोटेकोशी–त्रिशूली बाढी लाइभ बुलेटिन। BIPAD पोर्टल र नेपाली समाचार फिडबाट सिधै तानिएको सूचना, सतर्कता, हेल्पलाइन र स्रोत।">
+<meta name="theme-color" content="#c41e3a">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23c41e3a'/%3E%3Cpath d='M4 21c3-3 5-3 8 0s5 3 8 0 5-3 8 0' stroke='%23fff' stroke-width='3' fill='none' stroke-linecap='round'/%3E%3Cpath d='M4 27c3-3 5-3 8 0s5 3 8 0 5-3 8 0' stroke='%23fff' stroke-width='3' fill='none' stroke-linecap='round' opacity='.55'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mukta:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<div class="stick">
+  <p class="safety-banner">
+    बाढी हेर्न नदी छेउछाउ नजानुहोस् · भिडियो/फोटो खिच्न नरोकिनुहोस् · नदीबाट टाढा सुरक्षित स्थानमा बस्नुहोस्
+  </p>
+  <nav class="chips" aria-label="खण्डहरू">
+    <a href="#live">लाइभ घटना</a>
+    <a href="#alerts">सतर्कता</a>
+    <a href="#rivers">नदी जलसतह</a>
+    <a href="#map">नक्सा</a>
+    <a href="#news">समाचार</a>
+    <a href="#helpline">हेल्पलाइन</a>
+    <a href="#contacts">स्थानीय सम्पर्क</a>
+    <a href="#social">आधिकारिक खाता</a>
+    <a href="#sources">स्रोत</a>
+    <a href="#about">यो पृष्ठबारे</a>
+  </nav>
+</div>
+
+<div class="wrap">
+
+  <header class="mast">
+    <span class="kicker">लाइभ बुलेटिन</span>
+    <h1>रसुवा–भोटेकोशी बाढी</h1>
+    <p class="sub">तिब्बतबाट आएको आकस्मिक बाढी · भोटेकोशी–त्रिशूली–नारायणी करिडोर</p>
+
+    <div class="meta-row">
+      <span class="pulse"><i></i> लाइभ</span>
+      <span id="updated">स्रोत खोज्दै…</span>
+      <button class="btn-refresh" id="refresh" type="button">पुनः ताजा गर्नुहोस्</button>
+    </div>
+
+    <div class="health" id="health" aria-label="स्रोतको अवस्था"></div>
+  </header>
+
+  <!-- ── live incidents (BIPAD / NDRRMA) ─────────────────── -->
+  <section id="live">
+    <div class="sec-head">
+      <span class="dot" style="background:var(--crimson)"></span>
+      <h2>लाइभ घटना · BIPAD पोर्टल</h2>
+      <span class="count" id="live-count">—</span>
+    </div>
+    <p class="lead">
+      विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरण (NDRRMA) को BIPAD पोर्टलको सार्वजनिक API बाट
+      सिधै तानिएको दर्ता भएका घटना। तल कुनै पनि अंक यही API ले फर्काएको हो — यहाँ हातले लेखिएको छैन।
+    </p>
+
+    <div class="stats" id="live-stats"></div>
+
+    <div class="tabs" id="live-tabs"></div>
+    <div class="cards" id="live-list">
+      <div class="loading">BIPAD पोर्टलबाट घटना ल्याउँदै…</div>
+    </div>
+  </section>
+
+  <!-- ── active alerts ───────────────────────────────────── -->
+  <section id="alerts">
+    <div class="sec-head">
+      <span class="dot" style="background:#9f1239"></span>
+      <h2>सक्रिय सतर्कता</h2>
+      <span class="count" id="alert-count">—</span>
+    </div>
+    <p class="lead">
+      BIPAD पोर्टलको सार्वजनिक सतर्कता — सडक अवरोध, नदी सतर्कता र निकायले जारी गरेका सूचना।
+      प्रभावित करिडोरका जिल्लासँग मिल्नेमात्र देखाइएको छ।
+    </p>
+    <div class="cards" id="alert-list">
+      <div class="loading">सतर्कता ल्याउँदै…</div>
+    </div>
+  </section>
+
+  <!-- ── river gauges ────────────────────────────────────── -->
+  <section id="rivers">
+    <div class="sec-head">
+      <span class="dot" style="background:var(--teal)"></span>
+      <h2>नदी जलसतह</h2>
+      <span class="count" id="river-count">—</span>
+    </div>
+    <p class="lead">
+      जल तथा मौसम विज्ञान विभागका रियल-टाइम गेज (hydrology.gov.np → BIPAD)। भोटेकोशी–त्रिशूली–नारायणी
+      करिडोरका स्टेसनमात्र। सतर्कता र खतरा तह विभागकै तोकिएको हो।
+    </p>
+    <div class="cards" id="river-list">
+      <div class="loading">जलसतह ल्याउँदै…</div>
+    </div>
+  </section>
+
+  <!-- ── map ─────────────────────────────────────────────── -->
+  <section id="map">
+    <div class="sec-head">
+      <span class="dot" style="background:var(--teal)"></span>
+      <h2>नक्सा</h2>
+      <span class="count" id="map-count">—</span>
+    </div>
+    <p class="lead">BIPAD घटनाका निर्देशांक · आधार नक्सा OpenStreetMap।</p>
+    <div id="map-canvas"></div>
+  </section>
+
+  <!-- ── news ────────────────────────────────────────────── -->
+  <section id="news">
+    <div class="sec-head">
+      <span class="dot" style="background:var(--saffron)"></span>
+      <h2>लाइभ समाचार</h2>
+      <span class="count" id="news-count">—</span>
+    </div>
+    <p class="lead">
+      स्रोत खण्डमा उल्लेख भएकै समाचार माध्यमका RSS फिडबाट, बाढीसँग सम्बन्धित शब्दहरूले छानिएर।
+      शीर्षक र मिति प्रकाशकको आफ्नै हो; क्लिक गर्दा मूल समाचारमै पुगिन्छ।
+    </p>
+    <div class="tabs" id="news-tabs"></div>
+    <div class="cards" id="news-list">
+      <div class="loading">समाचार फिड ल्याउँदै…</div>
+    </div>
+  </section>
+
+  <!-- ── helpline ────────────────────────────────────────── -->
+  <section id="helpline">
+    <div class="sec-head">
+      <span class="dot" style="background:#7f1d1d"></span>
+      <h2>आपत्कालीन सहायता / हेल्पलाइन</h2>
+    </div>
+    <p class="lead">NDRRMA · गृह मन्त्रालय · जिल्ला प्रशासन कार्यालय। नम्बरमा ट्याप गरे सिधै कल लाग्छ।</p>
+
+    <div class="hl-nat">
+      <a href="tel:1114">१११४<small>सशस्त्र प्रहरी</small></a>
+      <a href="tel:100">१००<small>नेपाल प्रहरी</small></a>
+      <a href="tel:102">१०२<small>एम्बुलेन्स</small></a>
+      <a href="tel:1234">१२३४<small>DEOC / उद्धार</small></a>
+      <a href="tel:1144">११४४<small>NEOC</small></a>
+    </div>
+
+    <div class="hl-dist" id="hl-dist"></div>
+  </section>
+
+  <!-- ── local contacts ──────────────────────────────────── -->
+  <section id="contacts">
+    <div class="sec-head">
+      <span class="dot" style="background:var(--forest)"></span>
+      <h2>स्थानीय तह सम्पर्क</h2>
+      <span class="count" id="cao-count">—</span>
+    </div>
+    <p class="lead">प्रभावित जिल्लाका पालिका प्रमुख प्रशासकीय अधिकृत। उद्धार/राहत समन्वयका लागि नम्बरमा ट्याप गर्नुहोस्।</p>
+    <div class="cao-grid" id="cao-grid"></div>
+  </section>
+
+  <!-- ── official social ─────────────────────────────────── -->
+  <section id="social">
+    <div class="sec-head">
+      <span class="dot" style="background:var(--ink)"></span>
+      <h2>आधिकारिक खाता र निकाय</h2>
+    </div>
+    <p class="lead">
+      X र फेसबुकले तेस्रो पक्षलाई फिड पढ्न दिँदैनन्, त्यसैले यहाँ एम्बेड नगरी सिधै खातामा जाने लिंक राखिएको छ।
+    </p>
+    <div class="social" id="social-grid"></div>
+  </section>
+
+  <!-- ── sources ─────────────────────────────────────────── -->
+  <section id="sources">
+    <div class="sec-head">
+      <span class="dot" style="background:var(--ink)"></span>
+      <h2>स्रोत</h2>
+      <span class="count" id="src-count">—</span>
+    </div>
+    <p class="lead">
+      यो पृष्ठले सूचना तान्ने सबै बाह्य स्रोत। <b>लाइभ</b> चिन्ह लागेका स्रोत हरेक पटक ताजा गर्दा
+      वास्तवमै पढिन्छन्; बाँकी मूल बुलेटिनले उद्धृत गरेका समाचार–कडीहरूको अभिलेख हो।
+    </p>
+    <div class="tabs" id="src-tabs"></div>
+    <div id="src-grid"></div>
+  </section>
+
+  <!-- ── about ───────────────────────────────────────────── -->
+  <section id="about">
+    <div class="sec-head">
+      <span class="dot" style="background:var(--muted)"></span>
+      <h2>यो पृष्ठबारे</h2>
+    </div>
+    <div class="disclaim">
+      <b>यो मूल बुलेटिनको क्लोन हो।</b> मूल पृष्ठ
+      <a href="https://nirajbhusal.github.io/rasuwa-flood-bulletin/" target="_blank" rel="noopener">nirajbhusal.github.io/rasuwa-flood-bulletin</a>
+      ले प्रकाशित गरेका मृत्यु/बेपत्ताका अंक यहाँ सारिएको छैन। यो क्लोनले देखाउने हरेक अंक र शीर्षक
+      अहिले नै माथिका स्रोतबाट तानिएको हो। आधिकारिक निर्णयका लागि सधैं
+      NDRRMA, नेपाल प्रहरी र जल तथा मौसम विज्ञान विभागकै सूचना अन्तिम मान्नुहोस्।
+    </div>
+  </section>
+
+  <footer>
+    <p>
+      डिजाइन र खण्ड संरचना मूल बुलेटिनबाट · सूचना BIPAD पोर्टल (NDRRMA) र नेपाली समाचार RSS बाट ·
+      नक्सा © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> योगदानकर्ता
+    </p>
+    <p id="foot-cycle">स्वतः ताजा: हरेक ५ मिनेट</p>
+  </footer>
+
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

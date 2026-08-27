@@ -1,0 +1,97 @@
+{
+  "note": "Live upstream sources. Derived from the स्रोत (sources) section of the original bulletin. 'kind' decides how the aggregator/browser reads it.",
+  "keywords": [
+    "बाढी", "भोटेकोशी", "त्रिशूली", "रसुवा", "नुवाकोट", "धादिङ", "चितवन",
+    "स्याफ्रुबेसी", "टिमुरे", "रसुवागढी", "बेत्रावती", "विदुर", "देवघाट",
+    "नारायणी", "पहिरो", "विपद्", "उद्धार", "राहत", "सम्पर्कविहीन", "जलसतह",
+    "flood", "rasuwa", "bhotekoshi", "bhote koshi", "trishuli", "nuwakot",
+    "dhading", "landslide", "rescue", "relief", "missing", "disaster"
+  ],
+  "rss": [
+    {
+      "id": "ratopati",
+      "name": "रातोपाटी",
+      "url": "https://www.ratopati.com/feed",
+      "site": "https://www.ratopati.com",
+      "lang": "ne",
+      "cors": false
+    },
+    {
+      "id": "onlinekhabar",
+      "name": "अनलाइनखबर",
+      "url": "https://www.onlinekhabar.com/feed",
+      "site": "https://www.onlinekhabar.com",
+      "lang": "ne",
+      "cors": false
+    },
+    {
+      "id": "nagarik",
+      "name": "नागरिक",
+      "url": "https://nagariknews.nagariknetwork.com/feed",
+      "site": "https://nagariknews.nagariknetwork.com",
+      "lang": "ne",
+      "cors": false
+    },
+    {
+      "id": "setopati",
+      "name": "सेतोपाटी",
+      "url": "https://www.setopati.com/feed",
+      "site": "https://www.setopati.com",
+      "lang": "ne",
+      "cors": false
+    },
+    {
+      "id": "khabarhub",
+      "name": "Khabarhub (English)",
+      "url": "https://english.khabarhub.com/feed",
+      "site": "https://english.khabarhub.com",
+      "lang": "en",
+      "cors": false
+    },
+    {
+      "id": "kathmandupost",
+      "name": "The Kathmandu Post",
+      "url": "https://kathmandupost.com/rss",
+      "site": "https://kathmandupost.com",
+      "lang": "en",
+      "cors": false
+    }
+  ],
+  "api": [
+    {
+      "id": "bipad",
+      "name": "BIPAD Portal (NDRRMA)",
+      "kind": "json",
+      "url": "https://bipadportal.gov.np/api/v1/incident/?limit=200&ordering=-incident_on",
+      "site": "https://bipad.gov.np",
+      "cors": true,
+      "note": "Government disaster-incident register. Open CORS, so the browser reads it directly."
+    }
+  ],
+  "official": [
+    { "id": "dhm", "name": "जल तथा मौसम विज्ञान विभाग (DHM)", "url": "https://www.dhm.gov.np", "kind": "link" },
+    { "id": "ffd", "name": "बाढी पूर्वानुमान महाशाखा", "url": "https://floodforecasting.gov.np", "kind": "link" },
+    { "id": "hydrology", "name": "जलविज्ञान — रियल टाइम", "url": "https://www.hydrology.gov.np", "kind": "link" },
+    { "id": "bipadportal", "name": "BIPAD Portal", "url": "https://bipad.gov.np", "kind": "link" },
+    { "id": "nepalpolice", "name": "नेपाल प्रहरी", "url": "https://www.nepalpolice.gov.np", "kind": "link" },
+    { "id": "opmcm", "name": "प्रधानमन्त्री कार्यालय", "url": "https://www.opmcm.gov.np", "kind": "link" },
+    { "id": "copernicus", "name": "Copernicus EMS — EMSR927", "url": "https://mapping.emergency.copernicus.eu/activations/EMSR927/", "kind": "link" }
+  ],
+  "social": [
+    { "id": "NepalPoliceHQ", "name": "नेपाल प्रहरी", "url": "https://x.com/NepalPoliceHQ", "platform": "x" },
+    { "id": "NDRRMA_Nepal", "name": "विपद् प्राधिकरण", "url": "https://x.com/NDRRMA_Nepal", "platform": "x" },
+    { "id": "thenepalesearmy", "name": "नेपाली सेना", "url": "https://x.com/thenepalesearmy", "platform": "x" },
+    { "id": "Online_khabar", "name": "अनलाइनखबर", "url": "https://x.com/Online_khabar", "platform": "x" },
+    { "id": "kathmandupost", "name": "काठमाडौं पोस्ट", "url": "https://x.com/kathmandupost", "platform": "x" },
+    { "id": "Rato_pati", "name": "रातोपाटी", "url": "https://x.com/Rato_pati", "platform": "x" },
+    { "id": "RONBupdates", "name": "Routine of Nepal Banda", "url": "https://x.com/RONBupdates", "platform": "x" },
+    { "id": "NepaliArmyHQ", "name": "नेपाली सेना", "url": "https://www.facebook.com/NepaliArmyHQ/", "platform": "facebook" },
+    { "id": "ronbfb", "name": "Routine of Nepal Banda", "url": "https://www.facebook.com/officialroutineofnepalbanda", "platform": "facebook" }
+  ],
+  "proxies": [
+    "https://corsproxy.io/?url=",
+    "https://api.allorigins.win/raw?url=",
+    "https://api.codetabs.com/v1/proxy?quest=",
+    "https://api.allorigins.win/get?url="
+  ]
+}

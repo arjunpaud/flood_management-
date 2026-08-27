@@ -1,0 +1,47 @@
+name: refresh live sources
+
+# GitHub's scheduler will not honour anything tighter than about 5 minutes,
+# and in practice runs late under load. The page still refreshes itself every
+# 5 minutes in the browser, so this job only keeps the baked fallback warm.
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+  # This job commits data/live.json back to the branch. Without the
+  # paths-ignore the push trigger would re-fire on its own commit and loop.
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'data/live.json'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-live
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Read every source in data/feeds.json
+        run: node scripts/fetch-sources.mjs
+
+      - name: Commit data/live.json when it changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/live.json
+          if git diff --cached --quiet; then
+            echo "no change"
+          else
+            git commit -m "chore: refresh live sources ($(date -u '+%Y-%m-%d %H:%MZ'))"
+            git push
+          fi

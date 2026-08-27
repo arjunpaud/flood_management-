@@ -1,0 +1,14 @@
+{
+  "name": "rasuwa-flood-bulletin-clone",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Clone of the रसुवा–भोटेकोशी बाढी bulletin that reads its content live from the external sources listed in its स्रोत section.",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-sources.mjs",
+    "serve": "npm run fetch && npx --yes serve ."
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
