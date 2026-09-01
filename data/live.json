@@ -1,6 +1,24 @@
 {
- "generatedAt": "2026-09-01T17:50:27.772Z",
+ "generatedAt": "2026-09-01T20:13:01.076Z",
  "news": [
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "१२ बजे १२ समाचार: समय घर्केपछि निजी क्षेत्रलाई उद्धार अनुमति, थप हिमताल फुट्ने जोखिम कायमै",
+   "link": "https://www.ratopati.com/story/589188/12-oclock-12-news-private-sector-allowed-to-rescue-after-time-runs-out-risk-of-further-glacier-bursts-remains",
+   "date": "Tue, 01 Sep 2026 18:12:38 +0000",
+   "ts": 1788286358000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "आश्मा केसी र नीति शाहद्वारा ५१ टेन्टसहित १५ लाखसम्मको राहत सहयोग",
+   "link": "https://www.ratopati.com/story/589187/ashma-kc-and-niti-shah-provide-relief-assistance-of-up-to-rs-15-million-including-51-tents",
+   "date": "Tue, 01 Sep 2026 17:53:21 +0000",
+   "ts": 1788285201000
+  },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
@@ -297,15 +315,6 @@
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/work-at-dhobighat-sewage-treatment-plant-halted-after-flood-deposits-rocks-and-sand-in-pipeline-86-64.html",
    "date": "Tue, 01 Sep 2026 21:11:21 +0545",
    "ts": 1788276381000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "विपद् प्रभावितका लागि ८० व्यक्ति तथा संस्थाबाट २५ करोड ६७ लाखभन्दा बढी सहयोग",
-   "link": "https://www.ratopati.com/story/589157/over-2567-million-rupees-donated-by-80-individuals-and-organizations-to-help-those-affected-by-the-disaster",
-   "date": "Tue, 01 Sep 2026 15:19:43 +0000",
-   "ts": 1788275983000
   },
   {
    "source": "Khabarhub (English)",
@@ -6034,9 +6043,9 @@
  ],
  "rivers": [
   {
-   "id": 25085356,
-   "createdOn": "2026-09-01T23:35:09.852374+05:45",
-   "modifiedOn": "2026-09-01T23:35:09.852376+05:45",
+   "id": 25087344,
+   "createdOn": "2026-09-02T01:55:09.499717+05:45",
+   "modifiedOn": "2026-09-02T01:55:09.499719+05:45",
    "title": "Trishuli at Galchi",
    "basin": "Narayani",
    "point": {
@@ -6046,14 +6055,14 @@
      27.802328
     ]
    },
-   "waterLevel": 363.130310059,
+   "waterLevel": 362.427612305,
    "image": "http://daq.hydrology.gov.np/images/96917ebb6f5c49a5673ea38a1b4fa8e0",
    "dangerLevel": null,
    "warningLevel": 367,
-   "waterLevelOn": "2026-09-01T23:30:00+05:45",
+   "waterLevelOn": "2026-09-02T01:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 378,
-   "steady": "RISING",
+   "steady": "STEADY",
    "description": "RLS from RTS",
    "stationSeriesId": 36628,
    "dataSource": "hydrology.gov.np",
@@ -6065,40 +6074,9 @@
    "station": 281
   },
   {
-   "id": 25085355,
-   "createdOn": "2026-09-01T23:35:09.852336+05:45",
-   "modifiedOn": "2026-09-01T23:35:09.852338+05:45",
-   "title": "Trishuli River at Kali Khola",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.546,
-     27.833
-    ]
-   },
-   "waterLevel": 7.59799861908,
-   "image": "http://daq.hydrology.gov.np/images/364ef9a4cae0f2a57b48d88b42f579ff",
-   "dangerLevel": 12.1,
-   "warningLevel": 10.8,
-   "waterLevelOn": "2026-09-01T23:30:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": 250,
-   "steady": "RISING",
-   "description": "MHS",
-   "stationSeriesId": 19583,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 2452,
-   "municipality": 38001,
-   "district": 43,
-   "province": 4,
-   "station": 67
-  },
-  {
-   "id": 25085354,
-   "createdOn": "2026-09-01T23:35:09.852297+05:45",
-   "modifiedOn": "2026-09-01T23:35:09.852299+05:45",
+   "id": 25087343,
+   "createdOn": "2026-09-02T01:55:09.499676+05:45",
+   "modifiedOn": "2026-09-02T01:55:09.499678+05:45",
    "title": "Trishuli Khola at Dhunche",
    "basin": "Narayani",
    "point": {
@@ -6108,14 +6086,14 @@
      28.098163
     ]
    },
-   "waterLevel": 2.56369972229,
+   "waterLevel": 2.67339944839,
    "image": "http://daq.hydrology.gov.np/images/0a4d86552fd0e57c5ab02555b4dc693f",
    "dangerLevel": null,
    "warningLevel": 3.2,
-   "waterLevelOn": "2026-09-01T23:20:00+05:45",
+   "waterLevelOn": "2026-09-02T01:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
-   "steady": "STEADY",
+   "steady": "RISING",
    "description": "HS_manual",
    "stationSeriesId": 19916,
    "dataSource": "hydrology.gov.np",
@@ -6127,9 +6105,9 @@
    "station": 105
   },
   {
-   "id": 25085347,
-   "createdOn": "2026-09-01T23:35:09.852020+05:45",
-   "modifiedOn": "2026-09-01T23:35:09.852022+05:45",
+   "id": 25087334,
+   "createdOn": "2026-09-02T01:55:09.499312+05:45",
+   "modifiedOn": "2026-09-02T01:55:09.499314+05:45",
    "title": "Tadi Khola at Rautar",
    "basin": "Narayani",
    "point": {
@@ -6139,14 +6117,14 @@
      27.918694
     ]
    },
-   "waterLevel": 1.73830032349,
+   "waterLevel": 1.60249996185,
    "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
    "dangerLevel": null,
    "warningLevel": 3.5,
-   "waterLevelOn": "2026-09-01T23:30:00+05:45",
+   "waterLevelOn": "2026-09-02T01:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
-   "steady": "RISING",
+   "steady": "STEADY",
    "description": "Hydrological station with CDCP",
    "stationSeriesId": 19587,
    "dataSource": "hydrology.gov.np",
@@ -6158,40 +6136,9 @@
    "station": 65
   },
   {
-   "id": 25085317,
-   "createdOn": "2026-09-01T23:35:09.850565+05:45",
-   "modifiedOn": "2026-09-01T23:35:09.850567+05:45",
-   "title": "Narayani at Devghat",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.43,
-     27.71
-    ]
-   },
-   "waterLevel": 5.22999954224,
-   "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
-   "dangerLevel": 9,
-   "warningLevel": 7.3,
-   "waterLevelOn": "2026-09-01T23:20:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "Hydrological station with RLS",
-   "stationSeriesId": 4140,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 3479,
-   "municipality": 76005,
-   "district": 481,
-   "province": 4,
-   "station": 25
-  },
-  {
-   "id": 25085306,
-   "createdOn": "2026-09-01T23:35:09.850102+05:45",
-   "modifiedOn": "2026-09-01T23:35:09.850104+05:45",
+   "id": 25087290,
+   "createdOn": "2026-09-02T01:55:09.497555+05:45",
+   "modifiedOn": "2026-09-02T01:55:09.497557+05:45",
    "title": "Manahari Khola at Manahari",
    "basin": "Narayani",
    "point": {
@@ -6201,11 +6148,11 @@
      27.548673
     ]
    },
-   "waterLevel": 1.25399971008,
+   "waterLevel": 1.1829996109,
    "image": "http://daq.hydrology.gov.np/images/dda94e5a1fe05535b24b7907976c7efe",
    "dangerLevel": null,
    "warningLevel": 4.3,
-   "waterLevelOn": "2026-09-01T23:30:00+05:45",
+   "waterLevelOn": "2026-09-02T01:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 305,
    "steady": "STEADY",
@@ -6220,9 +6167,9 @@
    "station": 116
   },
   {
-   "id": 25085298,
-   "createdOn": "2026-09-01T23:35:09.849786+05:45",
-   "modifiedOn": "2026-09-01T23:35:09.849788+05:45",
+   "id": 25087283,
+   "createdOn": "2026-09-02T01:55:09.497269+05:45",
+   "modifiedOn": "2026-09-02T01:55:09.497271+05:45",
    "title": "Lothar Khola at Lothar",
    "basin": "Narayani",
    "point": {
@@ -6232,11 +6179,11 @@
      27.5877
     ]
    },
-   "waterLevel": 1.8250002861,
+   "waterLevel": 1.80999994278,
    "image": "http://daq.hydrology.gov.np/images/93f6c4e346f0c03f64410c51ac9f71a0",
    "dangerLevel": 7,
    "warningLevel": 6.5,
-   "waterLevelOn": "2026-09-01T23:20:00+05:45",
+   "waterLevelOn": "2026-09-02T01:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 207,
    "steady": "STEADY",
@@ -6251,9 +6198,9 @@
    "station": 16
   },
   {
-   "id": 25085237,
-   "createdOn": "2026-09-01T23:35:09.847198+05:45",
-   "modifiedOn": "2026-09-01T23:35:09.847200+05:45",
+   "id": 25087223,
+   "createdOn": "2026-09-02T01:55:09.494836+05:45",
+   "modifiedOn": "2026-09-02T01:55:09.494838+05:45",
    "title": "Budhi Gandaki at Aarughat",
    "basin": "Narayani",
    "point": {
@@ -6263,14 +6210,14 @@
      28.046
     ]
    },
-   "waterLevel": 3.62869977951,
+   "waterLevel": 3.5748000145,
    "image": "http://daq.hydrology.gov.np/images/a5d962039af199e304760d743ab51419",
    "dangerLevel": 5,
    "warningLevel": 4.5,
-   "waterLevelOn": "2026-09-01T23:20:00+05:45",
+   "waterLevelOn": "2026-09-02T01:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
-   "steady": "RISING",
+   "steady": "STEADY",
    "description": "Station under PPCR",
    "stationSeriesId": 3572,
    "dataSource": "hydrology.gov.np",
@@ -6282,9 +6229,9 @@
    "station": 100
   },
   {
-   "id": 25085235,
-   "createdOn": "2026-09-01T23:35:09.847117+05:45",
-   "modifiedOn": "2026-09-01T23:35:09.847119+05:45",
+   "id": 25087221,
+   "createdOn": "2026-09-02T01:55:09.494743+05:45",
+   "modifiedOn": "2026-09-02T01:55:09.494745+05:45",
    "title": "Bhote Koshi at Bahrabise",
    "basin": "Koshi",
    "point": {
@@ -6294,11 +6241,11 @@
      27.786773
     ]
    },
-   "waterLevel": 2.38600063324,
+   "waterLevel": 2.47900009155,
    "image": "http://daq.hydrology.gov.np/images/1fa9f7b4833192d038492298d9a42cc7",
    "dangerLevel": 3.6,
    "warningLevel": 3.1,
-   "waterLevelOn": "2026-09-01T23:20:00+05:45",
+   "waterLevelOn": "2026-09-02T01:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -6311,9 +6258,145 @@
    "district": 24,
    "province": 3,
    "station": 91
+  },
+  {
+   "id": 25087191,
+   "createdOn": "2026-09-02T01:45:11.614758+05:45",
+   "modifiedOn": "2026-09-02T01:45:11.614760+05:45",
+   "title": "Trishuli River at Kali Khola",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.546,
+     27.833
+    ]
+   },
+   "waterLevel": 8.91899871826,
+   "image": "http://daq.hydrology.gov.np/images/364ef9a4cae0f2a57b48d88b42f579ff",
+   "dangerLevel": 12.1,
+   "warningLevel": 10.8,
+   "waterLevelOn": "2026-09-02T01:40:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": 250,
+   "steady": "RISING",
+   "description": "MHS",
+   "stationSeriesId": 19583,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 2452,
+   "municipality": 38001,
+   "district": 43,
+   "province": 4,
+   "station": 67
+  },
+  {
+   "id": 25087157,
+   "createdOn": "2026-09-02T01:45:11.613229+05:45",
+   "modifiedOn": "2026-09-02T01:45:11.613231+05:45",
+   "title": "Narayani at Devghat",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.43,
+     27.71
+    ]
+   },
+   "waterLevel": 5.3499994278,
+   "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
+   "dangerLevel": 9,
+   "warningLevel": 7.3,
+   "waterLevelOn": "2026-09-02T01:30:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": null,
+   "steady": "STEADY",
+   "description": "Hydrological station with RLS",
+   "stationSeriesId": 4140,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 3479,
+   "municipality": 76005,
+   "district": 481,
+   "province": 4,
+   "station": 25
   }
  ],
  "alerts": [
+  {
+   "id": 45729,
+   "title": "Flood warning at Chautara Sangachokgadhi-2, Sindhupalchok",
+   "wards": [
+    2881
+   ],
+   "affectedDemography": {
+    "maleCount": 143200,
+    "femaleCount": 156441,
+    "householdCount": 74904
+   },
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.766,
+     27.8047
+    ]
+   },
+   "createdOn": "2026-09-02T00:05:04.309592+05:45",
+   "titleNe": "चौतारा साँगाचोकगढी-२, सिन्धुपाल्चोकमा बाढी",
+   "source": "dhm",
+   "description": "Basin:Koshi\nElevation:725\nWarning level:5.8\nWater level:6.17099952698",
+   "verified": true,
+   "public": true,
+   "startedOn": "2026-09-01T17:30:00+05:45",
+   "expireOn": null,
+   "polygon": null,
+   "referenceType": "river",
+   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Balefi at Jalbire\", \"basin\": \"Koshi\", \"point\": \"SRID=4326;POINT (85.766 27.8047)\", \"water_level\": 5.80599975586, \"image\": \"http://daq.hydrology.gov.np/images/608f7dbf106e22a5d06aaebf96d8af80\", \"danger_level\": 7.0, \"warning_level\": 5.8, \"water_level_on\": \"2026-09-01T13:45:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": 725, \"steady\": \"FALLING\", \"description\": \"Hydrological Station with RLS & Temp/Humidity ( Tipping Bucket was not installed as the site was not suitable)\", \"station_series_id\": 32, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 2881, \"municipality\": 23004, \"district\": 24, \"province\": 3, \"station\": 140}}",
+   "referenceId": 11,
+   "region": null,
+   "regionId": null,
+   "createdBy": null,
+   "updatedBy": null,
+   "hazard": 11,
+   "event": null
+  },
+  {
+   "id": 45728,
+   "title": "Flood warning at Chautara Sangachokgadhi-2, Sindhupalchok",
+   "wards": [
+    2881
+   ],
+   "affectedDemography": {
+    "maleCount": 143200,
+    "femaleCount": 156441,
+    "householdCount": 74904
+   },
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.766,
+     27.8047
+    ]
+   },
+   "createdOn": "2026-09-01T23:45:06.040960+05:45",
+   "titleNe": "चौतारा साँगाचोकगढी-२, सिन्धुपाल्चोकमा बाढी",
+   "source": "dhm",
+   "description": "Basin:Koshi\nElevation:725\nWarning level:5.8\nWater level:5.87099933624",
+   "verified": true,
+   "public": true,
+   "startedOn": "2026-09-01T17:10:00+05:45",
+   "expireOn": "2026-09-01T23:55:04.174625+05:45",
+   "polygon": null,
+   "referenceType": "river",
+   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Balefi at Jalbire\", \"basin\": \"Koshi\", \"point\": \"SRID=4326;POINT (85.766 27.8047)\", \"water_level\": 5.87099933624, \"image\": \"http://daq.hydrology.gov.np/images/608f7dbf106e22a5d06aaebf96d8af80\", \"danger_level\": 7.0, \"warning_level\": 5.8, \"water_level_on\": \"2026-09-01T11:25:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": 725, \"steady\": \"RISING\", \"description\": \"Hydrological Station with RLS & Temp/Humidity ( Tipping Bucket was not installed as the site was not suitable)\", \"station_series_id\": 32, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 2881, \"municipality\": 23004, \"district\": 24, \"province\": 3, \"station\": 140}}",
+   "referenceId": 11,
+   "region": null,
+   "regionId": null,
+   "createdBy": null,
+   "updatedBy": null,
+   "hazard": 11,
+   "event": null
+  },
   {
    "id": 45727,
    "title": "Flood warning at Chautara Sangachokgadhi-2, Sindhupalchok",
@@ -6416,7 +6499,7 @@
    "expireOn": null,
    "polygon": null,
    "referenceType": "river",
-   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Marsyangdi at Bhakundabesi\", \"basin\": \"Narayani\", \"point\": \"SRID=4326;POINT (84.4014369 28.2031524)\", \"water_level\": 5.77820014954, \"image\": \"http://daq.hydrology.gov.np/images/f3dd99408131d4e26c1d8190673fe765\", \"danger_level\": 5.6, \"warning_level\": 5.3, \"water_level_on\": \"2026-09-01T17:45:00Z\", \"status\": \"ABOVE DANGER LEVEL\", \"elevation\": 646, \"steady\": \"RISING\", \"description\": \"Hydrological Station with RLS (28.20305, 84.401389)\", \"station_series_id\": 2725, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 1018, \"municipality\": 37001, \"district\": 45, \"province\": 4, \"station\": 149}}",
+   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Marsyangdi at Bhakundabesi\", \"basin\": \"Narayani\", \"point\": \"SRID=4326;POINT (84.4014369 28.2031524)\", \"water_level\": 6.28010034561, \"image\": \"http://daq.hydrology.gov.np/images/f3dd99408131d4e26c1d8190673fe765\", \"danger_level\": 5.6, \"warning_level\": 5.3, \"water_level_on\": \"2026-09-01T20:05:00Z\", \"status\": \"ABOVE DANGER LEVEL\", \"elevation\": 646, \"steady\": \"RISING\", \"description\": \"Hydrological Station with RLS (28.20305, 84.401389)\", \"station_series_id\": 2725, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 1018, \"municipality\": 37001, \"district\": 45, \"province\": 4, \"station\": 149}}",
    "referenceId": 186,
    "region": null,
    "regionId": null,
@@ -10679,87 +10762,13 @@
    "updatedBy": null,
    "hazard": 11,
    "event": null
-  },
-  {
-   "id": 45533,
-   "title": "Flood warning at Sanibheri-2, Rukum West",
-   "wards": [
-    1525
-   ],
-   "affectedDemography": {
-    "maleCount": 189256,
-    "femaleCount": 199464,
-    "householdCount": 79791
-   },
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     82.2666,
-     28.683
-    ]
-   },
-   "createdOn": "2026-08-16T07:25:21.112221+05:45",
-   "titleNe": "सानीभेरी-२, रुकुम पश्चिममा बाढी",
-   "source": "dhm",
-   "description": "Basin:Karnali\nElevation:None\nWarning level:5.6\nWater level:5.60200023651",
-   "verified": true,
-   "public": true,
-   "startedOn": "2026-08-16T07:20:00+05:45",
-   "expireOn": "2026-08-16T08:25:04.360274+05:45",
-   "polygon": null,
-   "referenceType": "river",
-   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Thulo Bheri at Rimna\", \"basin\": \"Karnali\", \"point\": \"SRID=4326;POINT (82.2666 28.683)\", \"water_level\": 5.64200019836, \"image\": \"http://daq.hydrology.gov.np/images/16dcb0ea29653c8ffb303c0e46e0c76b\", \"danger_level\": 6.2, \"warning_level\": 5.6, \"water_level_on\": \"2026-08-16T02:15:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": null, \"steady\": \"STEADY\", \"description\": \"Hydrological station with Bubbler\", \"station_series_id\": 2059, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 1525, \"municipality\": 54005, \"district\": 542, \"province\": 6, \"station\": 109}}",
-   "referenceId": 145,
-   "region": null,
-   "regionId": null,
-   "createdBy": null,
-   "updatedBy": null,
-   "hazard": 11,
-   "event": null
-  },
-  {
-   "id": 45532,
-   "title": "Flood warning at Sunil Smriti-2, Rolpa",
-   "wards": [
-    5230
-   ],
-   "affectedDemography": {
-    "maleCount": 183876,
-    "femaleCount": 226096,
-    "householdCount": 92327
-   },
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     82.695314,
-     28.214136
-    ]
-   },
-   "createdOn": "2026-08-16T07:15:08.696641+05:45",
-   "titleNe": "सुनिलस्मृति-२, रोल्पामा बाढी",
-   "source": "dhm",
-   "description": "Basin:West Rapti\nElevation:695\nWarning level:3.5\nWater level:3.54900026321",
-   "verified": true,
-   "public": true,
-   "startedOn": "2026-08-16T07:00:00+05:45",
-   "expireOn": "2026-08-16T07:55:03.717238+05:45",
-   "polygon": null,
-   "referenceType": "river",
-   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Lungri River at Khungri (327)\", \"basin\": \"West Rapti\", \"point\": \"SRID=4326;POINT (82.695314 28.214136)\", \"water_level\": 3.51000022888, \"image\": \"http://daq.hydrology.gov.np/images/42c384a76c7dd415c44c0c9d7cd6f34c\", \"danger_level\": 4.5, \"warning_level\": 3.5, \"water_level_on\": \"2026-08-16T01:45:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": 695, \"steady\": \"STEADY\", \"description\": \"Lungri River(327) at Khungri\", \"station_series_id\": 19650, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 5230, \"municipality\": 53008, \"district\": 54, \"province\": 5, \"station\": 51}}",
-   "referenceId": 4640,
-   "region": null,
-   "regionId": null,
-   "createdBy": null,
-   "updatedBy": null,
-   "hazard": 11,
-   "event": null
   }
  ],
  "health": [
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "source": "अनलाइनखबर",
