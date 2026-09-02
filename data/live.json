@@ -1,86 +1,491 @@
 {
- "generatedAt": "2026-09-02T04:54:16.014Z",
+ "generatedAt": "2026-09-02T09:09:02.180Z",
  "news": [
   {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "धादिङमा शव फेला परेकामध्ये ६ जनाको मात्रै सनाखत",
-   "link": "https://www.ratopati.com/story/589246/only-6-bodies-found-in-dhading-identified",
-   "date": "Wed, 02 Sep 2026 04:48:56 +0000",
-   "ts": 1788324536000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "रसुवा बाढी : नेपालले पाउला जलवायु जोखिम क्षतिपूर्ति ?",
-   "link": "https://www.onlinekhabar.com/2026/09/2008909/rasuwa-floods-will-nepal-receive-climate-risk-compensation",
-   "date": "Wed, 02 Sep 2026 04:45:02 +0000",
-   "ts": 1788324302000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "धादिङका १६ वटा झोलुङ्गे पुल बाढीले बगायो",
-   "link": "https://www.ratopati.com/story/589245/16-suspension-bridges-in-dhading-washed-away-by-floods",
-   "date": "Wed, 02 Sep 2026 04:44:39 +0000",
-   "ts": 1788324279000
-  },
-  {
-   "source": "सेतोपाटी",
-   "sourceId": "setopati",
-   "site": "https://www.setopati.com",
-   "title": "१११३ जनाको शव फेला, ४८५८ जना सम्पर्कविहीन",
-   "link": "https://www.setopati.com/social/397429",
-   "date": "Wed, 02 Sep 2026 10:25:00 +0545",
-   "ts": 1788324000000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "नेपालमा गएको विनाशकारी हिमपहिरो र लेदोसहितको बाढीको वैज्ञानिक विश्लेषण",
-   "link": "https://www.ratopati.com/story/589243/scientific-analysis-of-the-devastating-avalanches-and-flash-floods-in-nepal",
-   "date": "Wed, 02 Sep 2026 04:38:00 +0000",
-   "ts": 1788323880000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "यस्तो छ धादिङमा विनाशकारी बाढीबाट भएको क्षति र उद्धारको विवरण",
-   "link": "https://www.ratopati.com/story/589242/this-is-the-details-of-the-damage-and-rescue-operations-caused-by-the-devastating-floods-in-dhading",
-   "date": "Wed, 02 Sep 2026 04:37:34 +0000",
-   "ts": 1788323854000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "रसुवा बाढीबारे सरकारले प्रतिनिधिसभा बैठकलाई जानकारी गराउने",
-   "link": "https://www.onlinekhabar.com/2026/09/2009004/government-to-inform-house-of-representatives-meeting-about-rasuwa-floods",
-   "date": "Wed, 02 Sep 2026 04:29:44 +0000",
-   "ts": 1788323384000
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "सरकारलाई भीष्मराजको प्रश्न- सुरूङभित्र उद्धारमा ढिलाइ भयो, यो मृत्यु हो कि हत्या ?",
+   "link": "https://nagariknews.nagariknetwork.com/politics/bhishma-raj-s-question-to-the-government-was-there-a-delay-in-the-rescue-inside-the-tunnel-is-this-death-or-murder-45-81.html",
+   "date": "Wed, 02 Sep 2026 14:49:35 +0545",
+   "ts": 1788339875000
   },
   {
    "source": "नागरिक",
    "sourceId": "nagarik",
    "site": "https://nagariknews.nagariknetwork.com",
-   "title": "भाेटेकाेशी बाढी: भत्किए ७५७० घर",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/7570-houses-destroyed-br-20-85.html",
-   "date": "Wed, 02 Sep 2026 10:13:55 +0545",
-   "ts": 1788323335000
+   "title": "त्रिशूली किनारबाट सोनु सुदको भावुक सन्देश : नेपाल एक्लो छैन",
+   "link": "https://nagariknews.nagariknetwork.com/arts/sonu-sood-s-emotional-message-from-the-banks-of-trishuli-nepal-is-not-alone-54-15.html",
+   "date": "Wed, 02 Sep 2026 14:47:02 +0545",
+   "ts": 1788339722000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "सरकार सामाजिक सञ्जालमा अल्झिएर बाढी पीडितसम्म पुग्न सकेन : कांग्रेस",
+   "link": "https://www.onlinekhabar.com/2026/09/2009280/government-unable-to-reach-flood-victims-due-to-social-media-congress",
+   "date": "Wed, 02 Sep 2026 09:01:23 +0000",
+   "ts": 1788339683000
   },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
    "site": "https://www.ratopati.com",
-   "title": "बाढी प्रभावित क्षेत्रका विद्यालय अनिश्चितकालीन बन्द",
-   "link": "https://www.ratopati.com/story/589240/schools-in-flood-affected-areas-closed-indefinitely",
-   "date": "Wed, 02 Sep 2026 04:27:27 +0000",
-   "ts": 1788323247000
+   "title": "भोटेकोशी विपद्को समाधानका लागि एमालेले दियो सरकारलाई ८ सुझाव",
+   "link": "https://www.ratopati.com/story/589325/uml-gives-8-suggestions-to-the-government-to-resolve-the-bhotekoshi-disaster",
+   "date": "Wed, 02 Sep 2026 09:01:16 +0000",
+   "ts": 1788339676000
+  },
+  {
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "Govt focused on social media during disaster: Angdembe",
+   "link": "https://english.khabarhub.com/2026/02/566163/",
+   "date": "Wed, 02 Sep 2026 09:00:39 +0000",
+   "ts": 1788339639000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "नुवाकोट पुगेर बाढी पीडित भेट्दै बलिउड अभिनेता सोनु सुद",
+   "link": "https://www.ratopati.com/story/589323/bollywood-actor-sonu-sood-reaches-nuwakot-to-meet-flood-victims",
+   "date": "Wed, 02 Sep 2026 08:56:09 +0000",
+   "ts": 1788339369000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "विपद्को अनुभवबाट नेपालको भूगोलअनुकूल विकास मोडेल आवश्यक  छ : पुष्पकमल दाहाल",
+   "link": "https://nagariknews.nagariknetwork.com/politics/nepal-needs-a-development-model-suited-to-its-geography-based-on-disaster-experience-pushpa-kamal-dahal-19-99.html",
+   "date": "Wed, 02 Sep 2026 14:41:04 +0545",
+   "ts": 1788339364000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "अध्ययन पछि चिनियाँ वैज्ञानिकले भने: विनाशकारी बाढीको कारण हिमनदीको अस्थिरता",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/chinese-scientist-says-after-study-glacial-instability-caused-devastating-floods-13-32.html",
+   "date": "Wed, 02 Sep 2026 14:40:53 +0545",
+   "ts": 1788339353000
+  },
+  {
+   "source": "सेतोपाटी",
+   "sourceId": "setopati",
+   "site": "https://www.setopati.com",
+   "title": "प्रधानमन्त्री संसदमा आए, बाढीबारे सम्बोधन पढे, गए– के के भने उनले?",
+   "link": "https://www.setopati.com/politics/397470",
+   "date": "Wed, 02 Sep 2026 14:40:00 +0545",
+   "ts": 1788339300000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "माथिल्लो त्रिशूली-१ बाढीको चपेटामा:  ११५ जना सुरुङभित्रै फसेको आशंका",
+   "link": "https://www.ratopati.com/story/589322/upper-trishuli-1-in-the-grip-of-floods-115-people-suspected-to-be-trapped-inside-the-tunnel",
+   "date": "Wed, 02 Sep 2026 08:52:44 +0000",
+   "ts": 1788339164000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "बाढी र हिलो-माटो छिरेको सुरुङ खोल्ने विशेषज्ञता हामी मात्र होइन अन्य मुलुकसँग पनि छैन : प्रधानमन्त्री",
+   "link": "https://www.onlinekhabar.com/2026/09/2009268/not-only-we-but-also-other-countries-lack-the-expertise-to-open-tunnels-blocked-by-floods-and-mud-prime-minister",
+   "date": "Wed, 02 Sep 2026 08:49:18 +0000",
+   "ts": 1788338958000
+  },
+  {
+   "source": "सेतोपाटी",
+   "sourceId": "setopati",
+   "site": "https://www.setopati.com",
+   "title": "भीष्मराज आङ्देम्बेको प्रश्न- सुरूङभित्र उद्धारमा ढिलाइ भयो, यो हत्या हो कि मृत्यु हो?",
+   "link": "https://www.setopati.com/politics/397469",
+   "date": "Wed, 02 Sep 2026 14:33:56 +0545",
+   "ts": 1788338936000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "‘फसेका नागरिकको खोज तथा उद्धारमा भएको ढिलाइ अमानवीय र गम्भीर’",
+   "link": "https://www.ratopati.com/story/589319/the-delay-in-the-search-and-rescue-of-stranded-citizens-is-inhumane-and-serious",
+   "date": "Wed, 02 Sep 2026 08:45:17 +0000",
+   "ts": 1788338717000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "LIVE UPDATES :  विनाशकारी बाढीको आठौँ दिन : खोज तथा उद्धार निरन्तर, जोखिम कायमै",
+   "link": "https://www.ratopati.com/story/589219/live-updates-eighth-day-of-devastating-floods-search-and-rescue-continues-risk-remains",
+   "date": "Wed, 02 Sep 2026 08:45:00 +0000",
+   "ts": 1788338700000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "रसुवाबाट हेलिकप्टरमा नुवाकोट पठाइँदैछ शव (तस्बिर)",
+   "link": "https://www.ratopati.com/story/589318/the-body-is-being-sent-to-nuwakot-by-helicopter-from-rasuwa-photo",
+   "date": "Wed, 02 Sep 2026 08:44:55 +0000",
+   "ts": 1788338695000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "दोलखा कारागारका कैदीबन्दीद्वारा रसुवा बाढीपीडितलाई आर्थिक सहयोग",
+   "link": "https://www.ratopati.com/story/589317/dolakha-prison-inmates-provide-financial-assistance-to-rasuwa-flood-victims",
+   "date": "Wed, 02 Sep 2026 08:40:47 +0000",
+   "ts": 1788338447000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "भोटेकोशी बाढीको क्षतिमा अग्रिम बीमा भुक्तानी हुने, अनुगमन गर्न विशेष कार्यदल",
+   "link": "https://www.onlinekhabar.com/2026/09/2009259/advance-insurance-payment-for-bhotekoshi-flood-damage-neas-special-task-force-to-monitor",
+   "date": "Wed, 02 Sep 2026 08:40:25 +0000",
+   "ts": 1788338425000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "विपद्‍मा कर्णाली सरकारको योजना : जिल्लाका विपद् कोषमा १५ लाख, मृतकका परिवारलाई २ लाख",
+   "link": "https://www.onlinekhabar.com/2026/09/2009227/karnali-governments-plan-for-disaster-1-5-million-to-the-districts-disaster-fund-200000-to-the-families-of-the-deceased",
+   "date": "Wed, 02 Sep 2026 08:39:12 +0000",
+   "ts": 1788338352000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "विपद्‍मा उपलब्ध क्षमतामा मात्रै सरकार सीमित हुनु हुँदैन : रास्वपा",
+   "link": "https://www.onlinekhabar.com/2026/09/2009256/government-should-not-be-limited-to-available-capacity-in-times-of-disaster-rsp",
+   "date": "Wed, 02 Sep 2026 08:39:06 +0000",
+   "ts": 1788338346000
+  },
+  {
+   "source": "सेतोपाटी",
+   "sourceId": "setopati",
+   "site": "https://www.setopati.com",
+   "title": "प्रधानमन्त्री संसदमा आए, बाढीबारे सम्बोधन पढे, गए",
+   "link": "https://www.setopati.com/politics/397461",
+   "date": "Wed, 02 Sep 2026 14:23:00 +0545",
+   "ts": 1788338280000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "सिरहा कारागारका कैदीबन्दीद्वारा बाढी प्रभावितका लागि सहयोग",
+   "link": "https://www.ratopati.com/story/589316/siraha-prison-inmates-provide-assistance-to-flood-victims",
+   "date": "Wed, 02 Sep 2026 08:37:23 +0000",
+   "ts": 1788338243000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "राहत पहुँचका आधारमा होइन, आवश्यकताका आधारमा वितरण हुनुपर्छ : आङदेम्बे",
+   "link": "https://nagariknews.nagariknetwork.com/politics/relief-should-be-distributed-based-on-need-not-access-angdembe-br-35-36.html",
+   "date": "Wed, 02 Sep 2026 14:22:16 +0545",
+   "ts": 1788338236000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "विपद्‍मा नागरिकले सरकार साथमा भएको अनुभूति गर्न पाउनुपर्छ : गणेश पराजुली",
+   "link": "https://nagariknews.nagariknetwork.com/politics/citizens-should-feel-that-the-government-is-with-them-during-disasters-ganesh-parajuli-br-33-22.html",
+   "date": "Wed, 02 Sep 2026 14:21:16 +0545",
+   "ts": 1788338176000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "भोटेकोशी बाढी प्रभावितलाई एभरेस्ट बैंक र कर्मचारीबाट राहत सहयोग प्रदान",
+   "link": "https://nagariknews.nagariknetwork.com/Corporate/everest-bank-and-employees-provide-relief-assistance-to-bhotekoshi-flood-victims-28-33.html",
+   "date": "Wed, 02 Sep 2026 14:19:43 +0545",
+   "ts": 1788338083000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "विपद्को क्षणमा उद्धार, राहत र पुनर्स्थापनामा जुट्नु साझा कर्तव्य : आङ्देम्बे",
+   "link": "https://www.ratopati.com/story/589314/it-is-a-common-duty-to-participate-in-rescue-relief-and-rehabilitation-in-times-of-disaster-angdembe",
+   "date": "Wed, 02 Sep 2026 08:33:29 +0000",
+   "ts": 1788338009000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "भोटेकोशी बाढीपीडितलाई जापानले राहत सामग्री हस्तान्तरण गर्दै",
+   "link": "https://www.ratopati.com/story/589313/japan-hands-over-relief-materials-to-bhotekoshi-flood-victims",
+   "date": "Wed, 02 Sep 2026 08:33:19 +0000",
+   "ts": 1788337999000
+  },
+  {
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "Rasuwa flood was unprecedented, with no prior warning: PM Shah",
+   "link": "https://english.khabarhub.com/2026/02/566160/",
+   "date": "Wed, 02 Sep 2026 08:32:42 +0000",
+   "ts": 1788337962000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "राष्ट्रिय एकता कायम गरी बेपत्ता नागरिकको खोजी र व्यवस्थापनमा लागौँ : गणेश पराजुली",
+   "link": "https://www.onlinekhabar.com/2026/09/2009234/lets-maintain-national-unity-in-times-of-disaster-and-start-searching-for-and-managing-missing-citizens-ganesh-parajuli",
+   "date": "Wed, 02 Sep 2026 08:29:15 +0000",
+   "ts": 1788337755000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "सुरुङमा फसेका नागरिकको उद्धारमा भएको ढिलाइ अमानवीय र गम्भीर : आङ्देम्बे",
+   "link": "https://www.onlinekhabar.com/2026/09/2009236/delay-in-rescuing-civilians-trapped-in-tunnel-is-inhumane-and-serious-angdembe",
+   "date": "Wed, 02 Sep 2026 08:26:32 +0000",
+   "ts": 1788337592000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "सुरुङमा फसेकाहरूको उद्धार गर्न प्राविधिक जटिलताका कारण ढिलाइ भएको हो :  प्रधानमन्त्री",
+   "link": "https://www.ratopati.com/story/589312/delay-in-rescue-of-those-trapped-in-tunnel-due-to-technical-complications-prime-minister",
+   "date": "Wed, 02 Sep 2026 08:26:14 +0000",
+   "ts": 1788337574000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "बाढीमा ज्यान गुमाएकाहरूको सम्झनामा लन्डनमा स्मृति सभा",
+   "link": "https://www.onlinekhabar.com/2026/09/2009232/memorial-service-in-london-for-those-who-lost-their-lives-in-the-floods",
+   "date": "Wed, 02 Sep 2026 08:26:02 +0000",
+   "ts": 1788337562000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "ट्रेड युनियन कांग्रेसले भन्योः जलवायु परिवर्तन भएको विपत्तिमा क्षतिपूर्ति माग्नुपर्छ",
+   "link": "https://www.onlinekhabar.com/2026/09/2009224/trade-union-congress-says-compensation-should-be-sought-for-climate-change-disasters",
+   "date": "Wed, 02 Sep 2026 08:21:22 +0000",
+   "ts": 1788337282000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "प्रधानमन्त्रीले भोटेकोशी बाढीको व्यवस्थापनबारे सरकारमाथि उठेका प्रश्नको दिए जवाफ",
+   "link": "https://www.ratopati.com/story/589309/prime-minister-responds-to-questions-raised-against-the-government-regarding-the-management-of-the-bhotekoshi-floods",
+   "date": "Wed, 02 Sep 2026 08:21:18 +0000",
+   "ts": 1788337278000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "खोज, उद्धार र राहत वितरणमा राज्य संयन्त्र पूर्ण क्षमातामा परिचालित छन् : प्रधानमन्त्री",
+   "link": "https://www.onlinekhabar.com/2026/09/2009226/state-machinery-is-operating-with-complete-impunity-in-search-rescue-and-relief-distribution-prime-minister",
+   "date": "Wed, 02 Sep 2026 08:19:46 +0000",
+   "ts": 1788337186000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "रसुवा बाढीपछि प्रधानमन्त्री भन्छन् , ‘यस्तो बेला विश्राम लिने छुट छैन’",
+   "link": "https://nagariknews.nagariknetwork.com/politics/after-the-rasuwa-flood-the-prime-minister-says-there-is-no-excuse-for-taking-a-break-at-a-time-like-this-85-12.html",
+   "date": "Wed, 02 Sep 2026 14:04:33 +0545",
+   "ts": 1788337173000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "त्रिशुली पुगेर सोनु सूदले भने- &#8216;प्रभावित परिवारलाई नयाँ सुरुवात गर्न सहयोग गर्नेछु&#8217;",
+   "link": "https://www.onlinekhabar.com/2026/09/2009208/sonu-sood-after-reaching-trishuli-said-i-will-do-my-best-to-help-the-affected-family-to-start-a-new-life",
+   "date": "Wed, 02 Sep 2026 08:15:09 +0000",
+   "ts": 1788336909000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "बाढीले पुर्‍यायो अकल्पनीय क्षति : हालसम्म २५ अर्ब ८७ करोडको बीमा दाबी",
+   "link": "https://www.ratopati.com/story/589300/floods-cause-unimaginable-damage-insurance-claims-worth-rs-2587-billion-so-far",
+   "date": "Wed, 02 Sep 2026 08:15:00 +0000",
+   "ts": 1788336900000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "प्रधानमन्त्री राहत कोषमा जुट्यो करिब आठ अर्ब",
+   "link": "https://nagariknews.nagariknetwork.com/politics/nearly-eight-billion-rupees-have-been-raised-in-the-prime-minister-s-relief-fund-24-11.html",
+   "date": "Wed, 02 Sep 2026 13:59:42 +0545",
+   "ts": 1788336882000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "बाढीपीडितका लागि रिद्धिसिद्धि सिमेन्ट र सौर्य सिमेन्टको १ करोड १ लाख सहयोग",
+   "link": "https://www.onlinekhabar.com/2026/09/2009207/riddhisiddhi-cement-and-saurya-cement-provide-rs-1-1-million-assistance-to-flood-victims",
+   "date": "Wed, 02 Sep 2026 08:14:26 +0000",
+   "ts": 1788336866000
+  },
+  {
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "We cannot afford to rest amid disaster, says PM Shah",
+   "link": "https://english.khabarhub.com/2026/02/566156/",
+   "date": "Wed, 02 Sep 2026 08:13:38 +0000",
+   "ts": 1788336818000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "रसुवा बाढीपछि सरकारले गरेका कामबारे प्रधानमन्त्रीको संसद्‌मा ब्रिफिङ",
+   "link": "https://www.ratopati.com/story/589304/prime-minister-balen-briefs-parliament-on-governments-work-after-rasuwa-flood",
+   "date": "Wed, 02 Sep 2026 08:06:53 +0000",
+   "ts": 1788336413000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "टनेलमा उद्धार ढिलाबारे प्रधानमन्त्रीले भने : पहिरोले थुनिएको टनेल होइन",
+   "link": "https://nagariknews.nagariknetwork.com/politics/pm-shah-on-why-rescue-in-tunnel-was-delayed-says-it-s-not-a-tunnel-blocked-by-landslide-br-72-48.html",
+   "date": "Wed, 02 Sep 2026 13:51:03 +0545",
+   "ts": 1788336363000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "हामीलाई विपद् आइलाग्यो, जलवायु परिवर्तन विश्वको साझा जिम्मेवारी हो : प्रधानमन्त्री शाह",
+   "link": "https://www.onlinekhabar.com/2026/09/2009199/we-are-facing-a-disaster-climate-change-is-the-worlds-shared-responsibility-prime-minister-shah",
+   "date": "Wed, 02 Sep 2026 08:05:00 +0000",
+   "ts": 1788336300000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "एमाले अध्यक्ष ओली बाढी प्रभावित क्षेत्र गल्छी प्रस्थान",
+   "link": "https://www.ratopati.com/story/589303/uml-chairman-oli-leaves-for-flood-affected-area-of-galchhi",
+   "date": "Wed, 02 Sep 2026 08:04:05 +0000",
+   "ts": 1788336245000
+  },
+  {
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "Rasuwa flood a national tragedy: PM Shah",
+   "link": "https://english.khabarhub.com/2026/02/566150/",
+   "date": "Wed, 02 Sep 2026 08:03:03 +0000",
+   "ts": 1788336183000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "भाेटेकाेशी बाढी: घरभित्रै बिलाए भान्सामा व्यस्त महिलाहरू",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/a-woman-busy-in-the-kitchen-didn-t-notice-the-flood-17-68.html",
+   "date": "Wed, 02 Sep 2026 13:45:39 +0545",
+   "ts": 1788336039000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "रसुवा विपद्पछि सरकारले के–के गर्‍यो ? यस्तो छ प्रधानमन्त्रीको ब्रिफिङ",
+   "link": "https://www.onlinekhabar.com/2026/09/2009194/what-did-the-government-do-after-the-rasuwa-disaster-this-is-the-prime-ministers-briefing",
+   "date": "Wed, 02 Sep 2026 07:57:35 +0000",
+   "ts": 1788335855000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "टनेल उद्धारमा समस्या जनशक्ति अभावले होइन, बाढीको असामान्य अवस्थाका कारण : प्रधानमन्त्री शाह",
+   "link": "https://nagariknews.nagariknetwork.com/politics/pm-shah-says-tunnel-rescue-problem-not-due-to-manpower-shortage-but-due-to-unusual-flood-conditions-br-52-94.html",
+   "date": "Wed, 02 Sep 2026 13:41:52 +0545",
+   "ts": 1788335812000
+  },
+  {
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "PM Shah vows determined fight against flood disaster",
+   "link": "https://english.khabarhub.com/2026/02/566145/",
+   "date": "Wed, 02 Sep 2026 07:51:40 +0000",
+   "ts": 1788335500000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "रसुवा बाढी सिंगो नेपालको छातीमा परेको साझा बज्रपात हो : बालेन",
+   "link": "https://www.onlinekhabar.com/2026/09/2009184/rasuwa-flood-is-a-common-thunderbolt-that-has-struck-the-entire-nepal-balen",
+   "date": "Wed, 02 Sep 2026 07:48:03 +0000",
+   "ts": 1788335283000
+  },
+  {
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "Rasuwa flood: US donates 40 tons of emergency relief supplies",
+   "link": "https://english.khabarhub.com/2026/02/566138/",
+   "date": "Wed, 02 Sep 2026 07:26:24 +0000",
+   "ts": 1788333984000
+  },
+  {
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "Employees Provident Fund provides Rs 25m assistance to flood victims",
+   "link": "https://english.khabarhub.com/2026/02/566132/",
+   "date": "Wed, 02 Sep 2026 06:38:51 +0000",
+   "ts": 1788331131000
+  },
+  {
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "Rasuwa flood: Death toll reaches 1,114",
+   "link": "https://english.khabarhub.com/2026/02/566126/",
+   "date": "Wed, 02 Sep 2026 05:15:29 +0000",
+   "ts": 1788326129000
+  },
+  {
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "Schools in flood-affected areas closed indefinitely",
+   "link": "https://english.khabarhub.com/2026/02/566123/",
+   "date": "Wed, 02 Sep 2026 05:01:51 +0000",
+   "ts": 1788325311000
   },
   {
    "source": "Khabarhub (English)",
@@ -92,319 +497,58 @@
    "ts": 1788323159000
   },
   {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "भोटेकोशी बाढी : मृतक संख्या एक हजार १२७ पुग्यो, चार हजार ८५८ सम्पर्कविहीन",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/bhotekoshi-flood-death-toll-reaches-1-127-4-858-unaccounted-for-98-29.html",
-   "date": "Wed, 02 Sep 2026 10:09:53 +0545",
-   "ts": 1788323093000
+   "source": "The Kathmandu Post",
+   "sourceId": "kathmandupost",
+   "site": "https://kathmandupost.com",
+   "title": "Prime Minister Balendra Shah vows ‘courage and resolve’ as government faces mounting pressure over Bhotekoshi flood",
+   "link": "https://kathmandupost.com/national/2026/09/02/prime-minister-balendra-shah-vows-courage-and-resolve-as-government-faces-mounting-pressure-over-bhotekoshi-flood",
+   "date": "",
+   "ts": 0
   },
   {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "रसुवाको माटोमुनि नागरिक, आकाशमा सरकार",
-   "link": "https://www.onlinekhabar.com/2026/09/2008938/citizens-under-the-soil-of-rasuwa-government-in-the-sky",
-   "date": "Wed, 02 Sep 2026 04:24:44 +0000",
-   "ts": 1788323084000
+   "source": "The Kathmandu Post",
+   "sourceId": "kathmandupost",
+   "site": "https://kathmandupost.com",
+   "title": "Nepal rescue teams race to reach workers feared trapped in hydropower tunnels",
+   "link": "https://kathmandupost.com/national/2026/09/02/nepal-rescue-teams-race-to-reach-workers-feared-trapped-in-hydropower-tunnels",
+   "date": "",
+   "ts": 0
   },
   {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "भारतले पाँचाैँ चरणमा उद्धार टोलीसहित साढे ५ टन औषधि पठायो",
-   "link": "https://www.ratopati.com/story/589239/india-sent-55-tons-of-medicine-along-with-a-rescue-team-in-the-fifth-phase",
-   "date": "Wed, 02 Sep 2026 04:18:24 +0000",
-   "ts": 1788322704000
+   "source": "The Kathmandu Post",
+   "sourceId": "kathmandupost",
+   "site": "https://kathmandupost.com",
+   "title": "UNDP estimates 2.2 million tonnes of debris from Nepal’s Bhotekoshi–Trishuli floods",
+   "link": "https://kathmandupost.com/national/2026/09/02/undp-estimates-2-2-million-tonnes-of-debris-from-nepal-s-bhotekoshi-trishuli-floods",
+   "date": "",
+   "ts": 0
   },
   {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "बाढी प्रभावित क्षेत्रका विद्यालय अनिश्चितकालीन बन्द",
-   "link": "https://nagariknews.nagariknetwork.com/education/schools-in-flood-affected-areas-closed-indefinitely-92-24.html",
-   "date": "Wed, 02 Sep 2026 10:02:39 +0545",
-   "ts": 1788322659000
+   "source": "The Kathmandu Post",
+   "sourceId": "kathmandupost",
+   "site": "https://kathmandupost.com",
+   "title": "China restores road access to Tibet disaster zone as search intensifies",
+   "link": "https://kathmandupost.com/world/2026/09/02/china-restores-road-access-to-tibet-disaster-zone-as-search-intensifies",
+   "date": "",
+   "ts": 0
   },
   {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "LIVE UPDATES :  विनाशकारी बाढीको आठौँ दिन : खोज तथा उद्धार निरन्तर, जोखिम कायमै",
-   "link": "https://www.ratopati.com/story/589219/live-updates-eighth-day-of-devastating-floods-search-and-rescue-continues-risk-remains",
-   "date": "Wed, 02 Sep 2026 04:15:00 +0000",
-   "ts": 1788322500000
+   "source": "The Kathmandu Post",
+   "sourceId": "kathmandupost",
+   "site": "https://kathmandupost.com",
+   "title": "Nepal sent its disaster alert 38 minutes after the glacier collapse. It wasn’t enough",
+   "link": "https://kathmandupost.com/national/2026/09/02/nepal-sent-its-disaster-alert-38-minutes-after-the-glacier-collapse-it-wasn-t-enough",
+   "date": "",
+   "ts": 0
   },
   {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "भोटेकोशी बाढी अपडेट : १ हजार १२७ शव फेला",
-   "link": "https://www.ratopati.com/story/589238/bhotekoshi-flood-update-1127-bodies-found",
-   "date": "Wed, 02 Sep 2026 04:08:12 +0000",
-   "ts": 1788322092000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "भोटेकोशीको बाढीमा मृत्यु भएका ७ जनाको शव पाल्पामा व्यवस्थापन",
-   "link": "https://www.onlinekhabar.com/2026/09/2008989/bodies-of-7-people-killed-in-bhotekoshi-floods-brought-to-palpa",
-   "date": "Wed, 02 Sep 2026 04:07:59 +0000",
-   "ts": 1788322079000
-  },
-  {
-   "source": "सेतोपाटी",
-   "sourceId": "setopati",
-   "site": "https://www.setopati.com",
-   "title": "लाङटाङको सुरूङमा फसेकाको उद्धार गर्न  सेनासँगै आयोजनाको प्राविधिक पनि खटिने",
-   "link": "https://www.setopati.com/social/397426",
-   "date": "Wed, 02 Sep 2026 09:50:00 +0545",
-   "ts": 1788321900000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "रसुवा बाढीः श्वास वा लास नपाउँदा परिवार निराश",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/rasuwa-flood-family-disappointed-after-not-finding-breath-or-body-67-14.html",
-   "date": "Wed, 02 Sep 2026 09:46:28 +0545",
-   "ts": 1788321688000
-  },
-  {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "South Korean Air Force plane arrives in Kathmandu with relief supplies",
-   "link": "https://english.khabarhub.com/2026/02/566111/",
-   "date": "Wed, 02 Sep 2026 04:00:14 +0000",
-   "ts": 1788321614000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "रसुवामा बेपत्ता नौ जनाको खोजी गर्न अत्याधुनिक उपकरणसहित नेपाल पुग्यो ४४ सदस्यीय कोरियाली टोली",
-   "link": "https://nagariknews.nagariknetwork.com/international/a-44-member-korean-team-with-state-of-the-art-equipment-has-arrived-in-nepal-to-search-for-nine-missing-people-in-rasuwa-76-51.html",
-   "date": "Wed, 02 Sep 2026 09:43:22 +0545",
-   "ts": 1788321502000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "भोटेकोशी र त्रिशुली नदीमा बाढीको ‘उच्च जोखिम’ कायमै",
-   "link": "https://www.ratopati.com/story/589231/high-risk-of-flooding-remains-in-bhotekoshi-and-trishuli-rivers",
-   "date": "Wed, 02 Sep 2026 03:48:42 +0000",
-   "ts": 1788320922000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "भोटेकोसी बाढीपछिको स्वास्थ्य चुनौती",
-   "link": "https://nagariknews.nagariknetwork.com/opinion/health-challenges-after-the-bhotekoshi-floods-br-71-49.html",
-   "date": "Wed, 02 Sep 2026 09:30:07 +0545",
-   "ts": 1788320707000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "रसुवा बाढी : धमाधम कुशको शव बनाएर बेपत्ताहरूको अन्त्येष्टि गरिँदै (तस्बिरहरू)",
-   "link": "https://www.ratopati.com/story/589230/rasuwa-flood-kushs-body-being-cremated-in-a-hurry-photos",
-   "date": "Wed, 02 Sep 2026 03:43:06 +0000",
-   "ts": 1788320586000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "भोटेकोशी बाढी प्रभावित क्षेत्रमा अपराह्नपछि मध्यम वर्षाको सम्भावना : जल तथा मौसम विज्ञान विभाग",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/moderate-rain-likely-in-bhotekoshi-flood-affected-areas-after-afternoon-department-of-hydrology-and-meteorology-92-52.html",
-   "date": "Wed, 02 Sep 2026 09:24:37 +0545",
-   "ts": 1788320377000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "नारायणी नदीको कटान रोक्न मझुवामा बिग बोल्डर राखिँदै",
-   "link": "https://www.onlinekhabar.com/2026/09/2008980/big-boulder-being-placed-in-majhuwa-to-stop-erosion-of-narayani-river",
-   "date": "Wed, 02 Sep 2026 03:36:53 +0000",
-   "ts": 1788320213000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "उद्धार टोली र औषधिसहित भारतबाट नेपाल आयो पाँचौँ खेपको सहयोग",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/fifth-consignment-of-aid-arrives-in-nepal-from-india-including-rescue-teams-and-medicine-42-62.html",
-   "date": "Wed, 02 Sep 2026 09:18:52 +0545",
-   "ts": 1788320032000
-  },
-  {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "India sends fifth Air Force plane carrying 5.5 tons of medicines to Nepal for disaster relief",
-   "link": "https://english.khabarhub.com/2026/02/566102/",
-   "date": "Wed, 02 Sep 2026 03:17:17 +0000",
-   "ts": 1788319037000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "विपद् व्यवस्थापनमा नेपालको गोलचक्कर : उद्धारमा सक्रिय, जोखिम न्यूनीकरणमा सुस्त",
-   "link": "https://www.onlinekhabar.com/2026/09/2008965/nepals-roundabout-approach-to-disaster-management-active-in-rescue-slow-in-risk-reduction",
-   "date": "Wed, 02 Sep 2026 03:11:15 +0000",
-   "ts": 1788318675000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "विद्युतका सुरुङभित्र उद्धार चुनौतीपूर्ण",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/rescue-inside-power-tunnel-challenging-br-54-30.html",
-   "date": "Wed, 02 Sep 2026 08:52:15 +0545",
-   "ts": 1788318435000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "बाढी प्रभावित ३ जिल्लामा सशस्त्र प्रहरीको १२ वटा अस्थायी बेस स्थापना",
-   "link": "https://www.ratopati.com/story/589226/12-temporary-bases-of-armed-police-force-established-in-3-flood-affected-districts",
-   "date": "Wed, 02 Sep 2026 03:07:09 +0000",
-   "ts": 1788318429000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "बाढीपीडितलाई सल्यानको एमएम एकेडेमीको १ लाख २८ हजार सहयोग",
-   "link": "https://www.onlinekhabar.com/2026/09/2008952/salyans-mm-academy-donates-rs-128000-to-flood-victims",
-   "date": "Wed, 02 Sep 2026 03:01:00 +0000",
-   "ts": 1788318060000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "खोज तथा उद्धारका लागि ११ सदस्यीय कोरियाली टोली नेपाल आइपुग्यो",
-   "link": "https://www.onlinekhabar.com/2026/09/2008958/11-member-korean-team-arrives-in-nepal-for-search-and-rescue",
-   "date": "Wed, 02 Sep 2026 02:58:47 +0000",
-   "ts": 1788317927000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "भोटेकोशी बाढी :  शव व्यवस्थापन अन्तिम संस्कार होइन",
-   "link": "https://www.ratopati.com/story/589224/bhotekoshi-flood-body-disposal-is-not-a-last-rites",
-   "date": "Wed, 02 Sep 2026 02:42:02 +0000",
-   "ts": 1788316922000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "भोटेकोशी बाढीः  शव व्यवस्थापन अन्तिम संस्कार होइन",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/bhotekoshi-flood-body-disposal-is-not-a-last-rites-19-18.html",
-   "date": "Wed, 02 Sep 2026 08:26:49 +0545",
-   "ts": 1788316909000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "अस्ट्रेलियाबाट दीपक खड्काले गरे बाढीपीडितका लागि ५१ लाख सहयोग",
-   "link": "https://www.onlinekhabar.com/2026/09/2008949/deepak-khadka-donates-rs-5-1-million-from-australia-for-flood-victims",
-   "date": "Wed, 02 Sep 2026 02:34:14 +0000",
-   "ts": 1788316454000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "भोटेकोशी बाढीपीडितलाई लोकदोहोरी व्यवसायी संघको राहत, सिरक–डसनादेखि चुलोसम्म सहयोग",
-   "link": "https://www.ratopati.com/story/589220/relief-from-lok-dohori-businessmens-association-to-bhotekoshi-flood-victims-assistance-from-sirak-dasna-to-chulo",
-   "date": "Wed, 02 Sep 2026 02:21:14 +0000",
-   "ts": 1788315674000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "बाढी र पहिरोका कारण  अवरुद्ध छन् यी राजमार्ग (सूचीसहित)",
-   "link": "https://www.ratopati.com/story/589218/these-highways-are-blocked-due-to-floods-and-landslides-with-list",
-   "date": "Wed, 02 Sep 2026 02:08:19 +0000",
-   "ts": 1788314899000
-  },
-  {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "Tunnel and bypass road proposed as long-term solution to Krishna Bhir landslide",
-   "link": "https://english.khabarhub.com/2026/02/566089/",
-   "date": "Wed, 02 Sep 2026 01:15:34 +0000",
-   "ts": 1788311734000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "प्रतिनिधिसभाको बैठक बस्दै, सभामुखले भोटेकोशी बाढीबारे विशेष प्रस्ताव प्रस्तुत गर्ने",
-   "link": "https://www.onlinekhabar.com/2026/09/2008925/house-of-representatives-meeting-underway-speaker-to-present-special-resolution-on-bhotekoshi-flood",
-   "date": "Wed, 02 Sep 2026 00:47:41 +0000",
-   "ts": 1788310061000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "जलविद्युत आयोजनाका सुरुङमा यसरी हुँदैछ उद्धार प्रयास (तस्वीरहरू)",
-   "link": "https://www.onlinekhabar.com/2026/09/2008827/this-is-how-rescue-efforts-are-underway-in-the-tunnel-of-the-hydroelectric-project-photos",
-   "date": "Tue, 01 Sep 2026 16:13:24 +0000",
-   "ts": 1788279204000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "सरकारले भन्यो- भोटेकोशी बाढीबाट १६ लाख मानिस प्रभावित, रसुवा र नुवाकोट अति प्रभावित",
-   "link": "https://www.onlinekhabar.com/2026/09/2008818/government-says-1-6-million-people-affected-by-bhotekoshi-floods-rasuwa-and-nuwakot-most-affected",
-   "date": "Tue, 01 Sep 2026 16:10:51 +0000",
-   "ts": 1788279051000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "बाढीपछि सम्पर्कविहीन : भेटिने आशमा परिवार, कतै कुशको शव बनाएर अन्त्येष्टि",
-   "link": "https://www.onlinekhabar.com/2026/09/2008791/lost-in-contact-after-flood-family-hopes-to-reunite-cremates-kushs-body-somewhere",
-   "date": "Tue, 01 Sep 2026 16:10:23 +0000",
-   "ts": 1788279023000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "सुरुङ उद्धार : सरकारले सकेन, सहयोग लिन ढिलाइले अकल्पनीय क्षति जोखिम",
-   "link": "https://www.onlinekhabar.com/2026/09/2008883/tunnel-rescue-government-failed-delay-in-getting-help-risks-unimaginable-damage",
-   "date": "Tue, 01 Sep 2026 16:09:34 +0000",
-   "ts": 1788278974000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "बेपत्ताका आफन्तको फोटो टाँस्न सघाइरहेका १२ वर्षीय विवेक",
-   "link": "https://www.onlinekhabar.com/2026/09/2008598/12-year-old-vivek-helps-to-paste-photos-of-relatives-of-the-missing",
-   "date": "Tue, 01 Sep 2026 16:08:58 +0000",
-   "ts": 1788278938000
+   "source": "The Kathmandu Post",
+   "sourceId": "kathmandupost",
+   "site": "https://kathmandupost.com",
+   "title": "Bhotekoshi survivors reunited with families after five days",
+   "link": "https://kathmandupost.com/national/2026/09/02/bhotekoshi-survivors-reunited-with-families-after-five-days",
+   "date": "",
+   "ts": 0
   },
   {
    "source": "The Kathmandu Post",
@@ -484,60 +628,6 @@
    "site": "https://kathmandupost.com",
    "title": "Nepal steps up diplomatic push for support after floods",
    "link": "https://kathmandupost.com/national/2026/09/01/nepal-steps-up-diplomatic-push-for-support-after-floods",
-   "date": "",
-   "ts": 0
-  },
-  {
-   "source": "The Kathmandu Post",
-   "sourceId": "kathmandupost",
-   "site": "https://kathmandupost.com",
-   "title": "Prioritise psychological support for those affected by the Bhotekoshi flood",
-   "link": "https://kathmandupost.com/editorial/2026/09/01/prioritise-psychological-support-for-those-affected-by-the-bhotekoshi-flood",
-   "date": "",
-   "ts": 0
-  },
-  {
-   "source": "The Kathmandu Post",
-   "sourceId": "kathmandupost",
-   "site": "https://kathmandupost.com",
-   "title": "The case for transparency in Nepal flood rescue flights",
-   "link": "https://kathmandupost.com/columns/2026/09/01/the-case-for-transparency-in-nepal-flood-rescue-flights",
-   "date": "",
-   "ts": 0
-  },
-  {
-   "source": "The Kathmandu Post",
-   "sourceId": "kathmandupost",
-   "site": "https://kathmandupost.com",
-   "title": "After days of managing flood victims, Bharatpur Hospital returns to treating patients",
-   "link": "https://kathmandupost.com/national/2026/09/01/after-days-of-managing-flood-victims-bharatpur-hospital-returns-to-treating-patients",
-   "date": "",
-   "ts": 0
-  },
-  {
-   "source": "The Kathmandu Post",
-   "sourceId": "kathmandupost",
-   "site": "https://kathmandupost.com",
-   "title": "Local governments take charge of flood relief after criticism of centralised response",
-   "link": "https://kathmandupost.com/national/2026/09/01/local-governments-take-charge-of-flood-relief-after-criticism-of-centralised-response",
-   "date": "",
-   "ts": 0
-  },
-  {
-   "source": "The Kathmandu Post",
-   "sourceId": "kathmandupost",
-   "site": "https://kathmandupost.com",
-   "title": "Nepal Prime Minister: Bhotekoshi flood was one of region’s largest disasters",
-   "link": "https://kathmandupost.com/national/2026/09/01/nepal-prime-minister-bhote-koshi-flood-was-one-of-region-s-largest-disasters",
-   "date": "",
-   "ts": 0
-  },
-  {
-   "source": "The Kathmandu Post",
-   "sourceId": "kathmandupost",
-   "site": "https://kathmandupost.com",
-   "title": "What is the progress in the search for workers trapped in Nepal’s flooded hydropowers?",
-   "link": "https://kathmandupost.com/national/2026/09/01/what-is-the-progress-in-the-search-for-workers-trapped-in-nepal-s-flooded-hydropower-tunnels",
    "date": "",
    "ts": 0
   }
@@ -5828,9 +5918,9 @@
  ],
  "rivers": [
   {
-   "id": 25090562,
-   "createdOn": "2026-09-02T10:35:09.345855+05:45",
-   "modifiedOn": "2026-09-02T10:35:09.345857+05:45",
+   "id": 25094211,
+   "createdOn": "2026-09-02T14:45:18.469275+05:45",
+   "modifiedOn": "2026-09-02T14:45:18.469277+05:45",
    "title": "Trishuli at Galchi",
    "basin": "Narayani",
    "point": {
@@ -5840,14 +5930,14 @@
      27.802328
     ]
    },
-   "waterLevel": 361.742218018,
+   "waterLevel": 361.485321045,
    "image": "http://daq.hydrology.gov.np/images/96917ebb6f5c49a5673ea38a1b4fa8e0",
    "dangerLevel": null,
    "warningLevel": 367,
-   "waterLevelOn": "2026-09-02T10:30:00+05:45",
+   "waterLevelOn": "2026-09-02T14:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 378,
-   "steady": "RISING",
+   "steady": "STEADY",
    "description": "RLS from RTS",
    "stationSeriesId": 36628,
    "dataSource": "hydrology.gov.np",
@@ -5859,40 +5949,9 @@
    "station": 281
   },
   {
-   "id": 25090561,
-   "createdOn": "2026-09-02T10:35:09.345815+05:45",
-   "modifiedOn": "2026-09-02T10:35:09.345818+05:45",
-   "title": "Trishuli River at Kali Khola",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.546,
-     27.833
-    ]
-   },
-   "waterLevel": 9.01699924469,
-   "image": "http://daq.hydrology.gov.np/images/364ef9a4cae0f2a57b48d88b42f579ff",
-   "dangerLevel": 12.1,
-   "warningLevel": 10.8,
-   "waterLevelOn": "2026-09-02T10:30:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": 250,
-   "steady": "FALLING",
-   "description": "MHS",
-   "stationSeriesId": 19583,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 2452,
-   "municipality": 38001,
-   "district": 43,
-   "province": 4,
-   "station": 67
-  },
-  {
-   "id": 25090560,
-   "createdOn": "2026-09-02T10:35:09.345775+05:45",
-   "modifiedOn": "2026-09-02T10:35:09.345777+05:45",
+   "id": 25094210,
+   "createdOn": "2026-09-02T14:45:18.469236+05:45",
+   "modifiedOn": "2026-09-02T14:45:18.469238+05:45",
    "title": "Trishuli Khola at Dhunche",
    "basin": "Narayani",
    "point": {
@@ -5902,11 +5961,11 @@
      28.098163
     ]
    },
-   "waterLevel": 2.5389995575,
+   "waterLevel": 2.51819944382,
    "image": "http://daq.hydrology.gov.np/images/0a4d86552fd0e57c5ab02555b4dc693f",
    "dangerLevel": null,
    "warningLevel": 3.2,
-   "waterLevelOn": "2026-09-02T10:20:00+05:45",
+   "waterLevelOn": "2026-09-02T14:30:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -5921,9 +5980,9 @@
    "station": 105
   },
   {
-   "id": 25090556,
-   "createdOn": "2026-09-02T10:35:09.345618+05:45",
-   "modifiedOn": "2026-09-02T10:35:09.345620+05:45",
+   "id": 25094203,
+   "createdOn": "2026-09-02T14:45:18.468953+05:45",
+   "modifiedOn": "2026-09-02T14:45:18.468955+05:45",
    "title": "Tadi Khola at Rautar",
    "basin": "Narayani",
    "point": {
@@ -5933,11 +5992,11 @@
      27.918694
     ]
    },
-   "waterLevel": 1.13169956207,
+   "waterLevel": 1.10599994659,
    "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
    "dangerLevel": null,
    "warningLevel": 3.5,
-   "waterLevelOn": "2026-09-02T10:30:00+05:45",
+   "waterLevelOn": "2026-09-02T14:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -5952,9 +6011,9 @@
    "station": 65
   },
   {
-   "id": 25090531,
-   "createdOn": "2026-09-02T10:35:09.344536+05:45",
-   "modifiedOn": "2026-09-02T10:35:09.344541+05:45",
+   "id": 25094169,
+   "createdOn": "2026-09-02T14:45:18.467584+05:45",
+   "modifiedOn": "2026-09-02T14:45:18.467586+05:45",
    "title": "Narayani at Devghat",
    "basin": "Narayani",
    "point": {
@@ -5964,14 +6023,14 @@
      27.71
     ]
    },
-   "waterLevel": 5.8639998436,
+   "waterLevel": 5.60499954224,
    "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
    "dangerLevel": 9,
    "warningLevel": 7.3,
-   "waterLevelOn": "2026-09-02T10:10:00+05:45",
+   "waterLevelOn": "2026-09-02T14:30:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
-   "steady": "STEADY",
+   "steady": "FALLING",
    "description": "Hydrological station with RLS",
    "stationSeriesId": 4140,
    "dataSource": "hydrology.gov.np",
@@ -5983,9 +6042,9 @@
    "station": 25
   },
   {
-   "id": 25090519,
-   "createdOn": "2026-09-02T10:35:09.343966+05:45",
-   "modifiedOn": "2026-09-02T10:35:09.343969+05:45",
+   "id": 25094157,
+   "createdOn": "2026-09-02T14:45:18.467070+05:45",
+   "modifiedOn": "2026-09-02T14:45:18.467072+05:45",
    "title": "Manahari Khola at Manahari",
    "basin": "Narayani",
    "point": {
@@ -5995,11 +6054,11 @@
      27.548673
     ]
    },
-   "waterLevel": 1.10499954224,
+   "waterLevel": 1.10399913788,
    "image": "http://daq.hydrology.gov.np/images/dda94e5a1fe05535b24b7907976c7efe",
    "dangerLevel": null,
    "warningLevel": 4.3,
-   "waterLevelOn": "2026-09-02T10:20:00+05:45",
+   "waterLevelOn": "2026-09-02T14:30:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 305,
    "steady": "STEADY",
@@ -6014,9 +6073,9 @@
    "station": 116
   },
   {
-   "id": 25090512,
-   "createdOn": "2026-09-02T10:35:09.343670+05:45",
-   "modifiedOn": "2026-09-02T10:35:09.343672+05:45",
+   "id": 25094150,
+   "createdOn": "2026-09-02T14:45:18.466788+05:45",
+   "modifiedOn": "2026-09-02T14:45:18.466790+05:45",
    "title": "Lothar Khola at Lothar",
    "basin": "Narayani",
    "point": {
@@ -6026,11 +6085,11 @@
      27.5877
     ]
    },
-   "waterLevel": 1.77699995041,
+   "waterLevel": 1.85100030899,
    "image": "http://daq.hydrology.gov.np/images/93f6c4e346f0c03f64410c51ac9f71a0",
    "dangerLevel": 7,
    "warningLevel": 6.5,
-   "waterLevelOn": "2026-09-02T10:20:00+05:45",
+   "waterLevelOn": "2026-09-02T14:30:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 207,
    "steady": "STEADY",
@@ -6045,71 +6104,9 @@
    "station": 16
   },
   {
-   "id": 25090468,
-   "createdOn": "2026-09-02T10:35:09.341776+05:45",
-   "modifiedOn": "2026-09-02T10:35:09.341778+05:45",
-   "title": "East Rapti at Rajaiya",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.97,
-     27.44
-    ]
-   },
-   "waterLevel": 1.36800003052,
-   "image": "http://daq.hydrology.gov.np/images/6b3873a603048aca368d9d8fe8e5ca1d",
-   "dangerLevel": 3.7,
-   "warningLevel": 3.3,
-   "waterLevelOn": "2026-09-02T10:20:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "Station under PPCR",
-   "stationSeriesId": 3733,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 2364,
-   "municipality": 31004,
-   "district": 31,
-   "province": 3,
-   "station": 70
-  },
-  {
-   "id": 25090454,
-   "createdOn": "2026-09-02T10:35:09.341165+05:45",
-   "modifiedOn": "2026-09-02T10:35:09.341168+05:45",
-   "title": "Budhi Gandaki at Aarughat",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.816,
-     28.046
-    ]
-   },
-   "waterLevel": 3.4279999733,
-   "image": "http://daq.hydrology.gov.np/images/a5d962039af199e304760d743ab51419",
-   "dangerLevel": 5,
-   "warningLevel": 4.5,
-   "waterLevelOn": "2026-09-02T10:20:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "Station under PPCR",
-   "stationSeriesId": 3572,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 3429,
-   "municipality": 36001,
-   "district": 44,
-   "province": 4,
-   "station": 100
-  },
-  {
-   "id": 25090450,
-   "createdOn": "2026-09-02T10:35:09.341004+05:45",
-   "modifiedOn": "2026-09-02T10:35:09.341006+05:45",
+   "id": 25094087,
+   "createdOn": "2026-09-02T14:45:18.464065+05:45",
+   "modifiedOn": "2026-09-02T14:45:18.464067+05:45",
    "title": "Bhote Koshi at Bahrabise",
    "basin": "Koshi",
    "point": {
@@ -6119,11 +6116,11 @@
      27.786773
     ]
    },
-   "waterLevel": 2.21199989319,
+   "waterLevel": 1.89500045776,
    "image": "http://daq.hydrology.gov.np/images/1fa9f7b4833192d038492298d9a42cc7",
    "dangerLevel": 3.6,
    "warningLevel": 3.1,
-   "waterLevelOn": "2026-09-02T10:20:00+05:45",
+   "waterLevelOn": "2026-09-02T14:30:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -6136,9 +6133,219 @@
    "district": 24,
    "province": 3,
    "station": 91
+  },
+  {
+   "id": 25094058,
+   "createdOn": "2026-09-02T14:35:12.186314+05:45",
+   "modifiedOn": "2026-09-02T14:35:12.186316+05:45",
+   "title": "Trishuli River at Kali Khola",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.546,
+     27.833
+    ]
+   },
+   "waterLevel": 7.85399913788,
+   "image": "http://daq.hydrology.gov.np/images/364ef9a4cae0f2a57b48d88b42f579ff",
+   "dangerLevel": 12.1,
+   "warningLevel": 10.8,
+   "waterLevelOn": "2026-09-02T14:30:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": 250,
+   "steady": "FALLING",
+   "description": "MHS",
+   "stationSeriesId": 19583,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 2452,
+   "municipality": 38001,
+   "district": 43,
+   "province": 4,
+   "station": 67
+  },
+  {
+   "id": 25093946,
+   "createdOn": "2026-09-02T14:35:12.181141+05:45",
+   "modifiedOn": "2026-09-02T14:35:12.181143+05:45",
+   "title": "Budhi Gandaki at Aarughat",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.816,
+     28.046
+    ]
+   },
+   "waterLevel": 3.15990018845,
+   "image": "http://daq.hydrology.gov.np/images/a5d962039af199e304760d743ab51419",
+   "dangerLevel": 5,
+   "warningLevel": 4.5,
+   "waterLevelOn": "2026-09-02T14:20:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": null,
+   "steady": "STEADY",
+   "description": "Station under PPCR",
+   "stationSeriesId": 3572,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 3429,
+   "municipality": 36001,
+   "district": 44,
+   "province": 4,
+   "station": 100
   }
  ],
  "alerts": [
+  {
+   "id": 45735,
+   "title": "Road closed in Panini-2, Arghakhanchi",
+   "wards": [
+    46
+   ],
+   "affectedDemography": {
+    "maleCount": 175272,
+    "femaleCount": 209445,
+    "householdCount": 92278
+   },
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     83.2787,
+     27.8283
+    ]
+   },
+   "createdOn": "2026-09-02T11:45:04.349447+05:45",
+   "titleNe": "पाणिनी-२, अर्घाखाॉचीमा सडक बन्द",
+   "source": "dor",
+   "description": "Road is closed due to Landslide",
+   "verified": true,
+   "public": true,
+   "startedOn": "2026-09-02T10:30:00+05:45",
+   "expireOn": null,
+   "polygon": null,
+   "referenceType": "road",
+   "referenceData": "[{\"model\": \"realtime.highway\", \"pk\": 316, \"fields\": {\"created_on\": \"2026-09-02T06:00:04.312Z\", \"modified_on\": \"2026-09-02T06:00:04.312Z\", \"road_data_id\": 880, \"date_created\": \"2026-09-02\", \"title\": \"Kakarhawa(IB)-Rudrapur, Sajlhandi-Sandhikhark-Devisthan, Burtibang-Dhorpatan\", \"road_refno\": \"NH52\", \"link_code\": \"NH52-006\", \"point\": \"SRID=4326;POINT (83.2787 27.8283)\", \"location\": \"Panini-2, Arghakhanchi\", \"division\": \"Shivapur\", \"chainage\": \"0+000\", \"end_chainage\": null, \"status\": \"CLOSED\", \"closure_reason\": \"Landslide\", \"repair_eta\": \"6 hours\", \"efforts_being_made\": \"Landslide\", \"remarks\": \"\", \"images\": [\"https://navigate.dor.gov.np/api/uploads/images/62a39ba48719b80e01bfa45690b3a194.jpg\", \"https://navigate.dor.gov.np/api/uploads/images/ee6b96e1ca781c654d7133983bd4a733.jpg\"], \"date_roadblock_start\": \"2026-09-02T10:30:00+05:45\", \"date_roadblock_end_estimated\": \"2026-09-02T17:00:00+05:45\", \"date_roadblock_end\": null, \"actual_repair_time\": null, \"contact_person\": \"Supervisor Keshab Pandey (9844894367)\", \"ward\": 46, \"municipality\": 51004, \"district\": 40, \"province\": 5}}]",
+   "referenceId": 880,
+   "region": null,
+   "regionId": null,
+   "createdBy": null,
+   "updatedBy": null,
+   "hazard": null,
+   "event": null
+  },
+  {
+   "id": 45734,
+   "title": "Road closed in Bhotekoshi-2, Sindhupalchok",
+   "wards": [
+    2955
+   ],
+   "affectedDemography": {
+    "maleCount": 34480,
+    "femaleCount": 34003,
+    "householdCount": 16384
+   },
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.9577,
+     27.9631
+    ]
+   },
+   "createdOn": "2026-09-02T10:45:04.619241+05:45",
+   "titleNe": "भोटेकोशी-२, सिन्धुपाल्चोकमा सडक बन्द",
+   "source": "dor",
+   "description": "Road is closed due to Landslide",
+   "verified": true,
+   "public": true,
+   "startedOn": "2026-09-09T04:32:00+05:45",
+   "expireOn": "2026-09-02T11:45:04.138485+05:45",
+   "polygon": null,
+   "referenceType": "road",
+   "referenceData": "[{\"model\": \"realtime.highway\", \"pk\": 315, \"fields\": {\"created_on\": \"2026-09-02T05:00:04.603Z\", \"modified_on\": \"2026-09-02T05:00:04.603Z\", \"road_data_id\": 877, \"date_created\": \"2026-09-02\", \"title\": \"Kathmandu-Dhulikhel-Dolalghat-Khadichaur-Kodari (Arniko Rajmarg)\", \"road_refno\": \"NH34\", \"link_code\": \"NH34-016\", \"point\": \"SRID=4326;POINT (85.9577 27.9631)\", \"location\": \"Bhotekoshi-2, Sindhupalchok\", \"division\": \"Charikot\", \"chainage\": \"0+000\", \"end_chainage\": null, \"status\": \"CLOSED\", \"closure_reason\": \"Landslide\", \"repair_eta\": \"5 days\", \"efforts_being_made\": \"Boulder packing has been started in collapsed section.\", \"remarks\": \"\", \"images\": [], \"date_roadblock_start\": \"2026-09-09T04:32:00+05:45\", \"date_roadblock_end_estimated\": \"2026-09-03T10:30:00+05:45\", \"date_roadblock_end\": null, \"actual_repair_time\": null, \"contact_person\": \"Surendra Kumar Singh\", \"ward\": 2955, \"municipality\": 23003, \"district\": 24, \"province\": 3}}]",
+   "referenceId": 877,
+   "region": null,
+   "regionId": null,
+   "createdBy": null,
+   "updatedBy": null,
+   "hazard": null,
+   "event": null
+  },
+  {
+   "id": 45733,
+   "title": "Road closed in Bhotekoshi-2, Sindhupalchok",
+   "wards": [
+    2955
+   ],
+   "affectedDemography": {
+    "maleCount": 34480,
+    "femaleCount": 34003,
+    "householdCount": 16384
+   },
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.9576,
+     27.9631
+    ]
+   },
+   "createdOn": "2026-09-02T10:45:04.535245+05:45",
+   "titleNe": "भोटेकोशी-२, सिन्धुपाल्चोकमा सडक बन्द",
+   "source": "dor",
+   "description": "Road is closed due to Landslide",
+   "verified": true,
+   "public": true,
+   "startedOn": "2026-09-02T04:30:00+05:45",
+   "expireOn": "2026-09-02T13:45:04.660796+05:45",
+   "polygon": null,
+   "referenceType": "road",
+   "referenceData": "[{\"model\": \"realtime.highway\", \"pk\": 314, \"fields\": {\"created_on\": \"2026-09-02T05:00:04.518Z\", \"modified_on\": \"2026-09-02T05:00:04.518Z\", \"road_data_id\": 878, \"date_created\": \"2026-09-02\", \"title\": \"Kathmandu-Dhulikhel-Dolalghat-Khadichaur-Kodari (Arniko Rajmarg)\", \"road_refno\": \"NH34\", \"link_code\": \"NH34-016\", \"point\": \"SRID=4326;POINT (85.9576 27.9631)\", \"location\": \"Bhotekoshi-2, Sindhupalchok\", \"division\": \"Charikot\", \"chainage\": \"0+000\", \"end_chainage\": null, \"status\": \"CLOSED\", \"closure_reason\": \"Landslide\", \"repair_eta\": \"1 days\", \"efforts_being_made\": \"Boulder packing has been started in collapsed section.\", \"remarks\": \"\", \"images\": [], \"date_roadblock_start\": \"2026-09-02T04:30:00+05:45\", \"date_roadblock_end_estimated\": \"2026-09-03T10:30:00+05:45\", \"date_roadblock_end\": null, \"actual_repair_time\": null, \"contact_person\": \"Surendra Kumar Singh\", \"ward\": 2955, \"municipality\": 23003, \"district\": 24, \"province\": 3}}]",
+   "referenceId": 878,
+   "region": null,
+   "regionId": null,
+   "createdBy": null,
+   "updatedBy": null,
+   "hazard": null,
+   "event": null
+  },
+  {
+   "id": 45732,
+   "title": "Road closed in Bhotekoshi-2, Sindhupalchok",
+   "wards": [
+    2955
+   ],
+   "affectedDemography": {
+    "maleCount": 34480,
+    "femaleCount": 34003,
+    "householdCount": 16384
+   },
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.9576,
+     27.9631
+    ]
+   },
+   "createdOn": "2026-09-02T10:45:04.459429+05:45",
+   "titleNe": "भोटेकोशी-२, सिन्धुपाल्चोकमा सडक बन्द",
+   "source": "dor",
+   "description": "Road is closed due to Landslide",
+   "verified": true,
+   "public": true,
+   "startedOn": "2026-09-02T04:30:00+05:45",
+   "expireOn": "2026-09-02T11:45:04.138485+05:45",
+   "polygon": null,
+   "referenceType": "road",
+   "referenceData": "[{\"model\": \"realtime.highway\", \"pk\": 313, \"fields\": {\"created_on\": \"2026-09-02T05:00:04.427Z\", \"modified_on\": \"2026-09-02T05:00:04.427Z\", \"road_data_id\": 879, \"date_created\": \"2026-09-02\", \"title\": \"Kathmandu-Dhulikhel-Dolalghat-Khadichaur-Kodari (Arniko Rajmarg)\", \"road_refno\": \"NH34\", \"link_code\": \"NH34-016\", \"point\": \"SRID=4326;POINT (85.9576 27.9631)\", \"location\": \"Bhotekoshi-2, Sindhupalchok\", \"division\": \"Charikot\", \"chainage\": \"0+000\", \"end_chainage\": null, \"status\": \"CLOSED\", \"closure_reason\": \"Landslide\", \"repair_eta\": \"1 days\", \"efforts_being_made\": \"Boulder packing has been started in collapsed section.\", \"remarks\": \"\", \"images\": [], \"date_roadblock_start\": \"2026-09-02T04:30:00+05:45\", \"date_roadblock_end_estimated\": \"2026-09-03T10:30:00+05:45\", \"date_roadblock_end\": null, \"actual_repair_time\": null, \"contact_person\": \"Surendra Kumar Singh\", \"ward\": 2955, \"municipality\": 23003, \"district\": 24, \"province\": 3}}]",
+   "referenceId": 879,
+   "region": null,
+   "regionId": null,
+   "createdBy": null,
+   "updatedBy": null,
+   "hazard": null,
+   "event": null
+  },
   {
    "id": 45731,
    "title": "Heavy Rainfall at Bhimdatta-2, Kanchanpur",
@@ -6164,10 +6371,10 @@
    "verified": true,
    "public": true,
    "startedOn": "2026-09-02T10:30:04.147733+05:45",
-   "expireOn": null,
+   "expireOn": "2026-09-02T14:00:03.673444+05:45",
    "polygon": null,
    "referenceType": "rain",
-   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 213, \"fields\": {\"created_on\": \"2020-12-18T15:45:52.035Z\", \"modified_on\": \"2026-09-02T04:45:16.110Z\", \"title\": \"Sundarpur\", \"basin\": \"Mahakali\", \"measured_on\": \"2026-09-02T10:30:16.097+05:45\", \"point\": \"SRID=4326;POINT (80.223685 28.938294)\", \"elevation\": 204, \"image\": \"http://daq.hydrology.gov.np/images/baf68fcb4013775df6c78232b119aae5\", \"averages\": [{\"interval\": 1, \"value\": 45.9, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 94.208, \"status\": {\"warning\": true, \"danger\": false}}, {\"interval\": 6, \"value\": 94.208, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 12, \"value\": 94.408, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 122.408, \"status\": {\"warning\": false, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"Tier 2 station Agromet\", \"station_series_id\": 13006, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 912, \"ward\": 6225, \"municipality\": 72004, \"district\": 75, \"province\": 7}}",
+   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 213, \"fields\": {\"created_on\": \"2020-12-18T15:45:52.035Z\", \"modified_on\": \"2026-09-02T08:00:25.668Z\", \"title\": \"Sundarpur\", \"basin\": \"Mahakali\", \"measured_on\": \"2026-09-02T13:45:25.655+05:45\", \"point\": \"SRID=4326;POINT (80.223685 28.938294)\", \"elevation\": 204, \"image\": \"http://daq.hydrology.gov.np/images/baf68fcb4013775df6c78232b119aae5\", \"averages\": [{\"interval\": 1, \"value\": 0, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 3.033, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 100.442, \"status\": {\"warning\": true, \"danger\": false}}, {\"interval\": 12, \"value\": 100.442, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 107.842, \"status\": {\"warning\": false, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"Tier 2 station Agromet\", \"station_series_id\": 13006, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 912, \"ward\": 6225, \"municipality\": 72004, \"district\": 75, \"province\": 7}}",
    "referenceId": 912,
    "region": null,
    "regionId": null,
@@ -10430,161 +10637,13 @@
    "updatedBy": null,
    "hazard": null,
    "event": null
-  },
-  {
-   "id": 45538,
-   "title": "Flood warning at Sanibheri-2, Rukum West",
-   "wards": [
-    1525
-   ],
-   "affectedDemography": {
-    "maleCount": 189256,
-    "femaleCount": 199464,
-    "householdCount": 79791
-   },
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     82.2666,
-     28.683
-    ]
-   },
-   "createdOn": "2026-08-16T09:25:09.883405+05:45",
-   "titleNe": "सानीभेरी-२, रुकुम पश्चिममा बाढी",
-   "source": "dhm",
-   "description": "Basin:Karnali\nElevation:None\nWarning level:5.6\nWater level:5.66100025177",
-   "verified": true,
-   "public": true,
-   "startedOn": "2026-08-16T09:20:00+05:45",
-   "expireOn": "2026-08-16T09:35:03.668130+05:45",
-   "polygon": null,
-   "referenceType": "river",
-   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Thulo Bheri at Rimna\", \"basin\": \"Karnali\", \"point\": \"SRID=4326;POINT (82.2666 28.683)\", \"water_level\": 5.66100025177, \"image\": \"http://daq.hydrology.gov.np/images/16dcb0ea29653c8ffb303c0e46e0c76b\", \"danger_level\": 6.2, \"warning_level\": 5.6, \"water_level_on\": \"2026-08-16T03:35:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": null, \"steady\": \"RISING\", \"description\": \"Hydrological station with Bubbler\", \"station_series_id\": 2059, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 1525, \"municipality\": 54005, \"district\": 542, \"province\": 6, \"station\": 109}}",
-   "referenceId": 145,
-   "region": null,
-   "regionId": null,
-   "createdBy": null,
-   "updatedBy": null,
-   "hazard": 11,
-   "event": null
-  },
-  {
-   "id": 45537,
-   "title": "Road closed in Raghuganga-2, Myagdi",
-   "wards": [
-    1104
-   ],
-   "affectedDemography": {
-    "maleCount": 108154,
-    "femaleCount": 127171,
-    "householdCount": 63680
-   },
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.5992,
-     28.411
-    ]
-   },
-   "createdOn": "2026-08-16T08:45:04.613527+05:45",
-   "titleNe": "रघुगंगा-२, म्याग्दीमा सडक बन्द",
-   "source": "dor",
-   "description": "Road is closed due to Landslide",
-   "verified": true,
-   "public": true,
-   "startedOn": "2026-08-16T05:51:00+05:45",
-   "expireOn": "2026-08-16T12:45:03.851054+05:45",
-   "polygon": null,
-   "referenceType": "road",
-   "referenceData": "[{\"model\": \"realtime.highway\", \"pk\": 286, \"fields\": {\"created_on\": \"2026-08-16T03:00:04.578Z\", \"modified_on\": \"2026-08-16T03:00:04.578Z\", \"road_data_id\": 850, \"date_created\": \"2026-08-16\", \"title\": \"Tansen-Ridi-Korla\", \"road_refno\": \"NH48\", \"link_code\": \"NH48-008\", \"point\": \"SRID=4326;POINT (83.5992 28.411)\", \"location\": \"Raghuganga-2, Myagdi\", \"division\": \"Baglung\", \"chainage\": \"0+000\", \"end_chainage\": null, \"status\": \"CLOSED\", \"closure_reason\": \"Landslide\", \"repair_eta\": \"4 hours\", \"efforts_being_made\": \"\", \"remarks\": \"\", \"images\": [], \"date_roadblock_start\": \"2026-08-16T05:51:00+05:45\", \"date_roadblock_end_estimated\": \"2026-08-16T09:51:00+05:45\", \"date_roadblock_end\": null, \"actual_repair_time\": null, \"contact_person\": \"\", \"ward\": 1104, \"municipality\": 43006, \"district\": 49, \"province\": 4}}]",
-   "referenceId": 850,
-   "region": null,
-   "regionId": null,
-   "createdBy": null,
-   "updatedBy": null,
-   "hazard": null,
-   "event": null
-  },
-  {
-   "id": 45536,
-   "title": "Flood warning at Sanibheri-2, Rukum West",
-   "wards": [
-    1525
-   ],
-   "affectedDemography": {
-    "maleCount": 189256,
-    "femaleCount": 199464,
-    "householdCount": 79791
-   },
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     82.2666,
-     28.683
-    ]
-   },
-   "createdOn": "2026-08-16T08:35:09.298519+05:45",
-   "titleNe": "सानीभेरी-२, रुकुम पश्चिममा बाढी",
-   "source": "dhm",
-   "description": "Basin:Karnali\nElevation:None\nWarning level:5.6\nWater level:5.61999988556",
-   "verified": true,
-   "public": true,
-   "startedOn": "2026-08-16T08:30:00+05:45",
-   "expireOn": "2026-08-16T08:45:04.629053+05:45",
-   "polygon": null,
-   "referenceType": "river",
-   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Thulo Bheri at Rimna\", \"basin\": \"Karnali\", \"point\": \"SRID=4326;POINT (82.2666 28.683)\", \"water_level\": 5.61999988556, \"image\": \"http://daq.hydrology.gov.np/images/16dcb0ea29653c8ffb303c0e46e0c76b\", \"danger_level\": 6.2, \"warning_level\": 5.6, \"water_level_on\": \"2026-08-16T02:45:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": null, \"steady\": \"STEADY\", \"description\": \"Hydrological station with Bubbler\", \"station_series_id\": 2059, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 1525, \"municipality\": 54005, \"district\": 542, \"province\": 6, \"station\": 109}}",
-   "referenceId": 145,
-   "region": null,
-   "regionId": null,
-   "createdBy": null,
-   "updatedBy": null,
-   "hazard": 11,
-   "event": null
-  },
-  {
-   "id": 45535,
-   "title": "Flood warning at Chaukune-1, Surkhet",
-   "wards": [
-    2714
-   ],
-   "affectedDemography": {
-    "maleCount": 110307,
-    "femaleCount": 121084,
-    "householdCount": 45478
-   },
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     81.12,
-     28.96
-    ]
-   },
-   "createdOn": "2026-08-16T08:15:09.224711+05:45",
-   "titleNe": "चौकुने-१, सुर्खेतमा बाढी",
-   "source": "dhm",
-   "description": "Basin:Karnali\nElevation:320\nWarning level:8.5\nWater level:8.62309932709",
-   "verified": true,
-   "public": true,
-   "startedOn": "2026-08-16T08:00:00+05:45",
-   "expireOn": "2026-08-16T10:35:03.442657+05:45",
-   "polygon": null,
-   "referenceType": "river",
-   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Karnali at Benighat\", \"basin\": \"Karnali\", \"point\": \"SRID=4326;POINT (81.12 28.96)\", \"water_level\": 8.55889892578, \"image\": \"http://daq.hydrology.gov.np/images/0d04e5f6ff6d2c7ded5077ec8fe0d5e5\", \"danger_level\": null, \"warning_level\": 8.5, \"water_level_on\": \"2026-08-16T04:25:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": 320, \"steady\": \"STEADY\", \"description\": \"MHS\", \"station_series_id\": 21335, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 2714, \"municipality\": 59004, \"district\": 64, \"province\": 6, \"station\": 191}}",
-   "referenceId": 4793,
-   "region": null,
-   "regionId": null,
-   "createdBy": null,
-   "updatedBy": null,
-   "hazard": 11,
-   "event": null
   }
  ],
  "health": [
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "source": "अनलाइनखबर",
@@ -10594,17 +10653,17 @@
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 10
+   "count": 12
   },
   {
    "source": "सेतोपाटी",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "source": "Khabarhub (English)",
    "ok": true,
-   "count": 4
+   "count": 10
   },
   {
    "source": "The Kathmandu Post",
@@ -10619,7 +10678,7 @@
   {
    "source": "rivers",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "source": "alerts",
