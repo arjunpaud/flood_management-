@@ -1,86 +1,158 @@
 {
- "generatedAt": "2026-09-11T11:08:34.955Z",
+ "generatedAt": "2026-09-11T14:57:50.897Z",
  "news": [
   {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "राहत कोषमा बाराही ग्रुपको २० लाख ५५ हजार",
-   "link": "https://nagariknews.nagariknetwork.com/economy/barahi-group-s-2-million-55-thousand-in-the-relief-fund-86-51.html",
-   "date": "Fri, 11 Sep 2026 16:49:13 +0545",
-   "ts": 1789124653000
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "सुरुङ उद्धार १७ दिनसम्म पनि कठिन, अझै छ जीवनको आशा",
+   "link": "https://www.onlinekhabar.com/2026/09/2015487/tunnel-rescue-continues-for-17-days-but-there-is-still-hope-for-life",
+   "date": "Fri, 11 Sep 2026 14:49:28 +0000",
+   "ts": 1789138168000
+  },
+  {
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "Disaster Relief Fund records Rs 13.23 billion in deposits",
+   "link": "https://english.khabarhub.com/2026/11/567454/",
+   "date": "Fri, 11 Sep 2026 14:47:58 +0000",
+   "ts": 1789138078000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "विपद्पछिको पुनर्निर्माण : ढुंगा-माटोभन्दा परको कथा",
+   "link": "https://www.onlinekhabar.com/2026/09/2014755/post-disaster-reconstruction-a-story-beyond-stones-and-mud",
+   "date": "Fri, 11 Sep 2026 14:43:48 +0000",
+   "ts": 1789137828000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "बाढीले विक्षिप्त मन कसरी सम्हाल्ने ?",
+   "link": "https://www.onlinekhabar.com/2026/09/2014709/how-to-handle-a-mind-that-is-disturbed-by-floods",
+   "date": "Fri, 11 Sep 2026 14:23:26 +0000",
+   "ts": 1789136606000
   },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
    "site": "https://www.ratopati.com",
-   "title": "बेत्रावतीमा बेलिब्रिज कहिले जडान सुरु हुन्छ ?",
-   "link": "https://www.ratopati.com/story/591521/when-will-the-bailey-bridge-in-betravati-start-being-installed",
-   "date": "Fri, 11 Sep 2026 11:01:59 +0000",
-   "ts": 1789124519000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "रसुवा बाढीपछि स्वास्थ्य क्षेत्रको क्षति मूल्यांकन गरिँदै",
-   "link": "https://www.onlinekhabar.com/2026/09/2015255/damage-to-health-sector-being-assessed-after-rasuwa-floods",
-   "date": "Fri, 11 Sep 2026 10:55:10 +0000",
-   "ts": 1789124110000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "रसुवा बाढी : शिक्षा क्षेत्रको पुनरुत्थानका लागि २ अर्ब ३४ करोड लाग्ने अनुमान",
-   "link": "https://www.onlinekhabar.com/2026/09/2015252/rasuwa-flood-it-is-estimated-that-it-will-cost-rs-2-34-billion-to-revive-the-education-sector",
-   "date": "Fri, 11 Sep 2026 10:51:54 +0000",
-   "ts": 1789123914000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "८२ सुरक्षाकर्मी अझै सम्पर्कविहीन, आफन्तले दिन थाले डीएनए",
-   "link": "https://www.onlinekhabar.com/2026/09/2015244/82-security-personnel-still-missing-relatives-start-providing-dna",
-   "date": "Fri, 11 Sep 2026 10:45:20 +0000",
-   "ts": 1789123520000
-  },
-  {
-   "source": "सेतोपाटी",
-   "sourceId": "setopati",
-   "site": "https://www.setopati.com",
-   "title": "एनआरएनए नाइजेरिया र घानाद्वारा भोटेकोशी बाढी पीडितका लागि सहयोग",
-   "link": "https://www.setopati.com/global/other-global/398159",
-   "date": "Fri, 11 Sep 2026 16:28:39 +0545",
-   "ts": 1789123419000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "भोटेकोशी बाढी : शिक्षा क्षेत्रको पुनरुत्थानका लागि २ अर्ब ३४ करोड लाग्ने",
-   "link": "https://nagariknews.nagariknetwork.com/education/bhotekoshi-flood-rs-2-34-billion-to-be-spent-to-revive-the-education-sector-br-91-76.html",
-   "date": "Fri, 11 Sep 2026 16:28:37 +0545",
-   "ts": 1789123417000
+   "title": "चितवनमा चाङ्गान नेभो Q05 सार्वजनिक हुँदै",
+   "link": "https://www.ratopati.com/story/591562/changan-nevo-q05-to-be-unveiled-in-chitwan-next-week",
+   "date": "Fri, 11 Sep 2026 14:04:46 +0000",
+   "ts": 1789135486000
   },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
    "site": "https://www.ratopati.com",
-   "title": "१४औँ किङ कोब्राले डस्यो, १५औँ किङ कोब्रा उद्धार गर्न फेरि पुगे राजेश",
-   "link": "https://www.ratopati.com/story/591509/the-14th-king-cobra-bit-him-rajesh-went-back-to-rescue-the-15th-king-cobra",
-   "date": "Fri, 11 Sep 2026 10:38:20 +0000",
-   "ts": 1789123100000
+   "title": "भोटेकोशी बाढी महाविपत्तिले छैन बजारमा तीजको चहलपहल (भिडियो रिपोर्ट)",
+   "link": "https://www.ratopati.com/story/591549/teej-festivities-in-markets-disrupted-due-to-bhotekoshi-flood-disaster-video-report",
+   "date": "Fri, 11 Sep 2026 13:45:00 +0000",
+   "ts": 1789134300000
   },
   {
    "source": "सेतोपाटी",
    "sourceId": "setopati",
    "site": "https://www.setopati.com",
-   "title": "बाढी प्रभावित रसुवामा डिसहोम र युटेलस्याट वनवेबको निःशुल्क स्याटेलाइट इन्टरनेट",
-   "link": "https://www.setopati.com/kinmel/information-technology/398157",
-   "date": "Fri, 11 Sep 2026 16:20:02 +0545",
-   "ts": 1789122902000
+   "title": "बाढी प्रभावित तीन सय परिवारका लागि युएसभी फार्माको डेढ करोड सहयोग",
+   "link": "https://www.setopati.com/kinmel/others/398177",
+   "date": "Fri, 11 Sep 2026 19:10:19 +0545",
+   "ts": 1789133119000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "बाढीपछिको पुनर्निर्माण : एकीकृत बस्ती र सुरक्षित सहर अबको निर्विकल्प मार्ग",
+   "link": "https://www.ratopati.com/story/591505/post-flood-reconstruction-integrated-settlements-and-safe-cities-are-the-only-way-forward",
+   "date": "Fri, 11 Sep 2026 13:15:00 +0000",
+   "ts": 1789132500000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "भोटेकोशी बाढी : यातायात क्षेत्रको क्षति मूल्यांकन समिति गठन",
+   "link": "https://www.onlinekhabar.com/2026/09/2015412/bhotekoshi-flood-transport-sector-damage-assessment-committee-formed",
+   "date": "Fri, 11 Sep 2026 13:11:57 +0000",
+   "ts": 1789132317000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "रसुवा बाढी : प्रधानमन्त्री राहत कोषमा जम्मा भयो १३ अर्ब  २३ करोड",
+   "link": "https://www.onlinekhabar.com/2026/09/2015413/rasuwa-flood-rs-13-23-billion-collected-in-prime-ministers-relief-fund",
+   "date": "Fri, 11 Sep 2026 13:10:00 +0000",
+   "ts": 1789132200000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "भोटेकोशी बाढीबाट यातायात क्षेत्रमा भएको क्षति मूल्याङ्कन गर्न समिति गठन",
+   "link": "https://www.ratopati.com/story/591551/committee-formed-to-assess-damage-to-transportation-sector-due-to-bhotekoshi-floods",
+   "date": "Fri, 11 Sep 2026 12:51:13 +0000",
+   "ts": 1789131073000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "प्रधानमन्त्री राहत कोषमा १३ अर्ब २३ करोड मौज्दात",
+   "link": "https://www.ratopati.com/story/591550/prime-ministers-relief-fund-has-rs-1323-billion-in-balance",
+   "date": "Fri, 11 Sep 2026 12:45:34 +0000",
+   "ts": 1789130734000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "सुरुङबाट उद्धार गरिएका दुई जना अस्पतालबाट डिस्चार्ज",
+   "link": "https://www.ratopati.com/story/591548/sanjay-sah-who-was-rescued-from-the-tunnel-of-trishuli-3-a-is-discharged",
+   "date": "Fri, 11 Sep 2026 12:42:34 +0000",
+   "ts": 1789130554000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "बाढी प्रभावित क्षेत्रबाट आज ३० जनाको हवाई उद्धार",
+   "link": "https://www.onlinekhabar.com/2026/09/2015361/30-people-airlifted-from-flood-affected-areas-today",
+   "date": "Fri, 11 Sep 2026 12:17:29 +0000",
+   "ts": 1789129049000
+  },
+  {
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "Israel continues emergency relief support to flood-affected communities in Nuwakot",
+   "link": "https://english.khabarhub.com/2026/11/567429/",
+   "date": "Fri, 11 Sep 2026 12:15:16 +0000",
+   "ts": 1789128916000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "अस्थायी आवासमा बस्न नचाहने बाढीपीडित परिवारलाई सरकारले १५ हजार उपलब्ध गराउने",
+   "link": "https://www.onlinekhabar.com/2026/09/2015346/government-to-provide-rs-15000-to-flood-affected-families-who-do-not-want-to-live-in-temporary-housing",
+   "date": "Fri, 11 Sep 2026 12:06:22 +0000",
+   "ts": 1789128382000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "भोटेकोशी बाढीले ९ हजार विद्यार्थी प्रभावित, शिक्षा क्षेत्र उकास्न साढे २ अर्बभन्दा बढी लाग्ने",
+   "link": "https://www.onlinekhabar.com/2026/09/2015297/9000-students-affected-by-bhotekoshi-flood-more-than-2-5-billion-rupees-to-boost-education-sector",
+   "date": "Fri, 11 Sep 2026 11:36:11 +0000",
+   "ts": 1789126571000
   },
   {
    "source": "Khabarhub (English)",
@@ -92,33 +164,6 @@
    "ts": 1789121746000
   },
   {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "सुरुङबाट उद्धार गरिएका साह अस्पतालबाट डिस्चार्ज",
-   "link": "https://www.onlinekhabar.com/2026/09/2015214/rescued-from-tunnel-sah-discharged-from-hospital",
-   "date": "Fri, 11 Sep 2026 10:13:18 +0000",
-   "ts": 1789121598000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "विपद्‌मा छिटोसँगै जिम्मेवार र विश्वसनीय पत्रकारिताको खाँचो",
-   "link": "https://www.onlinekhabar.com/2026/09/2015207/the-need-for-responsible-and-credible-journalism-in-times-of-disaster",
-   "date": "Fri, 11 Sep 2026 10:12:31 +0000",
-   "ts": 1789121551000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "‘बाढी प्रभावित बालबालिकालाई मनोसामाजिक परामर्शसँगै सुरक्षाको खाँचो छ’",
-   "link": "https://www.onlinekhabar.com/2026/09/2014214/flood-affected-children-need-protection-along-with-psychosocial-counseling",
-   "date": "Fri, 11 Sep 2026 09:55:15 +0000",
-   "ts": 1789120515000
-  },
-  {
    "source": "Khabarhub (English)",
    "sourceId": "khabarhub",
    "site": "https://english.khabarhub.com",
@@ -128,85 +173,22 @@
    "ts": 1789119228000
   },
   {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "नेकपाको माग-  विपद्पछिको काम गर्न रवि लामिछानेले भनेजस्तै सर्वदलीय समिति बनाइयोस्",
-   "link": "https://www.onlinekhabar.com/2026/09/2015179/ncp-demands-all-party-committee-should-be-formed-to-carry-out-post-disaster-work-as-suggested-by-rabi-lamichhane",
-   "date": "Fri, 11 Sep 2026 09:27:28 +0000",
-   "ts": 1789118848000
+   "source": "The Kathmandu Post",
+   "sourceId": "kathmandupost",
+   "site": "https://kathmandupost.com",
+   "title": "Water starts flowing through landslide-dammed Hunga Khola, easing flood risk",
+   "link": "https://kathmandupost.com/national/2026/09/11/water-starts-flowing-through-landslide-dammed-hunga-khola-easing-flood-risk",
+   "date": "",
+   "ts": 0
   },
   {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "बाढी प्रभावित राहत कोषमा ‘भिल’ को १ करोड रुपैयाँ सहयोग",
-   "link": "https://www.onlinekhabar.com/2026/09/2015195/vile-donates-rs-10-million-to-flood-relief-fund",
-   "date": "Fri, 11 Sep 2026 09:25:18 +0000",
-   "ts": 1789118718000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "होल्डिङ सेन्टरमा रहेका बाढीपीडितको सुरक्षा र अस्थायी पुनर्स्थापना होस् : सांसद केसी",
-   "link": "https://www.onlinekhabar.com/2026/09/2015168/flood-victims-in-holding-centers-should-be-provided-with-safety-and-temporary-rehabilitation-mp-kc",
-   "date": "Fri, 11 Sep 2026 09:16:21 +0000",
-   "ts": 1789118181000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "बाढी प्रभावितलाई बुटवलका व्यवसायी पौडेलद्वारा २५ लाख सहयोग",
-   "link": "https://www.onlinekhabar.com/2026/09/2015139/butwal-businessman-poudel-donates-rs-2-5-million-to-flood-victims",
-   "date": "Fri, 11 Sep 2026 08:59:18 +0000",
-   "ts": 1789117158000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "बाढीपछि रोकिएका &#8216;समर लभ’ र &#8216;सेतो धरती’ नाटकको मञ्चन शुक्रबारदेखि पुनः",
-   "link": "https://www.onlinekhabar.com/2026/09/2015132/the-plays-summer-love-and-seto-dharti-which-were-halted-after-the-flood-will-resume-from-friday",
-   "date": "Fri, 11 Sep 2026 08:51:43 +0000",
-   "ts": 1789116703000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "चितवनमा सार्वजनिक हुँदै चाङ्गान नेभो क्यू ०५, मूल्य ५१ लाख ९९ हजार",
-   "link": "https://www.onlinekhabar.com/2026/09/2015118/chitwans-public-hyundai-changan-nevo-q05-price-51-lakh-99-thousand",
-   "date": "Fri, 11 Sep 2026 08:45:43 +0000",
-   "ts": 1789116343000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "बाढी पीडितको सहयोगार्थ एप्पलको हलिउड फिल्म &#8216;तेन्जिङ’ को प्रदर्शन काठमाडौंमा",
-   "link": "https://www.onlinekhabar.com/2026/09/2015063/apples-hollywood-film-tenzing-screened-in-kathmandu-to-help-flood-victims",
-   "date": "Fri, 11 Sep 2026 08:13:51 +0000",
-   "ts": 1789114431000
-  },
-  {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "Rs 95.42 billion required to remove Bhotekoshi flood debris: Report",
-   "link": "https://english.khabarhub.com/2026/11/567400/",
-   "date": "Fri, 11 Sep 2026 07:45:46 +0000",
-   "ts": 1789112746000
-  },
-  {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "Additional team of specialist doctors to be deployed to flood-affected areas",
-   "link": "https://english.khabarhub.com/2026/11/567397/",
-   "date": "Fri, 11 Sep 2026 07:13:31 +0000",
-   "ts": 1789110811000
+   "source": "The Kathmandu Post",
+   "sourceId": "kathmandupost",
+   "site": "https://kathmandupost.com",
+   "title": "Nepal estimates Rs2.34 billion to rebuild flood-hit education sector",
+   "link": "https://kathmandupost.com/national/2026/09/11/nepal-estimates-rs2-34-billion-to-rebuild-flood-hit-education-sector",
+   "date": "",
+   "ts": 0
   },
   {
    "source": "The Kathmandu Post",
@@ -259,24 +241,6 @@
    "site": "https://kathmandupost.com",
    "title": "Germany provides €8 million in assistance to Nepal after Bhotekoshi floods",
    "link": "https://kathmandupost.com/money/2026/09/10/germany-provides-8-million-in-assistance-to-nepal-after-bhotekoshi-floods",
-   "date": "",
-   "ts": 0
-  },
-  {
-   "source": "The Kathmandu Post",
-   "sourceId": "kathmandupost",
-   "site": "https://kathmandupost.com",
-   "title": "Nepal announces ‘scholarship bank’ for children orphaned or displaced by floods",
-   "link": "https://kathmandupost.com/national/2026/09/10/nepal-announces-scholarship-bank-for-children-orphaned-or-displaced-by-floods",
-   "date": "",
-   "ts": 0
-  },
-  {
-   "source": "The Kathmandu Post",
-   "sourceId": "kathmandupost",
-   "site": "https://kathmandupost.com",
-   "title": "Nepal must restore tourist confidence as floods threaten arrivals",
-   "link": "https://kathmandupost.com/editorial/2026/09/09/nepal-must-restore-tourist-confidence-as-floods-threaten-arrivals",
    "date": "",
    "ts": 0
   }
@@ -7695,9 +7659,9 @@
  ],
  "rivers": [
   {
-   "id": 25277430,
-   "createdOn": "2026-09-11T16:45:11.083040+05:45",
-   "modifiedOn": "2026-09-11T16:45:11.083042+05:45",
+   "id": 25280699,
+   "createdOn": "2026-09-11T20:35:09.726349+05:45",
+   "modifiedOn": "2026-09-11T20:35:09.726351+05:45",
    "title": "Trishuli at Galchi",
    "basin": "Narayani",
    "point": {
@@ -7707,11 +7671,11 @@
      27.802328
     ]
    },
-   "waterLevel": 361.163208008,
+   "waterLevel": 361.132507324,
    "image": "http://daq.hydrology.gov.np/images/96917ebb6f5c49a5673ea38a1b4fa8e0",
    "dangerLevel": null,
    "warningLevel": 367,
-   "waterLevelOn": "2026-09-11T16:40:00+05:45",
+   "waterLevelOn": "2026-09-11T20:30:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 378,
    "steady": "STEADY",
@@ -7726,195 +7690,9 @@
    "station": 281
   },
   {
-   "id": 25277429,
-   "createdOn": "2026-09-11T16:45:11.083001+05:45",
-   "modifiedOn": "2026-09-11T16:45:11.083003+05:45",
-   "title": "Trishuli Khola at Dhunche",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.318589,
-     28.098163
-    ]
-   },
-   "waterLevel": 2.5376996994,
-   "image": "http://daq.hydrology.gov.np/images/0a4d86552fd0e57c5ab02555b4dc693f",
-   "dangerLevel": null,
-   "warningLevel": 3.2,
-   "waterLevelOn": "2026-09-11T16:30:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "HS_manual",
-   "stationSeriesId": 19916,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 1427,
-   "municipality": 29001,
-   "district": 23,
-   "province": 3,
-   "station": 105
-  },
-  {
-   "id": 25277420,
-   "createdOn": "2026-09-11T16:45:11.082636+05:45",
-   "modifiedOn": "2026-09-11T16:45:11.082638+05:45",
-   "title": "Tadi Khola at Rautar",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.311554,
-     27.918694
-    ]
-   },
-   "waterLevel": 0.878800392151,
-   "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
-   "dangerLevel": null,
-   "warningLevel": 3.5,
-   "waterLevelOn": "2026-09-11T16:40:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "Hydrological station with CDCP",
-   "stationSeriesId": 19587,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 3664,
-   "municipality": 28011,
-   "district": 25,
-   "province": 3,
-   "station": 65
-  },
-  {
-   "id": 25277386,
-   "createdOn": "2026-09-11T16:45:11.081297+05:45",
-   "modifiedOn": "2026-09-11T16:45:11.081299+05:45",
-   "title": "Narayani at Devghat",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.43,
-     27.71
-    ]
-   },
-   "waterLevel": 4.33399963379,
-   "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
-   "dangerLevel": 9,
-   "warningLevel": 7.3,
-   "waterLevelOn": "2026-09-11T16:30:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "Hydrological station with RLS",
-   "stationSeriesId": 4140,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 3479,
-   "municipality": 76005,
-   "district": 481,
-   "province": 4,
-   "station": 25
-  },
-  {
-   "id": 25277374,
-   "createdOn": "2026-09-11T16:45:11.080664+05:45",
-   "modifiedOn": "2026-09-11T16:45:11.080666+05:45",
-   "title": "Manahari Khola at Manahari",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.827716,
-     27.548673
-    ]
-   },
-   "waterLevel": 0.948999404907,
-   "image": "http://daq.hydrology.gov.np/images/dda94e5a1fe05535b24b7907976c7efe",
-   "dangerLevel": null,
-   "warningLevel": 4.3,
-   "waterLevelOn": "2026-09-11T16:30:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": 305,
-   "steady": "STEADY",
-   "description": "HS_manual",
-   "stationSeriesId": 21323,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 2378,
-   "municipality": 31009,
-   "district": 31,
-   "province": 3,
-   "station": 116
-  },
-  {
-   "id": 25277368,
-   "createdOn": "2026-09-11T16:45:11.080432+05:45",
-   "modifiedOn": "2026-09-11T16:45:11.080435+05:45",
-   "title": "Lothar Khola at Lothar",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.7361,
-     27.5877
-    ]
-   },
-   "waterLevel": 1.52300024033,
-   "image": "http://daq.hydrology.gov.np/images/93f6c4e346f0c03f64410c51ac9f71a0",
-   "dangerLevel": 7,
-   "warningLevel": 6.5,
-   "waterLevelOn": "2026-09-11T16:30:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": 207,
-   "steady": "STEADY",
-   "description": "Hydrological station with RLS",
-   "stationSeriesId": 1318,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 2397,
-   "municipality": 31008,
-   "district": 31,
-   "province": 3,
-   "station": 16
-  },
-  {
-   "id": 25277305,
-   "createdOn": "2026-09-11T16:45:11.077823+05:45",
-   "modifiedOn": "2026-09-11T16:45:11.077825+05:45",
-   "title": "Bhote Koshi at Bahrabise",
-   "basin": "Koshi",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.899324,
-     27.786773
-    ]
-   },
-   "waterLevel": 1.77200031281,
-   "image": "http://daq.hydrology.gov.np/images/1fa9f7b4833192d038492298d9a42cc7",
-   "dangerLevel": 3.6,
-   "warningLevel": 3.1,
-   "waterLevelOn": "2026-09-11T16:30:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "CDCP with RLS",
-   "stationSeriesId": 1640,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 2879,
-   "municipality": 23002,
-   "district": 24,
-   "province": 3,
-   "station": 91
-  },
-  {
-   "id": 25277278,
-   "createdOn": "2026-09-11T16:35:18.804409+05:45",
-   "modifiedOn": "2026-09-11T16:35:18.804411+05:45",
+   "id": 25280698,
+   "createdOn": "2026-09-11T20:35:09.726312+05:45",
+   "modifiedOn": "2026-09-11T20:35:09.726314+05:45",
    "title": "Trishuli River at Kali Khola",
    "basin": "Narayani",
    "point": {
@@ -7924,11 +7702,11 @@
      27.833
     ]
    },
-   "waterLevel": 5.77699947357,
+   "waterLevel": 5.56799888611,
    "image": "http://daq.hydrology.gov.np/images/364ef9a4cae0f2a57b48d88b42f579ff",
    "dangerLevel": 12.1,
    "warningLevel": 10.8,
-   "waterLevelOn": "2026-09-11T16:30:00+05:45",
+   "waterLevelOn": "2026-09-11T20:30:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 250,
    "steady": "STEADY",
@@ -7943,40 +7721,133 @@
    "station": 67
   },
   {
-   "id": 25277204,
-   "createdOn": "2026-09-11T16:35:18.801423+05:45",
-   "modifiedOn": "2026-09-11T16:35:18.801425+05:45",
-   "title": "East Rapti at Rajaiya",
+   "id": 25280697,
+   "createdOn": "2026-09-11T20:35:09.726273+05:45",
+   "modifiedOn": "2026-09-11T20:35:09.726275+05:45",
+   "title": "Trishuli Khola at Dhunche",
    "basin": "Narayani",
    "point": {
     "type": "Point",
     "coordinates": [
-     84.97,
-     27.44
+     85.318589,
+     28.098163
     ]
    },
-   "waterLevel": 1.27499961853,
-   "image": "http://daq.hydrology.gov.np/images/6b3873a603048aca368d9d8fe8e5ca1d",
-   "dangerLevel": 3.7,
-   "warningLevel": 3.3,
-   "waterLevelOn": "2026-09-11T16:20:00+05:45",
+   "waterLevel": 2.52589988708,
+   "image": "http://daq.hydrology.gov.np/images/0a4d86552fd0e57c5ab02555b4dc693f",
+   "dangerLevel": null,
+   "warningLevel": 3.2,
+   "waterLevelOn": "2026-09-11T20:20:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
-   "description": "Station under PPCR",
-   "stationSeriesId": 3733,
+   "description": "HS_manual",
+   "stationSeriesId": 19916,
    "dataSource": "hydrology.gov.np",
    "dataSourceId": null,
-   "ward": 2364,
-   "municipality": 31004,
-   "district": 31,
+   "ward": 1427,
+   "municipality": 29001,
+   "district": 23,
    "province": 3,
-   "station": 70
+   "station": 105
   },
   {
-   "id": 25277186,
-   "createdOn": "2026-09-11T16:35:18.800646+05:45",
-   "modifiedOn": "2026-09-11T16:35:18.800648+05:45",
+   "id": 25280688,
+   "createdOn": "2026-09-11T20:35:09.725928+05:45",
+   "modifiedOn": "2026-09-11T20:35:09.725930+05:45",
+   "title": "Tadi Khola at Rautar",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.311554,
+     27.918694
+    ]
+   },
+   "waterLevel": 0.898499488831,
+   "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
+   "dangerLevel": null,
+   "warningLevel": 3.5,
+   "waterLevelOn": "2026-09-11T20:30:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": null,
+   "steady": "STEADY",
+   "description": "Hydrological station with CDCP",
+   "stationSeriesId": 19587,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 3664,
+   "municipality": 28011,
+   "district": 25,
+   "province": 3,
+   "station": 65
+  },
+  {
+   "id": 25280661,
+   "createdOn": "2026-09-11T20:35:09.724870+05:45",
+   "modifiedOn": "2026-09-11T20:35:09.724872+05:45",
+   "title": "Narayani at Devghat",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.43,
+     27.71
+    ]
+   },
+   "waterLevel": 4.26999950409,
+   "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
+   "dangerLevel": 9,
+   "warningLevel": 7.3,
+   "waterLevelOn": "2026-09-11T20:10:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": null,
+   "steady": "STEADY",
+   "description": "Hydrological station with RLS",
+   "stationSeriesId": 4140,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 3479,
+   "municipality": 76005,
+   "district": 481,
+   "province": 4,
+   "station": 25
+  },
+  {
+   "id": 25280645,
+   "createdOn": "2026-09-11T20:35:09.724220+05:45",
+   "modifiedOn": "2026-09-11T20:35:09.724223+05:45",
+   "title": "Lothar Khola at Lothar",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.7361,
+     27.5877
+    ]
+   },
+   "waterLevel": 1.51800012589,
+   "image": "http://daq.hydrology.gov.np/images/93f6c4e346f0c03f64410c51ac9f71a0",
+   "dangerLevel": 7,
+   "warningLevel": 6.5,
+   "waterLevelOn": "2026-09-11T20:20:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": 207,
+   "steady": "STEADY",
+   "description": "Hydrological station with RLS",
+   "stationSeriesId": 1318,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 2397,
+   "municipality": 31008,
+   "district": 31,
+   "province": 3,
+   "station": 16
+  },
+  {
+   "id": 25280578,
+   "createdOn": "2026-09-11T20:35:09.721540+05:45",
+   "modifiedOn": "2026-09-11T20:35:09.721542+05:45",
    "title": "Budhi Gandaki at Aarughat",
    "basin": "Narayani",
    "point": {
@@ -7986,11 +7857,11 @@
      28.046
     ]
    },
-   "waterLevel": 2.97550010681,
+   "waterLevel": 2.99349975586,
    "image": "http://daq.hydrology.gov.np/images/a5d962039af199e304760d743ab51419",
    "dangerLevel": 5,
    "warningLevel": 4.5,
-   "waterLevelOn": "2026-09-11T16:20:00+05:45",
+   "waterLevelOn": "2026-09-11T20:20:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -8006,6 +7877,43 @@
   }
  ],
  "alerts": [
+  {
+   "id": 45858,
+   "title": "Flood warning at Sundarharaicha-3, Morang",
+   "wards": [
+    5832
+   ],
+   "affectedDemography": {
+    "maleCount": 794108,
+    "femaleCount": 872601,
+    "householdCount": 397019
+   },
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     87.317154,
+     26.65885
+    ]
+   },
+   "createdOn": "2026-09-11T19:15:07.124306+05:45",
+   "titleNe": "सुन्दरहरैंचा-३, मोरङ्गमा बाढी",
+   "source": "dhm",
+   "description": "Basin:Keshaliya\nElevation:106\nWarning level:107.4\nWater level:107.662",
+   "verified": true,
+   "public": true,
+   "startedOn": "2026-09-11T19:10:00+05:45",
+   "expireOn": "2026-09-11T19:45:04.034013+05:45",
+   "polygon": null,
+   "referenceType": "river",
+   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Keshaliya Khola at East West Highway\", \"basin\": \"Keshaliya\", \"point\": \"SRID=4326;POINT (87.317154 26.65885)\", \"water_level\": 107.519, \"image\": \"http://daq.hydrology.gov.np/images/53425bc77692c765f6471b7edb75674f\", \"danger_level\": 108.0, \"warning_level\": 107.4, \"water_level_on\": \"2026-09-11T13:45:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": 106, \"steady\": \"RISING\", \"description\": \"Khesliya Khola at East West Highway\", \"station_series_id\": 27905, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 5832, \"municipality\": 5015, \"district\": 5, \"province\": 1, \"station\": 210}}",
+   "referenceId": 5530,
+   "region": null,
+   "regionId": null,
+   "createdBy": null,
+   "updatedBy": null,
+   "hazard": 11,
+   "event": null
+  },
   {
    "id": 45855,
    "title": "Road closed in Benighat Rorang-3, Dhading",
@@ -8105,7 +8013,7 @@
    "verified": true,
    "public": true,
    "startedOn": "2026-09-10T05:40:00+05:45",
-   "expireOn": null,
+   "expireOn": "2026-09-11T19:45:03.894719+05:45",
    "polygon": null,
    "referenceType": "road",
    "referenceData": "[{\"model\": \"realtime.highway\", \"pk\": 329, \"fields\": {\"created_on\": \"2026-09-10T04:00:04.798Z\", \"modified_on\": \"2026-09-10T04:00:04.798Z\", \"road_data_id\": 893, \"date_created\": \"2026-09-10\", \"title\": \"Kathmandu-Dhulikhel-Dolalghat-Khadichaur-Kodari (Arniko Rajmarg)\", \"road_refno\": \"NH34\", \"link_code\": \"NH34-016\", \"point\": \"SRID=4326;POINT (85.9563 27.9567)\", \"location\": \"Bhotekoshi-2, Sindhupalchok\", \"division\": \"Charikot\", \"chainage\": \"0+000\", \"end_chainage\": null, \"status\": \"CLOSED\", \"closure_reason\": \"Landslide\", \"repair_eta\": \"4 days\", \"efforts_being_made\": \"\", \"remarks\": \"\", \"images\": [\"https://navigate.dor.gov.np/api/uploads/images/6970abbc836960bdff9e79d13c4495ca.png\"], \"date_roadblock_start\": \"2026-09-10T05:40:00+05:45\", \"date_roadblock_end_estimated\": \"2026-09-14T19:30:00+05:45\", \"date_roadblock_end\": null, \"actual_repair_time\": null, \"contact_person\": \"Deepak Shrestha(9851120791)\", \"ward\": 2955, \"municipality\": 23003, \"district\": 24, \"province\": 3}}]",
@@ -12408,65 +12316,28 @@
    "updatedBy": null,
    "hazard": null,
    "event": null
-  },
-  {
-   "id": 45654,
-   "title": "Flood warning at Siddhalek-6, Dhading",
-   "wards": [
-    3138
-   ],
-   "affectedDemography": {
-    "maleCount": 201327,
-    "femaleCount": 222345,
-    "householdCount": 101664
-   },
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.844102,
-     27.802439
-    ]
-   },
-   "createdOn": "2026-08-26T11:35:15.344855+05:45",
-   "titleNe": "सिद्धलेक-६, धादिङ्गमा बाढी",
-   "source": "dhm",
-   "description": "Basin:Narayani\nElevation:None\nWarning level:7.0\nWater level:7.7813000679",
-   "verified": true,
-   "public": true,
-   "startedOn": "2026-08-26T11:30:00+05:45",
-   "expireOn": null,
-   "polygon": null,
-   "referenceType": "river",
-   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Trishuli at Furke Khola(Malekhu)\", \"basin\": \"Narayani\", \"point\": \"SRID=4326;POINT (84.844102 27.802439)\", \"water_level\": 10.4819002151, \"image\": \"http://daq.hydrology.gov.np/images/6bc210f963f5e2e3c424a74842e92fda\", \"danger_level\": 8.0, \"warning_level\": 7.0, \"water_level_on\": \"2026-08-26T05:55:00Z\", \"status\": \"ABOVE DANGER LEVEL\", \"elevation\": null, \"steady\": \"RISING\", \"description\": \"CDCP_TEST_2025\", \"station_series_id\": 31967, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 3138, \"municipality\": 30011, \"district\": 26, \"province\": 3, \"station\": 261}}",
-   "referenceId": 5611,
-   "region": null,
-   "regionId": null,
-   "createdBy": null,
-   "updatedBy": null,
-   "hazard": 11,
-   "event": null
   }
  ],
  "health": [
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 2
+   "count": 6
   },
   {
    "source": "अनलाइनखबर",
    "ok": true,
-   "count": 13
+   "count": 8
   },
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 2
+   "count": 0
   },
   {
    "source": "सेतोपाटी",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "source": "Khabarhub (English)",
@@ -12486,7 +12357,7 @@
   {
    "source": "rivers",
    "ok": true,
-   "count": 10
+   "count": 7
   },
   {
    "source": "alerts",
