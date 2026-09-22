@@ -1,6 +1,15 @@
 {
- "generatedAt": "2026-09-22T21:31:21.203Z",
+ "generatedAt": "2026-09-22T23:46:10.117Z",
  "news": [
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "भोटेकोशी बाढी: अधुरो आशा र काजकिरियाको दोधारमा छन् बेपत्ताका परिवार",
+   "link": "https://www.ratopati.com/story/594063/bhotekoshi-flood-families-of-the-missing-are-torn-between-unfulfilled-hopes-and-a-sense-of-hopelessness",
+   "date": "Tue, 22 Sep 2026 22:59:21 +0000",
+   "ts": 1790117961000
+  },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
@@ -18,24 +27,6 @@
    "link": "https://www.ratopati.com/story/594042/dhading-industrialists-and-businessmen-demand-construction-of-bridge-over-furkekhola",
    "date": "Tue, 22 Sep 2026 16:46:02 +0000",
    "ts": 1790095562000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "प्रदेश सरकारद्वारा दार्चुलाका विपद् प्रभावितलाई राहत सामग्री प्रदान",
-   "link": "https://www.ratopati.com/story/594038/provincial-government-provides-relief-materials-to-disaster-affected-people-in-darchula",
-   "date": "Tue, 22 Sep 2026 16:10:26 +0000",
-   "ts": 1790093426000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "बाढी प्रभावितका लागि तनाव व्यवस्थापन शिविर सञ्चालन",
-   "link": "https://www.ratopati.com/story/594037/stress-management-camp-held-for-flood-victims",
-   "date": "Tue, 22 Sep 2026 16:07:14 +0000",
-   "ts": 1790093234000
   },
   {
    "source": "अनलाइनखबर",
@@ -1225,7 +1216,7 @@
     ]
    },
    "createdOn": "2026-09-22T16:45:04.550972+05:45",
-   "modifiedOn": "2026-09-23T03:03:04.522532+05:45",
+   "modifiedOn": "2026-09-23T05:21:03.811452+05:45",
    "titleNe": "सुदुरपश्चिम, डडेल्धुरा, अजयमेरु-३ मा पहिरो",
    "description": null,
    "cause": null,
@@ -1245,7 +1236,7 @@
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 481906,
+   "loss": 481924,
    "createdBy": null,
    "updatedBy": null
   },
@@ -4900,9 +4891,9 @@
  ],
  "rivers": [
   {
-   "id": 25501686,
-   "createdOn": "2026-09-23T03:15:10.505231+05:45",
-   "modifiedOn": "2026-09-23T03:15:10.505233+05:45",
+   "id": 25503397,
+   "createdOn": "2026-09-23T05:25:10.011986+05:45",
+   "modifiedOn": "2026-09-23T05:25:10.011988+05:45",
    "title": "Trishuli River at Kali Khola",
    "basin": "Narayani",
    "point": {
@@ -4912,14 +4903,14 @@
      27.833
     ]
    },
-   "waterLevel": 4.39499855042,
+   "waterLevel": 4.65299987793,
    "image": "http://daq.hydrology.gov.np/images/364ef9a4cae0f2a57b48d88b42f579ff",
    "dangerLevel": 12.1,
    "warningLevel": 10.8,
-   "waterLevelOn": "2026-09-23T03:10:00+05:45",
+   "waterLevelOn": "2026-09-23T05:10:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 250,
-   "steady": "FALLING",
+   "steady": "RISING",
    "description": "MHS",
    "stationSeriesId": 19583,
    "dataSource": "hydrology.gov.np",
@@ -4931,9 +4922,9 @@
    "station": 67
   },
   {
-   "id": 25501685,
-   "createdOn": "2026-09-23T03:15:10.505194+05:45",
-   "modifiedOn": "2026-09-23T03:15:10.505196+05:45",
+   "id": 25503396,
+   "createdOn": "2026-09-23T05:25:10.011948+05:45",
+   "modifiedOn": "2026-09-23T05:25:10.011950+05:45",
    "title": "Trishuli Khola at Dhunche",
    "basin": "Narayani",
    "point": {
@@ -4943,11 +4934,11 @@
      28.098163
     ]
    },
-   "waterLevel": 2.42129945755,
+   "waterLevel": 2.42939949036,
    "image": "http://daq.hydrology.gov.np/images/0a4d86552fd0e57c5ab02555b4dc693f",
    "dangerLevel": null,
    "warningLevel": 3.2,
-   "waterLevelOn": "2026-09-23T03:00:00+05:45",
+   "waterLevelOn": "2026-09-23T05:10:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -4962,9 +4953,9 @@
    "station": 105
   },
   {
-   "id": 25501677,
-   "createdOn": "2026-09-23T03:15:10.504884+05:45",
-   "modifiedOn": "2026-09-23T03:15:10.504886+05:45",
+   "id": 25503391,
+   "createdOn": "2026-09-23T05:25:10.011742+05:45",
+   "modifiedOn": "2026-09-23T05:25:10.011744+05:45",
    "title": "Tadi Khola at Rautar",
    "basin": "Narayani",
    "point": {
@@ -4974,11 +4965,11 @@
      27.918694
     ]
    },
-   "waterLevel": 0.708100318909,
+   "waterLevel": 0.744700431824,
    "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
    "dangerLevel": null,
    "warningLevel": 3.5,
-   "waterLevelOn": "2026-09-23T03:10:00+05:45",
+   "waterLevelOn": "2026-09-23T05:10:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -4993,9 +4984,9 @@
    "station": 65
   },
   {
-   "id": 25501642,
-   "createdOn": "2026-09-23T03:15:10.503316+05:45",
-   "modifiedOn": "2026-09-23T03:15:10.503318+05:45",
+   "id": 25503358,
+   "createdOn": "2026-09-23T05:25:10.010428+05:45",
+   "modifiedOn": "2026-09-23T05:25:10.010431+05:45",
    "title": "Narayani at Devghat",
    "basin": "Narayani",
    "point": {
@@ -5005,11 +4996,11 @@
      27.71
     ]
    },
-   "waterLevel": 3.71199989319,
+   "waterLevel": 3.70699977875,
    "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
    "dangerLevel": 9,
    "warningLevel": 7.3,
-   "waterLevelOn": "2026-09-23T02:50:00+05:45",
+   "waterLevelOn": "2026-09-23T05:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -5024,71 +5015,9 @@
    "station": 25
   },
   {
-   "id": 25501566,
-   "createdOn": "2026-09-23T03:15:10.500226+05:45",
-   "modifiedOn": "2026-09-23T03:15:10.500228+05:45",
-   "title": "Budhi Gandaki at Aarughat",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.816,
-     28.046
-    ]
-   },
-   "waterLevel": 2.77419996262,
-   "image": "http://daq.hydrology.gov.np/images/a5d962039af199e304760d743ab51419",
-   "dangerLevel": 5,
-   "warningLevel": 4.5,
-   "waterLevelOn": "2026-09-23T02:50:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "FALLING",
-   "description": "Station under PPCR",
-   "stationSeriesId": 3572,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 3429,
-   "municipality": 36001,
-   "district": 44,
-   "province": 4,
-   "station": 100
-  },
-  {
-   "id": 25501564,
-   "createdOn": "2026-09-23T03:15:10.500141+05:45",
-   "modifiedOn": "2026-09-23T03:15:10.500143+05:45",
-   "title": "Bhote Koshi at Bahrabise",
-   "basin": "Koshi",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.899324,
-     27.786773
-    ]
-   },
-   "waterLevel": 1.17600059509,
-   "image": "http://daq.hydrology.gov.np/images/1fa9f7b4833192d038492298d9a42cc7",
-   "dangerLevel": 3.6,
-   "warningLevel": 3.1,
-   "waterLevelOn": "2026-09-23T03:00:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "CDCP with RLS",
-   "stationSeriesId": 1640,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 2879,
-   "municipality": 23002,
-   "district": 24,
-   "province": 3,
-   "station": 91
-  },
-  {
-   "id": 25501525,
-   "createdOn": "2026-09-23T03:05:09.854968+05:45",
-   "modifiedOn": "2026-09-23T03:05:09.854970+05:45",
+   "id": 25503348,
+   "createdOn": "2026-09-23T05:25:10.009896+05:45",
+   "modifiedOn": "2026-09-23T05:25:10.009898+05:45",
    "title": "Manahari Khola at Manahari",
    "basin": "Narayani",
    "point": {
@@ -5098,11 +5027,11 @@
      27.548673
     ]
    },
-   "waterLevel": 0.853999137878,
+   "waterLevel": 0.848999977112,
    "image": "http://daq.hydrology.gov.np/images/dda94e5a1fe05535b24b7907976c7efe",
    "dangerLevel": null,
    "warningLevel": 4.3,
-   "waterLevelOn": "2026-09-23T02:50:00+05:45",
+   "waterLevelOn": "2026-09-23T05:10:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 305,
    "steady": "STEADY",
@@ -5117,40 +5046,71 @@
    "station": 116
   },
   {
-   "id": 25501479,
-   "createdOn": "2026-09-23T03:05:09.852977+05:45",
-   "modifiedOn": "2026-09-23T03:05:09.852979+05:45",
-   "title": "East Rapti at Rajaiya",
+   "id": 25503283,
+   "createdOn": "2026-09-23T05:25:10.007218+05:45",
+   "modifiedOn": "2026-09-23T05:25:10.007221+05:45",
+   "title": "Budhi Gandaki at Aarughat",
    "basin": "Narayani",
    "point": {
     "type": "Point",
     "coordinates": [
-     84.97,
-     27.44
+     84.816,
+     28.046
     ]
    },
-   "waterLevel": 1.22599983215,
-   "image": "http://daq.hydrology.gov.np/images/6b3873a603048aca368d9d8fe8e5ca1d",
-   "dangerLevel": 3.7,
-   "warningLevel": 3.3,
-   "waterLevelOn": "2026-09-23T02:50:00+05:45",
+   "waterLevel": 2.76060009003,
+   "image": "http://daq.hydrology.gov.np/images/a5d962039af199e304760d743ab51419",
+   "dangerLevel": 5,
+   "warningLevel": 4.5,
+   "waterLevelOn": "2026-09-23T05:10:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
    "description": "Station under PPCR",
-   "stationSeriesId": 3733,
+   "stationSeriesId": 3572,
    "dataSource": "hydrology.gov.np",
    "dataSourceId": null,
-   "ward": 2364,
-   "municipality": 31004,
-   "district": 31,
+   "ward": 3429,
+   "municipality": 36001,
+   "district": 44,
+   "province": 4,
+   "station": 100
+  },
+  {
+   "id": 25503281,
+   "createdOn": "2026-09-23T05:25:10.007138+05:45",
+   "modifiedOn": "2026-09-23T05:25:10.007140+05:45",
+   "title": "Bhote Koshi at Bahrabise",
+   "basin": "Koshi",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.899324,
+     27.786773
+    ]
+   },
+   "waterLevel": 1.33800029755,
+   "image": "http://daq.hydrology.gov.np/images/1fa9f7b4833192d038492298d9a42cc7",
+   "dangerLevel": 3.6,
+   "warningLevel": 3.1,
+   "waterLevelOn": "2026-09-23T05:10:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": null,
+   "steady": "RISING",
+   "description": "CDCP with RLS",
+   "stationSeriesId": 1640,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 2879,
+   "municipality": 23002,
+   "district": 24,
    "province": 3,
-   "station": 70
+   "station": 91
   }
  ],
  "alerts": [
   {
-   "id": 45954,
+   "id": 45955,
    "title": "Pollution Alert at Damak-1, Jhapa",
    "wards": [
     6291
@@ -5167,17 +5127,17 @@
      26.669363
     ]
    },
-   "createdOn": "2026-09-23T03:09:04.226936+05:45",
+   "createdOn": "2026-09-23T05:09:04.075150+05:45",
    "titleNe": "दमक-१, झापामा वातावरणीय प्रदुषण",
    "source": "doe",
    "description": "AQI value is greater than 150",
    "verified": true,
    "public": true,
-   "startedOn": "2026-09-23T02:44:00.010000+05:45",
+   "startedOn": "2026-09-23T04:44:00.010000+05:45",
    "expireOn": null,
    "polygon": null,
    "referenceType": "pollution",
-   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Damak\", \"identifier\": \"Damak,Jhapa\", \"date_time\": \"2026-09-23T02:44:00.010+05:45\", \"aqi_color\": \"#FF0000\", \"aqi\": 151.0, \"observation\": [{\"data\": {\"value\": 55.5999984741, \"datetime\": \"2026-09-22T20:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1546, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 56.5999984741, \"datetime\": \"2026-09-22T20:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1545, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 56.2000007629, \"datetime\": \"2026-09-22T20:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1547, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}, {\"id\": 10, \"name\": \"2019\", \"description\": \"Stations installed in 2019\"}], \"images\": \"[\\\"http://pollution.gov.np:8000/images/63f3e7b4d8d92281a8a7f12260753005\\\", \\\"http://pollution.gov.np:8000/images/19be0ace21ba9f0e990c12a5cadef446\\\"]\", \"point\": \"SRID=4326;POINT (87.703262 26.669363)\", \"elevation\": 136.0, \"description\": \"Air quality index at Damak is 151. An alert is created for pollution in Damak\", \"ward\": 6291, \"municipality\": 4006, \"district\": 4, \"province\": 1, \"station\": 16}}",
+   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Damak\", \"identifier\": \"Damak,Jhapa\", \"date_time\": \"2026-09-23T04:44:00.010+05:45\", \"aqi_color\": \"#FF0000\", \"aqi\": 151.0, \"observation\": [{\"data\": {\"value\": 55.9000015259, \"datetime\": \"2026-09-22T22:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1546, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 55.9000015259, \"datetime\": \"2026-09-22T22:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1545, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 55.9000015259, \"datetime\": \"2026-09-22T22:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1547, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}, {\"id\": 10, \"name\": \"2019\", \"description\": \"Stations installed in 2019\"}], \"images\": \"[\\\"http://pollution.gov.np:8000/images/63f3e7b4d8d92281a8a7f12260753005\\\", \\\"http://pollution.gov.np:8000/images/19be0ace21ba9f0e990c12a5cadef446\\\"]\", \"point\": \"SRID=4326;POINT (87.703262 26.669363)\", \"elevation\": 136.0, \"description\": \"Air quality index at Damak is 151. An alert is created for pollution in Damak\", \"ward\": 6291, \"municipality\": 4006, \"district\": 4, \"province\": 1, \"station\": 16}}",
    "referenceId": 58,
    "region": null,
    "regionId": null,
@@ -5214,7 +5174,7 @@
    "expireOn": null,
    "polygon": null,
    "referenceType": "pollution",
-   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Lumbini\", \"identifier\": \"LUMBINI\", \"date_time\": \"2026-09-23T02:21:00.010+05:45\", \"aqi_color\": \"#FF0000\", \"aqi\": 157.0, \"observation\": [{\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": 137, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 79.3000030518, \"datetime\": \"2026-09-22T20:36:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 134, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 67.4000015259, \"datetime\": \"2026-09-22T20:36:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 140, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}], \"images\": \"[\\\"http://pollution.gov.np:8000/images/5a856d097d2d6ed3827e7975a3d28efa\\\"]\", \"point\": \"SRID=4326;POINT (83.282186 27.50359)\", \"elevation\": 97.0, \"description\": \"Air quality index at Lumbini is 157. An alert is created for pollution in Lumbini\", \"ward\": 4237, \"municipality\": 49099, \"district\": 37, \"province\": 5, \"station\": 26}}",
+   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Lumbini\", \"identifier\": \"LUMBINI\", \"date_time\": \"2026-09-23T04:43:00.010+05:45\", \"aqi_color\": \"#FF0000\", \"aqi\": 157.0, \"observation\": [{\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": 137, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 75.9000015259, \"datetime\": \"2026-09-22T22:58:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 134, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 66.6999969482, \"datetime\": \"2026-09-22T22:58:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 140, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}], \"images\": \"[\\\"http://pollution.gov.np:8000/images/5a856d097d2d6ed3827e7975a3d28efa\\\"]\", \"point\": \"SRID=4326;POINT (83.282186 27.50359)\", \"elevation\": 97.0, \"description\": \"Air quality index at Lumbini is 157. An alert is created for pollution in Lumbini\", \"ward\": 4237, \"municipality\": 49099, \"district\": 37, \"province\": 5, \"station\": 26}}",
    "referenceId": 6,
    "region": null,
    "regionId": null,
@@ -9594,7 +9554,7 @@
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "source": "अनलाइनखबर",
@@ -9629,7 +9589,7 @@
   {
    "source": "rivers",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "source": "alerts",
