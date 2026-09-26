@@ -1,14 +1,140 @@
 {
- "generatedAt": "2026-09-26T10:10:38.594Z",
+ "generatedAt": "2026-09-26T14:29:59.492Z",
  "news": [
+  {
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "Landslides disrupt Beni- Jomsom-Korola section, export-import affected",
+   "link": "https://english.khabarhub.com/2026/26/569397/",
+   "date": "Sat, 26 Sep 2026 14:15:22 +0000",
+   "ts": 1790432122000
+  },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
    "site": "https://www.ratopati.com",
-   "title": "पहिरोले छेकेको गन्तव्य : न खल्तीमा चल्ने पैसा, न पेटभरि खाना",
-   "link": "https://www.ratopati.com/story/595080/destination-blocked-by-landslide-no-money-in-pocket-no-food-to-fill-stomach",
-   "date": "Sat, 26 Sep 2026 10:07:21 +0000",
-   "ts": 1790417241000
+   "title": "नाका खोल्न चट्टान फोड्दै सेना, बेत्रावतीमा छिट्टै पुल जडान हुने",
+   "link": "https://www.ratopati.com/story/595071/army-breaking-rocks-to-open-checkpoint-bridge-to-be-installed-soon-at-betravati",
+   "date": "Sat, 26 Sep 2026 14:15:00 +0000",
+   "ts": 1790432100000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "पाकिस्तानमा जबरजस्ती विवाहको शिकार बनेकी महिलाको उद्धार",
+   "link": "https://www.ratopati.com/story/595130/woman-rescued-from-forced-marriage-in-pakistan",
+   "date": "Sat, 26 Sep 2026 13:48:17 +0000",
+   "ts": 1790430497000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "कान्ति लोकपथमा खसेको पहिरो हटाइयो",
+   "link": "https://www.ratopati.com/story/595129/landslide-on-kanti-lokpath-removed",
+   "date": "Sat, 26 Sep 2026 13:35:01 +0000",
+   "ts": 1790429701000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "पाल्पामा पहिरोले घर पुरिँदा बेपत्ता भएकी महिला मृत भेटिइन्",
+   "link": "https://www.onlinekhabar.com/2026/09/2026417/woman-who-went-missing-after-house-buried-by-landslide-in-palpa-found-dead",
+   "date": "Sat, 26 Sep 2026 13:31:29 +0000",
+   "ts": 1790429489000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "कान्ति लोकपथमा खसेको पहिरो हटाइयो",
+   "link": "https://www.onlinekhabar.com/2026/09/2026415/landslide-on-kanti-lokpath-removed",
+   "date": "Sat, 26 Sep 2026 13:25:43 +0000",
+   "ts": 1790429143000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "बिहीबारयता बाढी, पहिरो लगायतका विपद्‍मा परी ६ जनाको मृत्यु",
+   "link": "https://www.onlinekhabar.com/2026/09/2026411/six-people-have-died-in-floods-landslides-and-other-disasters-since-thursday",
+   "date": "Sat, 26 Sep 2026 13:15:38 +0000",
+   "ts": 1790428538000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "पाल्पा पहिरोमा बेपत्ता महिलाको शव फेला",
+   "link": "https://www.ratopati.com/story/595127/body-of-missing-woman-found-in-palpa-landslide",
+   "date": "Sat, 26 Sep 2026 13:12:40 +0000",
+   "ts": 1790428360000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "नारायणी नदीमा आएको बाढीले अमलटारी डुबानमा (तस्बिरहरु)",
+   "link": "https://www.ratopati.com/story/595126/amaltari-inundated-by-flood-in-narayani-river-photos",
+   "date": "Sat, 26 Sep 2026 12:47:50 +0000",
+   "ts": 1790426870000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "सडक सञ्जाल अवरुद्ध हुँदा रसुवामा खाद्यान्न अभाव, बिरामी मारमा",
+   "link": "https://www.ratopati.com/story/595123/food-shortage-illness-grip-rasuwa-as-road-network-disrupted",
+   "date": "Sat, 26 Sep 2026 12:23:59 +0000",
+   "ts": 1790425439000
+  },
+  {
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "Floods and landslides displace 11 families in Gulmi",
+   "link": "https://english.khabarhub.com/2026/26/569382/",
+   "date": "Sat, 26 Sep 2026 12:15:43 +0000",
+   "ts": 1790424943000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "पहिरोका कारण जोमसोम–कोरला सडक अवरुद्ध",
+   "link": "https://www.onlinekhabar.com/2026/09/2026349/landslide-blocks-jomsom-korla-road",
+   "date": "Sat, 26 Sep 2026 11:52:28 +0000",
+   "ts": 1790423548000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "सडक सञ्जाल अवरुद्ध हुँदा रसुवामा खाद्यान्न अभाव, बिरामी मारमा",
+   "link": "https://www.onlinekhabar.com/2026/09/2026347/food-shortage-illness-grip-rasuwa-as-road-network-disrupted",
+   "date": "Sat, 26 Sep 2026 11:42:32 +0000",
+   "ts": 1790422952000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "नारायणी नदीमा बाढीले सतर्कता तह पार गर्‍यो",
+   "link": "https://www.onlinekhabar.com/2026/09/2026334/flooding-in-narayani-river-crosses-alert-level",
+   "date": "Sat, 26 Sep 2026 11:21:25 +0000",
+   "ts": 1790421685000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "पहिरोसँगै खसेको ढुङ्गा लागेर डोल्पामा एकको मृत्यु्",
+   "link": "https://www.onlinekhabar.com/2026/09/2026321/one-killed-in-dolpa-after-being-hit-by-falling-rocks",
+   "date": "Sat, 26 Sep 2026 10:56:22 +0000",
+   "ts": 1790420182000
   },
   {
    "source": "अनलाइनखबर",
@@ -38,24 +164,6 @@
    "ts": 1790414907000
   },
   {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "रसुवा बाढी :  सात जनाको विभिन्न अस्पतालमा उपचार हुँदै, ३०१ जना डिस्चार्ज",
-   "link": "https://www.ratopati.com/story/595068/rasuwa-flood-seven-people-are-being-treated-at-various-hospitals-301-people-have-been-discharged",
-   "date": "Sat, 26 Sep 2026 09:19:11 +0000",
-   "ts": 1790414351000
-  },
-  {
-   "source": "सेतोपाटी",
-   "sourceId": "setopati",
-   "site": "https://www.setopati.com",
-   "title": "त्रिशूलीमाथिका पक्की पुल- कहीँ नामनिसान छैन, कतै खण्डहर (तस्बिरहरू)",
-   "link": "https://www.setopati.com/social/399287",
-   "date": "Sat, 26 Sep 2026 14:29:01 +0545",
-   "ts": 1790412241000
-  },
-  {
    "source": "Khabarhub (English)",
    "sourceId": "khabarhub",
    "site": "https://english.khabarhub.com",
@@ -65,130 +173,40 @@
    "ts": 1790411773000
   },
   {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "गुल्मीको मुसिकोटमा पहिरोले घरमा क्षति, परिवार सुरक्षित स्थानमा सारियो",
-   "link": "https://www.onlinekhabar.com/2026/09/2026201/landslide-damages-house-in-musikot-gulmi-family-shifted-to-safer-place",
-   "date": "Sat, 26 Sep 2026 08:24:40 +0000",
-   "ts": 1790411080000
+   "source": "The Kathmandu Post",
+   "sourceId": "kathmandupost",
+   "site": "https://kathmandupost.com",
+   "title": "Vegetable prices skyrocket in Valley as landslides disrupt transport",
+   "link": "https://kathmandupost.com/money/2026/09/26/vegetable-prices-skyrocket-in-valley-as-landslides-disrupt-transport",
+   "date": "",
+   "ts": 0
   },
   {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "बागलुङमा पहिरोले घर पुरिँदा एकको मृत्यु",
-   "link": "https://www.onlinekhabar.com/2026/09/2026199/one-dead-after-landslide-buries-house-in-baglung",
-   "date": "Sat, 26 Sep 2026 08:21:58 +0000",
-   "ts": 1790410918000
+   "source": "The Kathmandu Post",
+   "sourceId": "kathmandupost",
+   "site": "https://kathmandupost.com",
+   "title": "As rain returns, flood survivors endure cold—and leaking tents",
+   "link": "https://kathmandupost.com/national/2026/09/26/as-rain-returns-flood-survivors-endure-cold-and-leaking-tents",
+   "date": "",
+   "ts": 0
   },
   {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "कृष्णभीरको पहिरो पन्छाएपछि सवारी सञ्चालनमा",
-   "link": "https://www.ratopati.com/story/595050/traffic-resumes-after-krishnabhir-landslide-cleared",
-   "date": "Sat, 26 Sep 2026 08:19:56 +0000",
-   "ts": 1790410796000
+   "source": "The Kathmandu Post",
+   "sourceId": "kathmandupost",
+   "site": "https://kathmandupost.com",
+   "title": "Koshi floods inundate 157 homes in Saptari",
+   "link": "https://kathmandupost.com/province-no-1/2026/09/26/koshi-floods-inundate-157-homes-in-saptari",
+   "date": "",
+   "ts": 0
   },
   {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "कृष्णभिरमा पहिरो पन्छाएपछि पृथ्वी राजमार्ग एकतर्फी सञ्चालन",
-   "link": "https://www.onlinekhabar.com/2026/09/2026187/prithvi-highway-to-be-operated-in-one-direction-after-landslide-in-krishnabhir",
-   "date": "Sat, 26 Sep 2026 08:09:35 +0000",
-   "ts": 1790410175000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "रसुवाको बाढीपछि बेपत्ता गंगारामको कुशको शव बनाएर अन्त्येष्टि",
-   "link": "https://www.onlinekhabar.com/2026/09/2026183/funeral-held-for-gangaram-who-went-missing-after-the-rasuwa-floods",
-   "date": "Sat, 26 Sep 2026 08:07:46 +0000",
-   "ts": 1790410066000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "सुस्ता डुबान : सशस्त्र प्रहरीद्वारा २९ जनाको सकुशल उद्धार",
-   "link": "https://www.onlinekhabar.com/2026/09/2026170/susta-flood-armed-police-force-rescues-29-people-safely",
-   "date": "Sat, 26 Sep 2026 07:44:51 +0000",
-   "ts": 1790408691000
-  },
-  {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "Flood alert issued in 58 districts, including Kathmandu",
-   "link": "https://english.khabarhub.com/2026/26/569344/",
-   "date": "Sat, 26 Sep 2026 07:15:51 +0000",
-   "ts": 1790406951000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "पहिरोले सन्धिखर्क ढोरपाटन सडक अवरुद्ध",
-   "link": "https://www.onlinekhabar.com/2026/09/2026159/landslide-blocks-sandhikharka-dhorpatan-road",
-   "date": "Sat, 26 Sep 2026 06:50:09 +0000",
-   "ts": 1790405409000
-  },
-  {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "Bhotekoshi flood: 5,285 people remain unaccounted for",
-   "link": "https://english.khabarhub.com/2026/26/569336/",
-   "date": "Sat, 26 Sep 2026 06:15:07 +0000",
-   "ts": 1790403307000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "गुल्मीको सेउघामा पहिरो जाँदा २ घर जोखिममा, ६ जनाको उद्धार",
-   "link": "https://www.onlinekhabar.com/2026/09/2026149/2-houses-at-risk-after-landslide-in-seugha-gulmi-6-people-rescued",
-   "date": "Sat, 26 Sep 2026 06:15:05 +0000",
-   "ts": 1790403305000
-  },
-  {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "Efforts underway to reopen flood-damaged BP Highway",
-   "link": "https://english.khabarhub.com/2026/26/569338/",
-   "date": "Sat, 26 Sep 2026 06:00:46 +0000",
-   "ts": 1790402446000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "पहिरो र बाढीका कारण ११ सडकखण्ड प्रभावित, पृथ्वी राजमार्गमा यातायात बन्द",
-   "link": "https://www.onlinekhabar.com/2026/09/2026134/11-road-sections-affected-by-landslides-and-floods-traffic-on-prithvi-highway-closed",
-   "date": "Sat, 26 Sep 2026 04:58:08 +0000",
-   "ts": 1790398688000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "सुस्ताको बस्तीमा पस्यो नारायणीको बाढी, १५० बढी घरपरिवार उच्च जोखिममा",
-   "link": "https://www.onlinekhabar.com/2026/09/2026108/narayani-flood-enters-susta-settlement-more-than-150-households-at-high-risk",
-   "date": "Sat, 26 Sep 2026 03:39:37 +0000",
-   "ts": 1790393977000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "रसुवा नाका सञ्चालनका लागि चिनियाँ राजदूतसँग आग्रह",
-   "link": "https://nagariknews.nagariknetwork.com/politics/request-to-chinese-ambassador-for-operation-of-rasuwa-border-checkpoint-br-57-96.html",
-   "date": "Fri, 25 Sep 2026 16:22:30 +0545",
-   "ts": 1790332650000
+   "source": "The Kathmandu Post",
+   "sourceId": "kathmandupost",
+   "site": "https://kathmandupost.com",
+   "title": "A month on, Nepal flood victims remain missing as hope and posters fade",
+   "link": "https://kathmandupost.com/visual-stories/2026/09/26/a-month-on-nepal-flood-victims-remain-missing-as-hope-and-posters-fade",
+   "date": "",
+   "ts": 0
   },
   {
    "source": "The Kathmandu Post",
@@ -259,15 +277,6 @@
    "site": "https://kathmandupost.com",
    "title": "Major highways hit by landslides as heavy rain persists",
    "link": "https://kathmandupost.com/national/2026/09/25/major-highways-hit-by-landslides-as-heavy-rain-persists",
-   "date": "",
-   "ts": 0
-  },
-  {
-   "source": "The Kathmandu Post",
-   "sourceId": "kathmandupost",
-   "site": "https://kathmandupost.com",
-   "title": "Flood-hit women entrepreneurs determined to rebuild their businesses",
-   "link": "https://kathmandupost.com/money/2026/09/25/flood-hit-women-entrepreneurs-determined-to-rebuild-their-business",
    "date": "",
    "ts": 0
   }
@@ -7648,9 +7657,9 @@
  ],
  "rivers": [
   {
-   "id": 25571668,
-   "createdOn": "2026-09-26T15:55:09.692310+05:45",
-   "modifiedOn": "2026-09-26T15:55:09.692313+05:45",
+   "id": 25575117,
+   "createdOn": "2026-09-26T20:05:10.069068+05:45",
+   "modifiedOn": "2026-09-26T20:05:10.069070+05:45",
    "title": "Trishuli at Galchi",
    "basin": "Narayani",
    "point": {
@@ -7660,14 +7669,14 @@
      27.802328
     ]
    },
-   "waterLevel": 361.740020752,
+   "waterLevel": 361.857696533,
    "image": "http://daq.hydrology.gov.np/images/96917ebb6f5c49a5673ea38a1b4fa8e0",
    "dangerLevel": null,
    "warningLevel": 367,
-   "waterLevelOn": "2026-09-26T15:50:00+05:45",
+   "waterLevelOn": "2026-09-26T20:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 378,
-   "steady": "STEADY",
+   "steady": "RISING",
    "description": "RLS from RTS",
    "stationSeriesId": 36628,
    "dataSource": "hydrology.gov.np",
@@ -7679,9 +7688,40 @@
    "station": 281
   },
   {
-   "id": 25571667,
-   "createdOn": "2026-09-26T15:55:09.692272+05:45",
-   "modifiedOn": "2026-09-26T15:55:09.692274+05:45",
+   "id": 25575116,
+   "createdOn": "2026-09-26T20:05:10.069028+05:45",
+   "modifiedOn": "2026-09-26T20:05:10.069032+05:45",
+   "title": "Trishuli River at Bhorle",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.45,
+     27.82
+    ]
+   },
+   "waterLevel": 8.6890001297,
+   "image": "http://daq.hydrology.gov.np/images/73368683a6f7de9fb9558110f86350e9",
+   "dangerLevel": null,
+   "warningLevel": 9.5,
+   "waterLevelOn": "2026-09-26T19:50:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": 200,
+   "steady": "FALLING",
+   "description": "RLS with CDCP",
+   "stationSeriesId": 19401,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 2259,
+   "municipality": 35001,
+   "district": 35,
+   "province": 3,
+   "station": 35
+  },
+  {
+   "id": 25575115,
+   "createdOn": "2026-09-26T20:05:10.068990+05:45",
+   "modifiedOn": "2026-09-26T20:05:10.068992+05:45",
    "title": "Trishuli Khola at Dhunche",
    "basin": "Narayani",
    "point": {
@@ -7691,11 +7731,11 @@
      28.098163
     ]
    },
-   "waterLevel": 2.66639947891,
+   "waterLevel": 2.65859985352,
    "image": "http://daq.hydrology.gov.np/images/0a4d86552fd0e57c5ab02555b4dc693f",
    "dangerLevel": null,
    "warningLevel": 3.2,
-   "waterLevelOn": "2026-09-26T15:40:00+05:45",
+   "waterLevelOn": "2026-09-26T19:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -7710,9 +7750,9 @@
    "station": 105
   },
   {
-   "id": 25571665,
-   "createdOn": "2026-09-26T15:55:09.692195+05:45",
-   "modifiedOn": "2026-09-26T15:55:09.692197+05:45",
+   "id": 25575106,
+   "createdOn": "2026-09-26T20:05:10.068643+05:45",
+   "modifiedOn": "2026-09-26T20:05:10.068645+05:45",
    "title": "Tadi Khola at Rautar",
    "basin": "Narayani",
    "point": {
@@ -7722,11 +7762,11 @@
      27.918694
     ]
    },
-   "waterLevel": 1.03740024567,
+   "waterLevel": 1.11530017853,
    "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
    "dangerLevel": null,
    "warningLevel": 3.5,
-   "waterLevelOn": "2026-09-26T15:50:00+05:45",
+   "waterLevelOn": "2026-09-26T20:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -7741,9 +7781,9 @@
    "station": 65
   },
   {
-   "id": 25571657,
-   "createdOn": "2026-09-26T15:55:09.691881+05:45",
-   "modifiedOn": "2026-09-26T15:55:09.691883+05:45",
+   "id": 25575089,
+   "createdOn": "2026-09-26T20:05:10.067963+05:45",
+   "modifiedOn": "2026-09-26T20:05:10.067965+05:45",
    "title": "Narayani at Devghat",
    "basin": "Narayani",
    "point": {
@@ -7753,11 +7793,11 @@
      27.71
     ]
    },
-   "waterLevel": 8.94099998474,
+   "waterLevel": 8.69400024414,
    "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
    "dangerLevel": 9,
    "warningLevel": 7.3,
-   "waterLevelOn": "2026-09-26T15:30:00+05:45",
+   "waterLevelOn": "2026-09-26T19:40:00+05:45",
    "status": "ABOVE WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -7772,40 +7812,9 @@
    "station": 25
   },
   {
-   "id": 25571647,
-   "createdOn": "2026-09-26T15:55:09.691491+05:45",
-   "modifiedOn": "2026-09-26T15:55:09.691494+05:45",
-   "title": "Manahari Khola at Manahari",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.827716,
-     27.548673
-    ]
-   },
-   "waterLevel": 1.22899961472,
-   "image": "http://daq.hydrology.gov.np/images/dda94e5a1fe05535b24b7907976c7efe",
-   "dangerLevel": null,
-   "warningLevel": 4.3,
-   "waterLevelOn": "2026-09-26T15:40:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": 305,
-   "steady": "STEADY",
-   "description": "HS_manual",
-   "stationSeriesId": 21323,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 2378,
-   "municipality": 31009,
-   "district": 31,
-   "province": 3,
-   "station": 116
-  },
-  {
-   "id": 25571639,
-   "createdOn": "2026-09-26T15:55:09.691164+05:45",
-   "modifiedOn": "2026-09-26T15:55:09.691167+05:45",
+   "id": 25575077,
+   "createdOn": "2026-09-26T20:05:10.067332+05:45",
+   "modifiedOn": "2026-09-26T20:05:10.067334+05:45",
    "title": "Lothar Khola at Lothar",
    "basin": "Narayani",
    "point": {
@@ -7815,11 +7824,11 @@
      27.5877
     ]
    },
-   "waterLevel": 1.76300001144,
+   "waterLevel": 1.80500030518,
    "image": "http://daq.hydrology.gov.np/images/93f6c4e346f0c03f64410c51ac9f71a0",
    "dangerLevel": 7,
    "warningLevel": 6.5,
-   "waterLevelOn": "2026-09-26T15:40:00+05:45",
+   "waterLevelOn": "2026-09-26T19:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 207,
    "steady": "STEADY",
@@ -7834,40 +7843,9 @@
    "station": 16
   },
   {
-   "id": 25571576,
-   "createdOn": "2026-09-26T15:55:09.688577+05:45",
-   "modifiedOn": "2026-09-26T15:55:09.688579+05:45",
-   "title": "Budhi Gandaki at Aarughat",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.816,
-     28.046
-    ]
-   },
-   "waterLevel": 3.6686000824,
-   "image": "http://daq.hydrology.gov.np/images/a5d962039af199e304760d743ab51419",
-   "dangerLevel": 5,
-   "warningLevel": 4.5,
-   "waterLevelOn": "2026-09-26T15:40:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "Station under PPCR",
-   "stationSeriesId": 3572,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 3429,
-   "municipality": 36001,
-   "district": 44,
-   "province": 4,
-   "station": 100
-  },
-  {
-   "id": 25571548,
-   "createdOn": "2026-09-26T15:45:15.215529+05:45",
-   "modifiedOn": "2026-09-26T15:45:15.215531+05:45",
+   "id": 25575010,
+   "createdOn": "2026-09-26T19:55:10.341111+05:45",
+   "modifiedOn": "2026-09-26T19:55:10.341113+05:45",
    "title": "Trishuli River at Kali Khola",
    "basin": "Narayani",
    "point": {
@@ -7877,14 +7855,14 @@
      27.833
     ]
    },
-   "waterLevel": 9.54999923706,
+   "waterLevel": 8.86699867249,
    "image": "http://daq.hydrology.gov.np/images/364ef9a4cae0f2a57b48d88b42f579ff",
    "dangerLevel": 12.1,
    "warningLevel": 10.8,
-   "waterLevelOn": "2026-09-26T15:40:00+05:45",
+   "waterLevelOn": "2026-09-26T19:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 250,
-   "steady": "FALLING",
+   "steady": "STEADY",
    "description": "MHS",
    "stationSeriesId": 19583,
    "dataSource": "hydrology.gov.np",
@@ -7896,40 +7874,9 @@
    "station": 67
   },
   {
-   "id": 25571547,
-   "createdOn": "2026-09-26T15:45:15.215491+05:45",
-   "modifiedOn": "2026-09-26T15:45:15.215494+05:45",
-   "title": "Trishuli River at Bhorle",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.45,
-     27.82
-    ]
-   },
-   "waterLevel": 9.60400009155,
-   "image": "http://daq.hydrology.gov.np/images/73368683a6f7de9fb9558110f86350e9",
-   "dangerLevel": null,
-   "warningLevel": 9.5,
-   "waterLevelOn": "2026-09-26T15:40:00+05:45",
-   "status": "ABOVE WARNING LEVEL",
-   "elevation": 200,
-   "steady": "STEADY",
-   "description": "RLS with CDCP",
-   "stationSeriesId": 19401,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 2259,
-   "municipality": 35001,
-   "district": 35,
-   "province": 3,
-   "station": 35
-  },
-  {
-   "id": 25571538,
-   "createdOn": "2026-09-26T15:45:15.215129+05:45",
-   "modifiedOn": "2026-09-26T15:45:15.215131+05:45",
+   "id": 25574999,
+   "createdOn": "2026-09-26T19:55:10.340682+05:45",
+   "modifiedOn": "2026-09-26T19:55:10.340684+05:45",
    "title": "Tadi at Belkot",
    "basin": "Narayani",
    "point": {
@@ -7939,11 +7886,11 @@
      27.860094
     ]
    },
-   "waterLevel": 2.34499931335,
+   "waterLevel": 2.30900001526,
    "image": "http://daq.hydrology.gov.np/images/325da877378a7511354dba39e151ea7c",
    "dangerLevel": 5.5,
    "warningLevel": 4.5,
-   "waterLevelOn": "2026-09-26T15:20:00+05:45",
+   "waterLevelOn": "2026-09-26T19:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -7958,38 +7905,143 @@
    "station": 135
   },
   {
-   "id": 25571443,
-   "createdOn": "2026-09-26T15:45:15.211102+05:45",
-   "modifiedOn": "2026-09-26T15:45:15.211104+05:45",
-   "title": "East Rapti at Rajaiya",
+   "id": 25574955,
+   "createdOn": "2026-09-26T19:55:10.338855+05:45",
+   "modifiedOn": "2026-09-26T19:55:10.338857+05:45",
+   "title": "Manahari Khola at Manahari",
    "basin": "Narayani",
    "point": {
     "type": "Point",
     "coordinates": [
-     84.97,
-     27.44
+     84.827716,
+     27.548673
     ]
    },
-   "waterLevel": 1.53499984741,
-   "image": "http://daq.hydrology.gov.np/images/6b3873a603048aca368d9d8fe8e5ca1d",
-   "dangerLevel": 3.7,
-   "warningLevel": 3.3,
-   "waterLevelOn": "2026-09-26T15:30:00+05:45",
+   "waterLevel": 1.24599981308,
+   "image": "http://daq.hydrology.gov.np/images/dda94e5a1fe05535b24b7907976c7efe",
+   "dangerLevel": null,
+   "warningLevel": 4.3,
+   "waterLevelOn": "2026-09-26T19:50:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": 305,
+   "steady": "STEADY",
+   "description": "HS_manual",
+   "stationSeriesId": 21323,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 2378,
+   "municipality": 31009,
+   "district": 31,
+   "province": 3,
+   "station": 116
+  },
+  {
+   "id": 25574889,
+   "createdOn": "2026-09-26T19:55:10.335882+05:45",
+   "modifiedOn": "2026-09-26T19:55:10.335886+05:45",
+   "title": "Budhi Gandaki at Aarughat",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.816,
+     28.046
+    ]
+   },
+   "waterLevel": 3.57679986954,
+   "image": "http://daq.hydrology.gov.np/images/a5d962039af199e304760d743ab51419",
+   "dangerLevel": 5,
+   "warningLevel": 4.5,
+   "waterLevelOn": "2026-09-26T19:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
    "description": "Station under PPCR",
-   "stationSeriesId": 3733,
+   "stationSeriesId": 3572,
    "dataSource": "hydrology.gov.np",
    "dataSourceId": null,
-   "ward": 2364,
-   "municipality": 31004,
-   "district": 31,
-   "province": 3,
-   "station": 70
+   "ward": 3429,
+   "municipality": 36001,
+   "district": 44,
+   "province": 4,
+   "station": 100
   }
  ],
  "alerts": [
+  {
+   "id": 46100,
+   "title": "Flood warning at Tinau-2, Palpa",
+   "wards": [
+    5698
+   ],
+   "affectedDemography": {
+    "maleCount": 481185,
+    "femaleCount": 534017,
+    "householdCount": 248723
+   },
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     83.462251,
+     27.74381
+    ]
+   },
+   "createdOn": "2026-09-26T19:55:09.898467+05:45",
+   "titleNe": "तिनाउ-२, पाल्पामा बाढी",
+   "source": "dhm",
+   "description": "Basin:Tinau\nElevation:None\nWarning level:6.0\nWater level:6.07580041885",
+   "verified": true,
+   "public": true,
+   "startedOn": "2026-09-26T19:40:00+05:45",
+   "expireOn": null,
+   "polygon": null,
+   "referenceType": "river",
+   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Tinau at Butwal\", \"basin\": \"Tinau\", \"point\": \"SRID=4326;POINT (83.462251 27.74381)\", \"water_level\": 6.11810016632, \"image\": \"http://daq.hydrology.gov.np/images/212e2618f4bdf692ff4116860c84d171\", \"danger_level\": 7.0, \"warning_level\": 6.0, \"water_level_on\": \"2026-09-26T14:05:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": null, \"steady\": \"RISING\", \"description\": \"Hydrological Station with RLS (27.74381, 83.462251)\", \"station_series_id\": 2533, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 5698, \"municipality\": 47010, \"district\": 39, \"province\": 5, \"station\": 147}}",
+   "referenceId": 174,
+   "region": null,
+   "regionId": null,
+   "createdBy": null,
+   "updatedBy": null,
+   "hazard": 11,
+   "event": null
+  },
+  {
+   "id": 46099,
+   "title": "Flood warning at Beni-2, Myagdi",
+   "wards": [
+    1114
+   ],
+   "affectedDemography": {
+    "maleCount": 226974,
+    "femaleCount": 270715,
+    "householdCount": 132911
+   },
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     83.561792,
+     28.341253
+    ]
+   },
+   "createdOn": "2026-09-26T17:25:09.051214+05:45",
+   "titleNe": "बेनी-२, म्याग्दीमा बाढी",
+   "source": "dhm",
+   "description": "Basin:Narayani\nElevation:None\nWarning level:3.6\nWater level:3.6859998703",
+   "verified": true,
+   "public": true,
+   "startedOn": "2026-09-26T17:10:00+05:45",
+   "expireOn": "2026-09-26T19:25:03.583081+05:45",
+   "polygon": null,
+   "referenceType": "river",
+   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Myagdi at Mangalghat\", \"basin\": \"Narayani\", \"point\": \"SRID=4326;POINT (83.561792 28.341253)\", \"water_level\": 3.67600011826, \"image\": \"http://daq.hydrology.gov.np/images/0daf16cd9c9fef387600e9deb7033934\", \"danger_level\": 4.5, \"warning_level\": 3.6, \"water_level_on\": \"2026-09-26T13:05:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": null, \"steady\": \"STEADY\", \"description\": \"Station under PPCR\", \"station_series_id\": 3466, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 1114, \"municipality\": 43002, \"district\": 49, \"province\": 4, \"station\": 24}}",
+   "referenceId": 228,
+   "region": null,
+   "regionId": null,
+   "createdBy": null,
+   "updatedBy": null,
+   "hazard": 11,
+   "event": null
+  },
   {
    "id": 46098,
    "title": "Heavy Rainfall at Dodhara Chandani-6, Kanchanpur",
@@ -8015,10 +8067,10 @@
    "verified": true,
    "public": true,
    "startedOn": "2026-09-26T15:45:04.166559+05:45",
-   "expireOn": null,
+   "expireOn": "2026-09-26T17:30:04.064341+05:45",
    "polygon": null,
    "referenceType": "rain",
-   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 452, \"fields\": {\"created_on\": \"2024-03-18T15:30:19.520Z\", \"modified_on\": \"2026-09-26T10:00:11.105Z\", \"title\": \"Dodhara\", \"basin\": \"Mahakali\", \"measured_on\": \"2026-09-26T15:45:11.091+05:45\", \"point\": \"SRID=4326;POINT (80.08828278 28.88823778)\", \"elevation\": 175, \"image\": \"http://daq.hydrology.gov.np/images/f6b89fc1e19adcb386405e3f8626f62a\", \"averages\": [{\"interval\": 1, \"value\": 7, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 18.8, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 29.2, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 12, \"value\": 72.8, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 140.6, \"status\": {\"warning\": true, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"0121\", \"station_series_id\": 26718, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 515, \"ward\": 6207, \"municipality\": 72007, \"district\": 75, \"province\": 7}}",
+   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 452, \"fields\": {\"created_on\": \"2024-03-18T15:30:19.520Z\", \"modified_on\": \"2026-09-26T11:30:09.594Z\", \"title\": \"Dodhara\", \"basin\": \"Mahakali\", \"measured_on\": \"2026-09-26T17:15:09.580+05:45\", \"point\": \"SRID=4326;POINT (80.08828278 28.88823778)\", \"elevation\": 175, \"image\": \"http://daq.hydrology.gov.np/images/f6b89fc1e19adcb386405e3f8626f62a\", \"averages\": [{\"interval\": 1, \"value\": 1.8, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 17.4, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 29.8, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 12, \"value\": 65.8, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 140.4, \"status\": {\"warning\": true, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"0121\", \"station_series_id\": 26718, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 515, \"ward\": 6207, \"municipality\": 72007, \"district\": 75, \"province\": 7}}",
    "referenceId": 515,
    "region": null,
    "regionId": null,
@@ -8052,10 +8104,10 @@
    "verified": true,
    "public": true,
    "startedOn": "2026-09-26T15:30:03.512479+05:45",
-   "expireOn": null,
+   "expireOn": "2026-09-26T19:30:03.604876+05:45",
    "polygon": null,
    "referenceType": "rain",
-   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 348, \"fields\": {\"created_on\": \"2022-03-10T09:45:23.226Z\", \"modified_on\": \"2026-09-26T10:00:11.489Z\", \"title\": \"Gaibande\", \"basin\": \"Mahakali (Rangoon-Puntura)\", \"measured_on\": \"2026-09-26T15:45:11.475+05:45\", \"point\": \"SRID=4326;POINT (80.341074 29.086833)\", \"elevation\": 529.88, \"image\": \"http://daq.hydrology.gov.np/images/2a7b88f0ae8ff116832927e086a62a35\", \"averages\": [{\"interval\": 1, \"value\": 3.8, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 10.4, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 20.8, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 12, \"value\": 69.2, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 140.4, \"status\": {\"warning\": true, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"Rainfall_station; previous name - Gaibade Puntura\", \"station_series_id\": 21003, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 989, \"ward\": 6612, \"municipality\": 73007, \"district\": 74, \"province\": 7}}",
+   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 348, \"fields\": {\"created_on\": \"2022-03-10T09:45:23.226Z\", \"modified_on\": \"2026-09-26T13:30:08.954Z\", \"title\": \"Gaibande\", \"basin\": \"Mahakali (Rangoon-Puntura)\", \"measured_on\": \"2026-09-26T19:15:08.940+05:45\", \"point\": \"SRID=4326;POINT (80.341074 29.086833)\", \"elevation\": 529.88, \"image\": \"http://daq.hydrology.gov.np/images/2a7b88f0ae8ff116832927e086a62a35\", \"averages\": [{\"interval\": 1, \"value\": 0.2, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 6.4, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 18.8, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 12, \"value\": 46.4, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 140.4, \"status\": {\"warning\": true, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"Rainfall_station; previous name - Gaibade Puntura\", \"station_series_id\": 21003, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 989, \"ward\": 6612, \"municipality\": 73007, \"district\": 74, \"province\": 7}}",
    "referenceId": 989,
    "region": null,
    "regionId": null,
@@ -8237,7 +8289,7 @@
    "verified": true,
    "public": true,
    "startedOn": "2026-09-26T09:44:00+05:45",
-   "expireOn": null,
+   "expireOn": "2026-09-26T18:45:03.819085+05:45",
    "polygon": null,
    "referenceType": "road",
    "referenceData": "[{\"model\": \"realtime.highway\", \"pk\": 361, \"fields\": {\"created_on\": \"2026-09-26T07:00:04.264Z\", \"modified_on\": \"2026-09-26T07:00:04.264Z\", \"road_data_id\": 922, \"date_created\": \"2026-09-26\", \"title\": \"Surkhet Tallo Dundeshwor-Saatkhamba-Dullu-Pipalkot-Khulalu-Manma-Jumla Sadak\", \"road_refno\": \"NH61\", \"link_code\": \"NH61-004\", \"point\": \"SRID=4326;POINT (81.8573 29.1643)\", \"location\": \"Tilagufa-4, Kalikot\", \"division\": \"Khalanga\", \"chainage\": \"0+000\", \"end_chainage\": null, \"status\": \"CLOSED\", \"closure_reason\": \"Landslide\", \"repair_eta\": \"3 hours\", \"efforts_being_made\": \"Tyre Excavator With supporting staff\", \"remarks\": \"\", \"images\": [], \"date_roadblock_start\": \"2026-09-26T09:44:00+05:45\", \"date_roadblock_end_estimated\": \"2026-09-26T12:44:00+05:45\", \"date_roadblock_end\": null, \"actual_repair_time\": null, \"contact_person\": \"Er Top Narayan Paudel 9851237408\", \"ward\": 857, \"municipality\": 64009, \"district\": 61, \"province\": 6}}]",
@@ -8385,10 +8437,10 @@
    "verified": true,
    "public": true,
    "startedOn": "2026-09-26T11:15:04.203257+05:45",
-   "expireOn": null,
+   "expireOn": "2026-09-26T17:45:04.324790+05:45",
    "polygon": null,
    "referenceType": "rain",
-   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 395, \"fields\": {\"created_on\": \"2022-07-09T06:45:23.313Z\", \"modified_on\": \"2026-09-26T10:00:09.565Z\", \"title\": \"Budiganga at Chitreghat\", \"basin\": \"Karnali\", \"measured_on\": \"2026-09-26T15:45:09.551+05:45\", \"point\": \"SRID=4326;POINT (81.208 29.15)\", \"elevation\": 227, \"image\": \"http://daq.hydrology.gov.np/images/6af9474d5603069ed9c66df2f55753a2\", \"averages\": [{\"interval\": 1, \"value\": null, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 3, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 8, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 12, \"value\": 44.6, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 149.4, \"status\": {\"warning\": true, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"Hydrological station with RLS and Tipping Bucket\", \"station_series_id\": 20563, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 79, \"ward\": 2575, \"municipality\": 69005, \"district\": 69, \"province\": 7}}",
+   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 395, \"fields\": {\"created_on\": \"2022-07-09T06:45:23.313Z\", \"modified_on\": \"2026-09-26T11:45:07.701Z\", \"title\": \"Budiganga at Chitreghat\", \"basin\": \"Karnali\", \"measured_on\": \"2026-09-26T17:30:07.688+05:45\", \"point\": \"SRID=4326;POINT (81.208 29.15)\", \"elevation\": 227, \"image\": \"http://daq.hydrology.gov.np/images/6af9474d5603069ed9c66df2f55753a2\", \"averages\": [{\"interval\": 1, \"value\": null, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 0.2, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 4.6, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 12, \"value\": 34, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 140, \"status\": {\"warning\": true, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"Hydrological station with RLS and Tipping Bucket\", \"station_series_id\": 20563, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 79, \"ward\": 2575, \"municipality\": 69005, \"district\": 69, \"province\": 7}}",
    "referenceId": 79,
    "region": null,
    "regionId": null,
@@ -8462,7 +8514,7 @@
    "expireOn": null,
    "polygon": null,
    "referenceType": "river",
-   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Kiran Nala River(296)\", \"basin\": \"Karnali\", \"point\": \"SRID=4326;POINT (81.565 28.098)\", \"water_level\": 6.518699646, \"image\": \"http://daq.hydrology.gov.np/images/012a23107f3a3f92de9f97213703e60f\", \"danger_level\": null, \"warning_level\": 6.0, \"water_level_on\": \"2026-09-26T09:55:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": 141, \"steady\": \"STEADY\", \"description\": \"Kiran River(296) at C-boring\", \"station_series_id\": 27480, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 2198, \"municipality\": 57004, \"district\": 66, \"province\": 5, \"station\": 231}}",
+   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Kiran Nala River(296)\", \"basin\": \"Karnali\", \"point\": \"SRID=4326;POINT (81.565 28.098)\", \"water_level\": 6.64729976654, \"image\": \"http://daq.hydrology.gov.np/images/012a23107f3a3f92de9f97213703e60f\", \"danger_level\": null, \"warning_level\": 6.0, \"water_level_on\": \"2026-09-26T14:05:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": 141, \"steady\": \"STEADY\", \"description\": \"Kiran River(296) at C-boring\", \"station_series_id\": 27480, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 2198, \"municipality\": 57004, \"district\": 66, \"province\": 5, \"station\": 231}}",
    "referenceId": 4639,
    "region": null,
    "regionId": null,
@@ -8718,10 +8770,10 @@
    "verified": true,
    "public": true,
    "startedOn": "2026-09-26T08:30:03.409029+05:45",
-   "expireOn": null,
+   "expireOn": "2026-09-26T18:30:03.917191+05:45",
    "polygon": null,
    "referenceType": "rain",
-   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 120, \"fields\": {\"created_on\": \"2020-12-18T13:11:35.160Z\", \"modified_on\": \"2026-09-26T10:00:10.733Z\", \"title\": \"Dhangadhi airport\", \"basin\": \"Mohana\", \"measured_on\": \"2026-09-26T15:45:10.719+05:45\", \"point\": \"SRID=4326;POINT (80.58444 28.75333)\", \"elevation\": 187, \"image\": \"http://daq.hydrology.gov.np/images/1451c6ac6d53f32f2505d228f3aa8630\", \"averages\": [{\"interval\": 1, \"value\": 2.6, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 10.4, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 15, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 12, \"value\": 47.6, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 148.2, \"status\": {\"warning\": true, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"Tier 1 station station number (20901)\", \"station_series_id\": 13067, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 947, \"ward\": 5305, \"municipality\": 71004, \"district\": 67, \"province\": 7}}",
+   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 120, \"fields\": {\"created_on\": \"2020-12-18T13:11:35.160Z\", \"modified_on\": \"2026-09-26T12:30:09.231Z\", \"title\": \"Dhangadhi airport\", \"basin\": \"Mohana\", \"measured_on\": \"2026-09-26T18:15:09.216+05:45\", \"point\": \"SRID=4326;POINT (80.58444 28.75333)\", \"elevation\": 187, \"image\": \"http://daq.hydrology.gov.np/images/1451c6ac6d53f32f2505d228f3aa8630\", \"averages\": [{\"interval\": 1, \"value\": 0, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 6, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 15.4, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 12, \"value\": 38.2, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 140.8, \"status\": {\"warning\": true, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"Tier 1 station station number (20901)\", \"station_series_id\": 13067, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 947, \"ward\": 5305, \"municipality\": 71004, \"district\": 67, \"province\": 7}}",
    "referenceId": 947,
    "region": null,
    "regionId": null,
@@ -8755,7 +8807,7 @@
    "verified": true,
    "public": true,
    "startedOn": "2026-09-26T05:00:00+05:45",
-   "expireOn": null,
+   "expireOn": "2026-09-26T19:45:04.836601+05:45",
    "polygon": null,
    "referenceType": "road",
    "referenceData": "[{\"model\": \"realtime.highway\", \"pk\": 350, \"fields\": {\"created_on\": \"2026-09-26T02:00:04.783Z\", \"modified_on\": \"2026-09-26T02:00:04.783Z\", \"road_data_id\": 913, \"date_created\": \"2026-09-26\", \"title\": \"Pushpalal Mid Hill Highway\", \"road_refno\": \"NH03\", \"link_code\": \"NH03-061\", \"point\": \"SRID=4326;POINT (82.2736 28.6917)\", \"location\": \"Sanibheri-2, Rukum West\", \"division\": \"Chaurjahari\", \"chainage\": \"0+000\", \"end_chainage\": null, \"status\": \"CLOSED\", \"closure_reason\": \"Landslide\", \"repair_eta\": \"3 hours\", \"efforts_being_made\": \"The loader machine is in road clearance work.\", \"remarks\": \"मध्य पहाडी राजमार्ग NH-03, चेनेज Ch-1213+500 चाइना बगर देखि सिस्नेखोला तर्फ भिरमा पहिरोले बाटो  बन्द भएको  जानकारी  गर्दछु।  Clearance को लागि अपेक्षित समय : करिब दुई घण्टा\", \"images\": [], \"date_roadblock_start\": \"2026-09-26T05:00:00+05:45\", \"date_roadblock_end_estimated\": \"2026-09-26T08:52:00+05:45\", \"date_roadblock_end\": null, \"actual_repair_time\": null, \"contact_person\": \"Er. Shishir Bhandari-9867061794, Machine Operator-9848042095, Supervisor-9848064871\", \"ward\": 1525, \"municipality\": 54005, \"district\": 542, \"province\": 6}}]",
@@ -8792,7 +8844,7 @@
    "verified": true,
    "public": true,
    "startedOn": "2026-09-26T05:00:00+05:45",
-   "expireOn": null,
+   "expireOn": "2026-09-26T19:45:04.836601+05:45",
    "polygon": null,
    "referenceType": "road",
    "referenceData": "[{\"model\": \"realtime.highway\", \"pk\": 349, \"fields\": {\"created_on\": \"2026-09-26T02:00:04.667Z\", \"modified_on\": \"2026-09-26T02:00:04.667Z\", \"road_data_id\": 914, \"date_created\": \"2026-09-26\", \"title\": \"Pushpalal Mid Hill Highway\", \"road_refno\": \"NH03\", \"link_code\": \"NH03-061\", \"point\": \"SRID=4326;POINT (82.2736 28.6917)\", \"location\": \"Sanibheri-2, Rukum West\", \"division\": \"Chaurjahari\", \"chainage\": \"0+000\", \"end_chainage\": null, \"status\": \"CLOSED\", \"closure_reason\": \"Landslide\", \"repair_eta\": \"3 hours\", \"efforts_being_made\": \"The loader machine is in road clearance work.\", \"remarks\": \"मध्य पहाडी राजमार्ग NH-03, चेनेज Ch-1213+500 चाइना बगर देखि सिस्नेखोला तर्फ भिरमा पहिरोले बाटो  बन्द भएको  जानकारी  गर्दछु।  Clearance को लागि अपेक्षित समय : करिब दुई घण्टा\", \"images\": [\"https://navigate.dor.gov.np/api/uploads/images/57d0282b7e6deceb6604159829fa5dcc.jpg\"], \"date_roadblock_start\": \"2026-09-26T05:00:00+05:45\", \"date_roadblock_end_estimated\": \"2026-09-26T08:52:00+05:45\", \"date_roadblock_end\": null, \"actual_repair_time\": null, \"contact_person\": \"Er. Shishir Bhandari-9867061794, Machine Operator-9848042095, Supervisor-9848064871\", \"ward\": 1525, \"municipality\": 54005, \"district\": 542, \"province\": 6}}]",
@@ -9125,10 +9177,10 @@
    "verified": true,
    "public": true,
    "startedOn": "2026-09-26T05:15:03.664737+05:45",
-   "expireOn": null,
+   "expireOn": "2026-09-26T16:45:04.186763+05:45",
    "polygon": null,
    "referenceType": "rain",
-   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 102, \"fields\": {\"created_on\": \"2020-12-18T13:11:32.483Z\", \"modified_on\": \"2026-09-26T10:00:10.543Z\", \"title\": \"Darbang\", \"basin\": \"Narayani\", \"measured_on\": \"2026-09-26T15:45:10.519+05:45\", \"point\": \"SRID=4326;POINT (83.385413 28.41354)\", \"elevation\": 1160, \"image\": \"http://daq.hydrology.gov.np/images/e1f061cb8d3c8278db26273fdde35a36\", \"averages\": [{\"interval\": 1, \"value\": 1.8, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 6.6, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 13.2, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 12, \"value\": 48.6, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 144, \"status\": {\"warning\": true, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"Rainfall Station with CDCP\", \"station_series_id\": 11805, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 835, \"ward\": 1132, \"municipality\": 43004, \"district\": 49, \"province\": 4}}",
+   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 102, \"fields\": {\"created_on\": \"2020-12-18T13:11:32.483Z\", \"modified_on\": \"2026-09-26T10:45:08.079Z\", \"title\": \"Darbang\", \"basin\": \"Narayani\", \"measured_on\": \"2026-09-26T16:30:08.055+05:45\", \"point\": \"SRID=4326;POINT (83.385413 28.41354)\", \"elevation\": 1160, \"image\": \"http://daq.hydrology.gov.np/images/e1f061cb8d3c8278db26273fdde35a36\", \"averages\": [{\"interval\": 1, \"value\": 1.2, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 6.4, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 14.4, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 12, \"value\": 44, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 141.8, \"status\": {\"warning\": true, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"Rainfall Station with CDCP\", \"station_series_id\": 11805, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 835, \"ward\": 1132, \"municipality\": 43004, \"district\": 49, \"province\": 4}}",
    "referenceId": 835,
    "region": null,
    "regionId": null,
@@ -9276,7 +9328,7 @@
    "expireOn": null,
    "polygon": null,
    "referenceType": "river",
-   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Narayani at Devghat\", \"basin\": \"Narayani\", \"point\": \"SRID=4326;POINT (84.43 27.71)\", \"water_level\": 8.94099998474, \"image\": \"http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696\", \"danger_level\": 9.0, \"warning_level\": 7.3, \"water_level_on\": \"2026-09-26T09:45:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": null, \"steady\": \"STEADY\", \"description\": \"Hydrological station with RLS\", \"station_series_id\": 4140, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 3479, \"municipality\": 76005, \"district\": 481, \"province\": 4, \"station\": 25}}",
+   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Narayani at Devghat\", \"basin\": \"Narayani\", \"point\": \"SRID=4326;POINT (84.43 27.71)\", \"water_level\": 8.69400024414, \"image\": \"http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696\", \"danger_level\": 9.0, \"warning_level\": 7.3, \"water_level_on\": \"2026-09-26T13:55:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": null, \"steady\": \"STEADY\", \"description\": \"Hydrological station with RLS\", \"station_series_id\": 4140, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 3479, \"municipality\": 76005, \"district\": 481, \"province\": 4, \"station\": 25}}",
    "referenceId": 265,
    "region": null,
    "regionId": null,
@@ -9569,10 +9621,10 @@
    "verified": true,
    "public": true,
    "startedOn": "2026-09-26T00:40:00+05:45",
-   "expireOn": null,
+   "expireOn": "2026-09-26T17:15:04.133712+05:45",
    "polygon": null,
    "referenceType": "river",
-   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Myagdi at Mangalghat\", \"basin\": \"Narayani\", \"point\": \"SRID=4326;POINT (83.561792 28.341253)\", \"water_level\": 3.77799987793, \"image\": \"http://daq.hydrology.gov.np/images/0daf16cd9c9fef387600e9deb7033934\", \"danger_level\": 4.5, \"warning_level\": 3.6, \"water_level_on\": \"2026-09-26T09:55:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": null, \"steady\": \"STEADY\", \"description\": \"Station under PPCR\", \"station_series_id\": 3466, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 1114, \"municipality\": 43002, \"district\": 49, \"province\": 4, \"station\": 24}}",
+   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Myagdi at Mangalghat\", \"basin\": \"Narayani\", \"point\": \"SRID=4326;POINT (83.561792 28.341253)\", \"water_level\": 3.64900016785, \"image\": \"http://daq.hydrology.gov.np/images/0daf16cd9c9fef387600e9deb7033934\", \"danger_level\": 4.5, \"warning_level\": 3.6, \"water_level_on\": \"2026-09-26T10:55:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": null, \"steady\": \"FALLING\", \"description\": \"Station under PPCR\", \"station_series_id\": 3466, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 1114, \"municipality\": 43002, \"district\": 49, \"province\": 4, \"station\": 24}}",
    "referenceId": 228,
    "region": null,
    "regionId": null,
@@ -9868,7 +9920,7 @@
    "expireOn": null,
    "polygon": null,
    "referenceType": "rain",
-   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 645, \"fields\": {\"created_on\": \"2026-08-17T04:00:18.892Z\", \"modified_on\": \"2026-09-26T10:00:19.150Z\", \"title\": \"Tarakhola\", \"basin\": null, \"measured_on\": \"2026-09-26T15:45:19.127+05:45\", \"point\": \"SRID=4326;POINT (83.383159 28.329027)\", \"elevation\": 1934, \"image\": \"http://daq.hydrology.gov.np/images/48917206642d2a2c96e2170dfdd3c49f\", \"averages\": [{\"interval\": 1, \"value\": 1.6, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 10, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 22.2, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 12, \"value\": 56.4, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 165.2, \"status\": {\"warning\": true, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"AWS installed by Tarakhola Rural Municipality\", \"station_series_id\": 36573, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 5703, \"ward\": 5055, \"municipality\": 45010, \"district\": 50, \"province\": 4}}",
+   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 645, \"fields\": {\"created_on\": \"2026-08-17T04:00:18.892Z\", \"modified_on\": \"2026-09-26T14:15:17.807Z\", \"title\": \"Tarakhola\", \"basin\": null, \"measured_on\": \"2026-09-26T20:00:17.784+05:45\", \"point\": \"SRID=4326;POINT (83.383159 28.329027)\", \"elevation\": 1934, \"image\": \"http://daq.hydrology.gov.np/images/48917206642d2a2c96e2170dfdd3c49f\", \"averages\": [{\"interval\": 1, \"value\": 6.6, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 12.2, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 19.4, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 12, \"value\": 38.2, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 146.2, \"status\": {\"warning\": true, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"AWS installed by Tarakhola Rural Municipality\", \"station_series_id\": 36573, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 5703, \"ward\": 5055, \"municipality\": 45010, \"district\": 50, \"province\": 4}}",
    "referenceId": 5703,
    "region": null,
    "regionId": null,
@@ -10642,10 +10694,10 @@
    "verified": true,
    "public": true,
    "startedOn": "2026-09-25T17:50:00+05:45",
-   "expireOn": null,
+   "expireOn": "2026-09-26T16:15:04.233894+05:45",
    "polygon": null,
    "referenceType": "river",
-   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Trishuli River at Bhorle\", \"basin\": \"Narayani\", \"point\": \"SRID=4326;POINT (84.45 27.82)\", \"water_level\": 9.60400009155, \"image\": \"http://daq.hydrology.gov.np/images/73368683a6f7de9fb9558110f86350e9\", \"danger_level\": null, \"warning_level\": 9.5, \"water_level_on\": \"2026-09-26T09:55:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": 200, \"steady\": \"STEADY\", \"description\": \"RLS with CDCP\", \"station_series_id\": 19401, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 2259, \"municipality\": 35001, \"district\": 35, \"province\": 3, \"station\": 35}}",
+   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Trishuli River at Bhorle\", \"basin\": \"Narayani\", \"point\": \"SRID=4326;POINT (84.45 27.82)\", \"water_level\": 9.54500007629, \"image\": \"http://daq.hydrology.gov.np/images/73368683a6f7de9fb9558110f86350e9\", \"danger_level\": null, \"warning_level\": 9.5, \"water_level_on\": \"2026-09-26T10:05:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": 200, \"steady\": \"FALLING\", \"description\": \"RLS with CDCP\", \"station_series_id\": 19401, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 2259, \"municipality\": 35001, \"district\": 35, \"province\": 3, \"station\": 35}}",
    "referenceId": 4661,
    "region": null,
    "regionId": null,
@@ -10827,10 +10879,10 @@
    "verified": true,
    "public": true,
    "startedOn": "2026-09-25T17:30:03.879843+05:45",
-   "expireOn": null,
+   "expireOn": "2026-09-26T17:00:04.248114+05:45",
    "polygon": null,
    "referenceType": "rain",
-   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 490, \"fields\": {\"created_on\": \"2024-07-26T06:45:34.869Z\", \"modified_on\": \"2026-09-26T10:00:16.733Z\", \"title\": \"Panchase\", \"basin\": \"\", \"measured_on\": \"2026-09-26T15:45:16.711+05:45\", \"point\": \"SRID=4326;POINT (83.79723333 28.22896944)\", \"elevation\": 2492, \"image\": \"http://daq.hydrology.gov.np/images/e5b58259ff3c1c0b28a02ccd507a7748\", \"averages\": [{\"interval\": 1, \"value\": 1.6, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 8.6, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 17.6, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 12, \"value\": 41, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 156.2, \"status\": {\"warning\": true, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"0868\", \"station_series_id\": 21442, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 821, \"ward\": 1285, \"municipality\": 44003, \"district\": 51, \"province\": 4}}",
+   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 490, \"fields\": {\"created_on\": \"2024-07-26T06:45:34.869Z\", \"modified_on\": \"2026-09-26T11:00:20.646Z\", \"title\": \"Panchase\", \"basin\": \"\", \"measured_on\": \"2026-09-26T16:45:20.625+05:45\", \"point\": \"SRID=4326;POINT (83.79723333 28.22896944)\", \"elevation\": 2492, \"image\": \"http://daq.hydrology.gov.np/images/e5b58259ff3c1c0b28a02ccd507a7748\", \"averages\": [{\"interval\": 1, \"value\": 1.4, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 6.2, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 19.2, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 12, \"value\": 33.6, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 143.2, \"status\": {\"warning\": true, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"0868\", \"station_series_id\": 21442, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 821, \"ward\": 1285, \"municipality\": 44003, \"district\": 51, \"province\": 4}}",
    "referenceId": 821,
    "region": null,
    "regionId": null,
@@ -11752,7 +11804,7 @@
    "verified": true,
    "public": true,
    "startedOn": "2026-09-25T10:40:00+05:45",
-   "expireOn": null,
+   "expireOn": "2026-09-26T17:45:04.489883+05:45",
    "polygon": null,
    "referenceType": "road",
    "referenceData": "[{\"model\": \"realtime.highway\", \"pk\": 345, \"fields\": {\"created_on\": \"2026-09-25T05:00:04.789Z\", \"modified_on\": \"2026-09-25T05:00:04.789Z\", \"road_data_id\": 909, \"date_created\": \"2026-09-25\", \"title\": \"Madar-Chauharwa, Mirchaiya-Katari-Ghurmi, Hilepani-Okhaldhunga-Salleri\", \"road_refno\": \"NH20\", \"link_code\": \"NH20-008\", \"point\": \"SRID=4326;POINT (86.5746 27.4443)\", \"location\": \"Nechasalyan-6, Solukhumbu\", \"division\": \"Harkhapur\", \"chainage\": \"0+000\", \"end_chainage\": null, \"status\": \"CLOSED\", \"closure_reason\": \"Landslide\", \"repair_eta\": \"1 hours\", \"efforts_being_made\": \"Loader & Excavator Mobilized\", \"remarks\": \"\", \"images\": [], \"date_roadblock_start\": \"2026-09-25T10:40:00+05:45\", \"date_roadblock_end_estimated\": \"2026-09-25T11:40:00+05:45\", \"date_roadblock_end\": null, \"actual_repair_time\": null, \"contact_person\": \"\", \"ward\": 1729, \"municipality\": 11006, \"district\": 11, \"province\": 1}}]",
@@ -12355,112 +12407,38 @@
    "updatedBy": null,
    "hazard": 11,
    "event": null
-  },
-  {
-   "id": 45977,
-   "title": "Flood warning at Machhapuchchhre-6, Kaski",
-   "wards": [
-    3892
-   ],
-   "affectedDemography": {
-    "maleCount": 482898,
-    "femaleCount": 523883,
-    "householdCount": 269830
-   },
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.918,
-     28.301
-    ]
-   },
-   "createdOn": "2026-09-25T02:25:07.226363+05:45",
-   "titleNe": "माछापुच्छ्रे-६, कास्कीमा बाढी",
-   "source": "dhm",
-   "description": "Basin:Narayani\nElevation:1070\nWarning level:3.4\nWater level:4.24499988556",
-   "verified": true,
-   "public": true,
-   "startedOn": "2026-09-25T01:50:00+05:45",
-   "expireOn": "2026-09-25T02:35:03.449564+05:45",
-   "polygon": null,
-   "referenceType": "river",
-   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Mardi Khola at Lahachowk\", \"basin\": \"Narayani\", \"point\": \"SRID=4326;POINT (83.918 28.301)\", \"water_level\": 4.24499988556, \"image\": \"http://daq.hydrology.gov.np/images/5389a1f90ffb39d02d71a44fb247f00a\", \"danger_level\": 4.3, \"warning_level\": 3.4, \"water_level_on\": \"2026-09-24T20:05:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": 1070, \"steady\": \"RISING\", \"description\": \"Hydrological Station with RLS\", \"station_series_id\": 2683, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 3892, \"municipality\": 40002, \"district\": 46, \"province\": 4, \"station\": 20}}",
-   "referenceId": 184,
-   "region": null,
-   "regionId": null,
-   "createdBy": null,
-   "updatedBy": null,
-   "hazard": 11,
-   "event": null
-  },
-  {
-   "id": 45976,
-   "title": "Flood warning at Machhapuchchhre-6, Kaski",
-   "wards": [
-    3892
-   ],
-   "affectedDemography": {
-    "maleCount": 482898,
-    "femaleCount": 523883,
-    "householdCount": 269830
-   },
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.918,
-     28.301
-    ]
-   },
-   "createdOn": "2026-09-25T00:05:08.193933+05:45",
-   "titleNe": "माछापुच्छ्रे-६, कास्कीमा बाढी",
-   "source": "dhm",
-   "description": "Basin:Narayani\nElevation:1070\nWarning level:3.4\nWater level:4.26700019836",
-   "verified": true,
-   "public": true,
-   "startedOn": "2026-09-24T23:50:00+05:45",
-   "expireOn": "2026-09-25T01:35:04.302656+05:45",
-   "polygon": null,
-   "referenceType": "river",
-   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Mardi Khola at Lahachowk\", \"basin\": \"Narayani\", \"point\": \"SRID=4326;POINT (83.918 28.301)\", \"water_level\": 4.24599981308, \"image\": \"http://daq.hydrology.gov.np/images/5389a1f90ffb39d02d71a44fb247f00a\", \"danger_level\": 4.3, \"warning_level\": 3.4, \"water_level_on\": \"2026-09-24T19:15:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": 1070, \"steady\": \"STEADY\", \"description\": \"Hydrological Station with RLS\", \"station_series_id\": 2683, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 3892, \"municipality\": 40002, \"district\": 46, \"province\": 4, \"station\": 20}}",
-   "referenceId": 184,
-   "region": null,
-   "regionId": null,
-   "createdBy": null,
-   "updatedBy": null,
-   "hazard": 11,
-   "event": null
   }
  ],
  "health": [
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 3
+   "count": 6
   },
   {
    "source": "अनलाइनखबर",
    "ok": true,
-   "count": 11
+   "count": 9
   },
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "source": "सेतोपाटी",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "source": "Khabarhub (English)",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "source": "The Kathmandu Post",
    "ok": true,
-   "count": 9
+   "count": 12
   },
   {
    "source": "incidents",
@@ -12470,7 +12448,7 @@
   {
    "source": "rivers",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "source": "alerts",
