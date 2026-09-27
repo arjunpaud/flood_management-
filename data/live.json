@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-27T19:54:03.136Z",
+ "generatedAt": "2026-09-27T22:37:25.816Z",
  "news": [
   {
    "source": "रातोपाटी",
@@ -173,15 +173,6 @@
    "ts": 1790523653000
   },
   {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "पहिरोले घर पुरिँदा पाँच जनाको मृत्यु, एक बेपत्ता",
-   "link": "https://www.ratopati.com/story/595362/five-dead-one-missing-after-landslide-buries-house",
-   "date": "Sun, 27 Sep 2026 15:37:37 +0000",
-   "ts": 1790523457000
-  },
-  {
    "source": "नागरिक",
    "sourceId": "nagarik",
    "site": "https://nagariknews.nagariknetwork.com",
@@ -189,15 +180,6 @@
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/5-dead-one-missing-as-landslide-buries-house-and-barn-in-baglung-46-18.html",
    "date": "Sun, 27 Sep 2026 21:15:58 +0545",
    "ts": 1790523058000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "कालीगण्डकी करिडोरको ४६ ठाउँमा पहिरो (सूचीसहित)",
-   "link": "https://www.ratopati.com/story/595359/landslides-in-46-places-along-the-kaligandaki-corridor-with-list",
-   "date": "Sun, 27 Sep 2026 15:23:14 +0000",
-   "ts": 1790522594000
   },
   {
    "source": "Khabarhub (English)",
@@ -1534,7 +1516,7 @@
     ]
    },
    "createdOn": "2026-09-27T16:01:04.352529+05:45",
-   "modifiedOn": "2026-09-28T01:21:04.170335+05:45",
+   "modifiedOn": "2026-09-28T04:21:04.312180+05:45",
    "titleNe": "लुम्बिनी, पाल्पा, माथागढी-१ मा पहिरो",
    "description": null,
    "cause": null,
@@ -1554,7 +1536,7 @@
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 483863,
+   "loss": 484079,
    "createdBy": null,
    "updatedBy": null
   },
@@ -2902,7 +2884,7 @@
     ]
    },
    "createdOn": "2026-09-27T15:01:05.268395+05:45",
-   "modifiedOn": "2026-09-28T01:21:04.253066+05:45",
+   "modifiedOn": "2026-09-28T04:21:04.390333+05:45",
    "titleNe": "गण्डकी, म्याग्दी, रघुगंगा-८ मा पहिरो",
    "description": null,
    "cause": null,
@@ -2922,7 +2904,7 @@
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 483866,
+   "loss": 484082,
    "createdBy": null,
    "updatedBy": null
   },
@@ -3054,7 +3036,7 @@
     ]
    },
    "createdOn": "2026-09-27T16:01:04.578773+05:45",
-   "modifiedOn": "2026-09-28T01:21:04.225178+05:45",
+   "modifiedOn": "2026-09-28T04:21:04.363776+05:45",
    "titleNe": "गण्डकी, बागलुङ, ढोरपाटन-४ मा पहिरो",
    "description": null,
    "cause": null,
@@ -3074,7 +3056,7 @@
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 483865,
+   "loss": 484081,
    "createdBy": null,
    "updatedBy": null
   },
@@ -4498,7 +4480,7 @@
     ]
    },
    "createdOn": "2026-09-27T16:01:04.293953+05:45",
-   "modifiedOn": "2026-09-28T01:21:04.143821+05:45",
+   "modifiedOn": "2026-09-28T04:21:04.286225+05:45",
    "titleNe": "लुम्बिनी, पाल्पा, माथागढी-१ मा पहिरो",
    "description": null,
    "cause": null,
@@ -4518,7 +4500,7 @@
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 483862,
+   "loss": 484078,
    "createdBy": null,
    "updatedBy": null
   },
@@ -5068,7 +5050,7 @@
     ]
    },
    "createdOn": "2026-09-27T17:17:04.917953+05:45",
-   "modifiedOn": "2026-09-28T01:21:04.095647+05:45",
+   "modifiedOn": "2026-09-28T04:21:04.237856+05:45",
    "titleNe": "लुम्बिनी, अर्घाखाॉची, शितगंगा-१२ मा पहिरो",
    "description": null,
    "cause": null,
@@ -5088,7 +5070,7 @@
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 483860,
+   "loss": 484076,
    "createdBy": null,
    "updatedBy": null
   },
@@ -5866,7 +5848,7 @@
     ]
    },
    "createdOn": "2026-09-27T16:01:04.526278+05:45",
-   "modifiedOn": "2026-09-28T01:21:04.198282+05:45",
+   "modifiedOn": "2026-09-28T04:21:04.338905+05:45",
    "titleNe": "गण्डकी, म्याग्दी, रघुगंगा-८ मा पहिरो",
    "description": null,
    "cause": null,
@@ -5886,7 +5868,7 @@
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 483864,
+   "loss": 484080,
    "createdBy": null,
    "updatedBy": null
   },
@@ -5904,7 +5886,7 @@
     ]
    },
    "createdOn": "2026-09-27T19:01:04.658545+05:45",
-   "modifiedOn": "2026-09-28T01:21:04.039504+05:45",
+   "modifiedOn": "2026-09-28T04:21:04.181052+05:45",
    "titleNe": "सुदुरपश्चिम, दार्चुला, अपिहिमाल-६ मा पहिरो",
    "description": null,
    "cause": null,
@@ -5924,7 +5906,7 @@
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 483858,
+   "loss": 484074,
    "createdBy": null,
    "updatedBy": null
   },
@@ -5942,7 +5924,7 @@
     ]
    },
    "createdOn": "2026-09-27T16:45:04.150080+05:45",
-   "modifiedOn": "2026-09-28T01:21:04.117665+05:45",
+   "modifiedOn": "2026-09-28T04:21:04.259856+05:45",
    "titleNe": "गण्डकी, तनहुँ, ऋषिङ्ग-१ मा भारीवर्षा",
    "description": null,
    "cause": null,
@@ -5962,7 +5944,7 @@
    "source": "other",
    "event": null,
    "hazard": 14,
-   "loss": 483861,
+   "loss": 484077,
    "createdBy": null,
    "updatedBy": null
   },
@@ -6892,7 +6874,7 @@
     ]
    },
    "createdOn": "2026-09-27T08:17:04.092181+05:45",
-   "modifiedOn": "2026-09-28T01:21:04.302589+05:45",
+   "modifiedOn": "2026-09-28T04:21:04.437563+05:45",
    "titleNe": "गण्डकी, गोरखा, धार्चे-५ मा पहिरो",
    "description": null,
    "cause": null,
@@ -6912,7 +6894,7 @@
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 483868,
+   "loss": 484084,
    "createdBy": null,
    "updatedBy": null
   },
@@ -9856,7 +9838,7 @@
     ]
    },
    "createdOn": "2026-09-27T07:01:04.596602+05:45",
-   "modifiedOn": "2026-09-28T01:21:04.371432+05:45",
+   "modifiedOn": "2026-09-28T04:21:04.504814+05:45",
    "titleNe": "कर्णाली, रुकुम पश्चिम, मुसिकोट-११ मा बाढी",
    "description": null,
    "cause": null,
@@ -9876,7 +9858,7 @@
    "source": "other",
    "event": null,
    "hazard": 11,
-   "loss": 483871,
+   "loss": 484087,
    "createdBy": null,
    "updatedBy": null
   },
@@ -9894,7 +9876,7 @@
     ]
    },
    "createdOn": "2026-09-27T09:17:05.456311+05:45",
-   "modifiedOn": "2026-09-28T01:21:04.279147+05:45",
+   "modifiedOn": "2026-09-28T04:21:04.414661+05:45",
    "titleNe": "बाग्मती, काभ्रेपलाञ्चोक, नमोबुद्ध-७ मा बाढी",
    "description": null,
    "cause": null,
@@ -9914,7 +9896,7 @@
    "source": "other",
    "event": null,
    "hazard": 11,
-   "loss": 483867,
+   "loss": 484083,
    "createdBy": null,
    "updatedBy": null
   },
@@ -9932,7 +9914,7 @@
     ]
    },
    "createdOn": "2026-09-27T06:45:04.719644+05:45",
-   "modifiedOn": "2026-09-28T01:21:04.397312+05:45",
+   "modifiedOn": "2026-09-28T04:21:04.529870+05:45",
    "titleNe": "गण्डकी, लमजुङ्ग, मर्स्याङदी-७ मा पहिरो",
    "description": null,
    "cause": null,
@@ -9952,7 +9934,7 @@
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 483872,
+   "loss": 484088,
    "createdBy": null,
    "updatedBy": null
   },
@@ -10160,7 +10142,7 @@
     ]
    },
    "createdOn": "2026-09-27T18:17:05.243993+05:45",
-   "modifiedOn": "2026-09-28T01:21:04.070148+05:45",
+   "modifiedOn": "2026-09-28T04:21:04.212179+05:45",
    "titleNe": "सुदुरपश्चिम, बझाङ्ग, सूर्मा-१ मा पहिरो",
    "description": null,
    "cause": null,
@@ -10180,7 +10162,7 @@
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 483859,
+   "loss": 484075,
    "createdBy": null,
    "updatedBy": null
   },
@@ -10654,7 +10636,7 @@
     ]
    },
    "createdOn": "2026-09-27T07:45:05.407367+05:45",
-   "modifiedOn": "2026-09-28T01:21:04.349454+05:45",
+   "modifiedOn": "2026-09-28T04:21:04.483340+05:45",
    "titleNe": "लुम्बिनी, अर्घाखाॉची, भूमिकास्थान-७ मा पहिरो",
    "description": null,
    "cause": null,
@@ -10674,7 +10656,7 @@
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 483870,
+   "loss": 484086,
    "createdBy": null,
    "updatedBy": null
   },
@@ -14101,40 +14083,9 @@
  ],
  "rivers": [
   {
-   "id": 25596467,
-   "createdOn": "2026-09-28T01:35:09.587635+05:45",
-   "modifiedOn": "2026-09-28T01:35:09.587637+05:45",
-   "title": "Trishuli at Galchi",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.00305,
-     27.802328
-    ]
-   },
-   "waterLevel": 361.509918213,
-   "image": "http://daq.hydrology.gov.np/images/96917ebb6f5c49a5673ea38a1b4fa8e0",
-   "dangerLevel": null,
-   "warningLevel": 367,
-   "waterLevelOn": "2026-09-28T01:30:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": 378,
-   "steady": "STEADY",
-   "description": "RLS from RTS",
-   "stationSeriesId": 36628,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 3089,
-   "municipality": 30004,
-   "district": 26,
-   "province": 3,
-   "station": 281
-  },
-  {
-   "id": 25596466,
-   "createdOn": "2026-09-28T01:35:09.587597+05:45",
-   "modifiedOn": "2026-09-28T01:35:09.587599+05:45",
+   "id": 25597823,
+   "createdOn": "2026-09-28T04:15:10.501016+05:45",
+   "modifiedOn": "2026-09-28T04:15:10.501018+05:45",
    "title": "Trishuli River at Kali Khola",
    "basin": "Narayani",
    "point": {
@@ -14144,11 +14095,11 @@
      27.833
     ]
    },
-   "waterLevel": 8.95899868011,
+   "waterLevel": 8.86699867249,
    "image": "http://daq.hydrology.gov.np/images/364ef9a4cae0f2a57b48d88b42f579ff",
    "dangerLevel": 12.1,
    "warningLevel": 10.8,
-   "waterLevelOn": "2026-09-28T01:20:00+05:45",
+   "waterLevelOn": "2026-09-28T02:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 250,
    "steady": "FALLING",
@@ -14163,40 +14114,9 @@
    "station": 67
   },
   {
-   "id": 25596461,
-   "createdOn": "2026-09-28T01:35:09.587406+05:45",
-   "modifiedOn": "2026-09-28T01:35:09.587408+05:45",
-   "title": "Tadi at Belkot",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.134943,
-     27.860094
-    ]
-   },
-   "waterLevel": 2.22699928284,
-   "image": "http://daq.hydrology.gov.np/images/325da877378a7511354dba39e151ea7c",
-   "dangerLevel": 5.5,
-   "warningLevel": 4.5,
-   "waterLevelOn": "2026-09-28T01:10:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "Hydrological & Discharge Measurement Station",
-   "stationSeriesId": 1082,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 3702,
-   "municipality": 28001,
-   "district": 25,
-   "province": 3,
-   "station": 135
-  },
-  {
-   "id": 25596460,
-   "createdOn": "2026-09-28T01:35:09.587368+05:45",
-   "modifiedOn": "2026-09-28T01:35:09.587370+05:45",
+   "id": 25597817,
+   "createdOn": "2026-09-28T04:15:10.500793+05:45",
+   "modifiedOn": "2026-09-28T04:15:10.500795+05:45",
    "title": "Tadi Khola at Rautar",
    "basin": "Narayani",
    "point": {
@@ -14206,11 +14126,11 @@
      27.918694
     ]
    },
-   "waterLevel": 0.929100036621,
+   "waterLevel": 0.937000274658,
    "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
    "dangerLevel": null,
    "warningLevel": 3.5,
-   "waterLevelOn": "2026-09-28T01:20:00+05:45",
+   "waterLevelOn": "2026-09-28T02:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -14225,9 +14145,9 @@
    "station": 65
   },
   {
-   "id": 25596436,
-   "createdOn": "2026-09-28T01:35:09.586419+05:45",
-   "modifiedOn": "2026-09-28T01:35:09.586421+05:45",
+   "id": 25597787,
+   "createdOn": "2026-09-28T04:15:10.499618+05:45",
+   "modifiedOn": "2026-09-28T04:15:10.499620+05:45",
    "title": "Manahari Khola at Manahari",
    "basin": "Narayani",
    "point": {
@@ -14237,11 +14157,11 @@
      27.548673
     ]
    },
-   "waterLevel": 1.69199943542,
+   "waterLevel": 1.68099975586,
    "image": "http://daq.hydrology.gov.np/images/dda94e5a1fe05535b24b7907976c7efe",
    "dangerLevel": null,
    "warningLevel": 4.3,
-   "waterLevelOn": "2026-09-28T01:20:00+05:45",
+   "waterLevelOn": "2026-09-28T02:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 305,
    "steady": "STEADY",
@@ -14256,133 +14176,9 @@
    "station": 116
   },
   {
-   "id": 25596390,
-   "createdOn": "2026-09-28T01:35:09.584541+05:45",
-   "modifiedOn": "2026-09-28T01:35:09.584543+05:45",
-   "title": "Budhi Gandaki at Aarughat",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.816,
-     28.046
-    ]
-   },
-   "waterLevel": 3.61520004272,
-   "image": "http://daq.hydrology.gov.np/images/a5d962039af199e304760d743ab51419",
-   "dangerLevel": 5,
-   "warningLevel": 4.5,
-   "waterLevelOn": "2026-09-28T01:10:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "FALLING",
-   "description": "Station under PPCR",
-   "stationSeriesId": 3572,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 3429,
-   "municipality": 36001,
-   "district": 44,
-   "province": 4,
-   "station": 100
-  },
-  {
-   "id": 25596375,
-   "createdOn": "2026-09-28T01:25:09.788778+05:45",
-   "modifiedOn": "2026-09-28T01:25:09.788780+05:45",
-   "title": "Trishuli Khola at Dhunche",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.318589,
-     28.098163
-    ]
-   },
-   "waterLevel": 2.5143995285,
-   "image": "http://daq.hydrology.gov.np/images/0a4d86552fd0e57c5ab02555b4dc693f",
-   "dangerLevel": null,
-   "warningLevel": 3.2,
-   "waterLevelOn": "2026-09-28T01:10:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "HS_manual",
-   "stationSeriesId": 19916,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 1427,
-   "municipality": 29001,
-   "district": 23,
-   "province": 3,
-   "station": 105
-  },
-  {
-   "id": 25596338,
-   "createdOn": "2026-09-28T01:25:09.787327+05:45",
-   "modifiedOn": "2026-09-28T01:25:09.787329+05:45",
-   "title": "Narayani at Devghat",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.43,
-     27.71
-    ]
-   },
-   "waterLevel": 9.88299942017,
-   "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
-   "dangerLevel": 9,
-   "warningLevel": 7.3,
-   "waterLevelOn": "2026-09-28T00:50:00+05:45",
-   "status": "ABOVE DANGER LEVEL",
-   "elevation": null,
-   "steady": "FALLING",
-   "description": "Hydrological station with RLS",
-   "stationSeriesId": 4140,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 3479,
-   "municipality": 76005,
-   "district": 481,
-   "province": 4,
-   "station": 25
-  },
-  {
-   "id": 25596319,
-   "createdOn": "2026-09-28T01:25:09.786557+05:45",
-   "modifiedOn": "2026-09-28T01:25:09.786560+05:45",
-   "title": "Lothar Khola at Lothar",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.7361,
-     27.5877
-    ]
-   },
-   "waterLevel": 1.86500024796,
-   "image": "http://daq.hydrology.gov.np/images/93f6c4e346f0c03f64410c51ac9f71a0",
-   "dangerLevel": 7,
-   "warningLevel": 6.5,
-   "waterLevelOn": "2026-09-28T01:10:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": 207,
-   "steady": "STEADY",
-   "description": "Hydrological station with RLS",
-   "stationSeriesId": 1318,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 2397,
-   "municipality": 31008,
-   "district": 31,
-   "province": 3,
-   "station": 16
-  },
-  {
-   "id": 25596277,
-   "createdOn": "2026-09-28T01:25:09.784668+05:45",
-   "modifiedOn": "2026-09-28T01:25:09.784670+05:45",
+   "id": 25597742,
+   "createdOn": "2026-09-28T04:15:10.497747+05:45",
+   "modifiedOn": "2026-09-28T04:15:10.497749+05:45",
    "title": "East Rapti at Rajaiya",
    "basin": "Narayani",
    "point": {
@@ -14392,11 +14188,11 @@
      27.44
     ]
    },
-   "waterLevel": 1.92500019073,
+   "waterLevel": 1.85299968719,
    "image": "http://daq.hydrology.gov.np/images/6b3873a603048aca368d9d8fe8e5ca1d",
    "dangerLevel": 3.7,
    "warningLevel": 3.3,
-   "waterLevelOn": "2026-09-28T01:10:00+05:45",
+   "waterLevelOn": "2026-09-28T02:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -14411,35 +14207,190 @@
    "station": 70
   },
   {
-   "id": 25596233,
-   "createdOn": "2026-09-28T01:15:11.101055+05:45",
-   "modifiedOn": "2026-09-28T01:15:11.101057+05:45",
-   "title": "Trishuli River at Bhorle",
+   "id": 25597727,
+   "createdOn": "2026-09-28T04:15:10.497056+05:45",
+   "modifiedOn": "2026-09-28T04:15:10.497058+05:45",
+   "title": "Budhi Gandaki at Aarughat",
    "basin": "Narayani",
    "point": {
     "type": "Point",
     "coordinates": [
-     84.45,
-     27.82
+     84.816,
+     28.046
     ]
    },
-   "waterLevel": 9.21700000763,
-   "image": "http://daq.hydrology.gov.np/images/73368683a6f7de9fb9558110f86350e9",
-   "dangerLevel": null,
-   "warningLevel": 9.5,
-   "waterLevelOn": "2026-09-28T01:00:00+05:45",
+   "waterLevel": 3.74669981003,
+   "image": "http://daq.hydrology.gov.np/images/a5d962039af199e304760d743ab51419",
+   "dangerLevel": 5,
+   "warningLevel": 4.5,
+   "waterLevelOn": "2026-09-28T02:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
-   "elevation": 200,
-   "steady": "FALLING",
-   "description": "RLS with CDCP",
-   "stationSeriesId": 19401,
+   "elevation": null,
+   "steady": "RISING",
+   "description": "Station under PPCR",
+   "stationSeriesId": 3572,
    "dataSource": "hydrology.gov.np",
    "dataSourceId": null,
-   "ward": 2259,
-   "municipality": 35001,
-   "district": 35,
+   "ward": 3429,
+   "municipality": 36001,
+   "district": 44,
+   "province": 4,
+   "station": 100
+  },
+  {
+   "id": 25597706,
+   "createdOn": "2026-09-28T04:05:09.560672+05:45",
+   "modifiedOn": "2026-09-28T04:05:09.560674+05:45",
+   "title": "Trishuli at Galchi",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.00305,
+     27.802328
+    ]
+   },
+   "waterLevel": 361.478912354,
+   "image": "http://daq.hydrology.gov.np/images/96917ebb6f5c49a5673ea38a1b4fa8e0",
+   "dangerLevel": null,
+   "warningLevel": 367,
+   "waterLevelOn": "2026-09-28T04:00:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": 378,
+   "steady": "STEADY",
+   "description": "RLS from RTS",
+   "stationSeriesId": 36628,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 3089,
+   "municipality": 30004,
+   "district": 26,
    "province": 3,
-   "station": 35
+   "station": 281
+  },
+  {
+   "id": 25597705,
+   "createdOn": "2026-09-28T04:05:09.560633+05:45",
+   "modifiedOn": "2026-09-28T04:05:09.560635+05:45",
+   "title": "Trishuli Khola at Dhunche",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.318589,
+     28.098163
+    ]
+   },
+   "waterLevel": 2.47399950027,
+   "image": "http://daq.hydrology.gov.np/images/0a4d86552fd0e57c5ab02555b4dc693f",
+   "dangerLevel": null,
+   "warningLevel": 3.2,
+   "waterLevelOn": "2026-09-28T02:40:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": null,
+   "steady": "STEADY",
+   "description": "HS_manual",
+   "stationSeriesId": 19916,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 1427,
+   "municipality": 29001,
+   "district": 23,
+   "province": 3,
+   "station": 105
+  },
+  {
+   "id": 25597700,
+   "createdOn": "2026-09-28T04:05:09.560443+05:45",
+   "modifiedOn": "2026-09-28T04:05:09.560445+05:45",
+   "title": "Tadi at Belkot",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.134943,
+     27.860094
+    ]
+   },
+   "waterLevel": 2.21099948883,
+   "image": "http://daq.hydrology.gov.np/images/325da877378a7511354dba39e151ea7c",
+   "dangerLevel": 5.5,
+   "warningLevel": 4.5,
+   "waterLevelOn": "2026-09-28T02:30:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": null,
+   "steady": "STEADY",
+   "description": "Hydrological & Discharge Measurement Station",
+   "stationSeriesId": 1082,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 3702,
+   "municipality": 28001,
+   "district": 25,
+   "province": 3,
+   "station": 135
+  },
+  {
+   "id": 25597667,
+   "createdOn": "2026-09-28T04:05:09.558971+05:45",
+   "modifiedOn": "2026-09-28T04:05:09.558973+05:45",
+   "title": "Narayani at Devghat",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.43,
+     27.71
+    ]
+   },
+   "waterLevel": 9.32399940491,
+   "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
+   "dangerLevel": 9,
+   "warningLevel": 7.3,
+   "waterLevelOn": "2026-09-28T02:30:00+05:45",
+   "status": "ABOVE DANGER LEVEL",
+   "elevation": null,
+   "steady": "FALLING",
+   "description": "Hydrological station with RLS",
+   "stationSeriesId": 4140,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 3479,
+   "municipality": 76005,
+   "district": 481,
+   "province": 4,
+   "station": 25
+  },
+  {
+   "id": 25597644,
+   "createdOn": "2026-09-28T04:05:09.558049+05:45",
+   "modifiedOn": "2026-09-28T04:05:09.558051+05:45",
+   "title": "Lothar Khola at Lothar",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.7361,
+     27.5877
+    ]
+   },
+   "waterLevel": 1.76399993896,
+   "image": "http://daq.hydrology.gov.np/images/93f6c4e346f0c03f64410c51ac9f71a0",
+   "dangerLevel": 7,
+   "warningLevel": 6.5,
+   "waterLevelOn": "2026-09-28T02:40:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": 207,
+   "steady": "STEADY",
+   "description": "Hydrological station with RLS",
+   "stationSeriesId": 1318,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 2397,
+   "municipality": 31008,
+   "district": 31,
+   "province": 3,
+   "station": 16
   }
  ],
  "alerts": [
@@ -14693,7 +14644,7 @@
    "expireOn": null,
    "polygon": null,
    "referenceType": "pollution",
-   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Lumbini\", \"identifier\": \"LUMBINI\", \"date_time\": \"2026-09-28T00:32:00.010+05:45\", \"aqi_color\": \"#FF0000\", \"aqi\": 170.0, \"observation\": [{\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": 137, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 112.5, \"datetime\": \"2026-09-27T18:47:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 134, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 93, \"datetime\": \"2026-09-27T18:47:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 140, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}], \"images\": \"[\\\"http://pollution.gov.np:8000/images/5a856d097d2d6ed3827e7975a3d28efa\\\"]\", \"point\": \"SRID=4326;POINT (83.282186 27.50359)\", \"elevation\": 97.0, \"description\": \"Air quality index at Lumbini is 170. An alert is created for pollution in Lumbini\", \"ward\": 4237, \"municipality\": 49099, \"district\": 37, \"province\": 5, \"station\": 26}}",
+   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Lumbini\", \"identifier\": \"LUMBINI\", \"date_time\": \"2026-09-28T03:43:00.010+05:45\", \"aqi_color\": \"#FF0000\", \"aqi\": 174.0, \"observation\": [{\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": 137, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 125.800003052, \"datetime\": \"2026-09-27T21:58:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 134, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 100.900001526, \"datetime\": \"2026-09-27T21:58:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 140, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}], \"images\": \"[\\\"http://pollution.gov.np:8000/images/5a856d097d2d6ed3827e7975a3d28efa\\\"]\", \"point\": \"SRID=4326;POINT (83.282186 27.50359)\", \"elevation\": 97.0, \"description\": \"Air quality index at Lumbini is 174. An alert is created for pollution in Lumbini\", \"ward\": 4237, \"municipality\": 49099, \"district\": 37, \"province\": 5, \"station\": 26}}",
    "referenceId": 6,
    "region": null,
    "regionId": null,
@@ -16580,7 +16531,7 @@
    "expireOn": null,
    "polygon": null,
    "referenceType": "river",
-   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Kothi river at Lavani\", \"basin\": \"Tinau\", \"point\": \"SRID=4326;POINT (83.2289809 27.499586)\", \"water_level\": 6.10787343979, \"image\": \"http://daq.hydrology.gov.np/images/9cc20f9689553173ceea20261ed89a20\", \"danger_level\": null, \"warning_level\": 6.0, \"water_level_on\": \"2026-09-27T19:35:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": null, \"steady\": \"STEADY\", \"description\": \"HS_manual\", \"station_series_id\": 31173, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 2079, \"municipality\": 50009, \"district\": 38, \"province\": 5, \"station\": 251}}",
+   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Kothi river at Lavani\", \"basin\": \"Tinau\", \"point\": \"SRID=4326;POINT (83.2289809 27.499586)\", \"water_level\": 6.02023029327, \"image\": \"http://daq.hydrology.gov.np/images/9cc20f9689553173ceea20261ed89a20\", \"danger_level\": null, \"warning_level\": 6.0, \"water_level_on\": \"2026-09-27T21:05:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": null, \"steady\": \"STEADY\", \"description\": \"HS_manual\", \"station_series_id\": 31173, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 2079, \"municipality\": 50009, \"district\": 38, \"province\": 5, \"station\": 251}}",
    "referenceId": 4689,
    "region": null,
    "regionId": null,
@@ -18504,7 +18455,7 @@
    "expireOn": null,
    "polygon": null,
    "referenceType": "river",
-   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Kiran Nala River(296)\", \"basin\": \"Karnali\", \"point\": \"SRID=4326;POINT (81.565 28.098)\", \"water_level\": 6.27119970322, \"image\": \"http://daq.hydrology.gov.np/images/012a23107f3a3f92de9f97213703e60f\", \"danger_level\": 7.0, \"warning_level\": 6.0, \"water_level_on\": \"2026-09-27T19:35:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": 141, \"steady\": \"STEADY\", \"description\": \"Kiran River(296) at C-boring\", \"station_series_id\": 27480, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 2198, \"municipality\": 57004, \"district\": 66, \"province\": 5, \"station\": 231}}",
+   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Kiran Nala River(296)\", \"basin\": \"Karnali\", \"point\": \"SRID=4326;POINT (81.565 28.098)\", \"water_level\": 6.24729967117, \"image\": \"http://daq.hydrology.gov.np/images/012a23107f3a3f92de9f97213703e60f\", \"danger_level\": 7.0, \"warning_level\": 6.0, \"water_level_on\": \"2026-09-27T21:05:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": 141, \"steady\": \"STEADY\", \"description\": \"Kiran River(296) at C-boring\", \"station_series_id\": 27480, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 2198, \"municipality\": 57004, \"district\": 66, \"province\": 5, \"station\": 231}}",
    "referenceId": 4639,
    "region": null,
    "regionId": null,
@@ -18888,7 +18839,7 @@
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 12
+   "count": 10
   },
   {
    "source": "अनलाइनखबर",
@@ -18923,7 +18874,7 @@
   {
    "source": "rivers",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "source": "alerts",
