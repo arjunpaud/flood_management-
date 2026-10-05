@@ -1,6 +1,24 @@
 {
- "generatedAt": "2026-10-05T17:29:53.373Z",
+ "generatedAt": "2026-10-05T23:16:36.757Z",
  "news": [
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "पहिरोले खोसेको जलेश्वरवासीको सपना",
+   "link": "https://www.ratopati.com/story/597478/landslide-snatches-dreams-of-jaleshwor-residents",
+   "date": "Mon, 05 Oct 2026 20:05:16 +0000",
+   "ts": 1791230716000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "१२ बजे १२ समाचार : ऋणको चर्को ब्याजले थलिँदै नेपाल वायुसेवा निगम, बाढी पीडितलाई राहतका लागि अनेक सर्त",
+   "link": "https://www.ratopati.com/story/597471/12-oclock-12-news-nepal-airlines-corporation-is-struggling-with-high-interest-on-loans-many-conditions-for-relief-to-flood-victims",
+   "date": "Mon, 05 Oct 2026 18:18:39 +0000",
+   "ts": 1791224319000
+  },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
@@ -20,15 +38,6 @@
    "ts": 1791216090000
   },
   {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "थाइल्याण्डमा थप वर्षाको चेतावनी, बाढीबाट मृत्यु हुनेको सङ्ख्या ३१ पुग्यो",
-   "link": "https://www.ratopati.com/story/597450/thailand-warns-of-more-rain-flood-death-toll-rises-to-31",
-   "date": "Mon, 05 Oct 2026 15:48:39 +0000",
-   "ts": 1791215319000
-  },
-  {
    "source": "नागरिक",
    "sourceId": "nagarik",
    "site": "https://nagariknews.nagariknetwork.com",
@@ -45,15 +54,6 @@
    "link": "https://nagariknews.nagariknetwork.com/social-affairs/jeep-safari-in-the-park-before-dashain-97-11.html",
    "date": "Mon, 05 Oct 2026 21:15:10 +0545",
    "ts": 1791214210000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "सहिद गङ्गालाल राष्ट्रिय हृदय केन्द्रले विदुरमा निःशुल्क मुटु स्वास्थ्य शिविर सञ्चालन गर्ने",
-   "link": "https://www.ratopati.com/story/597438/shahid-gangalal-national-heart-center-to-conduct-free-heart-health-camp-in-bidur",
-   "date": "Mon, 05 Oct 2026 14:57:16 +0000",
-   "ts": 1791212236000
   },
   {
    "source": "अनलाइनखबर",
@@ -9777,9 +9777,9 @@
  ],
  "rivers": [
   {
-   "id": 25753996,
-   "createdOn": "2026-10-05T23:05:10.038070+05:45",
-   "modifiedOn": "2026-10-05T23:05:10.038072+05:45",
+   "id": 25759066,
+   "createdOn": "2026-10-06T04:55:09.725127+05:45",
+   "modifiedOn": "2026-10-06T04:55:09.725129+05:45",
    "title": "Trishuli at Galchi",
    "basin": "Narayani",
    "point": {
@@ -9789,11 +9789,11 @@
      27.802328
     ]
    },
-   "waterLevel": 360.093109131,
+   "waterLevel": 360.017700195,
    "image": "http://daq.hydrology.gov.np/images/96917ebb6f5c49a5673ea38a1b4fa8e0",
    "dangerLevel": null,
    "warningLevel": 367,
-   "waterLevelOn": "2026-10-05T23:00:00+05:45",
+   "waterLevelOn": "2026-10-06T04:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 378,
    "steady": "STEADY",
@@ -9808,9 +9808,9 @@
    "station": 281
   },
   {
-   "id": 25753995,
-   "createdOn": "2026-10-05T23:05:10.038032+05:45",
-   "modifiedOn": "2026-10-05T23:05:10.038034+05:45",
+   "id": 25759065,
+   "createdOn": "2026-10-06T04:55:09.725088+05:45",
+   "modifiedOn": "2026-10-06T04:55:09.725091+05:45",
    "title": "Trishuli River at Kali Khola",
    "basin": "Narayani",
    "point": {
@@ -9820,11 +9820,11 @@
      27.833
     ]
    },
-   "waterLevel": 4.46899986267,
+   "waterLevel": 4.38999938965,
    "image": "http://daq.hydrology.gov.np/images/364ef9a4cae0f2a57b48d88b42f579ff",
    "dangerLevel": 12.1,
    "warningLevel": 10.8,
-   "waterLevelOn": "2026-10-05T23:00:00+05:45",
+   "waterLevelOn": "2026-10-06T04:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 250,
    "steady": "STEADY",
@@ -9839,9 +9839,9 @@
    "station": 67
   },
   {
-   "id": 25753994,
-   "createdOn": "2026-10-05T23:05:10.037995+05:45",
-   "modifiedOn": "2026-10-05T23:05:10.037997+05:45",
+   "id": 25759064,
+   "createdOn": "2026-10-06T04:55:09.725050+05:45",
+   "modifiedOn": "2026-10-06T04:55:09.725052+05:45",
    "title": "Trishuli River at Bhorle",
    "basin": "Narayani",
    "point": {
@@ -9851,11 +9851,11 @@
      27.82
     ]
    },
-   "waterLevel": 4.01500034332,
+   "waterLevel": 4.11400032043,
    "image": "http://daq.hydrology.gov.np/images/73368683a6f7de9fb9558110f86350e9",
    "dangerLevel": null,
    "warningLevel": 9.5,
-   "waterLevelOn": "2026-10-05T23:00:00+05:45",
+   "waterLevelOn": "2026-10-06T04:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 200,
    "steady": "STEADY",
@@ -9870,9 +9870,9 @@
    "station": 35
   },
   {
-   "id": 25753993,
-   "createdOn": "2026-10-05T23:05:10.037958+05:45",
-   "modifiedOn": "2026-10-05T23:05:10.037960+05:45",
+   "id": 25759063,
+   "createdOn": "2026-10-06T04:55:09.725013+05:45",
+   "modifiedOn": "2026-10-06T04:55:09.725015+05:45",
    "title": "Trishuli Khola at Dhunche",
    "basin": "Narayani",
    "point": {
@@ -9882,11 +9882,11 @@
      28.098163
     ]
    },
-   "waterLevel": 2.16349983215,
+   "waterLevel": 2.15649986267,
    "image": "http://daq.hydrology.gov.np/images/0a4d86552fd0e57c5ab02555b4dc693f",
    "dangerLevel": null,
    "warningLevel": 3.2,
-   "waterLevelOn": "2026-10-05T22:50:00+05:45",
+   "waterLevelOn": "2026-10-06T04:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -9901,40 +9901,9 @@
    "station": 105
   },
   {
-   "id": 25753987,
-   "createdOn": "2026-10-05T23:05:10.037734+05:45",
-   "modifiedOn": "2026-10-05T23:05:10.037736+05:45",
-   "title": "Tadi at Belkot",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.134943,
-     27.860094
-    ]
-   },
-   "waterLevel": 1.89799976349,
-   "image": "http://daq.hydrology.gov.np/images/325da877378a7511354dba39e151ea7c",
-   "dangerLevel": 5.5,
-   "warningLevel": 4.5,
-   "waterLevelOn": "2026-10-05T22:50:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "Hydrological & Discharge Measurement Station",
-   "stationSeriesId": 1082,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 3702,
-   "municipality": 28001,
-   "district": 25,
-   "province": 3,
-   "station": 135
-  },
-  {
-   "id": 25753986,
-   "createdOn": "2026-10-05T23:05:10.037696+05:45",
-   "modifiedOn": "2026-10-05T23:05:10.037698+05:45",
+   "id": 25759056,
+   "createdOn": "2026-10-06T04:55:09.724744+05:45",
+   "modifiedOn": "2026-10-06T04:55:09.724746+05:45",
    "title": "Tadi Khola at Rautar",
    "basin": "Narayani",
    "point": {
@@ -9944,11 +9913,11 @@
      27.918694
     ]
    },
-   "waterLevel": 0.555500030518,
+   "waterLevel": 0.558300018311,
    "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
    "dangerLevel": null,
    "warningLevel": 3.5,
-   "waterLevelOn": "2026-10-05T23:00:00+05:45",
+   "waterLevelOn": "2026-10-06T04:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -9963,9 +9932,40 @@
    "station": 65
   },
   {
-   "id": 25753953,
-   "createdOn": "2026-10-05T23:05:10.036371+05:45",
-   "modifiedOn": "2026-10-05T23:05:10.036374+05:45",
+   "id": 25759055,
+   "createdOn": "2026-10-06T04:55:09.724706+05:45",
+   "modifiedOn": "2026-10-06T04:55:09.724708+05:45",
+   "title": "Tadi at Belkot",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.134943,
+     27.860094
+    ]
+   },
+   "waterLevel": 1.83099937439,
+   "image": "http://daq.hydrology.gov.np/images/325da877378a7511354dba39e151ea7c",
+   "dangerLevel": 5.5,
+   "warningLevel": 4.5,
+   "waterLevelOn": "2026-10-06T04:40:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": null,
+   "steady": "STEADY",
+   "description": "Hydrological & Discharge Measurement Station",
+   "stationSeriesId": 1082,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 3702,
+   "municipality": 28001,
+   "district": 25,
+   "province": 3,
+   "station": 135
+  },
+  {
+   "id": 25759024,
+   "createdOn": "2026-10-06T04:55:09.723451+05:45",
+   "modifiedOn": "2026-10-06T04:55:09.723453+05:45",
    "title": "Narayani at Devghat",
    "basin": "Narayani",
    "point": {
@@ -9975,11 +9975,11 @@
      27.71
     ]
    },
-   "waterLevel": 4.15499973297,
+   "waterLevel": 4.19600009918,
    "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
    "dangerLevel": 9,
    "warningLevel": 7.3,
-   "waterLevelOn": "2026-10-05T22:40:00+05:45",
+   "waterLevelOn": "2026-10-06T04:30:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -9994,9 +9994,9 @@
    "station": 25
   },
   {
-   "id": 25753941,
-   "createdOn": "2026-10-05T23:05:10.035582+05:45",
-   "modifiedOn": "2026-10-05T23:05:10.035584+05:45",
+   "id": 25759013,
+   "createdOn": "2026-10-06T04:55:09.723014+05:45",
+   "modifiedOn": "2026-10-06T04:55:09.723017+05:45",
    "title": "Manahari Khola at Manahari",
    "basin": "Narayani",
    "point": {
@@ -10006,11 +10006,11 @@
      27.548673
     ]
    },
-   "waterLevel": 1.18999958038,
+   "waterLevel": 1.1939997673,
    "image": "http://daq.hydrology.gov.np/images/dda94e5a1fe05535b24b7907976c7efe",
    "dangerLevel": null,
    "warningLevel": 4.3,
-   "waterLevelOn": "2026-10-05T23:00:00+05:45",
+   "waterLevelOn": "2026-10-06T04:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 305,
    "steady": "STEADY",
@@ -10025,9 +10025,9 @@
    "station": 116
   },
   {
-   "id": 25753937,
-   "createdOn": "2026-10-05T23:05:10.035402+05:45",
-   "modifiedOn": "2026-10-05T23:05:10.035405+05:45",
+   "id": 25759005,
+   "createdOn": "2026-10-06T04:55:09.722692+05:45",
+   "modifiedOn": "2026-10-06T04:55:09.722694+05:45",
    "title": "Lothar Khola at Lothar",
    "basin": "Narayani",
    "point": {
@@ -10037,11 +10037,11 @@
      27.5877
     ]
    },
-   "waterLevel": 1.757999897,
+   "waterLevel": 1.76700019836,
    "image": "http://daq.hydrology.gov.np/images/93f6c4e346f0c03f64410c51ac9f71a0",
    "dangerLevel": 7,
    "warningLevel": 6.5,
-   "waterLevelOn": "2026-10-05T22:50:00+05:45",
+   "waterLevelOn": "2026-10-06T04:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 207,
    "steady": "STEADY",
@@ -10056,71 +10056,9 @@
    "station": 16
   },
   {
-   "id": 25753905,
-   "createdOn": "2026-10-05T23:05:10.034004+05:45",
-   "modifiedOn": "2026-10-05T23:05:10.034006+05:45",
-   "title": "East Rapti at Rajaiya",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.97,
-     27.44
-    ]
-   },
-   "waterLevel": 1.04899978638,
-   "image": "http://daq.hydrology.gov.np/images/6b3873a603048aca368d9d8fe8e5ca1d",
-   "dangerLevel": 3.7,
-   "warningLevel": 3.3,
-   "waterLevelOn": "2026-10-05T22:50:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "Station under PPCR",
-   "stationSeriesId": 3733,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 2364,
-   "municipality": 31004,
-   "district": 31,
-   "province": 3,
-   "station": 70
-  },
-  {
-   "id": 25753895,
-   "createdOn": "2026-10-05T23:05:10.033586+05:45",
-   "modifiedOn": "2026-10-05T23:05:10.033588+05:45",
-   "title": "Budhi Gandaki at Aarughat",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.816,
-     28.046
-    ]
-   },
-   "waterLevel": 2.6388001442,
-   "image": "http://daq.hydrology.gov.np/images/a5d962039af199e304760d743ab51419",
-   "dangerLevel": 5,
-   "warningLevel": 4.5,
-   "waterLevelOn": "2026-10-05T22:50:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "Station under PPCR",
-   "stationSeriesId": 3572,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 3429,
-   "municipality": 36001,
-   "district": 44,
-   "province": 4,
-   "station": 100
-  },
-  {
-   "id": 25753893,
-   "createdOn": "2026-10-05T23:05:10.033497+05:45",
-   "modifiedOn": "2026-10-05T23:05:10.033499+05:45",
+   "id": 25758953,
+   "createdOn": "2026-10-06T04:55:09.720437+05:45",
+   "modifiedOn": "2026-10-06T04:55:09.720440+05:45",
    "title": "Bhote Koshi at Bahrabise",
    "basin": "Koshi",
    "point": {
@@ -10130,11 +10068,11 @@
      27.786773
     ]
    },
-   "waterLevel": 0.909000396729,
+   "waterLevel": 0.877000808716,
    "image": "http://daq.hydrology.gov.np/images/1fa9f7b4833192d038492298d9a42cc7",
    "dangerLevel": 3.6,
    "warningLevel": 3.1,
-   "waterLevelOn": "2026-10-05T22:50:00+05:45",
+   "waterLevelOn": "2026-10-06T04:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -10147,9 +10085,77 @@
    "district": 24,
    "province": 3,
    "station": 91
+  },
+  {
+   "id": 25758801,
+   "createdOn": "2026-10-06T04:45:11.693465+05:45",
+   "modifiedOn": "2026-10-06T04:45:11.693468+05:45",
+   "title": "Budhi Gandaki at Aarughat",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.816,
+     28.046
+    ]
+   },
+   "waterLevel": 2.57359981537,
+   "image": "http://daq.hydrology.gov.np/images/a5d962039af199e304760d743ab51419",
+   "dangerLevel": 5,
+   "warningLevel": 4.5,
+   "waterLevelOn": "2026-10-06T04:30:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": null,
+   "steady": "STEADY",
+   "description": "Station under PPCR",
+   "stationSeriesId": 3572,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 3429,
+   "municipality": 36001,
+   "district": 44,
+   "province": 4,
+   "station": 100
   }
  ],
  "alerts": [
+  {
+   "id": 46292,
+   "title": "Heavy Rainfall at Lamkichuha-2, Kailali",
+   "wards": [
+    5285
+   ],
+   "affectedDemography": {
+    "maleCount": 324548,
+    "femaleCount": 361698,
+    "householdCount": 141546
+   },
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     81.14278111,
+     28.62827889
+    ]
+   },
+   "createdOn": "2026-10-05T23:45:07.738435+05:45",
+   "titleNe": "लम्किचुहा-२, कैलालीमा भारी वर्षा",
+   "source": "dhm",
+   "description": "Basin: Mohana \n Elevation: 167",
+   "verified": true,
+   "public": true,
+   "startedOn": "2026-10-05T23:45:04.540777+05:45",
+   "expireOn": "2026-10-06T02:00:04.380272+05:45",
+   "polygon": null,
+   "referenceType": "rain",
+   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 453, \"fields\": {\"created_on\": \"2024-03-19T00:30:12.539Z\", \"modified_on\": \"2026-10-05T20:00:07.819Z\", \"title\": \"Baliya\", \"basin\": \"Mohana\", \"measured_on\": \"2026-10-06T01:45:07.803+05:45\", \"point\": \"SRID=4326;POINT (81.14278111 28.62827889)\", \"elevation\": 167, \"image\": \"http://daq.hydrology.gov.np/images/114b6ef4c7a8c265b63f947f6743da6a\", \"averages\": [{\"interval\": 1, \"value\": 0, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 12.4, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 100.4, \"status\": {\"warning\": true, \"danger\": false}}, {\"interval\": 12, \"value\": 100.4, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 100.8, \"status\": {\"warning\": false, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"T&RH TPB installed by Practical Action for EWS in 2024\", \"station_series_id\": 26794, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 562, \"ward\": 5285, \"municipality\": 71011, \"district\": 67, \"province\": 7}}",
+   "referenceId": 562,
+   "region": null,
+   "regionId": null,
+   "createdBy": null,
+   "updatedBy": null,
+   "hazard": 14,
+   "event": null
+  },
   {
    "id": 46291,
    "title": "Heavy Rainfall at Lamkichuha-2, Kailali",
@@ -10175,10 +10181,10 @@
    "verified": true,
    "public": true,
    "startedOn": "2026-10-05T22:45:04.712188+05:45",
-   "expireOn": null,
+   "expireOn": "2026-10-05T23:30:03.712728+05:45",
    "polygon": null,
    "referenceType": "rain",
-   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 453, \"fields\": {\"created_on\": \"2024-03-19T00:30:12.539Z\", \"modified_on\": \"2026-10-05T17:15:05.971Z\", \"title\": \"Baliya\", \"basin\": \"Mohana\", \"measured_on\": \"2026-10-05T23:00:05.956+05:45\", \"point\": \"SRID=4326;POINT (81.14278111 28.62827889)\", \"elevation\": 167, \"image\": \"http://daq.hydrology.gov.np/images/114b6ef4c7a8c265b63f947f6743da6a\", \"averages\": [{\"interval\": 1, \"value\": 45.6, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 81.8, \"status\": {\"warning\": true, \"danger\": false}}, {\"interval\": 6, \"value\": 88, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 12, \"value\": 88, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 88.4, \"status\": {\"warning\": false, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"T&RH TPB installed by Practical Action for EWS in 2024\", \"station_series_id\": 26794, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 562, \"ward\": 5285, \"municipality\": 71011, \"district\": 67, \"province\": 7}}",
+   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 453, \"fields\": {\"created_on\": \"2024-03-19T00:30:12.539Z\", \"modified_on\": \"2026-10-05T17:30:05.680Z\", \"title\": \"Baliya\", \"basin\": \"Mohana\", \"measured_on\": \"2026-10-05T23:15:05.665+05:45\", \"point\": \"SRID=4326;POINT (81.14278111 28.62827889)\", \"elevation\": 167, \"image\": \"http://daq.hydrology.gov.np/images/114b6ef4c7a8c265b63f947f6743da6a\", \"averages\": [{\"interval\": 1, \"value\": 45.6, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 81.8, \"status\": {\"warning\": true, \"danger\": false}}, {\"interval\": 6, \"value\": 88, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 12, \"value\": 88, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 88.4, \"status\": {\"warning\": false, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"T&RH TPB installed by Practical Action for EWS in 2024\", \"station_series_id\": 26794, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 562, \"ward\": 5285, \"municipality\": 71011, \"district\": 67, \"province\": 7}}",
    "referenceId": 562,
    "region": null,
    "regionId": null,
@@ -10212,10 +10218,10 @@
    "verified": true,
    "public": true,
    "startedOn": "2026-10-05T21:45:03.825204+05:45",
-   "expireOn": null,
+   "expireOn": "2026-10-05T23:30:03.712728+05:45",
    "polygon": null,
    "referenceType": "rain",
-   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 137, \"fields\": {\"created_on\": \"2020-12-18T13:11:37.798Z\", \"modified_on\": \"2026-10-05T17:15:10.634Z\", \"title\": \"Jajarkot\", \"basin\": \"Karnali\", \"measured_on\": \"2026-10-05T23:00:10.611+05:45\", \"point\": \"SRID=4326;POINT (82.2001231 28.6989756)\", \"elevation\": 1236, \"image\": \"http://daq.hydrology.gov.np/images/5a8954c62052f98973b23edae1c146cc\", \"averages\": [{\"interval\": 1, \"value\": 0.2, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 27, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 102.6, \"status\": {\"warning\": true, \"danger\": false}}, {\"interval\": 12, \"value\": 102.6, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 103, \"status\": {\"warning\": false, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"Tier 3\", \"station_series_id\": 13056, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 931, \"ward\": 716, \"municipality\": 61002, \"district\": 62, \"province\": 6}}",
+   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 137, \"fields\": {\"created_on\": \"2020-12-18T13:11:37.798Z\", \"modified_on\": \"2026-10-05T17:30:10.124Z\", \"title\": \"Jajarkot\", \"basin\": \"Karnali\", \"measured_on\": \"2026-10-05T23:15:10.100+05:45\", \"point\": \"SRID=4326;POINT (82.2001231 28.6989756)\", \"elevation\": 1236, \"image\": \"http://daq.hydrology.gov.np/images/5a8954c62052f98973b23edae1c146cc\", \"averages\": [{\"interval\": 1, \"value\": 0.2, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 27, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 102.6, \"status\": {\"warning\": true, \"danger\": false}}, {\"interval\": 12, \"value\": 102.6, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 103, \"status\": {\"warning\": false, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"Tier 3\", \"station_series_id\": 13056, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 931, \"ward\": 716, \"municipality\": 61002, \"district\": 62, \"province\": 6}}",
    "referenceId": 931,
    "region": null,
    "regionId": null,
@@ -10259,43 +10265,6 @@
    "createdBy": null,
    "updatedBy": null,
    "hazard": 14,
-   "event": null
-  },
-  {
-   "id": 46284,
-   "title": "Pollution Alert at Jitpur Simara-4, Bara",
-   "wards": [
-    6742
-   ],
-   "affectedDemography": {
-    "maleCount": 699216,
-    "femaleCount": 664145,
-    "householdCount": 237568
-   },
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.997761,
-     27.156708
-    ]
-   },
-   "createdOn": "2026-10-05T16:09:05.216572+05:45",
-   "titleNe": "जीतपुर सिमरा-४, बारामा वातावरणीय प्रदुषण",
-   "source": "doe",
-   "description": "AQI value is greater than 150",
-   "verified": true,
-   "public": true,
-   "startedOn": "2026-10-05T15:43:00.010000+05:45",
-   "expireOn": null,
-   "polygon": null,
-   "referenceType": "pollution",
-   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Simara\", \"identifier\": \"Simara\", \"date_time\": \"2026-10-05T22:43:00.010+05:45\", \"aqi_color\": \"#FF0000\", \"aqi\": 164.0, \"observation\": [{\"data\": {\"value\": 81, \"datetime\": \"2026-10-05T16:58:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 780, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 81.0999984741, \"datetime\": \"2026-10-05T16:58:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 621, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 81.0999984741, \"datetime\": \"2026-10-05T16:58:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 622, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}, {\"id\": 13, \"name\": \"2018\", \"description\": \"Stations installed in 2018\"}], \"images\": \"[\\\"http://pollution.gov.np:8000/images/6d6bf55aec2a710ac3ef48dd6bb0752c\\\"]\", \"point\": \"SRID=4326;POINT (84.997761 27.156708)\", \"elevation\": 128.0, \"description\": \"Air quality index at Simara is 164. An alert is created for pollution in Simara\", \"ward\": 6742, \"municipality\": 33005, \"district\": 33, \"province\": 2, \"station\": 19}}",
-   "referenceId": 22,
-   "region": null,
-   "regionId": null,
-   "createdBy": null,
-   "updatedBy": null,
-   "hazard": 37,
    "event": null
   },
   {
@@ -14628,7 +14597,7 @@
   {
    "source": "rivers",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "source": "alerts",
