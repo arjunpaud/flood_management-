@@ -1,6 +1,15 @@
 {
- "generatedAt": "2026-10-09T19:48:09.182Z",
+ "generatedAt": "2026-10-09T23:34:00.163Z",
  "news": [
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "चितवन मेडिकल कलेजद्वारा स्वयंसेविकालाई स्तन क्यान्सर सम्बन्धी प्रशिक्षण",
+   "link": "https://www.ratopati.com/story/598535/chitwan-medical-college-provides-training-to-volunteers-on-breast-cancer",
+   "date": "Fri, 09 Oct 2026 22:34:06 +0000",
+   "ts": 1791585246000
+  },
   {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
@@ -6663,9 +6672,9 @@
  ],
  "rivers": [
   {
-   "id": 25831736,
-   "createdOn": "2026-10-10T01:25:10.137074+05:45",
-   "modifiedOn": "2026-10-10T01:25:10.137076+05:45",
+   "id": 25834845,
+   "createdOn": "2026-10-10T05:15:10.696657+05:45",
+   "modifiedOn": "2026-10-10T05:15:10.696659+05:45",
    "title": "Trishuli at Galchi",
    "basin": "Narayani",
    "point": {
@@ -6675,14 +6684,14 @@
      27.802328
     ]
    },
-   "waterLevel": 360.356994629,
+   "waterLevel": 360.279205322,
    "image": "http://daq.hydrology.gov.np/images/96917ebb6f5c49a5673ea38a1b4fa8e0",
    "dangerLevel": null,
    "warningLevel": 367,
-   "waterLevelOn": "2026-10-10T01:20:00+05:45",
+   "waterLevelOn": "2026-10-10T05:10:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 378,
-   "steady": "RISING",
+   "steady": "FALLING",
    "description": "RLS from RTS",
    "stationSeriesId": 36628,
    "dataSource": "hydrology.gov.np",
@@ -6694,9 +6703,9 @@
    "station": 281
   },
   {
-   "id": 25831735,
-   "createdOn": "2026-10-10T01:25:10.137035+05:45",
-   "modifiedOn": "2026-10-10T01:25:10.137038+05:45",
+   "id": 25834844,
+   "createdOn": "2026-10-10T05:15:10.696618+05:45",
+   "modifiedOn": "2026-10-10T05:15:10.696620+05:45",
    "title": "Trishuli River at Kali Khola",
    "basin": "Narayani",
    "point": {
@@ -6706,14 +6715,14 @@
      27.833
     ]
    },
-   "waterLevel": 4.06299972534,
+   "waterLevel": 4.32999992371,
    "image": "http://daq.hydrology.gov.np/images/364ef9a4cae0f2a57b48d88b42f579ff",
    "dangerLevel": 12.1,
    "warningLevel": 10.8,
-   "waterLevelOn": "2026-10-10T01:20:00+05:45",
+   "waterLevelOn": "2026-10-10T05:10:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 250,
-   "steady": "STEADY",
+   "steady": "RISING",
    "description": "MHS",
    "stationSeriesId": 19583,
    "dataSource": "hydrology.gov.np",
@@ -6725,9 +6734,9 @@
    "station": 67
   },
   {
-   "id": 25831734,
-   "createdOn": "2026-10-10T01:25:10.136996+05:45",
-   "modifiedOn": "2026-10-10T01:25:10.136998+05:45",
+   "id": 25834843,
+   "createdOn": "2026-10-10T05:15:10.696578+05:45",
+   "modifiedOn": "2026-10-10T05:15:10.696580+05:45",
    "title": "Trishuli River at Bhorle",
    "basin": "Narayani",
    "point": {
@@ -6737,11 +6746,11 @@
      27.82
     ]
    },
-   "waterLevel": 3.52600002289,
+   "waterLevel": 3.74499988556,
    "image": "http://daq.hydrology.gov.np/images/73368683a6f7de9fb9558110f86350e9",
    "dangerLevel": null,
    "warningLevel": 9.5,
-   "waterLevelOn": "2026-10-10T01:20:00+05:45",
+   "waterLevelOn": "2026-10-10T05:10:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 200,
    "steady": "STEADY",
@@ -6756,40 +6765,9 @@
    "station": 35
   },
   {
-   "id": 25831733,
-   "createdOn": "2026-10-10T01:25:10.136958+05:45",
-   "modifiedOn": "2026-10-10T01:25:10.136960+05:45",
-   "title": "Trishuli Khola at Dhunche",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.318589,
-     28.098163
-    ]
-   },
-   "waterLevel": 2.20279979706,
-   "image": "http://daq.hydrology.gov.np/images/0a4d86552fd0e57c5ab02555b4dc693f",
-   "dangerLevel": null,
-   "warningLevel": 3.2,
-   "waterLevelOn": "2026-10-10T01:10:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "HS_manual",
-   "stationSeriesId": 19916,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 1427,
-   "municipality": 29001,
-   "district": 23,
-   "province": 3,
-   "station": 105
-  },
-  {
-   "id": 25831727,
-   "createdOn": "2026-10-10T01:25:10.136727+05:45",
-   "modifiedOn": "2026-10-10T01:25:10.136729+05:45",
+   "id": 25834837,
+   "createdOn": "2026-10-10T05:15:10.696332+05:45",
+   "modifiedOn": "2026-10-10T05:15:10.696334+05:45",
    "title": "Tadi at Belkot",
    "basin": "Narayani",
    "point": {
@@ -6799,14 +6777,14 @@
      27.860094
     ]
    },
-   "waterLevel": 2.00399971008,
+   "waterLevel": 2.16300010681,
    "image": "http://daq.hydrology.gov.np/images/325da877378a7511354dba39e151ea7c",
    "dangerLevel": 5.5,
    "warningLevel": 4.5,
-   "waterLevelOn": "2026-10-10T01:10:00+05:45",
+   "waterLevelOn": "2026-10-10T05:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
-   "steady": "RISING",
+   "steady": "STEADY",
    "description": "Hydrological & Discharge Measurement Station",
    "stationSeriesId": 1082,
    "dataSource": "hydrology.gov.np",
@@ -6818,9 +6796,9 @@
    "station": 135
   },
   {
-   "id": 25831726,
-   "createdOn": "2026-10-10T01:25:10.136687+05:45",
-   "modifiedOn": "2026-10-10T01:25:10.136689+05:45",
+   "id": 25834836,
+   "createdOn": "2026-10-10T05:15:10.696295+05:45",
+   "modifiedOn": "2026-10-10T05:15:10.696297+05:45",
    "title": "Tadi Khola at Rautar",
    "basin": "Narayani",
    "point": {
@@ -6830,11 +6808,11 @@
      27.918694
     ]
    },
-   "waterLevel": 0.928699493408,
+   "waterLevel": 0.820599555969,
    "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
    "dangerLevel": null,
    "warningLevel": 3.5,
-   "waterLevelOn": "2026-10-10T01:20:00+05:45",
+   "waterLevelOn": "2026-10-10T05:10:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -6849,9 +6827,9 @@
    "station": 65
   },
   {
-   "id": 25831694,
-   "createdOn": "2026-10-10T01:25:10.135376+05:45",
-   "modifiedOn": "2026-10-10T01:25:10.135378+05:45",
+   "id": 25834805,
+   "createdOn": "2026-10-10T05:15:10.695064+05:45",
+   "modifiedOn": "2026-10-10T05:15:10.695067+05:45",
    "title": "Narayani at Devghat",
    "basin": "Narayani",
    "point": {
@@ -6861,11 +6839,11 @@
      27.71
     ]
    },
-   "waterLevel": 4.11600017548,
+   "waterLevel": 4.15600013733,
    "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
    "dangerLevel": 9,
    "warningLevel": 7.3,
-   "waterLevelOn": "2026-10-10T01:00:00+05:45",
+   "waterLevelOn": "2026-10-10T04:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -6880,9 +6858,9 @@
    "station": 25
   },
   {
-   "id": 25831683,
-   "createdOn": "2026-10-10T01:25:10.134935+05:45",
-   "modifiedOn": "2026-10-10T01:25:10.134937+05:45",
+   "id": 25834793,
+   "createdOn": "2026-10-10T05:15:10.694439+05:45",
+   "modifiedOn": "2026-10-10T05:15:10.694441+05:45",
    "title": "Manahari Khola at Manahari",
    "basin": "Narayani",
    "point": {
@@ -6892,11 +6870,11 @@
      27.548673
     ]
    },
-   "waterLevel": 1.18499946594,
+   "waterLevel": 1.29099941254,
    "image": "http://daq.hydrology.gov.np/images/dda94e5a1fe05535b24b7907976c7efe",
    "dangerLevel": null,
    "warningLevel": 4.3,
-   "waterLevelOn": "2026-10-10T01:20:00+05:45",
+   "waterLevelOn": "2026-10-10T05:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 305,
    "steady": "STEADY",
@@ -6911,9 +6889,9 @@
    "station": 116
   },
   {
-   "id": 25831675,
-   "createdOn": "2026-10-10T01:25:10.134581+05:45",
-   "modifiedOn": "2026-10-10T01:25:10.134583+05:45",
+   "id": 25834785,
+   "createdOn": "2026-10-10T05:15:10.694099+05:45",
+   "modifiedOn": "2026-10-10T05:15:10.694101+05:45",
    "title": "Lothar Khola at Lothar",
    "basin": "Narayani",
    "point": {
@@ -6923,14 +6901,14 @@
      27.5877
     ]
    },
-   "waterLevel": 1.91499996185,
+   "waterLevel": 1.85100030899,
    "image": "http://daq.hydrology.gov.np/images/93f6c4e346f0c03f64410c51ac9f71a0",
    "dangerLevel": 7,
    "warningLevel": 6.5,
-   "waterLevelOn": "2026-10-10T01:20:00+05:45",
+   "waterLevelOn": "2026-10-10T05:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 207,
-   "steady": "RISING",
+   "steady": "STEADY",
    "description": "Hydrological station with RLS",
    "stationSeriesId": 1318,
    "dataSource": "hydrology.gov.np",
@@ -6942,9 +6920,9 @@
    "station": 16
   },
   {
-   "id": 25831617,
-   "createdOn": "2026-10-10T01:25:10.131277+05:45",
-   "modifiedOn": "2026-10-10T01:25:10.131280+05:45",
+   "id": 25834585,
+   "createdOn": "2026-10-10T05:05:10.628502+05:45",
+   "modifiedOn": "2026-10-10T05:05:10.628505+05:45",
    "title": "Budhi Gandaki at Aarughat",
    "basin": "Narayani",
    "point": {
@@ -6954,11 +6932,11 @@
      28.046
     ]
    },
-   "waterLevel": 2.47489976883,
+   "waterLevel": 2.48810005188,
    "image": "http://daq.hydrology.gov.np/images/a5d962039af199e304760d743ab51419",
    "dangerLevel": 5,
    "warningLevel": 4.5,
-   "waterLevelOn": "2026-10-10T01:10:00+05:45",
+   "waterLevelOn": "2026-10-10T04:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -7002,7 +6980,7 @@
    "expireOn": null,
    "polygon": null,
    "referenceType": "pollution",
-   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Damak\", \"identifier\": \"Damak,Jhapa\", \"date_time\": \"2026-10-10T00:44:00.010+05:45\", \"aqi_color\": \"#FF0000\", \"aqi\": 163.0, \"observation\": [{\"data\": {\"value\": 77.1999969482, \"datetime\": \"2026-10-09T18:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1546, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 77.9000015259, \"datetime\": \"2026-10-09T18:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1545, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 77.8000030518, \"datetime\": \"2026-10-09T18:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1547, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}, {\"id\": 10, \"name\": \"2019\", \"description\": \"Stations installed in 2019\"}], \"images\": \"[\\\"http://pollution.gov.np:8000/images/63f3e7b4d8d92281a8a7f12260753005\\\", \\\"http://pollution.gov.np:8000/images/19be0ace21ba9f0e990c12a5cadef446\\\"]\", \"point\": \"SRID=4326;POINT (87.703262 26.669363)\", \"elevation\": 136.0, \"description\": \"Air quality index at Damak is 163. An alert is created for pollution in Damak\", \"ward\": 6291, \"municipality\": 4006, \"district\": 4, \"province\": 1, \"station\": 16}}",
+   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Damak\", \"identifier\": \"Damak,Jhapa\", \"date_time\": \"2026-10-10T04:44:00.010+05:45\", \"aqi_color\": \"#FF0000\", \"aqi\": 161.0, \"observation\": [{\"data\": {\"value\": 75.5, \"datetime\": \"2026-10-09T22:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1546, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 75.5, \"datetime\": \"2026-10-09T22:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1545, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 75.5, \"datetime\": \"2026-10-09T22:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1547, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}, {\"id\": 10, \"name\": \"2019\", \"description\": \"Stations installed in 2019\"}], \"images\": \"[\\\"http://pollution.gov.np:8000/images/63f3e7b4d8d92281a8a7f12260753005\\\", \\\"http://pollution.gov.np:8000/images/19be0ace21ba9f0e990c12a5cadef446\\\"]\", \"point\": \"SRID=4326;POINT (87.703262 26.669363)\", \"elevation\": 136.0, \"description\": \"Air quality index at Damak is 161. An alert is created for pollution in Damak\", \"ward\": 6291, \"municipality\": 4006, \"district\": 4, \"province\": 1, \"station\": 16}}",
    "referenceId": 58,
    "region": null,
    "regionId": null,
@@ -11417,7 +11395,7 @@
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "source": "अनलाइनखबर",
@@ -11452,7 +11430,7 @@
   {
    "source": "rivers",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "source": "alerts",
