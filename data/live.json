@@ -1,6 +1,33 @@
 {
- "generatedAt": "2026-10-10T22:25:14.713Z",
+ "generatedAt": "2026-10-11T01:04:54.511Z",
  "news": [
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "गोरखाको चुमनुम्ब्रीमा आकस्मिक बाढी, खोला थुनिएको आशंका",
+   "link": "https://www.onlinekhabar.com/2026/10/2036566/flash-flood-in-chumanumbri-gorkha-river-suspected-of-being-blocked",
+   "date": "Sun, 11 Oct 2026 00:54:20 +0000",
+   "ts": 1791680060000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "बुढीगण्डकी बाढी अपडेट : सल्लेरी बजार बगायो, जगत बजारमा पनि ठुलो क्षति",
+   "link": "https://www.ratopati.com/story/598723/budhi-gandaki-flood-update-salleri-bazaar-washed-away-jagat-bazaar-also-suffered-major-damage",
+   "date": "Sun, 11 Oct 2026 00:28:56 +0000",
+   "ts": 1791678536000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "बुढीगण्डकीमा ठूलो बाढी, छेकम्पारमा पहिरो खसेर नदी थुनिएको आशंका",
+   "link": "https://www.ratopati.com/story/598722/massive-flood-in-budhi-gandaki-suspected-landslide-in-chhekampar-blocking-river",
+   "date": "Sun, 11 Oct 2026 00:14:16 +0000",
+   "ts": 1791677656000
+  },
   {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
@@ -20,6 +47,15 @@
    "ts": 1791648544000
   },
   {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "निसीखोलामा बाढीपहिरोले १० करोडको क्षति, एकै परिवारका चारसहित पाँचको मृ`त्यु",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/floods-and-landslides-in-nisikhola-cause-damage-of-rs-100-million-five-dead-including-four-from-one-family-58-78.html",
+   "date": "Sat, 10 Oct 2026 20:34:42 +0545",
+   "ts": 1791643782000
+  },
+  {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
    "site": "https://www.ratopati.com",
@@ -27,15 +63,6 @@
    "link": "https://www.ratopati.com/story/598624/bagmati-government-brings-30-day-action-plan-for-rasuwa-bhotekoshi-flood-recovery",
    "date": "Sat, 10 Oct 2026 14:15:00 +0000",
    "ts": 1791641700000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "बागलुङको निसीखोलामा बाढीपहिरोले पाँच जनाको मृत्यु, करिब १० करोडको क्षति",
-   "link": "https://www.ratopati.com/story/598699/five-killed-in-landslide-in-baglungs-nisikhola-damage-estimated-at-rs-100-million",
-   "date": "Sat, 10 Oct 2026 13:39:25 +0000",
-   "ts": 1791639565000
   },
   {
    "source": "अनलाइनखबर",
@@ -59,6 +86,15 @@
    "source": "The Kathmandu Post",
    "sourceId": "kathmandupost",
    "site": "https://kathmandupost.com",
+   "title": "Smuggling networks exploit Nepal’s open border to flood markets with untaxed goods",
+   "link": "https://kathmandupost.com/national/2026/10/11/smuggling-networks-exploit-nepal-s-open-border-to-flood-markets-with-untaxed-goods",
+   "date": "",
+   "ts": 0
+  },
+  {
+   "source": "The Kathmandu Post",
+   "sourceId": "kathmandupost",
+   "site": "https://kathmandupost.com",
    "title": "Bhotekoshi floods leave 269 children without one or both parents",
    "link": "https://kathmandupost.com/national/2026/10/09/bhotekoshi-floods-leave-269-children-without-one-or-both-parents",
    "date": "",
@@ -76,46 +112,8 @@
  ],
  "incidents": [
   {
-   "id": 95663,
-   "title": "Landslide at Pachaljharana Rural Municipality-3",
-   "wards": [
-    829
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     81.74506,
-     29.21559
-    ]
-   },
-   "createdOn": "2026-10-09T15:33:04.510207+05:45",
-   "modifiedOn": "2026-10-09T15:33:04.510221+05:45",
-   "titleNe": "कर्णाली, कालिकोट, पचालझरना-३ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-09T00:00:00+05:45",
-   "reportedOn": "2026-10-09T15:20:21+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91693,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 487520,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95694,
-   "title": "Flood at Resunga Municipality-14",
+   "id": 95681,
+   "title": "Landslide at Resunga Municipality-14",
    "wards": [
     3239
    ],
@@ -126,9 +124,9 @@
      28.09848
     ]
    },
-   "createdOn": "2026-10-10T12:33:04.530491+05:45",
-   "modifiedOn": "2026-10-10T12:33:04.530501+05:45",
-   "titleNe": "लुम्बिनी, गुल्मी, रेसुङ्गा-१४ मा बाढी",
+   "createdOn": "2026-10-10T12:17:04.371056+05:45",
+   "modifiedOn": "2026-10-10T12:17:04.371064+05:45",
+   "titleNe": "लुम्बिनी, गुल्मी, रेसुङ्गा-१४ मा पहिरो",
    "description": null,
    "cause": null,
    "verified": true,
@@ -136,94 +134,18 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-10-09T00:00:00+05:45",
-   "reportedOn": "2026-10-10T12:09:53+05:45",
+   "reportedOn": "2026-10-10T11:56:37+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91707,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 11,
-   "loss": 487559,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95678,
-   "title": "Landslide at Ghorahi Submetropolitan City-19",
-   "wards": [
-    3977
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     82.54067537,
-     28.10257078
-    ]
-   },
-   "createdOn": "2026-10-10T12:17:04.240591+05:45",
-   "modifiedOn": "2026-10-10T12:17:04.240600+05:45",
-   "titleNe": "लुम्बिनी, दाङ, घोराही-१९ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-09T00:00:00+05:45",
-   "reportedOn": "2026-10-10T12:01:12+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91700,
+   "dataSourceId": 91697,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 487542,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95693,
-   "title": "Landslide at Bangad Kupinde Municipality-11",
-   "wards": [
-    1541
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     81.99219983,
-     28.43188716
-    ]
-   },
-   "createdOn": "2026-10-10T12:33:04.486902+05:45",
-   "modifiedOn": "2026-10-10T12:33:04.486911+05:45",
-   "titleNe": "कर्णाली, सल्यान, बनगाड कुपिण्डे-११ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-09T00:00:00+05:45",
-   "reportedOn": "2026-10-10T12:10:44+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91708,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 487558,
+   "loss": 487545,
    "createdBy": null,
    "updatedBy": null
   },
@@ -266,6 +188,44 @@
    "updatedBy": null
   },
   {
+   "id": 95694,
+   "title": "Flood at Resunga Municipality-14",
+   "wards": [
+    3239
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     83.31058,
+     28.09848
+    ]
+   },
+   "createdOn": "2026-10-10T12:33:04.530491+05:45",
+   "modifiedOn": "2026-10-10T12:33:04.530501+05:45",
+   "titleNe": "लुम्बिनी, गुल्मी, रेसुङ्गा-१४ मा बाढी",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-09T00:00:00+05:45",
+   "reportedOn": "2026-10-10T12:09:53+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91707,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 11,
+   "loss": 487559,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
    "id": 95689,
    "title": "Heavy Rainfall at Netrawati Dabjong Rural Municipality-1",
    "wards": [
@@ -304,21 +264,21 @@
    "updatedBy": null
   },
   {
-   "id": 95666,
-   "title": "Heavy Rainfall at Barpata, Shikhar Municipality-11",
+   "id": 95676,
+   "title": "Flood at Namobuddha Municipality-7",
    "wards": [
-    629
+    6164
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     80.80140014,
-     29.32019412
+     85.63649,
+     27.54493
     ]
    },
-   "createdOn": "2026-10-09T15:33:04.649530+05:45",
-   "modifiedOn": "2026-10-11T04:03:03.761530+05:45",
-   "titleNe": "सुदुरपश्चिम, डोटी, शिखर-११ मा भारीवर्षा",
+   "createdOn": "2026-10-10T12:17:04.149202+05:45",
+   "modifiedOn": "2026-10-10T12:17:04.149210+05:45",
+   "titleNe": "बाग्मती, काभ्रेपलाञ्चोक, नमोबुद्ध-७ मा बाढी",
    "description": null,
    "cause": null,
    "verified": true,
@@ -326,56 +286,56 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-10-09T00:00:00+05:45",
-   "reportedOn": "2026-10-09T15:17:32+05:45",
-   "streetAddress": "Barpata",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91690,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 487615,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95681,
-   "title": "Landslide at Resunga Municipality-14",
-   "wards": [
-    3239
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.31058,
-     28.09848
-    ]
-   },
-   "createdOn": "2026-10-10T12:17:04.371056+05:45",
-   "modifiedOn": "2026-10-10T12:17:04.371064+05:45",
-   "titleNe": "लुम्बिनी, गुल्मी, रेसुङ्गा-१४ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-09T00:00:00+05:45",
-   "reportedOn": "2026-10-10T11:56:37+05:45",
+   "reportedOn": "2026-10-10T12:03:20+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91697,
+   "dataSourceId": 91702,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 11,
+   "loss": 487540,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95693,
+   "title": "Landslide at Bangad Kupinde Municipality-11",
+   "wards": [
+    1541
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     81.99219983,
+     28.43188716
+    ]
+   },
+   "createdOn": "2026-10-10T12:33:04.486902+05:45",
+   "modifiedOn": "2026-10-10T12:33:04.486911+05:45",
+   "titleNe": "कर्णाली, सल्यान, बनगाड कुपिण्डे-११ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-09T00:00:00+05:45",
+   "reportedOn": "2026-10-10T12:10:44+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91708,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 487545,
+   "loss": 487558,
    "createdBy": null,
    "updatedBy": null
   },
@@ -418,21 +378,21 @@
    "updatedBy": null
   },
   {
-   "id": 95676,
-   "title": "Flood at Namobuddha Municipality-7",
+   "id": 95678,
+   "title": "Landslide at Ghorahi Submetropolitan City-19",
    "wards": [
-    6164
+    3977
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     85.63649,
-     27.54493
+     82.54067537,
+     28.10257078
     ]
    },
-   "createdOn": "2026-10-10T12:17:04.149202+05:45",
-   "modifiedOn": "2026-10-10T12:17:04.149210+05:45",
-   "titleNe": "बाग्मती, काभ्रेपलाञ्चोक, नमोबुद्ध-७ मा बाढी",
+   "createdOn": "2026-10-10T12:17:04.240591+05:45",
+   "modifiedOn": "2026-10-10T12:17:04.240600+05:45",
+   "titleNe": "लुम्बिनी, दाङ, घोराही-१९ मा पहिरो",
    "description": null,
    "cause": null,
    "verified": true,
@@ -440,18 +400,94 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-10-09T00:00:00+05:45",
-   "reportedOn": "2026-10-10T12:03:20+05:45",
+   "reportedOn": "2026-10-10T12:01:12+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91702,
+   "dataSourceId": 91700,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
-   "hazard": 11,
-   "loss": 487540,
+   "hazard": 17,
+   "loss": 487542,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95663,
+   "title": "Landslide at Pachaljharana Rural Municipality-3",
+   "wards": [
+    829
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     81.74506,
+     29.21559
+    ]
+   },
+   "createdOn": "2026-10-09T15:33:04.510207+05:45",
+   "modifiedOn": "2026-10-09T15:33:04.510221+05:45",
+   "titleNe": "कर्णाली, कालिकोट, पचालझरना-३ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-09T00:00:00+05:45",
+   "reportedOn": "2026-10-09T15:20:21+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91693,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 487520,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95666,
+   "title": "Heavy Rainfall at Barpata, Shikhar Municipality-11",
+   "wards": [
+    629
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     80.80140014,
+     29.32019412
+    ]
+   },
+   "createdOn": "2026-10-09T15:33:04.649530+05:45",
+   "modifiedOn": "2026-10-11T06:45:04.393910+05:45",
+   "titleNe": "सुदुरपश्चिम, डोटी, शिखर-११ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-09T00:00:00+05:45",
+   "reportedOn": "2026-10-09T15:17:32+05:45",
+   "streetAddress": "Barpata",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91690,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 487625,
    "createdBy": null,
    "updatedBy": null
   },
@@ -532,158 +568,6 @@
    "updatedBy": null
   },
   {
-   "id": 95638,
-   "title": "Flood at Ghorahi Submetropolitan City-5",
-   "wards": [
-    3932
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     82.44665,
-     27.9672
-    ]
-   },
-   "createdOn": "2026-10-08T10:33:05.243971+05:45",
-   "modifiedOn": "2026-10-08T10:33:05.243986+05:45",
-   "titleNe": "लुम्बिनी, दाङ, घोराही-५ मा बाढी",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-07T00:00:00+05:45",
-   "reportedOn": "2026-10-08T10:09:53+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91648,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 11,
-   "loss": 487290,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95636,
-   "title": "Flood at Ghorahi Submetropolitan City-5",
-   "wards": [
-    3932
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     82.44665,
-     27.9672
-    ]
-   },
-   "createdOn": "2026-10-08T10:33:05.144401+05:45",
-   "modifiedOn": "2026-10-08T10:33:05.144413+05:45",
-   "titleNe": "लुम्बिनी, दाङ, घोराही-५ मा बाढी",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-07T00:00:00+05:45",
-   "reportedOn": "2026-10-08T10:12:54+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91650,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 11,
-   "loss": 487288,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95618,
-   "title": "Flood at Ghorahi Submetropolitan City-5",
-   "wards": [
-    3932
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     82.44665,
-     27.9672
-    ]
-   },
-   "createdOn": "2026-10-08T10:17:04.343788+05:45",
-   "modifiedOn": "2026-10-08T10:17:04.343800+05:45",
-   "titleNe": "लुम्बिनी, दाङ, घोराही-५ मा बाढी",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-07T00:00:00+05:45",
-   "reportedOn": "2026-10-08T10:07:51+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91646,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 11,
-   "loss": 487267,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95611,
-   "title": "Heavy Rainfall at Machhapuchchhre Rural Municipality-2",
-   "wards": [
-    3895
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.99007,
-     28.34628
-    ]
-   },
-   "createdOn": "2026-10-07T16:01:04.469014+05:45",
-   "modifiedOn": "2026-10-07T16:01:04.469029+05:45",
-   "titleNe": "गण्डकी, कास्की, माछापुच्छ्रे-२ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-07T00:00:00+05:45",
-   "reportedOn": "2026-10-07T15:42:07+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91634,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 487067,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
    "id": 95613,
    "title": "Landslide at Pachaljharana Rural Municipality-3",
    "wards": [
@@ -718,272 +602,6 @@
    "event": null,
    "hazard": 17,
    "loss": 487069,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95609,
-   "title": "Landslide at Apihimal Rural Municipality-6",
-   "wards": [
-    439
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     80.73694,
-     29.92362
-    ]
-   },
-   "createdOn": "2026-10-07T16:01:04.376553+05:45",
-   "modifiedOn": "2026-10-07T16:01:04.376566+05:45",
-   "titleNe": "सुदुरपश्चिम, दार्चुला, अपिहिमाल-६ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-07T00:00:00+05:45",
-   "reportedOn": "2026-10-07T15:43:27+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91636,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 487065,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95593,
-   "title": "Heavy Rainfall at Hupsekot Rural Municipality-4",
-   "wards": [
-    3464
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.0621737780921,
-     27.6873921782637
-    ]
-   },
-   "createdOn": "2026-10-07T15:33:03.893270+05:45",
-   "modifiedOn": "2026-10-08T15:21:04.665194+05:45",
-   "titleNe": "गण्डकी, नवलपरासी (बर्दघाट सुस्ता पूर्व), हुप्सेकोट-४ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-07T00:00:00+05:45",
-   "reportedOn": "2026-10-07T15:13:01+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91614,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 487341,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95590,
-   "title": "Landslide at Chhayanath Rara Municipality-12",
-   "wards": [
-    1084
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     82.26250188,
-     29.50086167
-    ]
-   },
-   "createdOn": "2026-10-07T15:33:03.753864+05:45",
-   "modifiedOn": "2026-10-07T15:33:03.753876+05:45",
-   "titleNe": "कर्णाली, मुगु, छायाँनाथ रारा-१२ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-07T00:00:00+05:45",
-   "reportedOn": "2026-10-07T15:21:59+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91617,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 487039,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95632,
-   "title": "Heavy Rainfall at Birendranagar Municipality-12",
-   "wards": [
-    2705
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     81.63991489,
-     28.61643239
-    ]
-   },
-   "createdOn": "2026-10-08T10:33:04.959667+05:45",
-   "modifiedOn": "2026-10-08T10:33:04.959681+05:45",
-   "titleNe": "कर्णाली, सुर्खेत, वीरेन्द्रनगर-१२ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-07T00:00:00+05:45",
-   "reportedOn": "2026-10-08T10:16:47+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91654,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 487284,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95630,
-   "title": "Landslide at Netrawati Dabjong Rural Municipality-1",
-   "wards": [
-    3169
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.94688,
-     28.00638
-    ]
-   },
-   "createdOn": "2026-10-08T10:33:04.857843+05:45",
-   "modifiedOn": "2026-10-08T10:33:04.857856+05:45",
-   "titleNe": "बाग्मती, धादिङ्ग, नेत्रावती डबजोङ-१ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-07T00:00:00+05:45",
-   "reportedOn": "2026-10-08T10:19:24+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91656,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 487282,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95635,
-   "title": "Landslide at Pyuthan Municipality-7",
-   "wards": [
-    1354
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     82.85541,
-     28.1203
-    ]
-   },
-   "createdOn": "2026-10-08T10:33:05.097570+05:45",
-   "modifiedOn": "2026-10-08T10:33:05.097581+05:45",
-   "titleNe": "लुम्बिनी, प्युठान, प्यूठान-७ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-07T00:00:00+05:45",
-   "reportedOn": "2026-10-08T10:13:40+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91651,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 487287,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95606,
-   "title": "Landslide at Khatripauwa, Netrawati Dabjong Rural Municipality-1",
-   "wards": [
-    3169
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.94688,
-     28.00638
-    ]
-   },
-   "createdOn": "2026-10-07T15:45:05.029406+05:45",
-   "modifiedOn": "2026-10-07T15:45:05.029417+05:45",
-   "titleNe": "बाग्मती, धादिङ्ग, नेत्रावती डबजोङ-१ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-07T00:00:00+05:45",
-   "reportedOn": "2026-10-07T15:24:51+05:45",
-   "streetAddress": "Khatripauwa",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91620,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 487062,
    "createdBy": null,
    "updatedBy": null
   },
@@ -1026,6 +644,424 @@
    "updatedBy": null
   },
   {
+   "id": 95593,
+   "title": "Heavy Rainfall at Hupsekot Rural Municipality-4",
+   "wards": [
+    3464
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.0621737780921,
+     27.6873921782637
+    ]
+   },
+   "createdOn": "2026-10-07T15:33:03.893270+05:45",
+   "modifiedOn": "2026-10-08T15:21:04.665194+05:45",
+   "titleNe": "गण्डकी, नवलपरासी (बर्दघाट सुस्ता पूर्व), हुप्सेकोट-४ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-07T00:00:00+05:45",
+   "reportedOn": "2026-10-07T15:13:01+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91614,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 487341,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95630,
+   "title": "Landslide at Netrawati Dabjong Rural Municipality-1",
+   "wards": [
+    3169
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.94688,
+     28.00638
+    ]
+   },
+   "createdOn": "2026-10-08T10:33:04.857843+05:45",
+   "modifiedOn": "2026-10-08T10:33:04.857856+05:45",
+   "titleNe": "बाग्मती, धादिङ्ग, नेत्रावती डबजोङ-१ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-07T00:00:00+05:45",
+   "reportedOn": "2026-10-08T10:19:24+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91656,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 487282,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95638,
+   "title": "Flood at Ghorahi Submetropolitan City-5",
+   "wards": [
+    3932
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     82.44665,
+     27.9672
+    ]
+   },
+   "createdOn": "2026-10-08T10:33:05.243971+05:45",
+   "modifiedOn": "2026-10-08T10:33:05.243986+05:45",
+   "titleNe": "लुम्बिनी, दाङ, घोराही-५ मा बाढी",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-07T00:00:00+05:45",
+   "reportedOn": "2026-10-08T10:09:53+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91648,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 11,
+   "loss": 487290,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95611,
+   "title": "Heavy Rainfall at Machhapuchchhre Rural Municipality-2",
+   "wards": [
+    3895
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     83.99007,
+     28.34628
+    ]
+   },
+   "createdOn": "2026-10-07T16:01:04.469014+05:45",
+   "modifiedOn": "2026-10-07T16:01:04.469029+05:45",
+   "titleNe": "गण्डकी, कास्की, माछापुच्छ्रे-२ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-07T00:00:00+05:45",
+   "reportedOn": "2026-10-07T15:42:07+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91634,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 487067,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95618,
+   "title": "Flood at Ghorahi Submetropolitan City-5",
+   "wards": [
+    3932
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     82.44665,
+     27.9672
+    ]
+   },
+   "createdOn": "2026-10-08T10:17:04.343788+05:45",
+   "modifiedOn": "2026-10-08T10:17:04.343800+05:45",
+   "titleNe": "लुम्बिनी, दाङ, घोराही-५ मा बाढी",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-07T00:00:00+05:45",
+   "reportedOn": "2026-10-08T10:07:51+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91646,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 11,
+   "loss": 487267,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95635,
+   "title": "Landslide at Pyuthan Municipality-7",
+   "wards": [
+    1354
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     82.85541,
+     28.1203
+    ]
+   },
+   "createdOn": "2026-10-08T10:33:05.097570+05:45",
+   "modifiedOn": "2026-10-08T10:33:05.097581+05:45",
+   "titleNe": "लुम्बिनी, प्युठान, प्यूठान-७ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-07T00:00:00+05:45",
+   "reportedOn": "2026-10-08T10:13:40+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91651,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 487287,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95636,
+   "title": "Flood at Ghorahi Submetropolitan City-5",
+   "wards": [
+    3932
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     82.44665,
+     27.9672
+    ]
+   },
+   "createdOn": "2026-10-08T10:33:05.144401+05:45",
+   "modifiedOn": "2026-10-08T10:33:05.144413+05:45",
+   "titleNe": "लुम्बिनी, दाङ, घोराही-५ मा बाढी",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-07T00:00:00+05:45",
+   "reportedOn": "2026-10-08T10:12:54+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91650,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 11,
+   "loss": 487288,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95609,
+   "title": "Landslide at Apihimal Rural Municipality-6",
+   "wards": [
+    439
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     80.73694,
+     29.92362
+    ]
+   },
+   "createdOn": "2026-10-07T16:01:04.376553+05:45",
+   "modifiedOn": "2026-10-07T16:01:04.376566+05:45",
+   "titleNe": "सुदुरपश्चिम, दार्चुला, अपिहिमाल-६ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-07T00:00:00+05:45",
+   "reportedOn": "2026-10-07T15:43:27+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91636,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 487065,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95632,
+   "title": "Heavy Rainfall at Birendranagar Municipality-12",
+   "wards": [
+    2705
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     81.63991489,
+     28.61643239
+    ]
+   },
+   "createdOn": "2026-10-08T10:33:04.959667+05:45",
+   "modifiedOn": "2026-10-08T10:33:04.959681+05:45",
+   "titleNe": "कर्णाली, सुर्खेत, वीरेन्द्रनगर-१२ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-07T00:00:00+05:45",
+   "reportedOn": "2026-10-08T10:16:47+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91654,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 487284,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95606,
+   "title": "Landslide at Khatripauwa, Netrawati Dabjong Rural Municipality-1",
+   "wards": [
+    3169
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.94688,
+     28.00638
+    ]
+   },
+   "createdOn": "2026-10-07T15:45:05.029406+05:45",
+   "modifiedOn": "2026-10-07T15:45:05.029417+05:45",
+   "titleNe": "बाग्मती, धादिङ्ग, नेत्रावती डबजोङ-१ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-07T00:00:00+05:45",
+   "reportedOn": "2026-10-07T15:24:51+05:45",
+   "streetAddress": "Khatripauwa",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91620,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 487062,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95590,
+   "title": "Landslide at Chhayanath Rara Municipality-12",
+   "wards": [
+    1084
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     82.26250188,
+     29.50086167
+    ]
+   },
+   "createdOn": "2026-10-07T15:33:03.753864+05:45",
+   "modifiedOn": "2026-10-07T15:33:03.753876+05:45",
+   "titleNe": "कर्णाली, मुगु, छायाँनाथ रारा-१२ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-07T00:00:00+05:45",
+   "reportedOn": "2026-10-07T15:21:59+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91617,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 487039,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
    "id": 95639,
    "title": "Flood at Munalchoke, Khandbari Municipality-7",
    "wards": [
@@ -1060,82 +1096,6 @@
    "event": null,
    "hazard": 11,
    "loss": 487291,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95614,
-   "title": "Heavy Rainfall at Chandragiri Municipality-13",
-   "wards": [
-    3772
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.26399739,
-     27.69956768
-    ]
-   },
-   "createdOn": "2026-10-07T16:01:04.603157+05:45",
-   "modifiedOn": "2026-10-07T16:01:04.603168+05:45",
-   "titleNe": "बाग्मती, काठमाण्डौ, चन्द्रागिरि-१३ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-06T00:00:00+05:45",
-   "reportedOn": "2026-10-07T15:38:44+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91631,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 487070,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95570,
-   "title": "Heavy Rainfall at Chaukune Rural Municipality-10",
-   "wards": [
-    2647
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     81.26104803,
-     28.79538405
-    ]
-   },
-   "createdOn": "2026-10-06T17:17:03.875161+05:45",
-   "modifiedOn": "2026-10-06T17:17:03.875172+05:45",
-   "titleNe": "कर्णाली, सुर्खेत, चौकुने-१० मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-06T00:00:00+05:45",
-   "reportedOn": "2026-10-06T17:07:52+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91598,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 486871,
    "createdBy": null,
    "updatedBy": null
   },
@@ -1178,6 +1138,44 @@
    "updatedBy": null
   },
   {
+   "id": 95570,
+   "title": "Heavy Rainfall at Chaukune Rural Municipality-10",
+   "wards": [
+    2647
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     81.26104803,
+     28.79538405
+    ]
+   },
+   "createdOn": "2026-10-06T17:17:03.875161+05:45",
+   "modifiedOn": "2026-10-06T17:17:03.875172+05:45",
+   "titleNe": "कर्णाली, सुर्खेत, चौकुने-१० मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-06T00:00:00+05:45",
+   "reportedOn": "2026-10-06T17:07:52+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91598,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 486871,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
    "id": 95586,
    "title": "Flood at Pedikhola, Chaurjahari Municipality-13",
    "wards": [
@@ -1216,78 +1214,40 @@
    "updatedBy": null
   },
   {
-   "id": 95581,
-   "title": "Heavy Rainfall at gharalichour, Chaurjahari Municipality-13",
+   "id": 95614,
+   "title": "Heavy Rainfall at Chandragiri Municipality-13",
    "wards": [
-    1520
+    3772
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     82.29970122,
-     28.60668731
+     85.26399739,
+     27.69956768
     ]
    },
-   "createdOn": "2026-10-07T09:33:04.011618+05:45",
-   "modifiedOn": "2026-10-07T09:33:04.011626+05:45",
-   "titleNe": "कर्णाली, रुकुम पश्चिम, चौरजहारी-१३ मा भारीवर्षा",
+   "createdOn": "2026-10-07T16:01:04.603157+05:45",
+   "modifiedOn": "2026-10-07T16:01:04.603168+05:45",
+   "titleNe": "बाग्मती, काठमाण्डौ, चन्द्रागिरि-१३ मा भारीवर्षा",
    "description": null,
    "cause": null,
    "verified": true,
    "verificationMessage": null,
    "approved": true,
    "polygon": null,
-   "incidentOn": "2026-10-05T00:00:00+05:45",
-   "reportedOn": "2026-10-07T09:18:58+05:45",
-   "streetAddress": "gharalichour",
+   "incidentOn": "2026-10-06T00:00:00+05:45",
+   "reportedOn": "2026-10-07T15:38:44+05:45",
+   "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91605,
+   "dataSourceId": 91631,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
    "hazard": 14,
-   "loss": 486988,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95549,
-   "title": "Landslide at Chorkhola, Sharada Municipality-9",
-   "wards": [
-    1591
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     82.09154,
-     28.4
-    ]
-   },
-   "createdOn": "2026-10-06T09:45:05.101711+05:45",
-   "modifiedOn": "2026-10-06T09:45:05.101727+05:45",
-   "titleNe": "कर्णाली, सल्यान, शारदा-९ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-05T00:00:00+05:45",
-   "reportedOn": "2026-10-06T09:19:10+05:45",
-   "streetAddress": "Chorkhola",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91580,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 486833,
+   "loss": 487070,
    "createdBy": null,
    "updatedBy": null
   },
@@ -1326,120 +1286,6 @@
    "event": null,
    "hazard": 14,
    "loss": 486878,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95555,
-   "title": "Landslide at Molung Rural Municipality-1",
-   "wards": [
-    1173
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     86.44629,
-     27.33592
-    ]
-   },
-   "createdOn": "2026-10-06T09:45:05.438834+05:45",
-   "modifiedOn": "2026-10-06T09:45:05.438849+05:45",
-   "titleNe": "कोशी, ओखलढुङ्गा, मोलुङ-१ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-05T00:00:00+05:45",
-   "reportedOn": "2026-10-06T09:04:49+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91574,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 486839,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95556,
-   "title": "Landslide at Pyuthan Municipality-7",
-   "wards": [
-    1354
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     82.85541,
-     28.1203
-    ]
-   },
-   "createdOn": "2026-10-06T09:45:05.488328+05:45",
-   "modifiedOn": "2026-10-06T09:45:05.488340+05:45",
-   "titleNe": "लुम्बिनी, प्युठान, प्यूठान-७ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-05T00:00:00+05:45",
-   "reportedOn": "2026-10-06T09:02:52+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91572,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 486840,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95546,
-   "title": "Landslide at Dhorpatan Municipality-4",
-   "wards": [
-    5031
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.27139,
-     28.35288
-    ]
-   },
-   "createdOn": "2026-10-06T09:45:04.936820+05:45",
-   "modifiedOn": "2026-10-06T09:45:04.936832+05:45",
-   "titleNe": "गण्डकी, बागलुङ, ढोरपाटन-४ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-05T00:00:00+05:45",
-   "reportedOn": "2026-10-06T09:28:35+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91583,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 486827,
    "createdBy": null,
    "updatedBy": null
   },
@@ -1520,40 +1366,192 @@
    "updatedBy": null
   },
   {
-   "id": 95530,
-   "title": "Landslide at Ilam Municipality-12",
+   "id": 95549,
+   "title": "Landslide at Chorkhola, Sharada Municipality-9",
    "wards": [
-    3346
+    1591
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     87.89616,
-     26.88507
+     82.09154,
+     28.4
     ]
    },
-   "createdOn": "2026-10-05T09:33:04.568780+05:45",
-   "modifiedOn": "2026-10-05T09:33:04.568789+05:45",
-   "titleNe": "कोशी, इलाम, इलाम-१२ मा पहिरो",
+   "createdOn": "2026-10-06T09:45:05.101711+05:45",
+   "modifiedOn": "2026-10-06T09:45:05.101727+05:45",
+   "titleNe": "कर्णाली, सल्यान, शारदा-९ मा पहिरो",
    "description": null,
    "cause": null,
    "verified": true,
    "verificationMessage": null,
    "approved": true,
    "polygon": null,
-   "incidentOn": "2026-10-04T00:00:00+05:45",
-   "reportedOn": "2026-10-05T09:13:55+05:45",
+   "incidentOn": "2026-10-05T00:00:00+05:45",
+   "reportedOn": "2026-10-06T09:19:10+05:45",
+   "streetAddress": "Chorkhola",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91580,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 486833,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95546,
+   "title": "Landslide at Dhorpatan Municipality-4",
+   "wards": [
+    5031
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     83.27139,
+     28.35288
+    ]
+   },
+   "createdOn": "2026-10-06T09:45:04.936820+05:45",
+   "modifiedOn": "2026-10-06T09:45:04.936832+05:45",
+   "titleNe": "गण्डकी, बागलुङ, ढोरपाटन-४ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-05T00:00:00+05:45",
+   "reportedOn": "2026-10-06T09:28:35+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91547,
+   "dataSourceId": 91583,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 486559,
+   "loss": 486827,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95556,
+   "title": "Landslide at Pyuthan Municipality-7",
+   "wards": [
+    1354
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     82.85541,
+     28.1203
+    ]
+   },
+   "createdOn": "2026-10-06T09:45:05.488328+05:45",
+   "modifiedOn": "2026-10-06T09:45:05.488340+05:45",
+   "titleNe": "लुम्बिनी, प्युठान, प्यूठान-७ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-05T00:00:00+05:45",
+   "reportedOn": "2026-10-06T09:02:52+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91572,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 486840,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95555,
+   "title": "Landslide at Molung Rural Municipality-1",
+   "wards": [
+    1173
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     86.44629,
+     27.33592
+    ]
+   },
+   "createdOn": "2026-10-06T09:45:05.438834+05:45",
+   "modifiedOn": "2026-10-06T09:45:05.438849+05:45",
+   "titleNe": "कोशी, ओखलढुङ्गा, मोलुङ-१ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-05T00:00:00+05:45",
+   "reportedOn": "2026-10-06T09:04:49+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91574,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 486839,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95581,
+   "title": "Heavy Rainfall at gharalichour, Chaurjahari Municipality-13",
+   "wards": [
+    1520
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     82.29970122,
+     28.60668731
+    ]
+   },
+   "createdOn": "2026-10-07T09:33:04.011618+05:45",
+   "modifiedOn": "2026-10-07T09:33:04.011626+05:45",
+   "titleNe": "कर्णाली, रुकुम पश्चिम, चौरजहारी-१३ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-05T00:00:00+05:45",
+   "reportedOn": "2026-10-07T09:18:58+05:45",
+   "streetAddress": "gharalichour",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91605,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 486988,
    "createdBy": null,
    "updatedBy": null
   },
@@ -1672,40 +1670,40 @@
    "updatedBy": null
   },
   {
-   "id": 95496,
-   "title": "Landslide at Konjyosom Rural Municipality-4",
+   "id": 95530,
+   "title": "Landslide at Ilam Municipality-12",
    "wards": [
-    2010
+    3346
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     85.33968,
-     27.54796
+     87.89616,
+     26.88507
     ]
    },
-   "createdOn": "2026-10-03T18:33:04.137475+05:45",
-   "modifiedOn": "2026-10-03T18:33:04.137486+05:45",
-   "titleNe": "बाग्मती, ललितपुर, कोन्ज्योसोम-४ मा पहिरो",
+   "createdOn": "2026-10-05T09:33:04.568780+05:45",
+   "modifiedOn": "2026-10-05T09:33:04.568789+05:45",
+   "titleNe": "कोशी, इलाम, इलाम-१२ मा पहिरो",
    "description": null,
    "cause": null,
    "verified": true,
    "verificationMessage": null,
    "approved": true,
    "polygon": null,
-   "incidentOn": "2026-10-03T00:00:00+05:45",
-   "reportedOn": "2026-10-03T18:12:28+05:45",
+   "incidentOn": "2026-10-04T00:00:00+05:45",
+   "reportedOn": "2026-10-05T09:13:55+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91526,
+   "dataSourceId": 91547,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 486514,
+   "loss": 486559,
    "createdBy": null,
    "updatedBy": null
   },
@@ -1744,6 +1742,44 @@
    "event": null,
    "hazard": 17,
    "loss": 486518,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95496,
+   "title": "Landslide at Konjyosom Rural Municipality-4",
+   "wards": [
+    2010
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.33968,
+     27.54796
+    ]
+   },
+   "createdOn": "2026-10-03T18:33:04.137475+05:45",
+   "modifiedOn": "2026-10-03T18:33:04.137486+05:45",
+   "titleNe": "बाग्मती, ललितपुर, कोन्ज्योसोम-४ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-03T00:00:00+05:45",
+   "reportedOn": "2026-10-03T18:12:28+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91526,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 486514,
    "createdBy": null,
    "updatedBy": null
   },
@@ -2052,6 +2088,44 @@
    "updatedBy": null
   },
   {
+   "id": 95472,
+   "title": "Landslide at Konjyosom Rural Municipality-4",
+   "wards": [
+    2010
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.33968,
+     27.54796
+    ]
+   },
+   "createdOn": "2026-10-02T09:45:04.938325+05:45",
+   "modifiedOn": "2026-10-02T09:45:04.938337+05:45",
+   "titleNe": "बाग्मती, ललितपुर, कोन्ज्योसोम-४ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-01T00:00:00+05:45",
+   "reportedOn": "2026-10-02T09:31:07+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91490,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 486237,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
    "id": 95461,
    "title": "Landslide at Netrawati Dabjong Rural Municipality-1",
    "wards": [
@@ -2124,44 +2198,6 @@
    "event": null,
    "hazard": 17,
    "loss": 486153,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95472,
-   "title": "Landslide at Konjyosom Rural Municipality-4",
-   "wards": [
-    2010
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.33968,
-     27.54796
-    ]
-   },
-   "createdOn": "2026-10-02T09:45:04.938325+05:45",
-   "modifiedOn": "2026-10-02T09:45:04.938337+05:45",
-   "titleNe": "बाग्मती, ललितपुर, कोन्ज्योसोम-४ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-01T00:00:00+05:45",
-   "reportedOn": "2026-10-02T09:31:07+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91490,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 486237,
    "createdBy": null,
    "updatedBy": null
   },
@@ -2394,44 +2430,6 @@
    "updatedBy": null
   },
   {
-   "id": 95413,
-   "title": "Landslide at Dhaireni , Mathagadhi Rural Municipality-1",
-   "wards": [
-    5692
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.63419,
-     27.82173
-    ]
-   },
-   "createdOn": "2026-09-30T11:33:03.936162+05:45",
-   "modifiedOn": "2026-09-30T11:33:03.936176+05:45",
-   "titleNe": "लुम्बिनी, पाल्पा, माथागढी-१ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-29T00:00:00+05:45",
-   "reportedOn": "2026-09-30T10:58:32+05:45",
-   "streetAddress": "Dhaireni ",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91430,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 485750,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
    "id": 95409,
    "title": "Heavy Rainfall at Rapti Sonari Rural Municipality-2",
    "wards": [
@@ -2508,6 +2506,44 @@
    "updatedBy": null
   },
   {
+   "id": 95413,
+   "title": "Landslide at Dhaireni , Mathagadhi Rural Municipality-1",
+   "wards": [
+    5692
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     83.63419,
+     27.82173
+    ]
+   },
+   "createdOn": "2026-09-30T11:33:03.936162+05:45",
+   "modifiedOn": "2026-09-30T11:33:03.936176+05:45",
+   "titleNe": "लुम्बिनी, पाल्पा, माथागढी-१ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-29T00:00:00+05:45",
+   "reportedOn": "2026-09-30T10:58:32+05:45",
+   "streetAddress": "Dhaireni ",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91430,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 485750,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
    "id": 95355,
    "title": "Landslide at Kushma Municipality-10",
    "wards": [
@@ -2542,6 +2578,44 @@
    "event": null,
    "hazard": 17,
    "loss": 485312,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95212,
+   "title": "Landslide at Halesi Tuwachung Municipality-11",
+   "wards": [
+    880
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     86.7091,
+     27.15572
+    ]
+   },
+   "createdOn": "2026-09-28T08:17:04.624050+05:45",
+   "modifiedOn": "2026-09-28T08:17:04.624058+05:45",
+   "titleNe": "कोशी, खोटाङ्ग, हलेसी तुवाचुङ-११ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-28T00:00:00+05:45",
+   "reportedOn": "2026-09-28T07:51:41+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91218,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 484321,
    "createdBy": null,
    "updatedBy": null
   },
@@ -2584,21 +2658,21 @@
    "updatedBy": null
   },
   {
-   "id": 95382,
-   "title": "Heavy Rainfall at Rhishing Rural Municipality-1",
+   "id": 95243,
+   "title": "Heavy Rainfall at Shey Phoksundo Rural Municipality-99",
    "wards": [
-    2473
+    5439
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     84.24996,
-     27.93572
+     83.03833,
+     29.21277
     ]
    },
-   "createdOn": "2026-09-29T12:01:04.275069+05:45",
-   "modifiedOn": "2026-09-29T12:01:04.275077+05:45",
-   "titleNe": "गण्डकी, तनहुँ, ऋषिङ्ग-१ मा भारीवर्षा",
+   "createdOn": "2026-09-28T09:45:04.846433+05:45",
+   "modifiedOn": "2026-09-28T09:45:04.846446+05:45",
+   "titleNe": "कर्णाली, डोल्पा, शे फोक्सुण्डो-९९ मा भारीवर्षा",
    "description": null,
    "cause": null,
    "verified": true,
@@ -2606,18 +2680,56 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-29T11:43:25+05:45",
+   "reportedOn": "2026-09-28T09:24:15+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91397,
+   "dataSourceId": 91261,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
    "hazard": 14,
-   "loss": 485369,
+   "loss": 484394,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95410,
+   "title": "Heavy Rainfall at Gauriganga Municipality-9",
+   "wards": [
+    5399
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     80.89463,
+     28.74013
+    ]
+   },
+   "createdOn": "2026-09-30T10:45:04.439673+05:45",
+   "modifiedOn": "2026-09-30T10:45:04.439684+05:45",
+   "titleNe": "सुदुरपश्चिम, कैलाली, गौरीगंगा-९ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-28T00:00:00+05:45",
+   "reportedOn": "2026-09-30T10:24:42+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91427,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 485743,
    "createdBy": null,
    "updatedBy": null
   },
@@ -2660,21 +2772,21 @@
    "updatedBy": null
   },
   {
-   "id": 95410,
-   "title": "Heavy Rainfall at Gauriganga Municipality-9",
+   "id": 95394,
+   "title": "Heavy Rainfall at Rhishing Rural Municipality-1",
    "wards": [
-    5399
+    2473
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     80.89463,
-     28.74013
+     84.24996,
+     27.93572
     ]
    },
-   "createdOn": "2026-09-30T10:45:04.439673+05:45",
-   "modifiedOn": "2026-09-30T10:45:04.439684+05:45",
-   "titleNe": "सुदुरपश्चिम, कैलाली, गौरीगंगा-९ मा भारीवर्षा",
+   "createdOn": "2026-09-29T12:17:04.399038+05:45",
+   "modifiedOn": "2026-09-29T12:17:04.399047+05:45",
+   "titleNe": "गण्डकी, तनहुँ, ऋषिङ्ग-१ मा भारीवर्षा",
    "description": null,
    "cause": null,
    "verified": true,
@@ -2682,18 +2794,18 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-30T10:24:42+05:45",
+   "reportedOn": "2026-09-29T11:53:14+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91427,
+   "dataSourceId": 91407,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
    "hazard": 14,
-   "loss": 485743,
+   "loss": 485386,
    "createdBy": null,
    "updatedBy": null
   },
@@ -2774,82 +2886,6 @@
    "updatedBy": null
   },
   {
-   "id": 95391,
-   "title": "Landslide at Phaktanglung Rural Municipality-6",
-   "wards": [
-    1817
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     87.82613,
-     27.60988
-    ]
-   },
-   "createdOn": "2026-09-29T12:17:04.256480+05:45",
-   "modifiedOn": "2026-09-29T12:17:04.256489+05:45",
-   "titleNe": "कोशी, ताप्लेजुङ्ग, फक्ताङलुङ-६ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-29T11:59:52+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91410,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 485383,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95394,
-   "title": "Heavy Rainfall at Rhishing Rural Municipality-1",
-   "wards": [
-    2473
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.24996,
-     27.93572
-    ]
-   },
-   "createdOn": "2026-09-29T12:17:04.399038+05:45",
-   "modifiedOn": "2026-09-29T12:17:04.399047+05:45",
-   "titleNe": "गण्डकी, तनहुँ, ऋषिङ्ग-१ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-29T11:53:14+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91407,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 485386,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
    "id": 95386,
    "title": "Heavy Rainfall at Lalitpur Metropolitan City-22",
    "wards": [
@@ -2888,21 +2924,21 @@
    "updatedBy": null
   },
   {
-   "id": 95380,
-   "title": "Heavy Rainfall at Suryabinayak Municipality-8",
+   "id": 95382,
+   "title": "Heavy Rainfall at Rhishing Rural Municipality-1",
    "wards": [
-    2433
+    2473
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     85.43785166,
-     27.64583221
+     84.24996,
+     27.93572
     ]
    },
-   "createdOn": "2026-09-29T12:01:04.189803+05:45",
-   "modifiedOn": "2026-09-29T12:01:04.189812+05:45",
-   "titleNe": "बाग्मती, भक्तपुर, सूर्यविनायक-८ मा भारीवर्षा",
+   "createdOn": "2026-09-29T12:01:04.275069+05:45",
+   "modifiedOn": "2026-09-29T12:01:04.275077+05:45",
+   "titleNe": "गण्डकी, तनहुँ, ऋषिङ्ग-१ मा भारीवर्षा",
    "description": null,
    "cause": null,
    "verified": true,
@@ -2910,170 +2946,18 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-29T11:45:34+05:45",
+   "reportedOn": "2026-09-29T11:43:25+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91399,
+   "dataSourceId": 91397,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
    "hazard": 14,
-   "loss": 485367,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95377,
-   "title": "Landslide at Aathrai Tribeni Rural Municipality-5",
-   "wards": [
-    1761
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     87.61397231,
-     27.35558667
-    ]
-   },
-   "createdOn": "2026-09-29T12:01:04.058806+05:45",
-   "modifiedOn": "2026-09-29T12:01:04.058820+05:45",
-   "titleNe": "कोशी, ताप्लेजुङ्ग, आठराई त्रिवेणी-५ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-29T11:48:47+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91402,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 485364,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95374,
-   "title": "Heavy Rainfall at Bhumikasthan Municipality-7",
-   "wards": [
-    42
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.04234,
-     27.94393
-    ]
-   },
-   "createdOn": "2026-09-29T11:33:04.699526+05:45",
-   "modifiedOn": "2026-09-29T11:33:04.699539+05:45",
-   "titleNe": "लुम्बिनी, अर्घाखाॉची, भूमिकास्थान-७ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-29T10:36:31+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91377,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 485356,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95368,
-   "title": "Landslide at Pachaljharana Rural Municipality-3",
-   "wards": [
-    829
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     81.74506,
-     29.21559
-    ]
-   },
-   "createdOn": "2026-09-29T11:33:04.451019+05:45",
-   "modifiedOn": "2026-09-29T11:33:04.451028+05:45",
-   "titleNe": "कर्णाली, कालिकोट, पचालझरना-३ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-29T10:43:48+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91383,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 485350,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95376,
-   "title": "Flood at Susta Rural Municipality-5",
-   "wards": [
-    3578
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.86081498,
-     27.37901214
-    ]
-   },
-   "createdOn": "2026-09-29T12:01:04.017253+05:45",
-   "modifiedOn": "2026-09-29T12:01:04.017266+05:45",
-   "titleNe": "लुम्बिनी, नवलपरासी (बर्दघाट सुस्ता पश्चिम), सुस्ता-५ मा बाढी",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-29T11:50:01+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91403,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 11,
-   "loss": 485363,
+   "loss": 485369,
    "createdBy": null,
    "updatedBy": null
   },
@@ -3116,21 +3000,21 @@
    "updatedBy": null
   },
   {
-   "id": 95364,
-   "title": "Landslide at Mathagadhi Rural Municipality-1",
+   "id": 95380,
+   "title": "Heavy Rainfall at Suryabinayak Municipality-8",
    "wards": [
-    5692
+    2433
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     83.63419,
-     27.82173
+     85.43785166,
+     27.64583221
     ]
    },
-   "createdOn": "2026-09-29T11:33:04.273838+05:45",
-   "modifiedOn": "2026-09-29T11:33:04.273845+05:45",
-   "titleNe": "लुम्बिनी, पाल्पा, माथागढी-१ मा पहिरो",
+   "createdOn": "2026-09-29T12:01:04.189803+05:45",
+   "modifiedOn": "2026-09-29T12:01:04.189812+05:45",
+   "titleNe": "बाग्मती, भक्तपुर, सूर्यविनायक-८ मा भारीवर्षा",
    "description": null,
    "cause": null,
    "verified": true,
@@ -3138,18 +3022,170 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-29T10:51:43+05:45",
+   "reportedOn": "2026-09-29T11:45:34+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91387,
+   "dataSourceId": 91399,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 485367,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95374,
+   "title": "Heavy Rainfall at Bhumikasthan Municipality-7",
+   "wards": [
+    42
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     83.04234,
+     27.94393
+    ]
+   },
+   "createdOn": "2026-09-29T11:33:04.699526+05:45",
+   "modifiedOn": "2026-09-29T11:33:04.699539+05:45",
+   "titleNe": "लुम्बिनी, अर्घाखाॉची, भूमिकास्थान-७ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-28T00:00:00+05:45",
+   "reportedOn": "2026-09-29T10:36:31+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91377,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 485356,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95376,
+   "title": "Flood at Susta Rural Municipality-5",
+   "wards": [
+    3578
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     83.86081498,
+     27.37901214
+    ]
+   },
+   "createdOn": "2026-09-29T12:01:04.017253+05:45",
+   "modifiedOn": "2026-09-29T12:01:04.017266+05:45",
+   "titleNe": "लुम्बिनी, नवलपरासी (बर्दघाट सुस्ता पश्चिम), सुस्ता-५ मा बाढी",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-28T00:00:00+05:45",
+   "reportedOn": "2026-09-29T11:50:01+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91403,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 11,
+   "loss": 485363,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95377,
+   "title": "Landslide at Aathrai Tribeni Rural Municipality-5",
+   "wards": [
+    1761
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     87.61397231,
+     27.35558667
+    ]
+   },
+   "createdOn": "2026-09-29T12:01:04.058806+05:45",
+   "modifiedOn": "2026-09-29T12:01:04.058820+05:45",
+   "titleNe": "कोशी, ताप्लेजुङ्ग, आठराई त्रिवेणी-५ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-28T00:00:00+05:45",
+   "reportedOn": "2026-09-29T11:48:47+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91402,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 485346,
+   "loss": 485364,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95391,
+   "title": "Landslide at Phaktanglung Rural Municipality-6",
+   "wards": [
+    1817
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     87.82613,
+     27.60988
+    ]
+   },
+   "createdOn": "2026-09-29T12:17:04.256480+05:45",
+   "modifiedOn": "2026-09-29T12:17:04.256489+05:45",
+   "titleNe": "कोशी, ताप्लेजुङ्ग, फक्ताङलुङ-६ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-28T00:00:00+05:45",
+   "reportedOn": "2026-09-29T11:59:52+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91410,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 485383,
    "createdBy": null,
    "updatedBy": null
   },
@@ -3188,44 +3224,6 @@
    "event": null,
    "hazard": 14,
    "loss": 485347,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95357,
-   "title": "Heavy Rainfall at Shey Phoksundo Rural Municipality-99",
-   "wards": [
-    5439
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.03833,
-     29.21277
-    ]
-   },
-   "createdOn": "2026-09-29T10:45:04.170110+05:45",
-   "modifiedOn": "2026-09-29T10:45:04.170125+05:45",
-   "titleNe": "कर्णाली, डोल्पा, शे फोक्सुण्डो-९९ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-29T10:33:44+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91375,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 485327,
    "createdBy": null,
    "updatedBy": null
   },
@@ -3306,21 +3304,21 @@
    "updatedBy": null
   },
   {
-   "id": 95352,
-   "title": "Landslide at Netrawati Dabjong Rural Municipality-1",
+   "id": 95357,
+   "title": "Heavy Rainfall at Shey Phoksundo Rural Municipality-99",
    "wards": [
-    3169
+    5439
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     84.94688,
-     28.00638
+     83.03833,
+     29.21277
     ]
    },
-   "createdOn": "2026-09-28T17:17:04.032200+05:45",
-   "modifiedOn": "2026-09-28T17:17:04.032209+05:45",
-   "titleNe": "बाग्मती, धादिङ्ग, नेत्रावती डबजोङ-१ मा पहिरो",
+   "createdOn": "2026-09-29T10:45:04.170110+05:45",
+   "modifiedOn": "2026-09-29T10:45:04.170125+05:45",
+   "titleNe": "कर्णाली, डोल्पा, शे फोक्सुण्डो-९९ मा भारीवर्षा",
    "description": null,
    "cause": null,
    "verified": true,
@@ -3328,37 +3326,37 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-28T16:42:57+05:45",
+   "reportedOn": "2026-09-29T10:33:44+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91368,
+   "dataSourceId": 91375,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
-   "hazard": 17,
-   "loss": 484826,
+   "hazard": 14,
+   "loss": 485327,
    "createdBy": null,
    "updatedBy": null
   },
   {
-   "id": 95212,
-   "title": "Landslide at Halesi Tuwachung Municipality-11",
+   "id": 95209,
+   "title": "Landslide at Banphikot Rural Municipality-6",
    "wards": [
-    880
+    1510
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     86.7091,
-     27.15572
+     82.4604515634927,
+     28.7388378634818
     ]
    },
-   "createdOn": "2026-09-28T08:17:04.624050+05:45",
-   "modifiedOn": "2026-09-28T08:17:04.624058+05:45",
-   "titleNe": "कोशी, खोटाङ्ग, हलेसी तुवाचुङ-११ मा पहिरो",
+   "createdOn": "2026-09-28T08:17:04.496137+05:45",
+   "modifiedOn": "2026-09-28T08:17:04.496147+05:45",
+   "titleNe": "कर्णाली, रुकुम पश्चिम, बाँफिकोट-६ मा पहिरो",
    "description": null,
    "cause": null,
    "verified": true,
@@ -3366,18 +3364,56 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-28T07:51:41+05:45",
+   "reportedOn": "2026-09-28T07:56:38+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91218,
+   "dataSourceId": 91221,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 484321,
+   "loss": 484318,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95368,
+   "title": "Landslide at Pachaljharana Rural Municipality-3",
+   "wards": [
+    829
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     81.74506,
+     29.21559
+    ]
+   },
+   "createdOn": "2026-09-29T11:33:04.451019+05:45",
+   "modifiedOn": "2026-09-29T11:33:04.451028+05:45",
+   "titleNe": "कर्णाली, कालिकोट, पचालझरना-३ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-28T00:00:00+05:45",
+   "reportedOn": "2026-09-29T10:43:48+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91383,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 485350,
    "createdBy": null,
    "updatedBy": null
   },
@@ -3420,44 +3456,6 @@
    "updatedBy": null
   },
   {
-   "id": 95243,
-   "title": "Heavy Rainfall at Shey Phoksundo Rural Municipality-99",
-   "wards": [
-    5439
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.03833,
-     29.21277
-    ]
-   },
-   "createdOn": "2026-09-28T09:45:04.846433+05:45",
-   "modifiedOn": "2026-09-28T09:45:04.846446+05:45",
-   "titleNe": "कर्णाली, डोल्पा, शे फोक्सुण्डो-९९ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-28T09:24:15+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91261,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 484394,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
    "id": 95351,
    "title": "Heavy Rainfall at Dharche Rural Municipality-5",
    "wards": [
@@ -3492,196 +3490,6 @@
    "event": null,
    "hazard": 14,
    "loss": 484825,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95341,
-   "title": "Landslide at Hupsekot Rural Municipality-4",
-   "wards": [
-    3464
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.0621737780921,
-     27.6873921782637
-    ]
-   },
-   "createdOn": "2026-09-28T16:01:05.433210+05:45",
-   "modifiedOn": "2026-09-28T16:01:05.433224+05:45",
-   "titleNe": "गण्डकी, नवलपरासी (बर्दघाट सुस्ता पूर्व), हुप्सेकोट-४ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-28T15:36:07+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91357,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 484769,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95342,
-   "title": "Landslide at Andadanda, Dharche Rural Municipality-5",
-   "wards": [
-    3363
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.8101,
-     28.27345
-    ]
-   },
-   "createdOn": "2026-09-28T16:01:05.483887+05:45",
-   "modifiedOn": "2026-09-28T16:01:05.483902+05:45",
-   "titleNe": "गण्डकी, गोरखा, धार्चे-५ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-28T15:35:42+05:45",
-   "streetAddress": "Andadanda",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91356,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 484770,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95343,
-   "title": "Landslide at Mathagadhi Rural Municipality-1",
-   "wards": [
-    5692
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.63419,
-     27.82173
-    ]
-   },
-   "createdOn": "2026-09-28T16:45:04.529507+05:45",
-   "modifiedOn": "2026-09-28T16:45:04.529521+05:45",
-   "titleNe": "लुम्बिनी, पाल्पा, माथागढी-१ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-28T16:24:27+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91367,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 484795,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95336,
-   "title": "Landslide at Haripur Municipality-3",
-   "wards": [
-    5654
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.57183,
-     26.96729
-    ]
-   },
-   "createdOn": "2026-09-28T15:45:05.125978+05:45",
-   "modifiedOn": "2026-09-28T15:45:05.125992+05:45",
-   "titleNe": "मधेश, सर्लाही, हरिपुर-३ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-28T15:29:09+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91350,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 484755,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95338,
-   "title": "Landslide at Karkineta, Kushma Municipality-10",
-   "wards": [
-    1323
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.69519,
-     28.20228
-    ]
-   },
-   "createdOn": "2026-09-28T15:45:05.240520+05:45",
-   "modifiedOn": "2026-09-28T15:45:05.240547+05:45",
-   "titleNe": "गण्डकी, पर्वत, कुश्मा-१० मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-28T15:28:39+05:45",
-   "streetAddress": "Karkineta",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91348,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 484761,
    "createdBy": null,
    "updatedBy": null
   },
@@ -3724,6 +3532,196 @@
    "updatedBy": null
   },
   {
+   "id": 95345,
+   "title": "Landslide at Makawanpurgadhi Rural Municipality-5",
+   "wards": [
+    2308
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.08797,
+     27.4427
+    ]
+   },
+   "createdOn": "2026-09-28T16:45:04.651278+05:45",
+   "modifiedOn": "2026-09-28T16:45:04.651300+05:45",
+   "titleNe": "बाग्मती, मकवानपुर, मकवानपुरगढी-५ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-28T00:00:00+05:45",
+   "reportedOn": "2026-09-28T16:10:26+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91365,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 484797,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95342,
+   "title": "Landslide at Andadanda, Dharche Rural Municipality-5",
+   "wards": [
+    3363
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.8101,
+     28.27345
+    ]
+   },
+   "createdOn": "2026-09-28T16:01:05.483887+05:45",
+   "modifiedOn": "2026-09-28T16:01:05.483902+05:45",
+   "titleNe": "गण्डकी, गोरखा, धार्चे-५ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-28T00:00:00+05:45",
+   "reportedOn": "2026-09-28T15:35:42+05:45",
+   "streetAddress": "Andadanda",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91356,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 484770,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95346,
+   "title": "Heavy Rainfall at Kageshwori Manahora Municipality-9",
+   "wards": [
+    3837
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.37856,
+     27.69912
+    ]
+   },
+   "createdOn": "2026-09-28T16:45:04.701841+05:45",
+   "modifiedOn": "2026-09-28T16:45:04.701864+05:45",
+   "titleNe": "बाग्मती, काठमाण्डौ, कागेश्वरी मनोहरा-९ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-28T00:00:00+05:45",
+   "reportedOn": "2026-09-28T16:09:47+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91364,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 484798,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95343,
+   "title": "Landslide at Mathagadhi Rural Municipality-1",
+   "wards": [
+    5692
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     83.63419,
+     27.82173
+    ]
+   },
+   "createdOn": "2026-09-28T16:45:04.529507+05:45",
+   "modifiedOn": "2026-09-28T16:45:04.529521+05:45",
+   "titleNe": "लुम्बिनी, पाल्पा, माथागढी-१ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-28T00:00:00+05:45",
+   "reportedOn": "2026-09-28T16:24:27+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91367,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 484795,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95338,
+   "title": "Landslide at Karkineta, Kushma Municipality-10",
+   "wards": [
+    1323
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     83.69519,
+     28.20228
+    ]
+   },
+   "createdOn": "2026-09-28T15:45:05.240520+05:45",
+   "modifiedOn": "2026-09-28T15:45:05.240547+05:45",
+   "titleNe": "गण्डकी, पर्वत, कुश्मा-१० मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-28T00:00:00+05:45",
+   "reportedOn": "2026-09-28T15:28:39+05:45",
+   "streetAddress": "Karkineta",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91348,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 484761,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
    "id": 95339,
    "title": "Landslide at Netrawati Dabjong Rural Municipality-1",
    "wards": [
@@ -3762,6 +3760,120 @@
    "updatedBy": null
   },
   {
+   "id": 95341,
+   "title": "Landslide at Hupsekot Rural Municipality-4",
+   "wards": [
+    3464
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.0621737780921,
+     27.6873921782637
+    ]
+   },
+   "createdOn": "2026-09-28T16:01:05.433210+05:45",
+   "modifiedOn": "2026-09-28T16:01:05.433224+05:45",
+   "titleNe": "गण्डकी, नवलपरासी (बर्दघाट सुस्ता पूर्व), हुप्सेकोट-४ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-28T00:00:00+05:45",
+   "reportedOn": "2026-09-28T15:36:07+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91357,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 484769,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95336,
+   "title": "Landslide at Haripur Municipality-3",
+   "wards": [
+    5654
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.57183,
+     26.96729
+    ]
+   },
+   "createdOn": "2026-09-28T15:45:05.125978+05:45",
+   "modifiedOn": "2026-09-28T15:45:05.125992+05:45",
+   "titleNe": "मधेश, सर्लाही, हरिपुर-३ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-28T00:00:00+05:45",
+   "reportedOn": "2026-09-28T15:29:09+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91350,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 484755,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95347,
+   "title": "Heavy Rainfall at Shikhar Municipality-2",
+   "wards": [
+    636
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     80.84086,
+     29.18116
+    ]
+   },
+   "createdOn": "2026-09-28T16:45:04.752575+05:45",
+   "modifiedOn": "2026-09-28T16:45:04.752591+05:45",
+   "titleNe": "सुदुरपश्चिम, डोटी, शिखर-२ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-28T00:00:00+05:45",
+   "reportedOn": "2026-09-28T16:09:04+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91363,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 484800,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
    "id": 95331,
    "title": "Landslide at Majtar, Rhishing Rural Municipality-1",
    "wards": [
@@ -3796,44 +3908,6 @@
    "event": null,
    "hazard": 17,
    "loss": 484746,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95345,
-   "title": "Landslide at Makawanpurgadhi Rural Municipality-5",
-   "wards": [
-    2308
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.08797,
-     27.4427
-    ]
-   },
-   "createdOn": "2026-09-28T16:45:04.651278+05:45",
-   "modifiedOn": "2026-09-28T16:45:04.651300+05:45",
-   "titleNe": "बाग्मती, मकवानपुर, मकवानपुरगढी-५ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-28T16:10:26+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91365,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 484797,
    "createdBy": null,
    "updatedBy": null
   },
@@ -3910,6 +3984,44 @@
    "event": null,
    "hazard": 17,
    "loss": 484729,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95325,
+   "title": "Heavy Rainfall at Rapti Sonari Rural Municipality-2",
+   "wards": [
+    2164
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     81.84765,
+     28.09534
+    ]
+   },
+   "createdOn": "2026-09-28T15:33:04.530202+05:45",
+   "modifiedOn": "2026-09-28T15:33:04.530212+05:45",
+   "titleNe": "लुम्बिनी, बाँके, राप्ती सोनारी-२ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-28T00:00:00+05:45",
+   "reportedOn": "2026-09-28T15:15:28+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91341,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 484727,
    "createdBy": null,
    "updatedBy": null
   },
@@ -4028,21 +4140,21 @@
    "updatedBy": null
   },
   {
-   "id": 95325,
-   "title": "Heavy Rainfall at Rapti Sonari Rural Municipality-2",
+   "id": 95364,
+   "title": "Landslide at Mathagadhi Rural Municipality-1",
    "wards": [
-    2164
+    5692
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     81.84765,
-     28.09534
+     83.63419,
+     27.82173
     ]
    },
-   "createdOn": "2026-09-28T15:33:04.530202+05:45",
-   "modifiedOn": "2026-09-28T15:33:04.530212+05:45",
-   "titleNe": "लुम्बिनी, बाँके, राप्ती सोनारी-२ मा भारीवर्षा",
+   "createdOn": "2026-09-29T11:33:04.273838+05:45",
+   "modifiedOn": "2026-09-29T11:33:04.273845+05:45",
+   "titleNe": "लुम्बिनी, पाल्पा, माथागढी-१ मा पहिरो",
    "description": null,
    "cause": null,
    "verified": true,
@@ -4050,132 +4162,18 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-28T15:15:28+05:45",
+   "reportedOn": "2026-09-29T10:51:43+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91341,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 484727,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95209,
-   "title": "Landslide at Banphikot Rural Municipality-6",
-   "wards": [
-    1510
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     82.4604515634927,
-     28.7388378634818
-    ]
-   },
-   "createdOn": "2026-09-28T08:17:04.496137+05:45",
-   "modifiedOn": "2026-09-28T08:17:04.496147+05:45",
-   "titleNe": "कर्णाली, रुकुम पश्चिम, बाँफिकोट-६ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-28T07:56:38+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91221,
+   "dataSourceId": 91387,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 484318,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95346,
-   "title": "Heavy Rainfall at Kageshwori Manahora Municipality-9",
-   "wards": [
-    3837
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.37856,
-     27.69912
-    ]
-   },
-   "createdOn": "2026-09-28T16:45:04.701841+05:45",
-   "modifiedOn": "2026-09-28T16:45:04.701864+05:45",
-   "titleNe": "बाग्मती, काठमाण्डौ, कागेश्वरी मनोहरा-९ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-28T16:09:47+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91364,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 484798,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95347,
-   "title": "Heavy Rainfall at Shikhar Municipality-2",
-   "wards": [
-    636
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     80.84086,
-     29.18116
-    ]
-   },
-   "createdOn": "2026-09-28T16:45:04.752575+05:45",
-   "modifiedOn": "2026-09-28T16:45:04.752591+05:45",
-   "titleNe": "सुदुरपश्चिम, डोटी, शिखर-२ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-28T00:00:00+05:45",
-   "reportedOn": "2026-09-28T16:09:04+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91363,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 484800,
+   "loss": 485346,
    "createdBy": null,
    "updatedBy": null
   },
@@ -4214,6 +4212,44 @@
    "event": null,
    "hazard": 17,
    "loss": 484507,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95352,
+   "title": "Landslide at Netrawati Dabjong Rural Municipality-1",
+   "wards": [
+    3169
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.94688,
+     28.00638
+    ]
+   },
+   "createdOn": "2026-09-28T17:17:04.032200+05:45",
+   "modifiedOn": "2026-09-28T17:17:04.032209+05:45",
+   "titleNe": "बाग्मती, धादिङ्ग, नेत्रावती डबजोङ-१ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-28T00:00:00+05:45",
+   "reportedOn": "2026-09-28T16:42:57+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91368,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 484826,
    "createdBy": null,
    "updatedBy": null
   },
@@ -4294,8 +4330,46 @@
    "updatedBy": null
   },
   {
-   "id": 95118,
-   "title": "Flood at Kusindanda, Kushma Municipality-10",
+   "id": 95155,
+   "title": "Heavy Rainfall at Bhanu Municipality-13",
+   "wards": [
+    2525
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.33843659,
+     28.07345983
+    ]
+   },
+   "createdOn": "2026-09-27T18:45:04.712865+05:45",
+   "modifiedOn": "2026-09-27T18:45:04.712879+05:45",
+   "titleNe": "गण्डकी, तनहुँ, भानु-१३ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-27T00:00:00+05:45",
+   "reportedOn": "2026-09-27T18:29:16+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91188,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 483381,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95097,
+   "title": "Flood at Kushma Municipality-10",
    "wards": [
     1323
    ],
@@ -4306,8 +4380,8 @@
      28.20228
     ]
    },
-   "createdOn": "2026-09-27T18:17:04.398145+05:45",
-   "modifiedOn": "2026-09-27T18:17:04.398167+05:45",
+   "createdOn": "2026-09-27T17:45:04.425516+05:45",
+   "modifiedOn": "2026-09-27T17:45:04.425527+05:45",
    "titleNe": "गण्डकी, पर्वत, कुश्मा-१० मा बाढी",
    "description": null,
    "cause": null,
@@ -4316,18 +4390,18 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T18:06:39+05:45",
-   "streetAddress": "Kusindanda",
+   "reportedOn": "2026-09-27T17:24:49+05:45",
+   "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91150,
+   "dataSourceId": 91095,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
    "hazard": 11,
-   "loss": 483305,
+   "loss": 483261,
    "createdBy": null,
    "updatedBy": null
   },
@@ -4408,6 +4482,82 @@
    "updatedBy": null
   },
   {
+   "id": 95099,
+   "title": "Heavy Rainfall at Kageshwori Manahora Municipality-9",
+   "wards": [
+    3837
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.37856,
+     27.69912
+    ]
+   },
+   "createdOn": "2026-09-27T18:01:04.594424+05:45",
+   "modifiedOn": "2026-09-27T18:01:04.594435+05:45",
+   "titleNe": "बाग्मती, काठमाण्डौ, कागेश्वरी मनोहरा-९ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-27T00:00:00+05:45",
+   "reportedOn": "2026-09-27T17:51:02+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91124,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 483270,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95096,
+   "title": "Flood at Brindaban Municipality-6",
+   "wards": [
+    4067
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.33443,
+     26.98914
+    ]
+   },
+   "createdOn": "2026-09-27T17:45:04.378519+05:45",
+   "modifiedOn": "2026-09-27T17:45:04.378528+05:45",
+   "titleNe": "मधेश, रौतहट, बृन्दावन-६ मा बाढी",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-27T00:00:00+05:45",
+   "reportedOn": "2026-09-27T17:26:25+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91096,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 11,
+   "loss": 483258,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
    "id": 95156,
    "title": "Flood at Mathagadhi Rural Municipality-1",
    "wards": [
@@ -4442,44 +4592,6 @@
    "event": null,
    "hazard": 11,
    "loss": 483383,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95098,
-   "title": "Landslide at Lammela, Dhorpatan Municipality-4",
-   "wards": [
-    5031
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.27139,
-     28.35288
-    ]
-   },
-   "createdOn": "2026-09-27T17:45:04.475278+05:45",
-   "modifiedOn": "2026-10-01T19:39:04.619881+05:45",
-   "titleNe": "गण्डकी, बागलुङ, ढोरपाटन-४ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T17:24:23+05:45",
-   "streetAddress": "Lammela",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91094,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 486180,
    "createdBy": null,
    "updatedBy": null
   },
@@ -4522,21 +4634,21 @@
    "updatedBy": null
   },
   {
-   "id": 95120,
-   "title": "Heavy Rainfall at Sarawal Rural Municipality-3",
+   "id": 95152,
+   "title": "Landslide at Netrawati Dabjong Rural Municipality-1",
    "wards": [
-    3588
+    3169
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     83.7387105146616,
-     27.5282507635081
+     84.94688,
+     28.00638
     ]
    },
-   "createdOn": "2026-09-27T18:17:04.488275+05:45",
-   "modifiedOn": "2026-09-27T18:17:04.488283+05:45",
-   "titleNe": "लुम्बिनी, नवलपरासी (बर्दघाट सुस्ता पश्चिम), सरावल-३ मा भारीवर्षा",
+   "createdOn": "2026-09-27T18:45:04.588228+05:45",
+   "modifiedOn": "2026-09-27T18:45:04.588237+05:45",
+   "titleNe": "बाग्मती, धादिङ्ग, नेत्रावती डबजोङ-१ मा पहिरो",
    "description": null,
    "cause": null,
    "verified": true,
@@ -4544,18 +4656,18 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T18:05:25+05:45",
+   "reportedOn": "2026-09-27T18:30:46+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91148,
+   "dataSourceId": 91191,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
-   "hazard": 14,
-   "loss": 483307,
+   "hazard": 17,
+   "loss": 483374,
    "createdBy": null,
    "updatedBy": null
   },
@@ -4598,21 +4710,21 @@
    "updatedBy": null
   },
   {
-   "id": 95154,
-   "title": "Landslide at Bhaktapur Municipality-9",
+   "id": 95153,
+   "title": "Heavy Rainfall at Brindaban Municipality-6",
    "wards": [
-    2406
+    4067
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     85.44123,
-     27.67418
+     85.33443,
+     26.98914
     ]
    },
-   "createdOn": "2026-09-27T18:45:04.662417+05:45",
-   "modifiedOn": "2026-09-27T18:45:04.662425+05:45",
-   "titleNe": "बाग्मती, भक्तपुर, भक्तपुर-९ मा पहिरो",
+   "createdOn": "2026-09-27T18:45:04.628510+05:45",
+   "modifiedOn": "2026-09-27T18:45:04.628519+05:45",
+   "titleNe": "मधेश, रौतहट, बृन्दावन-६ मा भारीवर्षा",
    "description": null,
    "cause": null,
    "verified": true,
@@ -4620,94 +4732,18 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T18:29:31+05:45",
+   "reportedOn": "2026-09-27T18:30:09+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91189,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 483379,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95269,
-   "title": "Heavy Rainfall at Rhishing Rural Municipality-1",
-   "wards": [
-    2473
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.24996,
-     27.93572
-    ]
-   },
-   "createdOn": "2026-09-28T10:17:04.184803+05:45",
-   "modifiedOn": "2026-09-29T10:21:04.178405+05:45",
-   "titleNe": "गण्डकी, तनहुँ, ऋषिङ्ग-१ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-28T10:04:24+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91290,
+   "dataSourceId": 91190,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
    "hazard": 14,
-   "loss": 485315,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95058,
-   "title": "Heavy Rainfall at Rambajar , Marsyangdi Rural Municipality-4",
-   "wards": [
-    1024
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.36003084,
-     28.40683211
-    ]
-   },
-   "createdOn": "2026-09-27T16:45:04.388764+05:45",
-   "modifiedOn": "2026-09-27T16:45:04.388778+05:45",
-   "titleNe": "गण्डकी, लमजुङ्ग, मर्स्याङदी-४ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T16:13:16+05:45",
-   "streetAddress": "Rambajar ",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91061,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 483196,
+   "loss": 483376,
    "createdBy": null,
    "updatedBy": null
   },
@@ -4750,6 +4786,44 @@
    "updatedBy": null
   },
   {
+   "id": 95269,
+   "title": "Heavy Rainfall at Rhishing Rural Municipality-1",
+   "wards": [
+    2473
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.24996,
+     27.93572
+    ]
+   },
+   "createdOn": "2026-09-28T10:17:04.184803+05:45",
+   "modifiedOn": "2026-09-29T10:21:04.178405+05:45",
+   "titleNe": "गण्डकी, तनहुँ, ऋषिङ्ग-१ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-27T00:00:00+05:45",
+   "reportedOn": "2026-09-28T10:04:24+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91290,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 485315,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
    "id": 95157,
    "title": "Landslide at Gorkha Municipality-5",
    "wards": [
@@ -4788,21 +4862,21 @@
    "updatedBy": null
   },
   {
-   "id": 95117,
-   "title": "Heavy Rainfall at Rapti Sonari Rural Municipality-2",
+   "id": 95095,
+   "title": "Landslide at Jeepline, Namobuddha Municipality-7",
    "wards": [
-    2164
+    6164
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     81.84765,
-     28.09534
+     85.63649,
+     27.54493
     ]
    },
-   "createdOn": "2026-09-27T18:17:04.346000+05:45",
-   "modifiedOn": "2026-09-27T18:17:04.346014+05:45",
-   "titleNe": "लुम्बिनी, बाँके, राप्ती सोनारी-२ मा भारीवर्षा",
+   "createdOn": "2026-09-27T17:45:04.341278+05:45",
+   "modifiedOn": "2026-09-27T17:45:04.341289+05:45",
+   "titleNe": "बाग्मती, काभ्रेपलाञ्चोक, नमोबुद्ध-७ मा पहिरो",
    "description": null,
    "cause": null,
    "verified": true,
@@ -4810,37 +4884,37 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T18:06:49+05:45",
-   "streetAddress": "",
+   "reportedOn": "2026-09-27T17:28:02+05:45",
+   "streetAddress": "Jeepline",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91151,
+   "dataSourceId": 91098,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
-   "hazard": 14,
-   "loss": 483304,
+   "hazard": 17,
+   "loss": 483256,
    "createdBy": null,
    "updatedBy": null
   },
   {
-   "id": 95155,
-   "title": "Heavy Rainfall at Bhanu Municipality-13",
+   "id": 95291,
+   "title": "Landslide at Missi, Lo Ghekar Damodarkunda Rural Municipality-5",
    "wards": [
-    2525
+    5092
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     84.33843659,
-     28.07345983
+     83.86811,
+     28.9548
     ]
    },
-   "createdOn": "2026-09-27T18:45:04.712865+05:45",
-   "modifiedOn": "2026-09-27T18:45:04.712879+05:45",
-   "titleNe": "गण्डकी, तनहुँ, भानु-१३ मा भारीवर्षा",
+   "createdOn": "2026-09-28T10:33:05.034862+05:45",
+   "modifiedOn": "2026-09-28T10:33:05.034876+05:45",
+   "titleNe": "गण्डकी, मुस्ताङ्ग, लो-घेकर दामोदरकुण्ड-५ मा पहिरो",
    "description": null,
    "cause": null,
    "verified": true,
@@ -4848,18 +4922,132 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T18:29:16+05:45",
+   "reportedOn": "2026-09-28T10:13:28+05:45",
+   "streetAddress": "Missi",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91299,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 484469,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95120,
+   "title": "Heavy Rainfall at Sarawal Rural Municipality-3",
+   "wards": [
+    3588
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     83.7387105146616,
+     27.5282507635081
+    ]
+   },
+   "createdOn": "2026-09-27T18:17:04.488275+05:45",
+   "modifiedOn": "2026-09-27T18:17:04.488283+05:45",
+   "titleNe": "लुम्बिनी, नवलपरासी (बर्दघाट सुस्ता पश्चिम), सरावल-३ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-27T00:00:00+05:45",
+   "reportedOn": "2026-09-27T18:05:25+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91188,
+   "dataSourceId": 91148,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
    "hazard": 14,
-   "loss": 483381,
+   "loss": 483307,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95058,
+   "title": "Heavy Rainfall at Rambajar , Marsyangdi Rural Municipality-4",
+   "wards": [
+    1024
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.36003084,
+     28.40683211
+    ]
+   },
+   "createdOn": "2026-09-27T16:45:04.388764+05:45",
+   "modifiedOn": "2026-09-27T16:45:04.388778+05:45",
+   "titleNe": "गण्डकी, लमजुङ्ग, मर्स्याङदी-४ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-27T00:00:00+05:45",
+   "reportedOn": "2026-09-27T16:13:16+05:45",
+   "streetAddress": "Rambajar ",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91061,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 483196,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95154,
+   "title": "Landslide at Bhaktapur Municipality-9",
+   "wards": [
+    2406
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.44123,
+     27.67418
+    ]
+   },
+   "createdOn": "2026-09-27T18:45:04.662417+05:45",
+   "modifiedOn": "2026-09-27T18:45:04.662425+05:45",
+   "titleNe": "बाग्मती, भक्तपुर, भक्तपुर-९ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-27T00:00:00+05:45",
+   "reportedOn": "2026-09-27T18:29:31+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91189,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 483379,
    "createdBy": null,
    "updatedBy": null
   },
@@ -4940,6 +5128,82 @@
    "updatedBy": null
   },
   {
+   "id": 95286,
+   "title": "Landslide at Panidhara, Benighat Rorang Rural Municipality-10",
+   "wards": [
+    3124
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.66706411,
+     27.79618124
+    ]
+   },
+   "createdOn": "2026-09-28T10:33:04.791431+05:45",
+   "modifiedOn": "2026-09-28T10:33:04.791444+05:45",
+   "titleNe": "बाग्मती, धादिङ्ग, बेनीघाट रोराङ-१० मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-27T00:00:00+05:45",
+   "reportedOn": "2026-09-28T10:17:44+05:45",
+   "streetAddress": "Panidhara",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91304,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 484464,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95148,
+   "title": "Flood at Samagau, Dharche Rural Municipality-5",
+   "wards": [
+    3363
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.8101,
+     28.27345
+    ]
+   },
+   "createdOn": "2026-09-27T18:45:04.415300+05:45",
+   "modifiedOn": "2026-09-27T18:45:04.415310+05:45",
+   "titleNe": "गण्डकी, गोरखा, धार्चे-५ मा बाढी",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-27T00:00:00+05:45",
+   "reportedOn": "2026-09-27T18:33:07+05:45",
+   "streetAddress": "Samagau",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91195,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 11,
+   "loss": 483369,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
    "id": 95287,
    "title": "Heavy Rainfall at Rapti Sonari Rural Municipality-2",
    "wards": [
@@ -4978,21 +5242,21 @@
    "updatedBy": null
   },
   {
-   "id": 95115,
-   "title": "Flood at Hetauda Submetropolitan City-4",
+   "id": 95149,
+   "title": "Landslide at Kushma Municipality-10",
    "wards": [
-    2335
+    1323
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     85.03600443,
-     27.42006189
+     83.69519,
+     28.20228
     ]
    },
-   "createdOn": "2026-09-27T18:01:05.279897+05:45",
-   "modifiedOn": "2026-09-27T18:01:05.279905+05:45",
-   "titleNe": "बाग्मती, मकवानपुर, हेटौँडा-४ मा बाढी",
+   "createdOn": "2026-09-27T18:45:04.461699+05:45",
+   "modifiedOn": "2026-09-27T18:45:04.461709+05:45",
+   "titleNe": "गण्डकी, पर्वत, कुश्मा-१० मा पहिरो",
    "description": null,
    "cause": null,
    "verified": true,
@@ -5000,18 +5264,56 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T17:36:03+05:45",
+   "reportedOn": "2026-09-27T18:32:11+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91108,
+   "dataSourceId": 91194,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
-   "hazard": 11,
-   "loss": 483286,
+   "hazard": 17,
+   "loss": 483370,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95092,
+   "title": "Landslide at dhapakhola, Kushma Municipality-10",
+   "wards": [
+    1323
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     83.69519,
+     28.20228
+    ]
+   },
+   "createdOn": "2026-09-27T17:45:04.209293+05:45",
+   "modifiedOn": "2026-09-27T17:45:04.209304+05:45",
+   "titleNe": "गण्डकी, पर्वत, कुश्मा-१० मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-27T00:00:00+05:45",
+   "reportedOn": "2026-09-27T17:30:16+05:45",
+   "streetAddress": "dhapakhola",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91101,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 483248,
    "createdBy": null,
    "updatedBy": null
   },
@@ -5054,21 +5356,21 @@
    "updatedBy": null
   },
   {
-   "id": 95116,
-   "title": "Landslide at Batase , Dharche Rural Municipality-5",
+   "id": 95281,
+   "title": "Heavy Rainfall at Rapti Sonari Rural Municipality-2",
    "wards": [
-    3363
+    2164
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     84.8101,
-     28.27345
+     81.84765,
+     28.09534
     ]
    },
-   "createdOn": "2026-09-27T18:01:05.327671+05:45",
-   "modifiedOn": "2026-09-27T18:01:05.327679+05:45",
-   "titleNe": "गण्डकी, गोरखा, धार्चे-५ मा पहिरो",
+   "createdOn": "2026-09-28T10:33:04.566507+05:45",
+   "modifiedOn": "2026-09-28T10:33:04.566517+05:45",
+   "titleNe": "लुम्बिनी, बाँके, राप्ती सोनारी-२ मा भारीवर्षा",
    "description": null,
    "cause": null,
    "verified": true,
@@ -5076,132 +5378,56 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T17:35:56+05:45",
-   "streetAddress": "Batase ",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91107,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 483287,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95059,
-   "title": "Flood at Putha Uttarganga Rural Municipality-4",
-   "wards": [
-    1452
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     82.8108847509242,
-     28.6739897105719
-    ]
-   },
-   "createdOn": "2026-09-27T16:45:04.436423+05:45",
-   "modifiedOn": "2026-09-27T16:45:04.436436+05:45",
-   "titleNe": "लुम्बिनी, रुकुम पूर्व, पुथा उत्तरगंगा-४ मा बाढी",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T16:10:53+05:45",
+   "reportedOn": "2026-09-28T10:20:03+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91060,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 11,
-   "loss": 483198,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95286,
-   "title": "Landslide at Panidhara, Benighat Rorang Rural Municipality-10",
-   "wards": [
-    3124
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.66706411,
-     27.79618124
-    ]
-   },
-   "createdOn": "2026-09-28T10:33:04.791431+05:45",
-   "modifiedOn": "2026-09-28T10:33:04.791444+05:45",
-   "titleNe": "बाग्मती, धादिङ्ग, बेनीघाट रोराङ-१० मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-28T10:17:44+05:45",
-   "streetAddress": "Panidhara",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91304,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 484464,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95289,
-   "title": "Heavy Rainfall at sikkajyoti, Siraha Municipality-20",
-   "wards": [
-    4528
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     86.23248884,
-     26.60527332
-    ]
-   },
-   "createdOn": "2026-09-28T10:33:04.930644+05:45",
-   "modifiedOn": "2026-09-28T10:33:04.930657+05:45",
-   "titleNe": "मधेश, सिराहा, सिरहा-२० मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-28T10:14:52+05:45",
-   "streetAddress": "sikkajyoti",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91301,
+   "dataSourceId": 91309,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
    "hazard": 14,
-   "loss": 484467,
+   "loss": 484459,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95093,
+   "title": "Flood at Jaljala Rural Municipality-8",
+   "wards": [
+    1315
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     83.62088282,
+     28.28500947
+    ]
+   },
+   "createdOn": "2026-09-27T17:45:04.255238+05:45",
+   "modifiedOn": "2026-09-27T17:45:04.255254+05:45",
+   "titleNe": "गण्डकी, पर्वत, जलजला-८ मा बाढी",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-27T00:00:00+05:45",
+   "reportedOn": "2026-09-27T17:30:09+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91100,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 11,
+   "loss": 483250,
    "createdBy": null,
    "updatedBy": null
   },
@@ -5244,21 +5470,21 @@
    "updatedBy": null
   },
   {
-   "id": 95079,
-   "title": "Landslide at Pokhara Metropolitan City-31",
+   "id": 95147,
+   "title": "Heavy Rainfall at Haripur Municipality-3",
    "wards": [
-    3923
+    5654
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     84.10945986,
-     28.17560146
+     85.57183,
+     26.96729
     ]
    },
-   "createdOn": "2026-09-27T17:33:04.584526+05:45",
-   "modifiedOn": "2026-09-27T17:33:04.584535+05:45",
-   "titleNe": "गण्डकी, कास्की, पोखरा-३१ मा पहिरो",
+   "createdOn": "2026-09-27T18:45:04.367041+05:45",
+   "modifiedOn": "2026-09-27T18:45:04.367051+05:45",
+   "titleNe": "मधेश, सर्लाही, हरिपुर-३ मा भारीवर्षा",
    "description": null,
    "cause": null,
    "verified": true,
@@ -5266,18 +5492,94 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T17:16:09+05:45",
+   "reportedOn": "2026-09-27T18:33:13+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91089,
+   "dataSourceId": 91196,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
-   "hazard": 17,
-   "loss": 483234,
+   "hazard": 14,
+   "loss": 483368,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95059,
+   "title": "Flood at Putha Uttarganga Rural Municipality-4",
+   "wards": [
+    1452
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     82.8108847509242,
+     28.6739897105719
+    ]
+   },
+   "createdOn": "2026-09-27T16:45:04.436423+05:45",
+   "modifiedOn": "2026-09-27T16:45:04.436436+05:45",
+   "titleNe": "लुम्बिनी, रुकुम पूर्व, पुथा उत्तरगंगा-४ मा बाढी",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-27T00:00:00+05:45",
+   "reportedOn": "2026-09-27T16:10:53+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91060,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 11,
+   "loss": 483198,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95150,
+   "title": "Heavy Rainfall at Kamalbazar Municipality-7",
+   "wards": [
+    2600
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     81.30663,
+     29.06417
+    ]
+   },
+   "createdOn": "2026-09-27T18:45:04.500031+05:45",
+   "modifiedOn": "2026-09-27T18:45:04.500039+05:45",
+   "titleNe": "सुदुरपश्चिम, अछाम, कमलबजार-७ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-27T00:00:00+05:45",
+   "reportedOn": "2026-09-27T18:32:05+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91193,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 483371,
    "createdBy": null,
    "updatedBy": null
   },
@@ -5320,21 +5622,21 @@
    "updatedBy": null
   },
   {
-   "id": 95114,
-   "title": "Landslide at Kokaldhara, Mathagadhi Rural Municipality-1",
+   "id": 95289,
+   "title": "Heavy Rainfall at sikkajyoti, Siraha Municipality-20",
    "wards": [
-    5692
+    4528
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     83.63419,
-     27.82173
+     86.23248884,
+     26.60527332
     ]
    },
-   "createdOn": "2026-09-27T18:01:05.240833+05:45",
-   "modifiedOn": "2026-09-27T18:01:05.240840+05:45",
-   "titleNe": "लुम्बिनी, पाल्पा, माथागढी-१ मा पहिरो",
+   "createdOn": "2026-09-28T10:33:04.930644+05:45",
+   "modifiedOn": "2026-09-28T10:33:04.930657+05:45",
+   "titleNe": "मधेश, सिराहा, सिरहा-२० मा भारीवर्षा",
    "description": null,
    "cause": null,
    "verified": true,
@@ -5342,18 +5644,18 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T17:36:15+05:45",
-   "streetAddress": "Kokaldhara",
+   "reportedOn": "2026-09-28T10:14:52+05:45",
+   "streetAddress": "sikkajyoti",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91109,
+   "dataSourceId": 91301,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
-   "hazard": 17,
-   "loss": 483285,
+   "hazard": 14,
+   "loss": 484467,
    "createdBy": null,
    "updatedBy": null
   },
@@ -5396,44 +5698,6 @@
    "updatedBy": null
   },
   {
-   "id": 95082,
-   "title": "Heavy Rainfall at Machhapuchchhre Rural Municipality-2",
-   "wards": [
-    3895
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.99007,
-     28.34628
-    ]
-   },
-   "createdOn": "2026-09-27T17:33:04.716012+05:45",
-   "modifiedOn": "2026-09-27T17:33:04.716021+05:45",
-   "titleNe": "गण्डकी, कास्की, माछापुच्छ्रे-२ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T17:13:18+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91086,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 483237,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
    "id": 95279,
    "title": "Flood at Gajindradham, Hupsekot Rural Municipality-4",
    "wards": [
@@ -5472,21 +5736,21 @@
    "updatedBy": null
   },
   {
-   "id": 95276,
-   "title": "Flood at Botetole, Hupsekot Rural Municipality-4",
+   "id": 95145,
+   "title": "Landslide at Bhaktapur Municipality-9",
    "wards": [
-    3464
+    2406
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     84.0621737780921,
-     27.6873921782637
+     85.44123,
+     27.67418
     ]
    },
-   "createdOn": "2026-09-28T10:17:04.501024+05:45",
-   "modifiedOn": "2026-09-28T10:17:04.501031+05:45",
-   "titleNe": "गण्डकी, नवलपरासी (बर्दघाट सुस्ता पूर्व), हुप्सेकोट-४ मा बाढी",
+   "createdOn": "2026-09-27T18:45:04.293936+05:45",
+   "modifiedOn": "2026-09-27T18:45:04.293945+05:45",
+   "titleNe": "बाग्मती, भक्तपुर, भक्तपुर-९ मा पहिरो",
    "description": null,
    "cause": null,
    "verified": true,
@@ -5494,208 +5758,18 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-28T09:53:38+05:45",
-   "streetAddress": "Botetole",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91283,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 11,
-   "loss": 484440,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95112,
-   "title": "Heavy Rainfall at Jitpur Simara Submetropolitan City-17",
-   "wards": [
-    6677
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.06984,
-     27.10642
-    ]
-   },
-   "createdOn": "2026-09-27T18:01:05.156894+05:45",
-   "modifiedOn": "2026-09-27T18:01:05.156901+05:45",
-   "titleNe": "मधेश, बारा, जीतपुर सिमरा-१७ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T17:37:51+05:45",
+   "reportedOn": "2026-09-27T18:34:12+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91111,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 483283,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95280,
-   "title": "Heavy Rainfall at Alital Rural Municipality-3",
-   "wards": [
-    6587
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     80.48616,
-     29.20864
-    ]
-   },
-   "createdOn": "2026-09-28T10:33:04.518819+05:45",
-   "modifiedOn": "2026-09-28T10:33:04.518830+05:45",
-   "titleNe": "सुदुरपश्चिम, डडेल्धुरा, आलिताल-३ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-28T10:21:23+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91310,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 484458,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95153,
-   "title": "Heavy Rainfall at Brindaban Municipality-6",
-   "wards": [
-    4067
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.33443,
-     26.98914
-    ]
-   },
-   "createdOn": "2026-09-27T18:45:04.628510+05:45",
-   "modifiedOn": "2026-09-27T18:45:04.628519+05:45",
-   "titleNe": "मधेश, रौतहट, बृन्दावन-६ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T18:30:09+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91190,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 483376,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95158,
-   "title": "Heavy Rainfall at Bhanu Municipality-13",
-   "wards": [
-    2525
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.33843659,
-     28.07345983
-    ]
-   },
-   "createdOn": "2026-09-27T18:45:04.873178+05:45",
-   "modifiedOn": "2026-09-27T18:45:04.873194+05:45",
-   "titleNe": "गण्डकी, तनहुँ, भानु-१३ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T18:27:15+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91185,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 483389,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95291,
-   "title": "Landslide at Missi, Lo Ghekar Damodarkunda Rural Municipality-5",
-   "wards": [
-    5092
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.86811,
-     28.9548
-    ]
-   },
-   "createdOn": "2026-09-28T10:33:05.034862+05:45",
-   "modifiedOn": "2026-09-28T10:33:05.034876+05:45",
-   "titleNe": "गण्डकी, मुस्ताङ्ग, लो-घेकर दामोदरकुण्ड-५ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-28T10:13:28+05:45",
-   "streetAddress": "Missi",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91299,
+   "dataSourceId": 91198,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 484469,
+   "loss": 483366,
    "createdBy": null,
    "updatedBy": null
   },
@@ -5738,21 +5812,21 @@
    "updatedBy": null
   },
   {
-   "id": 95113,
-   "title": "Flood at Barbardiya Municipality-7",
+   "id": 95276,
+   "title": "Flood at Botetole, Hupsekot Rural Municipality-4",
    "wards": [
-    4846
+    3464
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     81.41147,
-     28.36918
+     84.0621737780921,
+     27.6873921782637
     ]
    },
-   "createdOn": "2026-09-27T18:01:05.197552+05:45",
-   "modifiedOn": "2026-09-27T18:01:05.197559+05:45",
-   "titleNe": "लुम्बिनी, बर्दिया, बारबर्दिया-७ मा बाढी",
+   "createdOn": "2026-09-28T10:17:04.501024+05:45",
+   "modifiedOn": "2026-09-28T10:17:04.501031+05:45",
+   "titleNe": "गण्डकी, नवलपरासी (बर्दघाट सुस्ता पूर्व), हुप्सेकोट-४ मा बाढी",
    "description": null,
    "cause": null,
    "verified": true,
@@ -5760,37 +5834,37 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T17:37:22+05:45",
-   "streetAddress": "",
+   "reportedOn": "2026-09-28T09:53:38+05:45",
+   "streetAddress": "Botetole",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91110,
+   "dataSourceId": 91283,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
    "hazard": 11,
-   "loss": 483284,
+   "loss": 484440,
    "createdBy": null,
    "updatedBy": null
   },
   {
-   "id": 95281,
-   "title": "Heavy Rainfall at Rapti Sonari Rural Municipality-2",
+   "id": 95151,
+   "title": "Landslide at Sharada Municipality-9",
    "wards": [
-    2164
+    1591
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     81.84765,
-     28.09534
+     82.09154,
+     28.4
     ]
    },
-   "createdOn": "2026-09-28T10:33:04.566507+05:45",
-   "modifiedOn": "2026-09-28T10:33:04.566517+05:45",
-   "titleNe": "लुम्बिनी, बाँके, राप्ती सोनारी-२ मा भारीवर्षा",
+   "createdOn": "2026-09-27T18:45:04.547460+05:45",
+   "modifiedOn": "2026-09-27T18:45:04.547468+05:45",
+   "titleNe": "कर्णाली, सल्यान, शारदा-९ मा पहिरो",
    "description": null,
    "cause": null,
    "verified": true,
@@ -5798,18 +5872,246 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-28T10:20:03+05:45",
+   "reportedOn": "2026-09-27T18:31:30+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91309,
+   "dataSourceId": 91192,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 483372,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95082,
+   "title": "Heavy Rainfall at Machhapuchchhre Rural Municipality-2",
+   "wards": [
+    3895
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     83.99007,
+     28.34628
+    ]
+   },
+   "createdOn": "2026-09-27T17:33:04.716012+05:45",
+   "modifiedOn": "2026-09-27T17:33:04.716021+05:45",
+   "titleNe": "गण्डकी, कास्की, माछापुच्छ्रे-२ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-27T00:00:00+05:45",
+   "reportedOn": "2026-09-27T17:13:18+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91086,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
    "hazard": 14,
-   "loss": 484459,
+   "loss": 483237,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95158,
+   "title": "Heavy Rainfall at Bhanu Municipality-13",
+   "wards": [
+    2525
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.33843659,
+     28.07345983
+    ]
+   },
+   "createdOn": "2026-09-27T18:45:04.873178+05:45",
+   "modifiedOn": "2026-09-27T18:45:04.873194+05:45",
+   "titleNe": "गण्डकी, तनहुँ, भानु-१३ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-27T00:00:00+05:45",
+   "reportedOn": "2026-09-27T18:27:15+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91185,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 483389,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95094,
+   "title": "Heavy Rainfall at Buddhabhumi Municipality-8",
+   "wards": [
+    2060
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     82.96838,
+     27.62682
+    ]
+   },
+   "createdOn": "2026-09-27T17:45:04.303120+05:45",
+   "modifiedOn": "2026-09-27T17:45:04.303131+05:45",
+   "titleNe": "लुम्बिनी, कपिलवस्तु, बुद्धभूमि-८ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-27T00:00:00+05:45",
+   "reportedOn": "2026-09-27T17:29:23+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91099,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 483253,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95056,
+   "title": "Landslide at Rainas Municipality-8",
+   "wards": [
+    1011
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.45250715,
+     28.11432868
+    ]
+   },
+   "createdOn": "2026-09-27T16:45:04.288762+05:45",
+   "modifiedOn": "2026-09-27T16:45:04.288773+05:45",
+   "titleNe": "गण्डकी, लमजुङ्ग, राइनास-८ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-27T00:00:00+05:45",
+   "reportedOn": "2026-09-27T16:19:27+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91064,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 483190,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95146,
+   "title": "Landslide at Kamalbazar Municipality-7",
+   "wards": [
+    2600
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     81.30663,
+     29.06417
+    ]
+   },
+   "createdOn": "2026-09-27T18:45:04.329960+05:45",
+   "modifiedOn": "2026-09-27T18:45:04.329969+05:45",
+   "titleNe": "सुदुरपश्चिम, अछाम, कमलबजार-७ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-27T00:00:00+05:45",
+   "reportedOn": "2026-09-27T18:33:37+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91197,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 483367,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95280,
+   "title": "Heavy Rainfall at Alital Rural Municipality-3",
+   "wards": [
+    6587
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     80.48616,
+     29.20864
+    ]
+   },
+   "createdOn": "2026-09-28T10:33:04.518819+05:45",
+   "modifiedOn": "2026-09-28T10:33:04.518830+05:45",
+   "titleNe": "सुदुरपश्चिम, डडेल्धुरा, आलिताल-३ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-09-27T00:00:00+05:45",
+   "reportedOn": "2026-09-28T10:21:23+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 91310,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 484458,
    "createdBy": null,
    "updatedBy": null
   },
@@ -5890,21 +6192,21 @@
    "updatedBy": null
   },
   {
-   "id": 95148,
-   "title": "Flood at Samagau, Dharche Rural Municipality-5",
+   "id": 95088,
+   "title": "Landslide at Rhishing Rural Municipality-1",
    "wards": [
-    3363
+    2473
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     84.8101,
-     28.27345
+     84.24996,
+     27.93572
     ]
    },
-   "createdOn": "2026-09-27T18:45:04.415300+05:45",
-   "modifiedOn": "2026-09-27T18:45:04.415310+05:45",
-   "titleNe": "गण्डकी, गोरखा, धार्चे-५ मा बाढी",
+   "createdOn": "2026-09-27T17:45:04.032270+05:45",
+   "modifiedOn": "2026-09-27T17:45:04.032281+05:45",
+   "titleNe": "गण्डकी, तनहुँ, ऋषिङ्ग-१ मा पहिरो",
    "description": null,
    "cause": null,
    "verified": true,
@@ -5912,293 +6214,27 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T18:33:07+05:45",
-   "streetAddress": "Samagau",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91195,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 11,
-   "loss": 483369,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95271,
-   "title": "Flood at Devghat Rural Municipality-1",
-   "wards": [
-    2476
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.35529785,
-     27.78263524
-    ]
-   },
-   "createdOn": "2026-09-28T10:17:04.271829+05:45",
-   "modifiedOn": "2026-09-28T10:17:04.271840+05:45",
-   "titleNe": "गण्डकी, तनहुँ, देवघाट-१ मा बाढी",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-28T10:03:37+05:45",
+   "reportedOn": "2026-09-27T17:34:29+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 91288,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 11,
-   "loss": 484435,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95149,
-   "title": "Landslide at Kushma Municipality-10",
-   "wards": [
-    1323
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.69519,
-     28.20228
-    ]
-   },
-   "createdOn": "2026-09-27T18:45:04.461699+05:45",
-   "modifiedOn": "2026-09-27T18:45:04.461709+05:45",
-   "titleNe": "गण्डकी, पर्वत, कुश्मा-१० मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T18:32:11+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91194,
+   "dataSourceId": 91105,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
    "hazard": 17,
-   "loss": 483370,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95055,
-   "title": "Heavy Rainfall at Bhirkot Municipality-8",
-   "wards": [
-    3045
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.73811,
-     28.05026
-    ]
-   },
-   "createdOn": "2026-09-27T16:45:04.240114+05:45",
-   "modifiedOn": "2026-09-27T16:45:04.240126+05:45",
-   "titleNe": "गण्डकी, स्याङ्गजा, भीरकोट-८ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T16:19:30+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91065,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 483187,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95268,
-   "title": "Flood at Madhyabindu Municipality-15",
-   "wards": [
-    3534
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.98797629,
-     27.59314518
-    ]
-   },
-   "createdOn": "2026-09-28T10:17:04.137450+05:45",
-   "modifiedOn": "2026-09-28T10:17:04.137459+05:45",
-   "titleNe": "गण्डकी, नवलपरासी (बर्दघाट सुस्ता पूर्व), मध्यविन्दु-१५ मा बाढी",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-28T10:05:59+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91291,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 11,
-   "loss": 484432,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95272,
-   "title": "Flood at Saligram, Kushma Municipality-10",
-   "wards": [
-    1323
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.69519,
-     28.20228
-    ]
-   },
-   "createdOn": "2026-09-28T10:17:04.317952+05:45",
-   "modifiedOn": "2026-09-28T10:17:04.317960+05:45",
-   "titleNe": "गण्डकी, पर्वत, कुश्मा-१० मा बाढी",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-28T10:02:05+05:45",
-   "streetAddress": "Saligram",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91287,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 11,
-   "loss": 484436,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95108,
-   "title": "Landslide at Pokhara Metropolitan City-33",
-   "wards": [
-    3921
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.04795574,
-     28.11930319
-    ]
-   },
-   "createdOn": "2026-09-27T18:01:04.990828+05:45",
-   "modifiedOn": "2026-09-27T18:01:04.990835+05:45",
-   "titleNe": "गण्डकी, कास्की, पोखरा-३३ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T17:40:38+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91115,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 483279,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95056,
-   "title": "Landslide at Rainas Municipality-8",
-   "wards": [
-    1011
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.45250715,
-     28.11432868
-    ]
-   },
-   "createdOn": "2026-09-27T16:45:04.288762+05:45",
-   "modifiedOn": "2026-09-27T16:45:04.288773+05:45",
-   "titleNe": "गण्डकी, लमजुङ्ग, राइनास-८ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-09-27T00:00:00+05:45",
-   "reportedOn": "2026-09-27T16:19:27+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 91064,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 483190,
+   "loss": 483243,
    "createdBy": null,
    "updatedBy": null
   }
  ],
  "rivers": [
   {
-   "id": 25854122,
-   "createdOn": "2026-10-11T04:05:09.524133+05:45",
-   "modifiedOn": "2026-10-11T04:05:09.524135+05:45",
+   "id": 25856308,
+   "createdOn": "2026-10-11T06:45:11.439660+05:45",
+   "modifiedOn": "2026-10-11T06:45:11.439663+05:45",
    "title": "Trishuli at Galchi",
    "basin": "Narayani",
    "point": {
@@ -6208,11 +6244,11 @@
      27.802328
     ]
    },
-   "waterLevel": 359.888122559,
+   "waterLevel": 359.901794434,
    "image": "http://daq.hydrology.gov.np/images/96917ebb6f5c49a5673ea38a1b4fa8e0",
    "dangerLevel": null,
    "warningLevel": 367,
-   "waterLevelOn": "2026-10-11T04:00:00+05:45",
+   "waterLevelOn": "2026-10-11T06:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 378,
    "steady": "STEADY",
@@ -6227,9 +6263,9 @@
    "station": 281
   },
   {
-   "id": 25854121,
-   "createdOn": "2026-10-11T04:05:09.524095+05:45",
-   "modifiedOn": "2026-10-11T04:05:09.524097+05:45",
+   "id": 25856307,
+   "createdOn": "2026-10-11T06:45:11.439619+05:45",
+   "modifiedOn": "2026-10-11T06:45:11.439622+05:45",
    "title": "Trishuli River at Kali Khola",
    "basin": "Narayani",
    "point": {
@@ -6239,14 +6275,14 @@
      27.833
     ]
    },
-   "waterLevel": 4.12999916077,
+   "waterLevel": 3.87599945068,
    "image": "http://daq.hydrology.gov.np/images/364ef9a4cae0f2a57b48d88b42f579ff",
    "dangerLevel": 12.1,
    "warningLevel": 10.8,
-   "waterLevelOn": "2026-10-11T04:00:00+05:45",
+   "waterLevelOn": "2026-10-11T06:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 250,
-   "steady": "RISING",
+   "steady": "STEADY",
    "description": "MHS",
    "stationSeriesId": 19583,
    "dataSource": "hydrology.gov.np",
@@ -6258,9 +6294,40 @@
    "station": 67
   },
   {
-   "id": 25854114,
-   "createdOn": "2026-10-11T04:05:09.523711+05:45",
-   "modifiedOn": "2026-10-11T04:05:09.523713+05:45",
+   "id": 25856306,
+   "createdOn": "2026-10-11T06:45:11.439565+05:45",
+   "modifiedOn": "2026-10-11T06:45:11.439567+05:45",
+   "title": "Trishuli River at Bhorle",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.45,
+     27.82
+    ]
+   },
+   "waterLevel": 3.37100028992,
+   "image": "http://daq.hydrology.gov.np/images/73368683a6f7de9fb9558110f86350e9",
+   "dangerLevel": null,
+   "warningLevel": 9.5,
+   "waterLevelOn": "2026-10-11T06:40:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": 200,
+   "steady": "FALLING",
+   "description": "RLS with CDCP",
+   "stationSeriesId": 19401,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 2259,
+   "municipality": 35001,
+   "district": 35,
+   "province": 3,
+   "station": 35
+  },
+  {
+   "id": 25856300,
+   "createdOn": "2026-10-11T06:45:11.439329+05:45",
+   "modifiedOn": "2026-10-11T06:45:11.439332+05:45",
    "title": "Tadi Khola at Rautar",
    "basin": "Narayani",
    "point": {
@@ -6270,11 +6337,11 @@
      27.918694
     ]
    },
-   "waterLevel": 0.543800354004,
+   "waterLevel": 0.57050037384,
    "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
    "dangerLevel": null,
    "warningLevel": 3.5,
-   "waterLevelOn": "2026-10-11T04:00:00+05:45",
+   "waterLevelOn": "2026-10-11T06:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -6289,9 +6356,9 @@
    "station": 65
   },
   {
-   "id": 25854083,
-   "createdOn": "2026-10-11T04:05:09.522474+05:45",
-   "modifiedOn": "2026-10-11T04:05:09.522477+05:45",
+   "id": 25856273,
+   "createdOn": "2026-10-11T06:45:11.438092+05:45",
+   "modifiedOn": "2026-10-11T06:45:11.438094+05:45",
    "title": "Narayani at Devghat",
    "basin": "Narayani",
    "point": {
@@ -6301,11 +6368,11 @@
      27.71
     ]
    },
-   "waterLevel": 3.92700004578,
+   "waterLevel": 3.99800014496,
    "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
    "dangerLevel": 9,
    "warningLevel": 7.3,
-   "waterLevelOn": "2026-10-11T03:40:00+05:45",
+   "waterLevelOn": "2026-10-11T06:20:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -6320,9 +6387,40 @@
    "station": 25
   },
   {
-   "id": 25854071,
-   "createdOn": "2026-10-11T04:05:09.522010+05:45",
-   "modifiedOn": "2026-10-11T04:05:09.522012+05:45",
+   "id": 25856162,
+   "createdOn": "2026-10-11T06:35:09.770547+05:45",
+   "modifiedOn": "2026-10-11T06:35:09.770549+05:45",
+   "title": "Tadi at Belkot",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.134943,
+     27.860094
+    ]
+   },
+   "waterLevel": 1.82100009918,
+   "image": "http://daq.hydrology.gov.np/images/325da877378a7511354dba39e151ea7c",
+   "dangerLevel": 5.5,
+   "warningLevel": 4.5,
+   "waterLevelOn": "2026-10-11T06:20:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": null,
+   "steady": "STEADY",
+   "description": "Hydrological & Discharge Measurement Station",
+   "stationSeriesId": 1082,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 3702,
+   "municipality": 28001,
+   "district": 25,
+   "province": 3,
+   "station": 135
+  },
+  {
+   "id": 25856117,
+   "createdOn": "2026-10-11T06:35:09.768793+05:45",
+   "modifiedOn": "2026-10-11T06:35:09.768795+05:45",
    "title": "Manahari Khola at Manahari",
    "basin": "Narayani",
    "point": {
@@ -6332,11 +6430,11 @@
      27.548673
     ]
    },
-   "waterLevel": 1.14899921417,
+   "waterLevel": 1.1609992981,
    "image": "http://daq.hydrology.gov.np/images/dda94e5a1fe05535b24b7907976c7efe",
    "dangerLevel": null,
    "warningLevel": 4.3,
-   "waterLevelOn": "2026-10-11T04:00:00+05:45",
+   "waterLevelOn": "2026-10-11T06:30:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 305,
    "steady": "STEADY",
@@ -6351,9 +6449,9 @@
    "station": 116
   },
   {
-   "id": 25854065,
-   "createdOn": "2026-10-11T04:05:09.521773+05:45",
-   "modifiedOn": "2026-10-11T04:05:09.521775+05:45",
+   "id": 25856109,
+   "createdOn": "2026-10-11T06:35:09.768453+05:45",
+   "modifiedOn": "2026-10-11T06:35:09.768455+05:45",
    "title": "Lothar Khola at Lothar",
    "basin": "Narayani",
    "point": {
@@ -6367,7 +6465,7 @@
    "image": "http://daq.hydrology.gov.np/images/93f6c4e346f0c03f64410c51ac9f71a0",
    "dangerLevel": 7,
    "warningLevel": 6.5,
-   "waterLevelOn": "2026-10-11T03:50:00+05:45",
+   "waterLevelOn": "2026-10-11T06:30:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 207,
    "steady": "STEADY",
@@ -6382,71 +6480,9 @@
    "station": 16
   },
   {
-   "id": 25853987,
-   "createdOn": "2026-10-11T03:55:09.293484+05:45",
-   "modifiedOn": "2026-10-11T03:55:09.293486+05:45",
-   "title": "Trishuli River at Bhorle",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.45,
-     27.82
-    ]
-   },
-   "waterLevel": 3.47000026703,
-   "image": "http://daq.hydrology.gov.np/images/73368683a6f7de9fb9558110f86350e9",
-   "dangerLevel": null,
-   "warningLevel": 9.5,
-   "waterLevelOn": "2026-10-11T03:50:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": 200,
-   "steady": "STEADY",
-   "description": "RLS with CDCP",
-   "stationSeriesId": 19401,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 2259,
-   "municipality": 35001,
-   "district": 35,
-   "province": 3,
-   "station": 35
-  },
-  {
-   "id": 25853981,
-   "createdOn": "2026-10-11T03:55:09.293250+05:45",
-   "modifiedOn": "2026-10-11T03:55:09.293252+05:45",
-   "title": "Tadi at Belkot",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.134943,
-     27.860094
-    ]
-   },
-   "waterLevel": 1.82599925995,
-   "image": "http://daq.hydrology.gov.np/images/325da877378a7511354dba39e151ea7c",
-   "dangerLevel": 5.5,
-   "warningLevel": 4.5,
-   "waterLevelOn": "2026-10-11T03:40:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "RISING",
-   "description": "Hydrological & Discharge Measurement Station",
-   "stationSeriesId": 1082,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 3702,
-   "municipality": 28001,
-   "district": 25,
-   "province": 3,
-   "station": 135
-  },
-  {
-   "id": 25853912,
-   "createdOn": "2026-10-11T03:55:09.290401+05:45",
-   "modifiedOn": "2026-10-11T03:55:09.290403+05:45",
+   "id": 25856046,
+   "createdOn": "2026-10-11T06:35:09.765910+05:45",
+   "modifiedOn": "2026-10-11T06:35:09.765912+05:45",
    "title": "Budhi Gandaki at Aarughat",
    "basin": "Narayani",
    "point": {
@@ -6456,11 +6492,11 @@
      28.046
     ]
    },
-   "waterLevel": 2.34709978104,
+   "waterLevel": 2.27680015564,
    "image": "http://daq.hydrology.gov.np/images/a5d962039af199e304760d743ab51419",
    "dangerLevel": 5,
    "warningLevel": 4.5,
-   "waterLevelOn": "2026-10-11T03:40:00+05:45",
+   "waterLevelOn": "2026-10-11T06:20:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "FALLING",
@@ -6477,35 +6513,35 @@
  ],
  "alerts": [
   {
-   "id": 46329,
-   "title": "Pollution Alert at Lumbini Sanskritik Development Area-99, Rupandehi",
+   "id": 46330,
+   "title": "Pollution Alert at Rapti-3, Dang",
    "wards": [
-    4237
+    4012
    ],
    "affectedDemography": {
-    "maleCount": 429030,
-    "femaleCount": 439878,
-    "householdCount": 146134
+    "maleCount": 326776,
+    "femaleCount": 355217,
+    "householdCount": 136679
    },
    "point": {
     "type": "Point",
     "coordinates": [
-     83.282186,
-     27.50359
+     82.716154,
+     27.845004
     ]
    },
-   "createdOn": "2026-10-11T04:09:04.767829+05:45",
-   "titleNe": "लुम्बिनी  सांस्कृतिक विकास क्षेत्र-९९, रुपन्देहीमा वातावरणीय प्रदुषण",
+   "createdOn": "2026-10-11T06:09:03.858042+05:45",
+   "titleNe": "राप्ती-३, दाङमा वातावरणीय प्रदुषण",
    "source": "doe",
    "description": "AQI value is greater than 150",
    "verified": true,
    "public": true,
-   "startedOn": "2026-10-11T03:45:00.010000+05:45",
+   "startedOn": "2026-10-11T05:41:00.010000+05:45",
    "expireOn": null,
    "polygon": null,
    "referenceType": "pollution",
-   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Lumbini\", \"identifier\": \"LUMBINI\", \"date_time\": \"2026-10-11T03:45:00.010+05:45\", \"aqi_color\": \"#FF0000\", \"aqi\": 154.0, \"observation\": [{\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": 137, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 68.3000030518, \"datetime\": \"2026-10-10T22:00:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 134, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 61.5, \"datetime\": \"2026-10-10T22:00:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 140, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}], \"images\": \"[\\\"http://pollution.gov.np:8000/images/5a856d097d2d6ed3827e7975a3d28efa\\\"]\", \"point\": \"SRID=4326;POINT (83.282186 27.50359)\", \"elevation\": 97.0, \"description\": \"Air quality index at Lumbini is 154. An alert is created for pollution in Lumbini\", \"ward\": 4237, \"municipality\": 49099, \"district\": 37, \"province\": 5, \"station\": 26}}",
-   "referenceId": 6,
+   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Deukhuri, Dang\", \"identifier\": \"10000150\", \"date_time\": \"2026-10-11T05:41:00.010+05:45\", \"aqi_color\": \"#FF0000\", \"aqi\": 158.0, \"observation\": [{\"data\": {\"value\": 51.4000015259, \"datetime\": \"2026-10-10T23:56:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 2728, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 74.1999969482, \"datetime\": \"2026-10-10T23:56:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 2727, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 68.9000015259, \"datetime\": \"2026-10-10T23:56:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 2729, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}, {\"id\": 14, \"name\": \"Warranty\", \"description\": \"Stations under warranty\"}, {\"id\": 16, \"name\": \"2024\", \"description\": \"Stations Installed in 2024\"}, {\"id\": 17, \"name\": \"LiFePo4\", \"description\": \"Stations with new Lifepo4 setup\"}, {\"id\": 18, \"name\": \"Sim_Recharge\", \"description\": \"Statins where rts needs to recharge\"}], \"images\": \"[]\", \"point\": \"SRID=4326;POINT (82.716154 27.845004)\", \"elevation\": null, \"description\": \"Air quality index at Deukhuri, Dang is 158. An alert is created for pollution in Deukhuri, Dang\", \"ward\": 4012, \"municipality\": 56008, \"district\": 52, \"province\": 5, \"station\": 30}}",
+   "referenceId": 150,
    "region": null,
    "regionId": null,
    "createdBy": null,
@@ -10919,17 +10955,17 @@
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "source": "अनलाइनखबर",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "source": "सेतोपाटी",
@@ -10938,13 +10974,13 @@
   },
   {
    "source": "Khabarhub (English)",
-   "ok": true,
+   "ok": false,
    "count": 0
   },
   {
    "source": "The Kathmandu Post",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "source": "incidents",
