@@ -1,23 +1,41 @@
 {
- "generatedAt": "2026-10-16T09:40:25.608Z",
+ "generatedAt": "2026-10-16T14:13:11.249Z",
  "news": [
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "बाढीपीडितलाई मासिक १५ हजार राहत दिने सरकारको निर्णय",
-   "link": "https://nagariknews.nagariknetwork.com/politics/government-decides-to-provide-rs-15-000-monthly-relief-to-flood-victims-79-33.html",
-   "date": "Fri, 16 Oct 2026 15:19:04 +0545",
-   "ts": 1792143244000
-  },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
    "site": "https://www.ratopati.com",
-   "title": "न्यूजिल्याण्ड नेपाल सोसाइटीद्वारा प्रधानमन्त्री राहत कोषमा रु. १ करोड २६ लाखभन्दा बढी सहयोग",
-   "link": "https://www.ratopati.com/story/600059/new-zealand-nepal-society-donates-over-rs-126-million-to-prime-ministers-relief-fund",
-   "date": "Fri, 16 Oct 2026 09:17:54 +0000",
-   "ts": 1792142274000
+   "title": "विपद् जोखिम थाहा छ, तयारी कहाँ छ ?",
+   "link": "https://www.ratopati.com/story/600131/we-know-the-disaster-risk-but-where-is-the-preparation",
+   "date": "Fri, 16 Oct 2026 14:07:23 +0000",
+   "ts": 1792159643000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "बाढी प्रभावित ६७ बालबालिकाका लागि ललितपुरमा आवासीय विद्यालय खोलिँदै",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/residential-school-opening-in-lalitpur-for-67-flood-affected-children-66-10.html",
+   "date": "Fri, 16 Oct 2026 17:25:20 +0545",
+   "ts": 1792150820000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "विपद्को छायामा दशैँ, तिनकुनेमा लिङ्गे पिङको रौनक",
+   "link": "https://nagariknews.nagariknetwork.com/photo-feature/dashain-in-the-shadow-of-disaster-the-splendor-of-the-linga-ping-festival-in-tinkune-20-17.html",
+   "date": "Fri, 16 Oct 2026 17:04:12 +0545",
+   "ts": 1792149552000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "अलाबामास्थित नेपाली समुदायद्वारा बाढी प्रभावितलाई ५० हजार डलर सहयोग",
+   "link": "https://www.onlinekhabar.com/2026/10/2040356/nepali-community-in-alabama-donates-50000-to-flood-victims",
+   "date": "Fri, 16 Oct 2026 09:36:25 +0000",
+   "ts": 1792143385000
   },
   {
    "source": "अनलाइनखबर",
@@ -27,42 +45,6 @@
    "link": "https://www.onlinekhabar.com/2026/10/2040154/bike-ambulance-in-kathmandu-to-rescue-patients-in-narrow-streets-and-traffic-jams",
    "date": "Fri, 16 Oct 2026 09:14:49 +0000",
    "ts": 1792142089000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "होल्डिङ सेन्टरमा नबस्ने बाढीपीडितलाई प्रतिपरिवार मासिक १५ हजार दिने",
-   "link": "https://www.ratopati.com/story/600050/flood-victims-not-living-in-holding-centers-will-be-given-rs-15000-per-month-per-family",
-   "date": "Fri, 16 Oct 2026 08:44:05 +0000",
-   "ts": 1792140245000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "काठमाडौंमा बाइक एम्बुलेन्स सेवा सुरु, साँघुरा गल्लीमा छिटो उद्धार गरिने",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/bike-ambulance-service-launched-in-kathmandu-will-provide-quick-rescue-in-sanghura-gali-16-70.html",
-   "date": "Fri, 16 Oct 2026 14:23:04 +0545",
-   "ts": 1792139884000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "गोरखा, बाग्लुङ र धादिङका बाढी प्रभावित स्थानीय तहलाई विपद् संकटग्रस्त क्षेत्र घोषणा",
-   "link": "https://www.onlinekhabar.com/2026/10/2040310/flood-affected-local-levels-of-gorkha-baglung-and-dhading-declared-disaster-affected-areas",
-   "date": "Fri, 16 Oct 2026 08:34:16 +0000",
-   "ts": 1792139656000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "बाढीमा बेपत्ता कर्मचारीका परिवारलाई रसुवागढी हाइड्रोले दियो ५ लाख रुपैयाँ राहत",
-   "link": "https://www.onlinekhabar.com/2026/10/2040190/rasuwagadhi-hydro-provides-rs-500000-relief-to-families-of-employees-missing-in-floods",
-   "date": "Fri, 16 Oct 2026 05:51:47 +0000",
-   "ts": 1792129907000
   },
   {
    "source": "The Kathmandu Post",
@@ -97,33 +79,6 @@
    "site": "https://kathmandupost.com",
    "title": "Contractor builds 268-metre suspension bridge in a month after floods cut off communities",
    "link": "https://kathmandupost.com/national/2026/10/15/contractor-builds-268-metre-suspension-bridge-in-a-month-after-floods-cut-off-communities",
-   "date": "",
-   "ts": 0
-  },
-  {
-   "source": "The Kathmandu Post",
-   "sourceId": "kathmandupost",
-   "site": "https://kathmandupost.com",
-   "title": "Disaster, royalty and revolution: What makes Nepal newsworthy?",
-   "link": "https://kathmandupost.com/columns/2026/10/14/disaster-royalty-and-revolution-what-makes-nepal-newsworthy",
-   "date": "",
-   "ts": 0
-  },
-  {
-   "source": "The Kathmandu Post",
-   "sourceId": "kathmandupost",
-   "site": "https://kathmandupost.com",
-   "title": "Father cannot afford last rites for son missing in Bhotekoshi floods",
-   "link": "https://kathmandupost.com/national/2026/10/14/father-cannot-afford-last-rites-for-son-missing-in-bhotekoshi-floods",
-   "date": "",
-   "ts": 0
-  },
-  {
-   "source": "The Kathmandu Post",
-   "sourceId": "kathmandupost",
-   "site": "https://kathmandupost.com",
-   "title": "Makawanpur begins process to declare 58 missing people dead",
-   "link": "https://kathmandupost.com/national/2026/10/14/makawanpur-begins-process-to-declare-58-missing-people-dead",
    "date": "",
    "ts": 0
   }
@@ -3552,9 +3507,9 @@
  ],
  "rivers": [
   {
-   "id": 25964669,
-   "createdOn": "2026-10-16T15:25:10.070473+05:45",
-   "modifiedOn": "2026-10-16T15:25:10.070475+05:45",
+   "id": 25968281,
+   "createdOn": "2026-10-16T19:55:09.787359+05:45",
+   "modifiedOn": "2026-10-16T19:55:09.787362+05:45",
    "title": "Trishuli at Galchi",
    "basin": "Narayani",
    "point": {
@@ -3564,11 +3519,11 @@
      27.802328
     ]
    },
-   "waterLevel": 359.790893555,
+   "waterLevel": 359.846893311,
    "image": "http://daq.hydrology.gov.np/images/96917ebb6f5c49a5673ea38a1b4fa8e0",
    "dangerLevel": null,
    "warningLevel": 367,
-   "waterLevelOn": "2026-10-16T15:20:00+05:45",
+   "waterLevelOn": "2026-10-16T19:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 378,
    "steady": "RISING",
@@ -3583,9 +3538,9 @@
    "station": 281
   },
   {
-   "id": 25964668,
-   "createdOn": "2026-10-16T15:25:10.070434+05:45",
-   "modifiedOn": "2026-10-16T15:25:10.070436+05:45",
+   "id": 25968280,
+   "createdOn": "2026-10-16T19:55:09.787319+05:45",
+   "modifiedOn": "2026-10-16T19:55:09.787323+05:45",
    "title": "Trishuli River at Kali Khola",
    "basin": "Narayani",
    "point": {
@@ -3595,11 +3550,11 @@
      27.833
     ]
    },
-   "waterLevel": 3.66199874878,
+   "waterLevel": 3.58299827576,
    "image": "http://daq.hydrology.gov.np/images/364ef9a4cae0f2a57b48d88b42f579ff",
    "dangerLevel": 12.1,
    "warningLevel": 10.8,
-   "waterLevelOn": "2026-10-16T15:20:00+05:45",
+   "waterLevelOn": "2026-10-16T19:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 250,
    "steady": "STEADY",
@@ -3614,9 +3569,9 @@
    "station": 67
   },
   {
-   "id": 25964667,
-   "createdOn": "2026-10-16T15:25:10.070394+05:45",
-   "modifiedOn": "2026-10-16T15:25:10.070397+05:45",
+   "id": 25968279,
+   "createdOn": "2026-10-16T19:55:09.787282+05:45",
+   "modifiedOn": "2026-10-16T19:55:09.787284+05:45",
    "title": "Trishuli River at Bhorle",
    "basin": "Narayani",
    "point": {
@@ -3626,11 +3581,11 @@
      27.82
     ]
    },
-   "waterLevel": 3.01000022888,
+   "waterLevel": 3.00199985504,
    "image": "http://daq.hydrology.gov.np/images/73368683a6f7de9fb9558110f86350e9",
    "dangerLevel": null,
    "warningLevel": 9.5,
-   "waterLevelOn": "2026-10-16T15:20:00+05:45",
+   "waterLevelOn": "2026-10-16T19:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 200,
    "steady": "STEADY",
@@ -3645,40 +3600,9 @@
    "station": 35
   },
   {
-   "id": 25964659,
-   "createdOn": "2026-10-16T15:25:10.070090+05:45",
-   "modifiedOn": "2026-10-16T15:25:10.070092+05:45",
-   "title": "Tadi Khola at Rautar",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.311554,
-     27.918694
-    ]
-   },
-   "waterLevel": 0.42710018158,
-   "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
-   "dangerLevel": null,
-   "warningLevel": 3.5,
-   "waterLevelOn": "2026-10-16T15:20:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "Hydrological station with CDCP",
-   "stationSeriesId": 19587,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 3664,
-   "municipality": 28011,
-   "district": 25,
-   "province": 3,
-   "station": 65
-  },
-  {
-   "id": 25964658,
-   "createdOn": "2026-10-16T15:25:10.070052+05:45",
-   "modifiedOn": "2026-10-16T15:25:10.070054+05:45",
+   "id": 25968272,
+   "createdOn": "2026-10-16T19:55:09.787010+05:45",
+   "modifiedOn": "2026-10-16T19:55:09.787013+05:45",
    "title": "Tadi at Belkot",
    "basin": "Narayani",
    "point": {
@@ -3688,11 +3612,11 @@
      27.860094
     ]
    },
-   "waterLevel": 1.69499969482,
+   "waterLevel": 1.6890001297,
    "image": "http://daq.hydrology.gov.np/images/325da877378a7511354dba39e151ea7c",
    "dangerLevel": 5.5,
    "warningLevel": 4.5,
-   "waterLevelOn": "2026-10-16T15:10:00+05:45",
+   "waterLevelOn": "2026-10-16T19:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -3707,9 +3631,40 @@
    "station": 135
   },
   {
-   "id": 25964622,
-   "createdOn": "2026-10-16T15:25:10.068635+05:45",
-   "modifiedOn": "2026-10-16T15:25:10.068637+05:45",
+   "id": 25968271,
+   "createdOn": "2026-10-16T19:55:09.786963+05:45",
+   "modifiedOn": "2026-10-16T19:55:09.786965+05:45",
+   "title": "Tadi Khola at Rautar",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.311554,
+     27.918694
+    ]
+   },
+   "waterLevel": 0.408900260925,
+   "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
+   "dangerLevel": null,
+   "warningLevel": 3.5,
+   "waterLevelOn": "2026-10-16T19:50:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": null,
+   "steady": "STEADY",
+   "description": "Hydrological station with CDCP",
+   "stationSeriesId": 19587,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 3664,
+   "municipality": 28011,
+   "district": 25,
+   "province": 3,
+   "station": 65
+  },
+  {
+   "id": 25968237,
+   "createdOn": "2026-10-16T19:55:09.785500+05:45",
+   "modifiedOn": "2026-10-16T19:55:09.785502+05:45",
    "title": "Narayani at Devghat",
    "basin": "Narayani",
    "point": {
@@ -3719,11 +3674,11 @@
      27.71
     ]
    },
-   "waterLevel": 3.6280002594,
+   "waterLevel": 3.62699985504,
    "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
    "dangerLevel": 9,
    "warningLevel": 7.3,
-   "waterLevelOn": "2026-10-16T15:00:00+05:45",
+   "waterLevelOn": "2026-10-16T19:30:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -3738,9 +3693,9 @@
    "station": 25
   },
   {
-   "id": 25964611,
-   "createdOn": "2026-10-16T15:25:10.068044+05:45",
-   "modifiedOn": "2026-10-16T15:25:10.068046+05:45",
+   "id": 25968226,
+   "createdOn": "2026-10-16T19:55:09.785076+05:45",
+   "modifiedOn": "2026-10-16T19:55:09.785078+05:45",
    "title": "Manahari Khola at Manahari",
    "basin": "Narayani",
    "point": {
@@ -3750,11 +3705,11 @@
      27.548673
     ]
    },
-   "waterLevel": 1.07899951935,
+   "waterLevel": 1.07399940491,
    "image": "http://daq.hydrology.gov.np/images/dda94e5a1fe05535b24b7907976c7efe",
    "dangerLevel": null,
    "warningLevel": 4.3,
-   "waterLevelOn": "2026-10-16T15:20:00+05:45",
+   "waterLevelOn": "2026-10-16T19:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 305,
    "steady": "STEADY",
@@ -3769,9 +3724,9 @@
    "station": 116
   },
   {
-   "id": 25964603,
-   "createdOn": "2026-10-16T15:25:10.067714+05:45",
-   "modifiedOn": "2026-10-16T15:25:10.067716+05:45",
+   "id": 25968220,
+   "createdOn": "2026-10-16T19:55:09.784811+05:45",
+   "modifiedOn": "2026-10-16T19:55:09.784813+05:45",
    "title": "Lothar Khola at Lothar",
    "basin": "Narayani",
    "point": {
@@ -3781,11 +3736,11 @@
      27.5877
     ]
    },
-   "waterLevel": 1.632999897,
+   "waterLevel": 1.63199996948,
    "image": "http://daq.hydrology.gov.np/images/93f6c4e346f0c03f64410c51ac9f71a0",
    "dangerLevel": 7,
    "warningLevel": 6.5,
-   "waterLevelOn": "2026-10-16T15:20:00+05:45",
+   "waterLevelOn": "2026-10-16T19:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 207,
    "steady": "STEADY",
@@ -3800,9 +3755,9 @@
    "station": 16
   },
   {
-   "id": 25964542,
-   "createdOn": "2026-10-16T15:25:10.065161+05:45",
-   "modifiedOn": "2026-10-16T15:25:10.065163+05:45",
+   "id": 25968022,
+   "createdOn": "2026-10-16T19:45:31.548724+05:45",
+   "modifiedOn": "2026-10-16T19:45:31.548727+05:45",
    "title": "Bhote Koshi at Bahrabise",
    "basin": "Koshi",
    "point": {
@@ -3812,11 +3767,11 @@
      27.786773
     ]
    },
-   "waterLevel": 0.853000640869,
+   "waterLevel": 0.867000579834,
    "image": "http://daq.hydrology.gov.np/images/1fa9f7b4833192d038492298d9a42cc7",
    "dangerLevel": 3.6,
    "warningLevel": 3.1,
-   "waterLevelOn": "2026-10-16T15:10:00+05:45",
+   "waterLevelOn": "2026-10-16T19:30:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -3832,6 +3787,117 @@
   }
  ],
  "alerts": [
+  {
+   "id": 46382,
+   "title": "Pollution Alert at Rapti-3, Dang",
+   "wards": [
+    4012
+   ],
+   "affectedDemography": {
+    "maleCount": 326776,
+    "femaleCount": 355217,
+    "householdCount": 136679
+   },
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     82.716154,
+     27.845004
+    ]
+   },
+   "createdOn": "2026-10-16T19:09:04.111291+05:45",
+   "titleNe": "राप्ती-३, दाङमा वातावरणीय प्रदुषण",
+   "source": "doe",
+   "description": "AQI value is greater than 150",
+   "verified": true,
+   "public": true,
+   "startedOn": "2026-10-16T18:42:00.010000+05:45",
+   "expireOn": null,
+   "polygon": null,
+   "referenceType": "pollution",
+   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Deukhuri, Dang\", \"identifier\": \"10000150\", \"date_time\": \"2026-10-16T18:42:00.010+05:45\", \"aqi_color\": \"#FF0000\", \"aqi\": 168.0, \"observation\": [{\"data\": {\"value\": 73.5999984741, \"datetime\": \"2026-10-16T12:57:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 2728, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 97.8000030518, \"datetime\": \"2026-10-16T12:57:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 2727, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 87.8000030518, \"datetime\": \"2026-10-16T12:57:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 2729, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}, {\"id\": 14, \"name\": \"Warranty\", \"description\": \"Stations under warranty\"}, {\"id\": 16, \"name\": \"2024\", \"description\": \"Stations Installed in 2024\"}, {\"id\": 17, \"name\": \"LiFePo4\", \"description\": \"Stations with new Lifepo4 setup\"}, {\"id\": 18, \"name\": \"Sim_Recharge\", \"description\": \"Statins where rts needs to recharge\"}], \"images\": \"[]\", \"point\": \"SRID=4326;POINT (82.716154 27.845004)\", \"elevation\": null, \"description\": \"Air quality index at Deukhuri, Dang is 168. An alert is created for pollution in Deukhuri, Dang\", \"ward\": 4012, \"municipality\": 56008, \"district\": 52, \"province\": 5, \"station\": 30}}",
+   "referenceId": 150,
+   "region": null,
+   "regionId": null,
+   "createdBy": null,
+   "updatedBy": null,
+   "hazard": 37,
+   "event": null
+  },
+  {
+   "id": 46381,
+   "title": "Pollution Alert at Dhangadhi-1, Kailali",
+   "wards": [
+    5302
+   ],
+   "affectedDemography": {
+    "maleCount": 447973,
+    "femaleCount": 486326,
+    "householdCount": 190987
+   },
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     80.5945,
+     28.704133
+    ]
+   },
+   "createdOn": "2026-10-16T19:09:04.059024+05:45",
+   "titleNe": "धनगढी-१, कैलालीमा वातावरणीय प्रदुषण",
+   "source": "doe",
+   "description": "AQI value is greater than 150",
+   "verified": true,
+   "public": true,
+   "startedOn": "2026-10-16T18:41:00.010000+05:45",
+   "expireOn": null,
+   "polygon": null,
+   "referenceType": "pollution",
+   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Dhangadhi\", \"identifier\": \"DHANGADHI_AQMS\", \"date_time\": \"2026-10-16T18:41:00.010+05:45\", \"aqi_color\": \"#FF0000\", \"aqi\": 178.0, \"observation\": [{\"data\": {\"value\": 77.5999984741, \"datetime\": \"2026-10-16T12:56:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1731, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 162.699996948, \"datetime\": \"2026-10-16T12:56:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1729, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 108.5, \"datetime\": \"2026-10-16T12:56:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1730, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}, {\"id\": 9, \"name\": \"2020\", \"description\": \"AQMS Sites installed in 2020\"}], \"images\": \"[\\\"http://pollution.gov.np:8000/images/37512af9edefedd431984c84c11aaaf2\\\", \\\"http://pollution.gov.np:8000/images/ee8b602ab1b33402708aea9906a75707\\\", \\\"http://pollution.gov.np:8000/images/8cf438eddf85cf5659aa911748232bd0\\\"]\", \"point\": \"SRID=4326;POINT (80.5945 28.704133)\", \"elevation\": 178.0, \"description\": \"Air quality index at Dhangadhi is 178. An alert is created for pollution in Dhangadhi\", \"ward\": 5302, \"municipality\": 71004, \"district\": 67, \"province\": 7, \"station\": 15}}",
+   "referenceId": 71,
+   "region": null,
+   "regionId": null,
+   "createdBy": null,
+   "updatedBy": null,
+   "hazard": 37,
+   "event": null
+  },
+  {
+   "id": 46380,
+   "title": "Pollution Alert at Damak-1, Jhapa",
+   "wards": [
+    6291
+   ],
+   "affectedDemography": {
+    "maleCount": 408730,
+    "femaleCount": 460989,
+    "householdCount": 208440
+   },
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     87.703262,
+     26.669363
+    ]
+   },
+   "createdOn": "2026-10-16T19:09:03.963929+05:45",
+   "titleNe": "दमक-१, झापामा वातावरणीय प्रदुषण",
+   "source": "doe",
+   "description": "AQI value is greater than 150",
+   "verified": true,
+   "public": true,
+   "startedOn": "2026-10-16T18:44:00.010000+05:45",
+   "expireOn": null,
+   "polygon": null,
+   "referenceType": "pollution",
+   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Damak\", \"identifier\": \"Damak,Jhapa\", \"date_time\": \"2026-10-16T18:44:00.010+05:45\", \"aqi_color\": \"#FF0000\", \"aqi\": 153.0, \"observation\": [{\"data\": {\"value\": 55.0999984741, \"datetime\": \"2026-10-16T12:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1546, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 65.0999984741, \"datetime\": \"2026-10-16T12:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1545, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 59.2999992371, \"datetime\": \"2026-10-16T12:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1547, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}, {\"id\": 10, \"name\": \"2019\", \"description\": \"Stations installed in 2019\"}], \"images\": \"[\\\"http://pollution.gov.np:8000/images/63f3e7b4d8d92281a8a7f12260753005\\\", \\\"http://pollution.gov.np:8000/images/19be0ace21ba9f0e990c12a5cadef446\\\"]\", \"point\": \"SRID=4326;POINT (87.703262 26.669363)\", \"elevation\": 136.0, \"description\": \"Air quality index at Damak is 153. An alert is created for pollution in Damak\", \"ward\": 6291, \"municipality\": 4006, \"district\": 4, \"province\": 1, \"station\": 16}}",
+   "referenceId": 58,
+   "region": null,
+   "regionId": null,
+   "createdBy": null,
+   "updatedBy": null,
+   "hazard": 37,
+   "event": null
+  },
   {
    "id": 46333,
    "title": "Flood warning at Aarughat-9, Gorkha",
@@ -8158,129 +8224,18 @@
    "updatedBy": null,
    "hazard": 11,
    "event": null
-  },
-  {
-   "id": 46100,
-   "title": "Flood warning at Tinau-2, Palpa",
-   "wards": [
-    5698
-   ],
-   "affectedDemography": {
-    "maleCount": 481185,
-    "femaleCount": 534017,
-    "householdCount": 248723
-   },
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.462251,
-     27.74381
-    ]
-   },
-   "createdOn": "2026-09-26T19:55:09.898467+05:45",
-   "titleNe": "तिनाउ-२, पाल्पामा बाढी",
-   "source": "dhm",
-   "description": "Basin:Tinau\nElevation:None\nWarning level:6.0\nWater level:6.07580041885",
-   "verified": true,
-   "public": true,
-   "startedOn": "2026-09-26T19:40:00+05:45",
-   "expireOn": "2026-09-27T12:35:04.162114+05:45",
-   "polygon": null,
-   "referenceType": "river",
-   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Tinau at Butwal\", \"basin\": \"Tinau\", \"point\": \"SRID=4326;POINT (83.462251 27.74381)\", \"water_level\": 6.57990026474, \"image\": \"http://daq.hydrology.gov.np/images/212e2618f4bdf692ff4116860c84d171\", \"danger_level\": 7.0, \"warning_level\": 6.0, \"water_level_on\": \"2026-09-26T16:35:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": null, \"steady\": \"RISING\", \"description\": \"Hydrological Station with RLS (27.74381, 83.462251)\", \"station_series_id\": 2533, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 5698, \"municipality\": 47010, \"district\": 39, \"province\": 5, \"station\": 147}}",
-   "referenceId": 174,
-   "region": null,
-   "regionId": null,
-   "createdBy": null,
-   "updatedBy": null,
-   "hazard": 11,
-   "event": null
-  },
-  {
-   "id": 46099,
-   "title": "Flood warning at Beni-2, Myagdi",
-   "wards": [
-    1114
-   ],
-   "affectedDemography": {
-    "maleCount": 226974,
-    "femaleCount": 270715,
-    "householdCount": 132911
-   },
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.561792,
-     28.341253
-    ]
-   },
-   "createdOn": "2026-09-26T17:25:09.051214+05:45",
-   "titleNe": "बेनी-२, म्याग्दीमा बाढी",
-   "source": "dhm",
-   "description": "Basin:Narayani\nElevation:None\nWarning level:3.6\nWater level:3.6859998703",
-   "verified": true,
-   "public": true,
-   "startedOn": "2026-09-26T17:10:00+05:45",
-   "expireOn": "2026-09-26T19:25:03.583081+05:45",
-   "polygon": null,
-   "referenceType": "river",
-   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Myagdi at Mangalghat\", \"basin\": \"Narayani\", \"point\": \"SRID=4326;POINT (83.561792 28.341253)\", \"water_level\": 3.67600011826, \"image\": \"http://daq.hydrology.gov.np/images/0daf16cd9c9fef387600e9deb7033934\", \"danger_level\": 4.5, \"warning_level\": 3.6, \"water_level_on\": \"2026-09-26T13:05:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": null, \"steady\": \"STEADY\", \"description\": \"Station under PPCR\", \"station_series_id\": 3466, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 1114, \"municipality\": 43002, \"district\": 49, \"province\": 4, \"station\": 24}}",
-   "referenceId": 228,
-   "region": null,
-   "regionId": null,
-   "createdBy": null,
-   "updatedBy": null,
-   "hazard": 11,
-   "event": null
-  },
-  {
-   "id": 46098,
-   "title": "Heavy Rainfall at Dodhara Chandani-6, Kanchanpur",
-   "wards": [
-    6207
-   ],
-   "affectedDemography": {
-    "maleCount": 146377,
-    "femaleCount": 162769,
-    "householdCount": 65256
-   },
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     80.08828278,
-     28.88823778
-    ]
-   },
-   "createdOn": "2026-09-26T15:45:11.115436+05:45",
-   "titleNe": "दोधारा चादँनी-६, कन्चनपुरमा भारी वर्षा",
-   "source": "dhm",
-   "description": "Basin: Mahakali \n Elevation: 175",
-   "verified": true,
-   "public": true,
-   "startedOn": "2026-09-26T15:45:04.166559+05:45",
-   "expireOn": "2026-09-26T17:30:04.064341+05:45",
-   "polygon": null,
-   "referenceType": "rain",
-   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 452, \"fields\": {\"created_on\": \"2024-03-18T15:30:19.520Z\", \"modified_on\": \"2026-09-26T11:30:09.594Z\", \"title\": \"Dodhara\", \"basin\": \"Mahakali\", \"measured_on\": \"2026-09-26T17:15:09.580+05:45\", \"point\": \"SRID=4326;POINT (80.08828278 28.88823778)\", \"elevation\": 175, \"image\": \"http://daq.hydrology.gov.np/images/f6b89fc1e19adcb386405e3f8626f62a\", \"averages\": [{\"interval\": 1, \"value\": 1.8, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 17.4, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 29.8, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 12, \"value\": 65.8, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 140.4, \"status\": {\"warning\": true, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"0121\", \"station_series_id\": 26718, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 515, \"ward\": 6207, \"municipality\": 72007, \"district\": 75, \"province\": 7}}",
-   "referenceId": 515,
-   "region": null,
-   "regionId": null,
-   "createdBy": null,
-   "updatedBy": null,
-   "hazard": 14,
-   "event": null
   }
  ],
  "health": [
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "source": "अनलाइनखबर",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "source": "नागरिक",
@@ -8300,7 +8255,7 @@
   {
    "source": "The Kathmandu Post",
    "ok": true,
-   "count": 7
+   "count": 4
   },
   {
    "source": "incidents",
