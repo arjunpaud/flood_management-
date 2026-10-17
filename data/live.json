@@ -1,23 +1,23 @@
 {
- "generatedAt": "2026-10-17T13:10:13.965Z",
+ "generatedAt": "2026-10-17T16:21:21.209Z",
  "news": [
   {
-   "source": "सेतोपाटी",
-   "sourceId": "setopati",
-   "site": "https://www.setopati.com",
-   "title": "२१२ वर्षअघि आजकै दिन लन्डनमा भएको अनौठो घटना : बियरको बाढीले लियो ८ जनाको ज्यान!",
-   "link": "https://www.setopati.com/social/401038",
-   "date": "Sat, 17 Oct 2026 18:10:47 +0545",
-   "ts": 1792239947000
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "बाढीका डरलाग्दा भिडियोले बालबालिकामा बढाउँदै छ मानसिक तनाव",
+   "link": "https://www.onlinekhabar.com/2026/10/2040910/horrifying-flood-videos-are-increasing-mental-stress-among-children",
+   "date": "Sat, 17 Oct 2026 14:32:41 +0000",
+   "ts": 1792247561000
   },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
    "site": "https://www.ratopati.com",
-   "title": "भोटेकोशी बाढीपछिको उद्धार र पुनःस्थापना उत्कृष्ट समन्वयको नमुना : नेपाली सेना",
-   "link": "https://www.ratopati.com/story/600261/rescue-and-rehabilitation-after-bhotekoshi-flood-a-model-of-excellent-coordination-nepali-army",
-   "date": "Sat, 17 Oct 2026 09:33:38 +0000",
-   "ts": 1792229618000
+   "title": "विपद् प्रभावित क्षेत्रमा हेलिकप्टरबाट ट्रान्सफर्मर ढुवानी",
+   "link": "https://www.ratopati.com/story/600280/transporting-transformers-by-helicopter-to-disaster-affected-areas",
+   "date": "Sat, 17 Oct 2026 13:18:18 +0000",
+   "ts": 1792243098000
   },
   {
    "source": "अनलाइनखबर",
@@ -3156,9 +3156,9 @@
  ],
  "rivers": [
   {
-   "id": 25987544,
-   "createdOn": "2026-10-17T18:55:09.869721+05:45",
-   "modifiedOn": "2026-10-17T18:55:09.869723+05:45",
+   "id": 25990172,
+   "createdOn": "2026-10-17T22:05:09.324853+05:45",
+   "modifiedOn": "2026-10-17T22:05:09.324855+05:45",
    "title": "Trishuli at Galchi",
    "basin": "Narayani",
    "point": {
@@ -3168,14 +3168,14 @@
      27.802328
     ]
    },
-   "waterLevel": 359.552520752,
+   "waterLevel": 359.706817627,
    "image": "http://daq.hydrology.gov.np/images/96917ebb6f5c49a5673ea38a1b4fa8e0",
    "dangerLevel": null,
    "warningLevel": 367,
-   "waterLevelOn": "2026-10-17T18:50:00+05:45",
+   "waterLevelOn": "2026-10-17T22:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 378,
-   "steady": "FALLING",
+   "steady": "STEADY",
    "description": "RLS from RTS",
    "stationSeriesId": 36628,
    "dataSource": "hydrology.gov.np",
@@ -3187,9 +3187,9 @@
    "station": 281
   },
   {
-   "id": 25987543,
-   "createdOn": "2026-10-17T18:55:09.869682+05:45",
-   "modifiedOn": "2026-10-17T18:55:09.869684+05:45",
+   "id": 25990171,
+   "createdOn": "2026-10-17T22:05:09.324813+05:45",
+   "modifiedOn": "2026-10-17T22:05:09.324815+05:45",
    "title": "Trishuli River at Kali Khola",
    "basin": "Narayani",
    "point": {
@@ -3199,11 +3199,11 @@
      27.833
     ]
    },
-   "waterLevel": 3.48999977112,
+   "waterLevel": 3.53499984741,
    "image": "http://daq.hydrology.gov.np/images/364ef9a4cae0f2a57b48d88b42f579ff",
    "dangerLevel": 12.1,
    "warningLevel": 10.8,
-   "waterLevelOn": "2026-10-17T18:50:00+05:45",
+   "waterLevelOn": "2026-10-17T22:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 250,
    "steady": "STEADY",
@@ -3218,9 +3218,9 @@
    "station": 67
   },
   {
-   "id": 25987536,
-   "createdOn": "2026-10-17T18:55:09.869413+05:45",
-   "modifiedOn": "2026-10-17T18:55:09.869415+05:45",
+   "id": 25990163,
+   "createdOn": "2026-10-17T22:05:09.324506+05:45",
+   "modifiedOn": "2026-10-17T22:05:09.324508+05:45",
    "title": "Tadi at Belkot",
    "basin": "Narayani",
    "point": {
@@ -3230,11 +3230,11 @@
      27.860094
     ]
    },
-   "waterLevel": 1.67899990082,
+   "waterLevel": 1.67399978638,
    "image": "http://daq.hydrology.gov.np/images/325da877378a7511354dba39e151ea7c",
    "dangerLevel": 5.5,
    "warningLevel": 4.5,
-   "waterLevelOn": "2026-10-17T18:40:00+05:45",
+   "waterLevelOn": "2026-10-17T21:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -3249,9 +3249,9 @@
    "station": 135
   },
   {
-   "id": 25987535,
-   "createdOn": "2026-10-17T18:55:09.869374+05:45",
-   "modifiedOn": "2026-10-17T18:55:09.869376+05:45",
+   "id": 25990162,
+   "createdOn": "2026-10-17T22:05:09.324468+05:45",
+   "modifiedOn": "2026-10-17T22:05:09.324470+05:45",
    "title": "Tadi Khola at Rautar",
    "basin": "Narayani",
    "point": {
@@ -3261,11 +3261,11 @@
      27.918694
     ]
    },
-   "waterLevel": 0.434300422668,
+   "waterLevel": 0.40060043335,
    "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
    "dangerLevel": null,
    "warningLevel": 3.5,
-   "waterLevelOn": "2026-10-17T18:50:00+05:45",
+   "waterLevelOn": "2026-10-17T22:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -3280,9 +3280,9 @@
    "station": 65
   },
   {
-   "id": 25987504,
-   "createdOn": "2026-10-17T18:55:09.868158+05:45",
-   "modifiedOn": "2026-10-17T18:55:09.868160+05:45",
+   "id": 25990132,
+   "createdOn": "2026-10-17T22:05:09.323293+05:45",
+   "modifiedOn": "2026-10-17T22:05:09.323295+05:45",
    "title": "Narayani at Devghat",
    "basin": "Narayani",
    "point": {
@@ -3292,11 +3292,11 @@
      27.71
     ]
    },
-   "waterLevel": 3.61800003052,
+   "waterLevel": 3.57499980927,
    "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
    "dangerLevel": 9,
    "warningLevel": 7.3,
-   "waterLevelOn": "2026-10-17T18:30:00+05:45",
+   "waterLevelOn": "2026-10-17T21:30:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -3311,9 +3311,9 @@
    "station": 25
   },
   {
-   "id": 25987487,
-   "createdOn": "2026-10-17T18:55:09.867436+05:45",
-   "modifiedOn": "2026-10-17T18:55:09.867439+05:45",
+   "id": 25990113,
+   "createdOn": "2026-10-17T22:05:09.322379+05:45",
+   "modifiedOn": "2026-10-17T22:05:09.322381+05:45",
    "title": "Lothar Khola at Lothar",
    "basin": "Narayani",
    "point": {
@@ -3323,11 +3323,11 @@
      27.5877
     ]
    },
-   "waterLevel": 1.6360001564,
+   "waterLevel": 1.63199996948,
    "image": "http://daq.hydrology.gov.np/images/93f6c4e346f0c03f64410c51ac9f71a0",
    "dangerLevel": 7,
    "warningLevel": 6.5,
-   "waterLevelOn": "2026-10-17T18:40:00+05:45",
+   "waterLevelOn": "2026-10-17T21:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 207,
    "steady": "STEADY",
@@ -3342,9 +3342,9 @@
    "station": 16
   },
   {
-   "id": 25987428,
-   "createdOn": "2026-10-17T18:55:09.864937+05:45",
-   "modifiedOn": "2026-10-17T18:55:09.864942+05:45",
+   "id": 25990047,
+   "createdOn": "2026-10-17T22:05:09.319643+05:45",
+   "modifiedOn": "2026-10-17T22:05:09.319645+05:45",
    "title": "Bhote Koshi at Bahrabise",
    "basin": "Koshi",
    "point": {
@@ -3354,11 +3354,11 @@
      27.786773
     ]
    },
-   "waterLevel": 0.812000274658,
+   "waterLevel": 0.835000038147,
    "image": "http://daq.hydrology.gov.np/images/1fa9f7b4833192d038492298d9a42cc7",
    "dangerLevel": 3.6,
    "warningLevel": 3.1,
-   "waterLevelOn": "2026-10-17T18:40:00+05:45",
+   "waterLevelOn": "2026-10-17T21:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -3373,9 +3373,9 @@
    "station": 91
   },
   {
-   "id": 25987403,
-   "createdOn": "2026-10-17T18:45:11.073821+05:45",
-   "modifiedOn": "2026-10-17T18:45:11.073823+05:45",
+   "id": 25990023,
+   "createdOn": "2026-10-17T21:55:09.833365+05:45",
+   "modifiedOn": "2026-10-17T21:55:09.833367+05:45",
    "title": "Trishuli River at Bhorle",
    "basin": "Narayani",
    "point": {
@@ -3385,11 +3385,11 @@
      27.82
     ]
    },
-   "waterLevel": 2.89900016785,
+   "waterLevel": 2.9139995575,
    "image": "http://daq.hydrology.gov.np/images/73368683a6f7de9fb9558110f86350e9",
    "dangerLevel": null,
    "warningLevel": 9.5,
-   "waterLevelOn": "2026-10-17T18:40:00+05:45",
+   "waterLevelOn": "2026-10-17T21:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 200,
    "steady": "STEADY",
@@ -3406,44 +3406,7 @@
  ],
  "alerts": [
   {
-   "id": 46396,
-   "title": "Pollution Alert at Lalitpur-10, Lalitpur",
-   "wards": [
-    1985
-   ],
-   "affectedDemography": {
-    "maleCount": 2734258,
-    "femaleCount": 2658457,
-    "householdCount": 1399573
-   },
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.318841,
-     27.682581
-    ]
-   },
-   "createdOn": "2026-10-17T18:09:04.930132+05:45",
-   "titleNe": "ललितपुर-१०, ललितपुरमा वातावरणीय प्रदुषण",
-   "source": "doe",
-   "description": "AQI value is greater than 150",
-   "verified": true,
-   "public": true,
-   "startedOn": "2026-10-17T17:38:00.010000+05:45",
-   "expireOn": null,
-   "polygon": null,
-   "referenceType": "pollution",
-   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Pulchowk\", \"identifier\": \"PULCHOWK_KTM\", \"date_time\": \"2026-10-17T17:38:00.010+05:45\", \"aqi_color\": \"#8A0014\", \"aqi\": 500.0, \"observation\": [{\"data\": {\"value\": 20.7000007629, \"datetime\": \"2026-10-17T11:53:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 95, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 81.5999984741, \"datetime\": \"2026-10-17T11:53:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 92, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 55.4000015259, \"datetime\": \"2026-10-17T11:53:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 98, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 3, \"name\": \"KTM\", \"description\": \"All Stations inside Kathmandu City\"}, {\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}, {\"id\": 11, \"name\": \"2016\", \"description\": \"Stations installed in 2016\"}], \"images\": \"[\\\"http://pollution.gov.np:8000/images/62c164ef06a203bbeaae4eb976b36712\\\", \\\"http://pollution.gov.np:8000/images/3a3bccdd3ddd62c0a45f9bc18d09ff52\\\", \\\"http://pollution.gov.np:8000/images/ccea9badcc371bb592b95199bd4a148a\\\"]\", \"point\": \"SRID=4326;POINT (85.318841 27.682581)\", \"elevation\": 1305.0, \"description\": \"Air quality index at Pulchowk is 500. An alert is created for pollution in Pulchowk\", \"ward\": 1985, \"municipality\": 25004, \"district\": 28, \"province\": 3, \"station\": 27}}",
-   "referenceId": 5,
-   "region": null,
-   "regionId": null,
-   "createdBy": null,
-   "updatedBy": null,
-   "hazard": 37,
-   "event": null
-  },
-  {
-   "id": 46395,
+   "id": 46402,
    "title": "Pollution Alert at Janakpurdham-9, Dhanusa",
    "wards": [
     6470
@@ -3460,18 +3423,55 @@
      26.739805
     ]
    },
-   "createdOn": "2026-10-17T18:09:04.702320+05:45",
+   "createdOn": "2026-10-17T20:09:04.368350+05:45",
    "titleNe": "जनकपुरधाम-९, धनुषामा वातावरणीय प्रदुषण",
    "source": "doe",
    "description": "AQI value is greater than 150",
    "verified": true,
    "public": true,
-   "startedOn": "2026-10-17T17:44:00.010000+05:45",
+   "startedOn": "2026-10-17T19:44:00.010000+05:45",
    "expireOn": null,
    "polygon": null,
    "referenceType": "pollution",
-   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Janakpur\", \"identifier\": \"JANAKPUR_AQMS\", \"date_time\": \"2026-10-17T17:44:00.010+05:45\", \"aqi_color\": \"#FF0000\", \"aqi\": 151.0, \"observation\": [{\"data\": {\"value\": 35.9000015259, \"datetime\": \"2026-10-17T11:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1650, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 83.9000015259, \"datetime\": \"2026-10-17T11:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1649, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 56, \"datetime\": \"2026-10-17T11:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1648, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}, {\"id\": 9, \"name\": \"2020\", \"description\": \"AQMS Sites installed in 2020\"}, {\"id\": 17, \"name\": \"LiFePo4\", \"description\": \"Stations with new Lifepo4 setup\"}], \"images\": \"[\\\"http://pollution.gov.np:8000/images/1ef3a8fd3a35cd46808bb85b02371b38\\\", \\\"http://pollution.gov.np:8000/images/6d2b69ff0d15948da36e4c21c63869c4\\\", \\\"http://pollution.gov.np:8000/images/c478e3289b3a60130fb654d30c13a7eb\\\", \\\"http://pollution.gov.np:8000/images/1a810ecf447c6e71bbd211133db0ffb0\\\", \\\"http://pollution.gov.np:8000/images/eb4fd1cb799619ae5e2c219e91124fac\\\"]\", \"point\": \"SRID=4326;POINT (85.92854 26.739805)\", \"elevation\": 76.0, \"description\": \"Air quality index at Janakpur is 151. An alert is created for pollution in Janakpur\", \"ward\": 6470, \"municipality\": 17010, \"district\": 17, \"province\": 2, \"station\": 6}}",
+   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Janakpur\", \"identifier\": \"JANAKPUR_AQMS\", \"date_time\": \"2026-10-17T20:44:00.010+05:45\", \"aqi_color\": \"#FF0000\", \"aqi\": 183.0, \"observation\": [{\"data\": {\"value\": 100.699996948, \"datetime\": \"2026-10-17T14:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1650, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 145.800003052, \"datetime\": \"2026-10-17T14:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1649, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 118.400001526, \"datetime\": \"2026-10-17T14:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1648, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}, {\"id\": 9, \"name\": \"2020\", \"description\": \"AQMS Sites installed in 2020\"}, {\"id\": 17, \"name\": \"LiFePo4\", \"description\": \"Stations with new Lifepo4 setup\"}], \"images\": \"[\\\"http://pollution.gov.np:8000/images/1ef3a8fd3a35cd46808bb85b02371b38\\\", \\\"http://pollution.gov.np:8000/images/6d2b69ff0d15948da36e4c21c63869c4\\\", \\\"http://pollution.gov.np:8000/images/c478e3289b3a60130fb654d30c13a7eb\\\", \\\"http://pollution.gov.np:8000/images/1a810ecf447c6e71bbd211133db0ffb0\\\", \\\"http://pollution.gov.np:8000/images/eb4fd1cb799619ae5e2c219e91124fac\\\"]\", \"point\": \"SRID=4326;POINT (85.92854 26.739805)\", \"elevation\": 76.0, \"description\": \"Air quality index at Janakpur is 183. An alert is created for pollution in Janakpur\", \"ward\": 6470, \"municipality\": 17010, \"district\": 17, \"province\": 2, \"station\": 6}}",
    "referenceId": 68,
+   "region": null,
+   "regionId": null,
+   "createdBy": null,
+   "updatedBy": null,
+   "hazard": 37,
+   "event": null
+  },
+  {
+   "id": 46400,
+   "title": "Pollution Alert at Dhangadhi-1, Kailali",
+   "wards": [
+    5302
+   ],
+   "affectedDemography": {
+    "maleCount": 447973,
+    "femaleCount": 486326,
+    "householdCount": 190987
+   },
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     80.5945,
+     28.704133
+    ]
+   },
+   "createdOn": "2026-10-17T20:09:04.165847+05:45",
+   "titleNe": "धनगढी-१, कैलालीमा वातावरणीय प्रदुषण",
+   "source": "doe",
+   "description": "AQI value is greater than 150",
+   "verified": true,
+   "public": true,
+   "startedOn": "2026-10-17T19:41:00.010000+05:45",
+   "expireOn": null,
+   "polygon": null,
+   "referenceType": "pollution",
+   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Dhangadhi\", \"identifier\": \"DHANGADHI_AQMS\", \"date_time\": \"2026-10-17T20:41:00.010+05:45\", \"aqi_color\": \"#FF0000\", \"aqi\": 163.0, \"observation\": [{\"data\": {\"value\": 66.1999969482, \"datetime\": \"2026-10-17T14:56:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1731, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 118, \"datetime\": \"2026-10-17T14:56:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1729, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 78.5999984741, \"datetime\": \"2026-10-17T14:56:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1730, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}, {\"id\": 9, \"name\": \"2020\", \"description\": \"AQMS Sites installed in 2020\"}], \"images\": \"[\\\"http://pollution.gov.np:8000/images/37512af9edefedd431984c84c11aaaf2\\\", \\\"http://pollution.gov.np:8000/images/ee8b602ab1b33402708aea9906a75707\\\", \\\"http://pollution.gov.np:8000/images/8cf438eddf85cf5659aa911748232bd0\\\"]\", \"point\": \"SRID=4326;POINT (80.5945 28.704133)\", \"elevation\": 178.0, \"description\": \"Air quality index at Dhangadhi is 163. An alert is created for pollution in Dhangadhi\", \"ward\": 5302, \"municipality\": 71004, \"district\": 67, \"province\": 7, \"station\": 15}}",
+   "referenceId": 71,
    "region": null,
    "regionId": null,
    "createdBy": null,
@@ -7853,7 +7853,7 @@
   {
    "source": "अनलाइनखबर",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "source": "नागरिक",
@@ -7863,7 +7863,7 @@
   {
    "source": "सेतोपाटी",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "source": "Khabarhub (English)",
