@@ -1,23 +1,41 @@
 {
- "generatedAt": "2026-10-18T09:08:46.724Z",
+ "generatedAt": "2026-10-18T13:12:38.205Z",
  "news": [
   {
-   "source": "सेतोपाटी",
-   "sourceId": "setopati",
-   "site": "https://www.setopati.com",
-   "title": "आइसल्यान्डबाट भोटेकोशी बाढीपीडितलाई करिब ५० लाख रुपैयाँ सहयोग",
-   "link": "https://www.setopati.com/global/other-global/401066",
-   "date": "Sun, 18 Oct 2026 14:47:36 +0545",
-   "ts": 1792314156000
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "बेपत्ता बालबालिकाको खोजीमा एआई",
+   "link": "https://www.ratopati.com/story/600405/ai-in-the-search-for-missing-children",
+   "date": "Sun, 18 Oct 2026 11:52:48 +0000",
+   "ts": 1792324368000
   },
   {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "चितवनमा यात्रुवाहक बस पल्टिँदा १० जना घाइते",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/10-injured-as-passenger-bus-overturns-in-chitwan-br-27-94.html",
-   "date": "Sun, 18 Oct 2026 14:02:01 +0545",
-   "ts": 1792311421000
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "बाढीले टुटाएको सम्बन्ध जोड्दै त्रिशूलीको झोलुङ्गे पुल, तस्बिरहरू",
+   "link": "https://www.ratopati.com/story/600402/trishulis-suspension-bridge-connects-connections-broken-by-floods-photos",
+   "date": "Sun, 18 Oct 2026 11:43:39 +0000",
+   "ts": 1792323819000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "चाडपर्वमा पनि बाढी प्रभावितको साथमा रेडक्रस",
+   "link": "https://www.onlinekhabar.com/2026/10/2041217/red-cross-with-flood-victims-even-during-the-festival",
+   "date": "Sun, 18 Oct 2026 10:56:26 +0000",
+   "ts": 1792320986000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "पदले जनप्रतिनिधि, नियतिले भोटेकोशी बाढीपीडित : आफ्नै घर पुरिए पनि अरुको आँसु पुछ्दै हिँड्छन् रविन्द्र",
+   "link": "https://www.ratopati.com/story/600395/a-public-representative-by-position-a-bhotekoshi-flood-victim-by-destiny-even-though-his-own-house-is-flooded-rabindra-wipes-the-tears-of-others",
+   "date": "Sun, 18 Oct 2026 09:48:22 +0000",
+   "ts": 1792316902000
   },
   {
    "source": "अनलाइनखबर",
@@ -27,33 +45,6 @@
    "link": "https://www.onlinekhabar.com/2026/10/2041156/budhigandaki-flood-relief-distribution-via-drone",
    "date": "Sun, 18 Oct 2026 08:01:30 +0000",
    "ts": 1792310490000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "चितवनका कैदीबन्दीमा छैन दसैँको उत्साह",
-   "link": "https://www.ratopati.com/story/600369/no-dashain-enthusiasm-among-chitwan-prisoners",
-   "date": "Sun, 18 Oct 2026 05:59:30 +0000",
-   "ts": 1792303170000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "भोटेकोशी बाढी विस्थापितलाई सहयोग",
-   "link": "https://www.ratopati.com/story/600367/assistance-to-those-displaced-by-the-bhotekoshi-flood",
-   "date": "Sun, 18 Oct 2026 05:53:41 +0000",
-   "ts": 1792302821000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "बाढीले बगाउन नसकेको आस्था, तस्बिरहरू",
-   "link": "https://www.ratopati.com/story/600362/faith-that-the-flood-could-not-wash-away-photos",
-   "date": "Sun, 18 Oct 2026 05:32:10 +0000",
-   "ts": 1792301530000
   },
   {
    "source": "अनलाइनखबर",
@@ -74,15 +65,6 @@
    "ts": 1792287526000
   },
   {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "बाढीका डरलाग्दा भिडियोले बालबालिकामा बढाउँदै छ मानसिक तनाव",
-   "link": "https://www.onlinekhabar.com/2026/10/2040910/horrifying-flood-videos-are-increasing-mental-stress-among-children",
-   "date": "Sat, 17 Oct 2026 14:32:41 +0000",
-   "ts": 1792247561000
-  },
-  {
    "source": "The Kathmandu Post",
    "sourceId": "kathmandupost",
    "site": "https://kathmandupost.com",
@@ -97,15 +79,6 @@
    "site": "https://kathmandupost.com",
    "title": "Bhotekoshi flood displaced 777 students. Nepal plans five-year school recovery",
    "link": "https://kathmandupost.com/national/2026/10/17/bhotekoshi-flood-displaced-777-students-nepal-plans-five-year-school-recovery",
-   "date": "",
-   "ts": 0
-  },
-  {
-   "source": "The Kathmandu Post",
-   "sourceId": "kathmandupost",
-   "site": "https://kathmandupost.com",
-   "title": "Over 1,500 flood-hit children suffer acute malnutrition",
-   "link": "https://kathmandupost.com/health/2026/10/17/over-1-500-flood-hit-children-suffer-acute-malnutrition-1792201083",
    "date": "",
    "ts": 0
   }
@@ -3154,9 +3127,9 @@
  ],
  "rivers": [
   {
-   "id": 26004105,
-   "createdOn": "2026-10-18T14:45:11.311935+05:45",
-   "modifiedOn": "2026-10-18T14:45:11.311938+05:45",
+   "id": 26007676,
+   "createdOn": "2026-10-18T18:55:19.370323+05:45",
+   "modifiedOn": "2026-10-18T18:55:19.370325+05:45",
    "title": "Trishuli at Galchi",
    "basin": "Narayani",
    "point": {
@@ -3166,14 +3139,14 @@
      27.802328
     ]
    },
-   "waterLevel": 359.592315674,
+   "waterLevel": 359.711395264,
    "image": "http://daq.hydrology.gov.np/images/96917ebb6f5c49a5673ea38a1b4fa8e0",
    "dangerLevel": null,
    "warningLevel": 367,
-   "waterLevelOn": "2026-10-18T14:40:00+05:45",
+   "waterLevelOn": "2026-10-18T18:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 378,
-   "steady": "FALLING",
+   "steady": "RISING",
    "description": "RLS from RTS",
    "stationSeriesId": 36628,
    "dataSource": "hydrology.gov.np",
@@ -3185,9 +3158,9 @@
    "station": 281
   },
   {
-   "id": 26004104,
-   "createdOn": "2026-10-18T14:45:11.311892+05:45",
-   "modifiedOn": "2026-10-18T14:45:11.311894+05:45",
+   "id": 26007675,
+   "createdOn": "2026-10-18T18:55:19.370285+05:45",
+   "modifiedOn": "2026-10-18T18:55:19.370288+05:45",
    "title": "Trishuli River at Kali Khola",
    "basin": "Narayani",
    "point": {
@@ -3197,11 +3170,11 @@
      27.833
     ]
    },
-   "waterLevel": 3.42999839783,
+   "waterLevel": 3.51699829102,
    "image": "http://daq.hydrology.gov.np/images/364ef9a4cae0f2a57b48d88b42f579ff",
    "dangerLevel": 12.1,
    "warningLevel": 10.8,
-   "waterLevelOn": "2026-10-18T14:40:00+05:45",
+   "waterLevelOn": "2026-10-18T18:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 250,
    "steady": "STEADY",
@@ -3216,9 +3189,9 @@
    "station": 67
   },
   {
-   "id": 26004103,
-   "createdOn": "2026-10-18T14:45:11.311851+05:45",
-   "modifiedOn": "2026-10-18T14:45:11.311854+05:45",
+   "id": 26007674,
+   "createdOn": "2026-10-18T18:55:19.370248+05:45",
+   "modifiedOn": "2026-10-18T18:55:19.370250+05:45",
    "title": "Trishuli River at Bhorle",
    "basin": "Narayani",
    "point": {
@@ -3228,11 +3201,11 @@
      27.82
     ]
    },
-   "waterLevel": 2.94699954987,
+   "waterLevel": 2.95699977875,
    "image": "http://daq.hydrology.gov.np/images/73368683a6f7de9fb9558110f86350e9",
    "dangerLevel": null,
    "warningLevel": 9.5,
-   "waterLevelOn": "2026-10-18T14:40:00+05:45",
+   "waterLevelOn": "2026-10-18T18:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 200,
    "steady": "STEADY",
@@ -3247,9 +3220,40 @@
    "station": 35
   },
   {
-   "id": 26004100,
-   "createdOn": "2026-10-18T14:45:11.311660+05:45",
-   "modifiedOn": "2026-10-18T14:45:11.311664+05:45",
+   "id": 26007668,
+   "createdOn": "2026-10-18T18:55:19.370018+05:45",
+   "modifiedOn": "2026-10-18T18:55:19.370022+05:45",
+   "title": "Tadi at Belkot",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.134943,
+     27.860094
+    ]
+   },
+   "waterLevel": 1.66199970245,
+   "image": "http://daq.hydrology.gov.np/images/325da877378a7511354dba39e151ea7c",
+   "dangerLevel": 5.5,
+   "warningLevel": 4.5,
+   "waterLevelOn": "2026-10-18T18:40:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": null,
+   "steady": "STEADY",
+   "description": "Hydrological & Discharge Measurement Station",
+   "stationSeriesId": 1082,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 3702,
+   "municipality": 28001,
+   "district": 25,
+   "province": 3,
+   "station": 135
+  },
+  {
+   "id": 26007667,
+   "createdOn": "2026-10-18T18:55:19.369966+05:45",
+   "modifiedOn": "2026-10-18T18:55:19.369968+05:45",
    "title": "Tadi Khola at Rautar",
    "basin": "Narayani",
    "point": {
@@ -3259,11 +3263,11 @@
      27.918694
     ]
    },
-   "waterLevel": 0.406200408936,
+   "waterLevel": 0.387100219727,
    "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
    "dangerLevel": null,
    "warningLevel": 3.5,
-   "waterLevelOn": "2026-10-18T14:40:00+05:45",
+   "waterLevelOn": "2026-10-18T18:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -3278,9 +3282,9 @@
    "station": 65
   },
   {
-   "id": 26004071,
-   "createdOn": "2026-10-18T14:45:11.310332+05:45",
-   "modifiedOn": "2026-10-18T14:45:11.310334+05:45",
+   "id": 26007636,
+   "createdOn": "2026-10-18T18:55:19.368769+05:45",
+   "modifiedOn": "2026-10-18T18:55:19.368771+05:45",
    "title": "Narayani at Devghat",
    "basin": "Narayani",
    "point": {
@@ -3290,11 +3294,11 @@
      27.71
     ]
    },
-   "waterLevel": 3.53199958801,
+   "waterLevel": 3.52299976349,
    "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
    "dangerLevel": 9,
    "warningLevel": 7.3,
-   "waterLevelOn": "2026-10-18T14:20:00+05:45",
+   "waterLevelOn": "2026-10-18T18:30:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -3309,9 +3313,9 @@
    "station": 25
   },
   {
-   "id": 26004056,
-   "createdOn": "2026-10-18T14:45:11.309696+05:45",
-   "modifiedOn": "2026-10-18T14:45:11.309698+05:45",
+   "id": 26007622,
+   "createdOn": "2026-10-18T18:55:19.368236+05:45",
+   "modifiedOn": "2026-10-18T18:55:19.368238+05:45",
    "title": "Lothar Khola at Lothar",
    "basin": "Narayani",
    "point": {
@@ -3321,11 +3325,11 @@
      27.5877
     ]
    },
-   "waterLevel": 1.61400032043,
+   "waterLevel": 1.61299991608,
    "image": "http://daq.hydrology.gov.np/images/93f6c4e346f0c03f64410c51ac9f71a0",
    "dangerLevel": 7,
    "warningLevel": 6.5,
-   "waterLevelOn": "2026-10-18T14:30:00+05:45",
+   "waterLevelOn": "2026-10-18T18:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 207,
    "steady": "STEADY",
@@ -3340,9 +3344,9 @@
    "station": 16
   },
   {
-   "id": 26003995,
-   "createdOn": "2026-10-18T14:45:11.306243+05:45",
-   "modifiedOn": "2026-10-18T14:45:11.306245+05:45",
+   "id": 26007567,
+   "createdOn": "2026-10-18T18:55:19.366057+05:45",
+   "modifiedOn": "2026-10-18T18:55:19.366059+05:45",
    "title": "Bhote Koshi at Bahrabise",
    "basin": "Koshi",
    "point": {
@@ -3352,11 +3356,11 @@
      27.786773
     ]
    },
-   "waterLevel": 0.824000358582,
+   "waterLevel": 0.834000587463,
    "image": "http://daq.hydrology.gov.np/images/1fa9f7b4833192d038492298d9a42cc7",
    "dangerLevel": 3.6,
    "warningLevel": 3.1,
-   "waterLevelOn": "2026-10-18T14:30:00+05:45",
+   "waterLevelOn": "2026-10-18T18:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -3369,40 +3373,46 @@
    "district": 24,
    "province": 3,
    "station": 91
-  },
-  {
-   "id": 26003960,
-   "createdOn": "2026-10-18T14:35:10.232064+05:45",
-   "modifiedOn": "2026-10-18T14:35:10.232067+05:45",
-   "title": "Tadi at Belkot",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.134943,
-     27.860094
-    ]
-   },
-   "waterLevel": 1.6639995575,
-   "image": "http://daq.hydrology.gov.np/images/325da877378a7511354dba39e151ea7c",
-   "dangerLevel": 5.5,
-   "warningLevel": 4.5,
-   "waterLevelOn": "2026-10-18T14:20:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "Hydrological & Discharge Measurement Station",
-   "stationSeriesId": 1082,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 3702,
-   "municipality": 28001,
-   "district": 25,
-   "province": 3,
-   "station": 135
   }
  ],
  "alerts": [
+  {
+   "id": 46414,
+   "title": "Pollution Alert at Rapti-3, Dang",
+   "wards": [
+    4012
+   ],
+   "affectedDemography": {
+    "maleCount": 326776,
+    "femaleCount": 355217,
+    "householdCount": 136679
+   },
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     82.716154,
+     27.845004
+    ]
+   },
+   "createdOn": "2026-10-18T18:09:04.658649+05:45",
+   "titleNe": "राप्ती-३, दाङमा वातावरणीय प्रदुषण",
+   "source": "doe",
+   "description": "AQI value is greater than 150",
+   "verified": true,
+   "public": true,
+   "startedOn": "2026-10-18T17:41:00.010000+05:45",
+   "expireOn": null,
+   "polygon": null,
+   "referenceType": "pollution",
+   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Deukhuri, Dang\", \"identifier\": \"10000150\", \"date_time\": \"2026-10-18T17:41:00.010+05:45\", \"aqi_color\": \"#FF0000\", \"aqi\": 152.0, \"observation\": [{\"data\": {\"value\": 52, \"datetime\": \"2026-10-18T11:56:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 2728, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 64.5999984741, \"datetime\": \"2026-10-18T11:56:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 2727, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 56.5999984741, \"datetime\": \"2026-10-18T11:56:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 2729, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}, {\"id\": 14, \"name\": \"Warranty\", \"description\": \"Stations under warranty\"}, {\"id\": 16, \"name\": \"2024\", \"description\": \"Stations Installed in 2024\"}, {\"id\": 17, \"name\": \"LiFePo4\", \"description\": \"Stations with new Lifepo4 setup\"}, {\"id\": 18, \"name\": \"Sim_Recharge\", \"description\": \"Statins where rts needs to recharge\"}], \"images\": \"[]\", \"point\": \"SRID=4326;POINT (82.716154 27.845004)\", \"elevation\": null, \"description\": \"Air quality index at Deukhuri, Dang is 152. An alert is created for pollution in Deukhuri, Dang\", \"ward\": 4012, \"municipality\": 56008, \"district\": 52, \"province\": 5, \"station\": 30}}",
+   "referenceId": 150,
+   "region": null,
+   "regionId": null,
+   "createdBy": null,
+   "updatedBy": null,
+   "hazard": 37,
+   "event": null
+  },
   {
    "id": 46333,
    "title": "Flood warning at Aarughat-9, Gorkha",
@@ -7803,43 +7813,6 @@
    "updatedBy": null,
    "hazard": 11,
    "event": null
-  },
-  {
-   "id": 46098,
-   "title": "Heavy Rainfall at Dodhara Chandani-6, Kanchanpur",
-   "wards": [
-    6207
-   ],
-   "affectedDemography": {
-    "maleCount": 146377,
-    "femaleCount": 162769,
-    "householdCount": 65256
-   },
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     80.08828278,
-     28.88823778
-    ]
-   },
-   "createdOn": "2026-09-26T15:45:11.115436+05:45",
-   "titleNe": "दोधारा चादँनी-६, कन्चनपुरमा भारी वर्षा",
-   "source": "dhm",
-   "description": "Basin: Mahakali \n Elevation: 175",
-   "verified": true,
-   "public": true,
-   "startedOn": "2026-09-26T15:45:04.166559+05:45",
-   "expireOn": "2026-09-26T17:30:04.064341+05:45",
-   "polygon": null,
-   "referenceType": "rain",
-   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 452, \"fields\": {\"created_on\": \"2024-03-18T15:30:19.520Z\", \"modified_on\": \"2026-09-26T11:30:09.594Z\", \"title\": \"Dodhara\", \"basin\": \"Mahakali\", \"measured_on\": \"2026-09-26T17:15:09.580+05:45\", \"point\": \"SRID=4326;POINT (80.08828278 28.88823778)\", \"elevation\": 175, \"image\": \"http://daq.hydrology.gov.np/images/f6b89fc1e19adcb386405e3f8626f62a\", \"averages\": [{\"interval\": 1, \"value\": 1.8, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 17.4, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 29.8, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 12, \"value\": 65.8, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 140.4, \"status\": {\"warning\": true, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"0121\", \"station_series_id\": 26718, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 515, \"ward\": 6207, \"municipality\": 72007, \"district\": 75, \"province\": 7}}",
-   "referenceId": 515,
-   "region": null,
-   "regionId": null,
-   "createdBy": null,
-   "updatedBy": null,
-   "hazard": 14,
-   "event": null
   }
  ],
  "health": [
@@ -7856,12 +7829,12 @@
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "source": "सेतोपाटी",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "source": "Khabarhub (English)",
@@ -7871,7 +7844,7 @@
   {
    "source": "The Kathmandu Post",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "source": "incidents",
