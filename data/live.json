@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T19:36:25.598Z",
+ "generatedAt": "2026-10-20T22:35:53.266Z",
  "news": [
   {
    "source": "रातोपाटी",
@@ -2678,9 +2678,9 @@
  ],
  "rivers": [
   {
-   "id": 26053766,
-   "createdOn": "2026-10-21T01:15:20.419210+05:45",
-   "modifiedOn": "2026-10-21T01:15:20.419212+05:45",
+   "id": 26056313,
+   "createdOn": "2026-10-21T04:15:10.789104+05:45",
+   "modifiedOn": "2026-10-21T04:15:10.789106+05:45",
    "title": "Trishuli at Galchi",
    "basin": "Narayani",
    "point": {
@@ -2690,11 +2690,11 @@
      27.802328
     ]
    },
-   "waterLevel": 359.515197754,
+   "waterLevel": 359.536621094,
    "image": "http://daq.hydrology.gov.np/images/96917ebb6f5c49a5673ea38a1b4fa8e0",
    "dangerLevel": null,
    "warningLevel": 367,
-   "waterLevelOn": "2026-10-21T01:10:00+05:45",
+   "waterLevelOn": "2026-10-21T04:10:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 378,
    "steady": "FALLING",
@@ -2709,9 +2709,9 @@
    "station": 281
   },
   {
-   "id": 26053764,
-   "createdOn": "2026-10-21T01:15:20.419127+05:45",
-   "modifiedOn": "2026-10-21T01:15:20.419130+05:45",
+   "id": 26056312,
+   "createdOn": "2026-10-21T04:15:10.789066+05:45",
+   "modifiedOn": "2026-10-21T04:15:10.789068+05:45",
    "title": "Trishuli River at Kali Khola",
    "basin": "Narayani",
    "point": {
@@ -2721,11 +2721,11 @@
      27.833
     ]
    },
-   "waterLevel": 3.24899864197,
+   "waterLevel": 3.32799911499,
    "image": "http://daq.hydrology.gov.np/images/364ef9a4cae0f2a57b48d88b42f579ff",
    "dangerLevel": 12.1,
    "warningLevel": 10.8,
-   "waterLevelOn": "2026-10-21T01:10:00+05:45",
+   "waterLevelOn": "2026-10-21T04:10:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 250,
    "steady": "STEADY",
@@ -2740,9 +2740,9 @@
    "station": 67
   },
   {
-   "id": 26053763,
-   "createdOn": "2026-10-21T01:15:20.419077+05:45",
-   "modifiedOn": "2026-10-21T01:15:20.419080+05:45",
+   "id": 26056311,
+   "createdOn": "2026-10-21T04:15:10.789024+05:45",
+   "modifiedOn": "2026-10-21T04:15:10.789026+05:45",
    "title": "Trishuli River at Bhorle",
    "basin": "Narayani",
    "point": {
@@ -2752,11 +2752,11 @@
      27.82
     ]
    },
-   "waterLevel": 2.70800018311,
+   "waterLevel": 2.77699947357,
    "image": "http://daq.hydrology.gov.np/images/73368683a6f7de9fb9558110f86350e9",
    "dangerLevel": null,
    "warningLevel": 9.5,
-   "waterLevelOn": "2026-10-21T01:10:00+05:45",
+   "waterLevelOn": "2026-10-21T04:10:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 200,
    "steady": "STEADY",
@@ -2771,71 +2771,9 @@
    "station": 35
   },
   {
-   "id": 26053760,
-   "createdOn": "2026-10-21T01:15:20.418922+05:45",
-   "modifiedOn": "2026-10-21T01:15:20.418925+05:45",
-   "title": "Tadi at Belkot",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.134943,
-     27.860094
-    ]
-   },
-   "waterLevel": 1.64200019836,
-   "image": "http://daq.hydrology.gov.np/images/325da877378a7511354dba39e151ea7c",
-   "dangerLevel": 5.5,
-   "warningLevel": 4.5,
-   "waterLevelOn": "2026-10-21T01:00:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "Hydrological & Discharge Measurement Station",
-   "stationSeriesId": 1082,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 3702,
-   "municipality": 28001,
-   "district": 25,
-   "province": 3,
-   "station": 135
-  },
-  {
-   "id": 26053759,
-   "createdOn": "2026-10-21T01:15:20.418874+05:45",
-   "modifiedOn": "2026-10-21T01:15:20.418876+05:45",
-   "title": "Tadi Khola at Rautar",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.311554,
-     27.918694
-    ]
-   },
-   "waterLevel": 0.420499801636,
-   "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
-   "dangerLevel": null,
-   "warningLevel": 3.5,
-   "waterLevelOn": "2026-10-21T01:10:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "RISING",
-   "description": "Hydrological station with CDCP",
-   "stationSeriesId": 19587,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 3664,
-   "municipality": 28011,
-   "district": 25,
-   "province": 3,
-   "station": 65
-  },
-  {
-   "id": 26053728,
-   "createdOn": "2026-10-21T01:15:20.417623+05:45",
-   "modifiedOn": "2026-10-21T01:15:20.417625+05:45",
+   "id": 26056273,
+   "createdOn": "2026-10-21T04:15:10.787505+05:45",
+   "modifiedOn": "2026-10-21T04:15:10.787507+05:45",
    "title": "Narayani at Devghat",
    "basin": "Narayani",
    "point": {
@@ -2845,11 +2783,11 @@
      27.71
     ]
    },
-   "waterLevel": 3.59899997711,
+   "waterLevel": 3.625,
    "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
    "dangerLevel": 9,
    "warningLevel": 7.3,
-   "waterLevelOn": "2026-10-21T00:50:00+05:45",
+   "waterLevelOn": "2026-10-21T03:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -2864,9 +2802,9 @@
    "station": 25
   },
   {
-   "id": 26053710,
-   "createdOn": "2026-10-21T01:15:20.416853+05:45",
-   "modifiedOn": "2026-10-21T01:15:20.416855+05:45",
+   "id": 26056254,
+   "createdOn": "2026-10-21T04:15:10.786727+05:45",
+   "modifiedOn": "2026-10-21T04:15:10.786729+05:45",
    "title": "Lothar Khola at Lothar",
    "basin": "Narayani",
    "point": {
@@ -2876,11 +2814,11 @@
      27.5877
     ]
    },
-   "waterLevel": 1.59700012207,
+   "waterLevel": 1.59600019455,
    "image": "http://daq.hydrology.gov.np/images/93f6c4e346f0c03f64410c51ac9f71a0",
    "dangerLevel": 7,
    "warningLevel": 6.5,
-   "waterLevelOn": "2026-10-21T01:00:00+05:45",
+   "waterLevelOn": "2026-10-21T04:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 207,
    "steady": "STEADY",
@@ -2895,9 +2833,9 @@
    "station": 16
   },
   {
-   "id": 26053517,
-   "createdOn": "2026-10-21T01:05:09.128128+05:45",
-   "modifiedOn": "2026-10-21T01:05:09.128130+05:45",
+   "id": 26056191,
+   "createdOn": "2026-10-21T04:15:10.784087+05:45",
+   "modifiedOn": "2026-10-21T04:15:10.784089+05:45",
    "title": "Bhote Koshi at Bahrabise",
    "basin": "Koshi",
    "point": {
@@ -2907,14 +2845,14 @@
      27.786773
     ]
    },
-   "waterLevel": 0.677000045776,
+   "waterLevel": 0.824000358582,
    "image": "http://daq.hydrology.gov.np/images/1fa9f7b4833192d038492298d9a42cc7",
    "dangerLevel": 3.6,
    "warningLevel": 3.1,
-   "waterLevelOn": "2026-10-21T00:50:00+05:45",
+   "waterLevelOn": "2026-10-21T04:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
-   "steady": "FALLING",
+   "steady": "STEADY",
    "description": "CDCP with RLS",
    "stationSeriesId": 1640,
    "dataSource": "hydrology.gov.np",
@@ -2924,83 +2862,71 @@
    "district": 24,
    "province": 3,
    "station": 91
+  },
+  {
+   "id": 26056159,
+   "createdOn": "2026-10-21T04:05:09.672121+05:45",
+   "modifiedOn": "2026-10-21T04:05:09.672123+05:45",
+   "title": "Tadi at Belkot",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.134943,
+     27.860094
+    ]
+   },
+   "waterLevel": 1.64499950409,
+   "image": "http://daq.hydrology.gov.np/images/325da877378a7511354dba39e151ea7c",
+   "dangerLevel": 5.5,
+   "warningLevel": 4.5,
+   "waterLevelOn": "2026-10-21T03:50:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": null,
+   "steady": "STEADY",
+   "description": "Hydrological & Discharge Measurement Station",
+   "stationSeriesId": 1082,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 3702,
+   "municipality": 28001,
+   "district": 25,
+   "province": 3,
+   "station": 135
+  },
+  {
+   "id": 26056158,
+   "createdOn": "2026-10-21T04:05:09.672084+05:45",
+   "modifiedOn": "2026-10-21T04:05:09.672086+05:45",
+   "title": "Tadi Khola at Rautar",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.311554,
+     27.918694
+    ]
+   },
+   "waterLevel": 0.376299858093,
+   "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
+   "dangerLevel": null,
+   "warningLevel": 3.5,
+   "waterLevelOn": "2026-10-21T04:00:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": null,
+   "steady": "STEADY",
+   "description": "Hydrological station with CDCP",
+   "stationSeriesId": 19587,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 3664,
+   "municipality": 28011,
+   "district": 25,
+   "province": 3,
+   "station": 65
   }
  ],
  "alerts": [
-  {
-   "id": 46451,
-   "title": "Pollution Alert at Janakpurdham-9, Dhanusa",
-   "wards": [
-    6470
-   ],
-   "affectedDemography": {
-    "maleCount": 650970,
-    "femaleCount": 656379,
-    "householdCount": 251829
-   },
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.92854,
-     26.739805
-    ]
-   },
-   "createdOn": "2026-10-20T19:09:04.958689+05:45",
-   "titleNe": "जनकपुरधाम-९, धनुषामा वातावरणीय प्रदुषण",
-   "source": "doe",
-   "description": "AQI value is greater than 150",
-   "verified": true,
-   "public": true,
-   "startedOn": "2026-10-20T18:44:00.010000+05:45",
-   "expireOn": null,
-   "polygon": null,
-   "referenceType": "pollution",
-   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Janakpur\", \"identifier\": \"JANAKPUR_AQMS\", \"date_time\": \"2026-10-21T00:44:00.010+05:45\", \"aqi_color\": \"#FF0000\", \"aqi\": 167.0, \"observation\": [{\"data\": {\"value\": 78.9000015259, \"datetime\": \"2026-10-20T18:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1650, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 98.5999984741, \"datetime\": \"2026-10-20T18:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1649, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 86.5, \"datetime\": \"2026-10-20T18:59:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1648, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}, {\"id\": 9, \"name\": \"2020\", \"description\": \"AQMS Sites installed in 2020\"}, {\"id\": 17, \"name\": \"LiFePo4\", \"description\": \"Stations with new Lifepo4 setup\"}], \"images\": \"[\\\"http://pollution.gov.np:8000/images/1ef3a8fd3a35cd46808bb85b02371b38\\\", \\\"http://pollution.gov.np:8000/images/6d2b69ff0d15948da36e4c21c63869c4\\\", \\\"http://pollution.gov.np:8000/images/c478e3289b3a60130fb654d30c13a7eb\\\", \\\"http://pollution.gov.np:8000/images/1a810ecf447c6e71bbd211133db0ffb0\\\", \\\"http://pollution.gov.np:8000/images/eb4fd1cb799619ae5e2c219e91124fac\\\"]\", \"point\": \"SRID=4326;POINT (85.92854 26.739805)\", \"elevation\": 76.0, \"description\": \"Air quality index at Janakpur is 167. An alert is created for pollution in Janakpur\", \"ward\": 6470, \"municipality\": 17010, \"district\": 17, \"province\": 2, \"station\": 6}}",
-   "referenceId": 68,
-   "region": null,
-   "regionId": null,
-   "createdBy": null,
-   "updatedBy": null,
-   "hazard": 37,
-   "event": null
-  },
-  {
-   "id": 46449,
-   "title": "Pollution Alert at Dhangadhi-1, Kailali",
-   "wards": [
-    5302
-   ],
-   "affectedDemography": {
-    "maleCount": 447973,
-    "femaleCount": 486326,
-    "householdCount": 190987
-   },
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     80.5945,
-     28.704133
-    ]
-   },
-   "createdOn": "2026-10-20T18:09:04.923850+05:45",
-   "titleNe": "धनगढी-१, कैलालीमा वातावरणीय प्रदुषण",
-   "source": "doe",
-   "description": "AQI value is greater than 150",
-   "verified": true,
-   "public": true,
-   "startedOn": "2026-10-20T17:41:00.010000+05:45",
-   "expireOn": null,
-   "polygon": null,
-   "referenceType": "pollution",
-   "referenceData": "{\"model\": \"realtime.pollution\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Dhangadhi\", \"identifier\": \"DHANGADHI_AQMS\", \"date_time\": \"2026-10-21T00:01:00.010+05:45\", \"aqi_color\": \"#FF0000\", \"aqi\": 164.0, \"observation\": [{\"data\": {\"value\": 70.5, \"datetime\": \"2026-10-20T18:16:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1731, \"series_name\": \"PM1 Instantenous\", \"parameter_code\": \"PM1_I\", \"parameter_name\": \"PM1 Instantenous\"}, {\"data\": {\"value\": 91.5999984741, \"datetime\": \"2026-10-20T18:16:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1729, \"series_name\": \"PM10 Inst\", \"parameter_code\": \"PM10_I\", \"parameter_name\": \"PM10 Inst\"}, {\"data\": {\"value\": 79.9000015259, \"datetime\": \"2026-10-20T18:16:00+00:00\"}, \"unit\": \"µg/m³\", \"series_id\": 1730, \"series_name\": \"PM2.5 Inst\", \"parameter_code\": \"PM2.5_I\", \"parameter_name\": \"PM2.5 Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°C\", \"series_id\": null, \"series_name\": \"Air Temperature Inst\", \"parameter_code\": \"T\", \"parameter_name\": \"Air Temperature Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"µg/m³\", \"series_id\": null, \"series_name\": \"Total Suspended Particulate Inst\", \"parameter_code\": \"TSP_I\", \"parameter_name\": \"Total Suspended Particulate Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"%\", \"series_id\": null, \"series_name\": \"Relative Humidity Inst\", \"parameter_code\": \"RH_I\", \"parameter_name\": \"Relative Humidity Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"m/s\", \"series_id\": null, \"series_name\": \"Wind Speed Inst\", \"parameter_code\": \"WS_I\", \"parameter_name\": \"Wind Speed Inst\"}, {\"data\": {\"value\": null, \"datetime\": null}, \"unit\": \"°\", \"series_id\": null, \"series_name\": \"Wind direction Inst\", \"parameter_code\": \"WD_I\", \"parameter_name\": \"Wind direction Inst\"}], \"tags\": [{\"id\": 7, \"name\": \"AQMS\", \"description\": \"Air Quality Monitoring Station\"}, {\"id\": 9, \"name\": \"2020\", \"description\": \"AQMS Sites installed in 2020\"}], \"images\": \"[\\\"http://pollution.gov.np:8000/images/37512af9edefedd431984c84c11aaaf2\\\", \\\"http://pollution.gov.np:8000/images/ee8b602ab1b33402708aea9906a75707\\\", \\\"http://pollution.gov.np:8000/images/8cf438eddf85cf5659aa911748232bd0\\\"]\", \"point\": \"SRID=4326;POINT (80.5945 28.704133)\", \"elevation\": 178.0, \"description\": \"Air quality index at Dhangadhi is 164. An alert is created for pollution in Dhangadhi\", \"ward\": 5302, \"municipality\": 71004, \"district\": 67, \"province\": 7, \"station\": 15}}",
-   "referenceId": 71,
-   "region": null,
-   "regionId": null,
-   "createdBy": null,
-   "updatedBy": null,
-   "hazard": 37,
-   "event": null
-  },
   {
    "id": 46333,
    "title": "Flood warning at Aarughat-9, Gorkha",
@@ -7363,6 +7289,80 @@
    "createdBy": null,
    "updatedBy": null,
    "hazard": 11,
+   "event": null
+  },
+  {
+   "id": 46099,
+   "title": "Flood warning at Beni-2, Myagdi",
+   "wards": [
+    1114
+   ],
+   "affectedDemography": {
+    "maleCount": 226974,
+    "femaleCount": 270715,
+    "householdCount": 132911
+   },
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     83.561792,
+     28.341253
+    ]
+   },
+   "createdOn": "2026-09-26T17:25:09.051214+05:45",
+   "titleNe": "बेनी-२, म्याग्दीमा बाढी",
+   "source": "dhm",
+   "description": "Basin:Narayani\nElevation:None\nWarning level:3.6\nWater level:3.6859998703",
+   "verified": true,
+   "public": true,
+   "startedOn": "2026-09-26T17:10:00+05:45",
+   "expireOn": "2026-09-26T19:25:03.583081+05:45",
+   "polygon": null,
+   "referenceType": "river",
+   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Myagdi at Mangalghat\", \"basin\": \"Narayani\", \"point\": \"SRID=4326;POINT (83.561792 28.341253)\", \"water_level\": 3.67600011826, \"image\": \"http://daq.hydrology.gov.np/images/0daf16cd9c9fef387600e9deb7033934\", \"danger_level\": 4.5, \"warning_level\": 3.6, \"water_level_on\": \"2026-09-26T13:05:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": null, \"steady\": \"STEADY\", \"description\": \"Station under PPCR\", \"station_series_id\": 3466, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 1114, \"municipality\": 43002, \"district\": 49, \"province\": 4, \"station\": 24}}",
+   "referenceId": 228,
+   "region": null,
+   "regionId": null,
+   "createdBy": null,
+   "updatedBy": null,
+   "hazard": 11,
+   "event": null
+  },
+  {
+   "id": 46098,
+   "title": "Heavy Rainfall at Dodhara Chandani-6, Kanchanpur",
+   "wards": [
+    6207
+   ],
+   "affectedDemography": {
+    "maleCount": 146377,
+    "femaleCount": 162769,
+    "householdCount": 65256
+   },
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     80.08828278,
+     28.88823778
+    ]
+   },
+   "createdOn": "2026-09-26T15:45:11.115436+05:45",
+   "titleNe": "दोधारा चादँनी-६, कन्चनपुरमा भारी वर्षा",
+   "source": "dhm",
+   "description": "Basin: Mahakali \n Elevation: 175",
+   "verified": true,
+   "public": true,
+   "startedOn": "2026-09-26T15:45:04.166559+05:45",
+   "expireOn": "2026-09-26T17:30:04.064341+05:45",
+   "polygon": null,
+   "referenceType": "rain",
+   "referenceData": "{\"model\": \"realtime.rainstation\", \"pk\": 452, \"fields\": {\"created_on\": \"2024-03-18T15:30:19.520Z\", \"modified_on\": \"2026-09-26T11:30:09.594Z\", \"title\": \"Dodhara\", \"basin\": \"Mahakali\", \"measured_on\": \"2026-09-26T17:15:09.580+05:45\", \"point\": \"SRID=4326;POINT (80.08828278 28.88823778)\", \"elevation\": 175, \"image\": \"http://daq.hydrology.gov.np/images/f6b89fc1e19adcb386405e3f8626f62a\", \"averages\": [{\"interval\": 1, \"value\": 1.8, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 3, \"value\": 17.4, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 6, \"value\": 29.8, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 12, \"value\": 65.8, \"status\": {\"warning\": false, \"danger\": false}}, {\"interval\": 24, \"value\": 140.4, \"status\": {\"warning\": true, \"danger\": false}}], \"status\": \"ABOVE WARNING LEVEL\", \"description\": \"0121\", \"station_series_id\": 26718, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": 515, \"ward\": 6207, \"municipality\": 72007, \"district\": 75, \"province\": 7}}",
+   "referenceId": 515,
+   "region": null,
+   "regionId": null,
+   "createdBy": null,
+   "updatedBy": null,
+   "hazard": 14,
    "event": null
   }
  ],
