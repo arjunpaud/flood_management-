@@ -1,6 +1,24 @@
 {
- "generatedAt": "2026-10-23T05:30:23.756Z",
+ "generatedAt": "2026-10-23T10:24:06.266Z",
  "news": [
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "चीनमा भूकम्प : १६ जनाको मृ`त्यु, ७६ घाइते, उद्धार तीव्र बनाउन सीको निर्देशन",
+   "link": "https://nagariknews.nagariknetwork.com/international/earthquake-in-china-16-dead-76-injured-xi-orders-to-speed-up-rescue-91-56.html",
+   "date": "Fri, 23 Oct 2026 14:32:52 +0545",
+   "ts": 1792745272000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "अर्थमन्त्री वाग्लेले जयशंकरसँग उठाए विपद्, पोषण र स्वच्छ ऊर्जामा सहकार्यको विषय",
+   "link": "https://www.onlinekhabar.com/2026/10/2042859/finance-minister-wagle-raises-issues-of-cooperation-on-disasters-nutrition-and-clean-energy-with-jaishankar",
+   "date": "Fri, 23 Oct 2026 06:00:19 +0000",
+   "ts": 1792735219000
+  },
   {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
@@ -27,15 +45,6 @@
    "link": "https://english.khabarhub.com/2026/23/572877/",
    "date": "Fri, 23 Oct 2026 02:45:44 +0000",
    "ts": 1792723544000
-  },
-  {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "FRLD approves $20 million grant for Nepal’s flood recovery",
-   "link": "https://english.khabarhub.com/2026/23/572868/",
-   "date": "Fri, 23 Oct 2026 02:00:18 +0000",
-   "ts": 1792720818000
   },
   {
    "source": "अनलाइनखबर",
@@ -68,12 +77,12 @@
   {
    "source": "अनलाइनखबर",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "source": "सेतोपाटी",
@@ -83,7 +92,7 @@
   {
    "source": "Khabarhub (English)",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "source": "The Kathmandu Post",
