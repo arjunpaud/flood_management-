@@ -1,14 +1,14 @@
 {
- "generatedAt": "2026-10-23T10:24:06.266Z",
+ "generatedAt": "2026-10-23T15:14:29.850Z",
  "news": [
   {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "चीनमा भूकम्प : १६ जनाको मृ`त्यु, ७६ घाइते, उद्धार तीव्र बनाउन सीको निर्देशन",
-   "link": "https://nagariknews.nagariknetwork.com/international/earthquake-in-china-16-dead-76-injured-xi-orders-to-speed-up-rescue-91-56.html",
-   "date": "Fri, 23 Oct 2026 14:32:52 +0545",
-   "ts": 1792745272000
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "बाढी प्रभावितलाई होल्डिङ सेन्टरबाटै नागरिकताको प्रतिलिपि वितरण सुरु",
+   "link": "https://www.onlinekhabar.com/2026/10/2043052/distribution-of-copies-of-citizenship-certificates-to-flood-victims-begins-from-holding-centers",
+   "date": "Fri, 23 Oct 2026 14:52:07 +0000",
+   "ts": 1792767127000
   },
   {
    "source": "अनलाइनखबर",
@@ -18,42 +18,6 @@
    "link": "https://www.onlinekhabar.com/2026/10/2042859/finance-minister-wagle-raises-issues-of-cooperation-on-disasters-nutrition-and-clean-energy-with-jaishankar",
    "date": "Fri, 23 Oct 2026 06:00:19 +0000",
    "ts": 1792735219000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "दशैंको टीकालगत्तै चितवनमा बढे पर्यटक",
-   "link": "https://www.onlinekhabar.com/2026/10/2042809/tourists-increase-in-major-tourist-destinations-in-chitwan-after-dashain-tika",
-   "date": "Fri, 23 Oct 2026 04:03:47 +0000",
-   "ts": 1792728227000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "हुम्लाको हिमपातमा बेपत्ता २०० पशुको झण्डै एक महिनापछि उद्धार",
-   "link": "https://www.onlinekhabar.com/2026/10/2042798/200-animals-missing-in-humla-snowfall-rescued-after-almost-a-month",
-   "date": "Fri, 23 Oct 2026 02:57:59 +0000",
-   "ts": 1792724279000
-  },
-  {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "Floods and landslides disrupt major highways in several districts",
-   "link": "https://english.khabarhub.com/2026/23/572877/",
-   "date": "Fri, 23 Oct 2026 02:45:44 +0000",
-   "ts": 1792723544000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "सन्तुलित चितवन राइनोजको नजर उपाधिमा",
-   "link": "https://www.onlinekhabar.com/2026/10/2042721/balanced-chitwan-rhinos-eye-title",
-   "date": "Thu, 22 Oct 2026 14:45:31 +0000",
-   "ts": 1792680331000
   },
   {
    "source": "The Kathmandu Post",
@@ -77,12 +41,12 @@
   {
    "source": "अनलाइनखबर",
    "ok": true,
-   "count": 4
+   "count": 2
   },
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "source": "सेतोपाटी",
@@ -92,7 +56,7 @@
   {
    "source": "Khabarhub (English)",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "source": "The Kathmandu Post",
