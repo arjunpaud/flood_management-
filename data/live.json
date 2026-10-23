@@ -1,6 +1,15 @@
 {
- "generatedAt": "2026-10-22T22:31:05.311Z",
+ "generatedAt": "2026-10-23T00:53:14.287Z",
  "news": [
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "बाढीपहिरोले यस वर्षको दसैँ उल्लासमय भएन",
+   "link": "https://www.ratopati.com/story/600871/this-years-dashain-was-not-a-joyous-one-due-to-floods-and-landslides",
+   "date": "Thu, 22 Oct 2026 23:08:41 +0000",
+   "ts": 1792710521000
+  },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
@@ -74,15 +83,6 @@
    "ts": 1792674600000
   },
   {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "चितवन प्रहरीद्वारा पहिलोपटक निःशुल्क बस सेवा सञ्चालन",
-   "link": "https://www.ratopati.com/story/600843/chitwan-police-to-operate-free-bus-service-for-the-first-time",
-   "date": "Thu, 22 Oct 2026 12:05:08 +0000",
-   "ts": 1792670708000
-  },
-  {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
    "site": "https://www.onlinekhabar.com",
@@ -90,15 +90,6 @@
    "link": "https://www.onlinekhabar.com/2026/10/2042529/this-is-how-the-flood-affected-chum-valley-hiking-trail-in-budhigandaki-is-being-repaired",
    "date": "Thu, 22 Oct 2026 07:34:00 +0000",
    "ts": 1792654440000
-  },
-  {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "Floods and landslides disrupt highways in Gandaki and Karnali provinces",
-   "link": "https://english.khabarhub.com/2026/22/572809/",
-   "date": "Thu, 22 Oct 2026 05:35:32 +0000",
-   "ts": 1792647332000
   },
   {
    "source": "The Kathmandu Post",
@@ -146,7 +137,7 @@
   {
    "source": "Khabarhub (English)",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "source": "The Kathmandu Post",
