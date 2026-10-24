@@ -1,14 +1,32 @@
 {
- "generatedAt": "2026-10-24T05:03:26.599Z",
+ "generatedAt": "2026-10-24T09:26:05.969Z",
  "news": [
   {
-   "source": "सेतोपाटी",
-   "sourceId": "setopati",
-   "site": "https://www.setopati.com",
-   "title": "सम्पर्कविहीन दुई जापानी पर्वतारोहीको शव फेला",
-   "link": "https://www.setopati.com/social/401218",
-   "date": "Sat, 24 Oct 2026 10:44:20 +0545",
-   "ts": 1792817960000
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "गङ्गापूर्ण हिमालमा सम्पर्कविहीन दुई जापानी पर्वतारोहीको शव फेला",
+   "link": "https://www.onlinekhabar.com/2026/10/2043165/bodies-of-two-missing-japanese-climbers-found-in-gangapurna-himalayas",
+   "date": "Sat, 24 Oct 2026 08:22:19 +0000",
+   "ts": 1792830139000
+  },
+  {
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "Bodies of missing Japanese climbers found in Manang",
+   "link": "https://english.khabarhub.com/2026/24/572980/",
+   "date": "Sat, 24 Oct 2026 06:27:19 +0000",
+   "ts": 1792823239000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "सम्पर्कविहीन जापानी पर्वतारोहीद्वयको शव फेला",
+   "link": "https://www.ratopati.com/story/601033/bodies-of-missing-japanese-mountaineer-duo-found",
+   "date": "Sat, 24 Oct 2026 05:05:05 +0000",
+   "ts": 1792818305000
   },
   {
    "source": "अनलाइनखबर",
@@ -45,12 +63,12 @@
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "source": "अनलाइनखबर",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "source": "नागरिक",
@@ -60,12 +78,12 @@
   {
    "source": "सेतोपाटी",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "source": "Khabarhub (English)",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "source": "The Kathmandu Post",
