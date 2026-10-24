@@ -1,6 +1,33 @@
 {
- "generatedAt": "2026-10-24T13:25:48.854Z",
+ "generatedAt": "2026-10-24T16:45:04.916Z",
  "news": [
+  {
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "20 disaster-related incidents reported across Nepal in 24 hours",
+   "link": "https://english.khabarhub.com/2026/24/573024/",
+   "date": "Sat, 24 Oct 2026 15:21:30 +0000",
+   "ts": 1792855290000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "पछिल्लो २४ घण्टामा देशभर २० विपद्का घटना, आठ जना घाइते",
+   "link": "https://www.onlinekhabar.com/2026/10/2043299/20-disasters-across-the-country-in-the-last-24-hours-eight-injured",
+   "date": "Sat, 24 Oct 2026 13:41:03 +0000",
+   "ts": 1792849263000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "देशभर २० विपद्का घटना, आठ जना घाइते",
+   "link": "https://www.ratopati.com/story/601089/20-disaster-incidents-across-the-country-eight-injured",
+   "date": "Sat, 24 Oct 2026 13:35:00 +0000",
+   "ts": 1792848900000
+  },
   {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
@@ -9,15 +36,6 @@
    "link": "https://www.onlinekhabar.com/2026/10/2043271/28-people-renounced-citizenship-in-chitwan-in-three-months",
    "date": "Sat, 24 Oct 2026 12:04:24 +0000",
    "ts": 1792843464000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "चितवनमा तीन महिनामा २८ जनाले त्यागे नागरिकता",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/28-people-renounced-citizenship-in-chitwan-in-three-months-br-82-72.html",
-   "date": "Sat, 24 Oct 2026 17:21:56 +0545",
-   "ts": 1792841816000
   },
   {
    "source": "रातोपाटी",
@@ -45,15 +63,6 @@
    "link": "https://english.khabarhub.com/2026/24/572980/",
    "date": "Sat, 24 Oct 2026 06:27:19 +0000",
    "ts": 1792823239000
-  },
-  {
-   "source": "The Kathmandu Post",
-   "sourceId": "kathmandupost",
-   "site": "https://kathmandupost.com",
-   "title": "After Nepal’s recent disaster, it wants to test whether COP31 can deliver climate justice",
-   "link": "https://kathmandupost.com/climate-environment/2026/10/22/after-nepal-s-recent-disaster-it-wants-to-test-whether-cop31-can-deliver-climate-justice",
-   "date": "",
-   "ts": 0
   }
  ],
  "incidents": [],
@@ -63,17 +72,17 @@
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "source": "अनलाइनखबर",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "source": "सेतोपाटी",
@@ -83,12 +92,12 @@
   {
    "source": "Khabarhub (English)",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "source": "The Kathmandu Post",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "source": "incidents",
