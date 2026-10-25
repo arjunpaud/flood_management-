@@ -1,24 +1,6 @@
 {
- "generatedAt": "2026-10-25T18:55:14.907Z",
+ "generatedAt": "2026-10-25T21:17:26.522Z",
  "news": [
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "सप्तकोसी बोट दुर्घटना: मृतक एक जनाको पहिचान खुल्यो, तीन जना अझै बेपत्ता",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/saptakoshi-boat-accident-one-person-identified-three-still-missing-37-75.html",
-   "date": "Sun, 25 Oct 2026 22:04:10 +0545",
-   "ts": 1792945150000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "भोटेकोशी बाढीले सर्वसाधारणको निजी सम्पत्तिमा ७९ अर्बको क्षति",
-   "link": "https://nagariknews.nagariknetwork.com/economy/bhotekoshi-flood-causes-rs-79-billion-damage-to-private-property-of-the-general-public-81-88.html",
-   "date": "Sun, 25 Oct 2026 21:56:32 +0545",
-   "ts": 1792944692000
-  },
   {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
@@ -65,15 +47,6 @@
    "ts": 1792935066000
   },
   {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "चितवनमा बोलेरो जिप दुर्घटना, १८ जना घाइते",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/bolero-jeep-overturns-in-chitwan-18-injured-73-45.html",
-   "date": "Sun, 25 Oct 2026 19:04:40 +0545",
-   "ts": 1792934380000
-  },
-  {
    "source": "Khabarhub (English)",
    "sourceId": "khabarhub",
    "site": "https://english.khabarhub.com",
@@ -81,24 +54,6 @@
    "link": "https://english.khabarhub.com/2026/25/573119/",
    "date": "Sun, 25 Oct 2026 13:16:05 +0000",
    "ts": 1792934165000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "२४ घण्टामा १३ विपद्का घटना: एकको मृत्यु, १३ लाखभन्दा बढीको क्षति",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/13-disasters-across-the-country-one-dead-eight-injured-75-84.html",
-   "date": "Sun, 25 Oct 2026 18:43:15 +0545",
-   "ts": 1792933095000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "बाढीले अवरुद्ध बेनीघाट-तातोपानी सडक खुल्यो, स्थायी निर्माणको तयारी थालिने",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/benighat-tatopani-road-blocked-by-flood-reopens-preparations-for-permanent-construction-to-begin-91-70.html",
-   "date": "Sun, 25 Oct 2026 18:40:58 +0545",
-   "ts": 1792932958000
   },
   {
    "source": "अनलाइनखबर",
@@ -117,6 +72,33 @@
    "link": "https://english.khabarhub.com/2026/25/573084/",
    "date": "Sun, 25 Oct 2026 07:47:53 +0000",
    "ts": 1792914473000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "‘भोटेकोशी बाढी जलवायुजन्य घटना हो, यसमा दुविधा छैन’",
+   "link": "https://nagariknews.nagariknetwork.com/interview/bhotekoshi-flood-is-a-climate-related-event-there-is-no-doubt-about-it-71-37.html",
+   "date": "Wed, 09 Sep 2026 11:11:15 +0545",
+   "ts": 1788931575000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "महाप्रलयजस्तो बाढी आउँदैछ भनेर हामीले स्पष्ट रूपमा बुझाउन सकेनौँ : डा उप्रेती",
+   "link": "https://nagariknews.nagariknetwork.com/interview/we-could-not-clearly-say-that-a-flood-like-a-great-flood-was-coming-dr-upreti-95-38.html",
+   "date": "Tue, 01 Sep 2026 14:56:19 +0545",
+   "ts": 1788253879000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "'भोटेकोशी बाढीबारे समयमै पूर्वसूचना दिन पाएको भए अझ धेरैको ज्यान जोगाउन सकिन्थ्यो'",
+   "link": "https://nagariknews.nagariknetwork.com/interview/if-we-had-been-able-to-provide-timely-advance-warning-about-the-bhotekoshi-floods-many-more-lives-could-have-been-saved-59-39.html",
+   "date": "Mon, 31 Aug 2026 11:02:37 +0545",
+   "ts": 1788153457000
   },
   {
    "source": "The Kathmandu Post",
@@ -163,7 +145,7 @@
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 6
+   "count": 4
   },
   {
    "source": "सेतोपाटी",
