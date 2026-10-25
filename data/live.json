@@ -1,6 +1,24 @@
 {
- "generatedAt": "2026-10-25T16:01:21.535Z",
+ "generatedAt": "2026-10-25T18:55:14.907Z",
  "news": [
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "सप्तकोसी बोट दुर्घटना: मृतक एक जनाको पहिचान खुल्यो, तीन जना अझै बेपत्ता",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/saptakoshi-boat-accident-one-person-identified-three-still-missing-37-75.html",
+   "date": "Sun, 25 Oct 2026 22:04:10 +0545",
+   "ts": 1792945150000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "भोटेकोशी बाढीले सर्वसाधारणको निजी सम्पत्तिमा ७९ अर्बको क्षति",
+   "link": "https://nagariknews.nagariknetwork.com/economy/bhotekoshi-flood-causes-rs-79-billion-damage-to-private-property-of-the-general-public-81-88.html",
+   "date": "Sun, 25 Oct 2026 21:56:32 +0545",
+   "ts": 1792944692000
+  },
   {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
@@ -56,15 +74,6 @@
    "ts": 1792934380000
   },
   {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "देशभर १३ विपद्का घटना, एकको मृत्यु,  ८ जना घाइते",
-   "link": "https://www.ratopati.com/story/601209/13-disasters-across-the-country-one-dead-8-injured",
-   "date": "Sun, 25 Oct 2026 13:17:48 +0000",
-   "ts": 1792934268000
-  },
-  {
    "source": "Khabarhub (English)",
    "sourceId": "khabarhub",
    "site": "https://english.khabarhub.com",
@@ -99,15 +108,6 @@
    "link": "https://www.onlinekhabar.com/2026/10/2043707/half-of-rasuwa-flood-victims-want-to-live-on-their-own-land",
    "date": "Sun, 25 Oct 2026 12:32:15 +0000",
    "ts": 1792931535000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "मोटरबोट दुर्घटना अपडेट :  ३ जनाको मृत्यु, ४ जना बेपत्ता",
-   "link": "https://www.ratopati.com/story/601206/motorboat-accident-update-4-missing-9-safe",
-   "date": "Sun, 25 Oct 2026 12:31:02 +0000",
-   "ts": 1792931462000
   },
   {
    "source": "Khabarhub (English)",
@@ -153,7 +153,7 @@
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 2
+   "count": 0
   },
   {
    "source": "अनलाइनखबर",
@@ -163,7 +163,7 @@
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 4
+   "count": 6
   },
   {
    "source": "सेतोपाटी",
