@@ -1,50 +1,113 @@
 {
- "generatedAt": "2026-10-25T12:01:23.600Z",
+ "generatedAt": "2026-10-25T16:01:21.535Z",
  "news": [
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "पीडीएनए प्रारम्भिक नतिजा : रसुवा बाढीले निजी सम्पत्ति र व्यवसायमा ७९ अर्बको क्षति",
+   "link": "https://www.onlinekhabar.com/2026/10/2043759/pdna-preliminary-results-rasuwa-floods-cause-rs-79-billion-in-damage-to-private-property-and-businesses",
+   "date": "Sun, 25 Oct 2026 15:23:47 +0000",
+   "ts": 1792941827000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "पाकिस्तानका अलराउन्डर मोहम्मद नवाजले चितवन राइनोजबाट एनपीएल खेल्ने",
+   "link": "https://www.onlinekhabar.com/2026/10/2043827/pakistan-all-rounder-mohammad-nawaz-to-play-npl-for-chitwan-rhinos",
+   "date": "Sun, 25 Oct 2026 14:13:18 +0000",
+   "ts": 1792937598000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "देशभर १३ विपद्का घटना, एकको मृत्यु, आठ जना घाइते",
+   "link": "https://www.onlinekhabar.com/2026/10/2043806/13-disasters-across-the-country-one-dead-eight-injured",
+   "date": "Sun, 25 Oct 2026 13:51:30 +0000",
+   "ts": 1792936290000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "सप्तकोशीमा पानीबोट दुर्घटना : तीन जना अझै बेपत्ता",
+   "link": "https://www.onlinekhabar.com/2026/10/2043794/boat-accident-in-saptakoshi-three-people-still-missing",
+   "date": "Sun, 25 Oct 2026 13:32:33 +0000",
+   "ts": 1792935153000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "‘पहाडहरु भिजेका छन्, पहिरोको जोखिम उच्च छ’",
+   "link": "https://nagariknews.nagariknetwork.com/interview/the-mountains-are-wet-the-risk-of-landslides-is-high-13-13.html",
+   "date": "Sun, 25 Oct 2026 19:16:06 +0545",
+   "ts": 1792935066000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "चितवनमा बोलेरो जिप दुर्घटना, १८ जना घाइते",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/bolero-jeep-overturns-in-chitwan-18-injured-73-45.html",
+   "date": "Sun, 25 Oct 2026 19:04:40 +0545",
+   "ts": 1792934380000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "देशभर १३ विपद्का घटना, एकको मृत्यु,  ८ जना घाइते",
+   "link": "https://www.ratopati.com/story/601209/13-disasters-across-the-country-one-dead-8-injured",
+   "date": "Sun, 25 Oct 2026 13:17:48 +0000",
+   "ts": 1792934268000
+  },
+  {
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "One dead, eight injured in 13 disaster incidents in 24 hours",
+   "link": "https://english.khabarhub.com/2026/25/573119/",
+   "date": "Sun, 25 Oct 2026 13:16:05 +0000",
+   "ts": 1792934165000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "२४ घण्टामा १३ विपद्का घटना: एकको मृत्यु, १३ लाखभन्दा बढीको क्षति",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/13-disasters-across-the-country-one-dead-eight-injured-75-84.html",
+   "date": "Sun, 25 Oct 2026 18:43:15 +0545",
+   "ts": 1792933095000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "बाढीले अवरुद्ध बेनीघाट-तातोपानी सडक खुल्यो, स्थायी निर्माणको तयारी थालिने",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/benighat-tatopani-road-blocked-by-flood-reopens-preparations-for-permanent-construction-to-begin-91-70.html",
+   "date": "Sun, 25 Oct 2026 18:40:58 +0545",
+   "ts": 1792932958000
+  },
   {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
    "site": "https://www.onlinekhabar.com",
    "title": "आफ्नै स्वामित्वको जग्गामा बस्न चाहन्छन् रसुवा बाढीका आधा प्रभावित",
    "link": "https://www.onlinekhabar.com/2026/10/2043707/half-of-rasuwa-flood-victims-want-to-live-on-their-own-land",
-   "date": "Sun, 25 Oct 2026 11:32:15 +0000",
-   "ts": 1792927935000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "भोटेकोशी बाढीमा बेपत्ता इन्जिनियर खरेलको कुशको शव बनाएर अन्त्येष्टि गरिने",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/the-body-of-engineer-kharel-kush-who-disappeared-in-the-bhotekoshi-flood-will-be-cremated-and-buried-37-93.html",
-   "date": "Sun, 25 Oct 2026 17:00:49 +0545",
-   "ts": 1792926949000
+   "date": "Sun, 25 Oct 2026 12:32:15 +0000",
+   "ts": 1792931535000
   },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
    "site": "https://www.ratopati.com",
-   "title": "सप्तकोसीमा मोटरबोट दुर्घटना : ३ जनाको मृत्यु, ३ बेपत्ता",
-   "link": "https://www.ratopati.com/story/601189/motorboat-accident-in-saptakoshi-3-dead-3-missing",
-   "date": "Sun, 25 Oct 2026 10:41:54 +0000",
-   "ts": 1792924914000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "दसैँ मनाउना साथ भारत फर्किँनेको ओइरो",
-   "link": "https://www.ratopati.com/story/601179/the-flood-of-people-returning-to-india-to-celebrate-dashain",
-   "date": "Sun, 25 Oct 2026 09:18:15 +0000",
-   "ts": 1792919895000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "भोटेकोशी बाढीमा बेपत्ता कञ्चनपुरका सैनिक चन्दको दुई महिनापछि अन्त्यष्टि",
-   "link": "https://www.onlinekhabar.com/2026/10/2043616/funeral-of-kanchanpur-soldier-chand-who-went-missing-in-bhotekoshi-floods-held-two-months-later",
-   "date": "Sun, 25 Oct 2026 08:05:14 +0000",
-   "ts": 1792915514000
+   "title": "मोटरबोट दुर्घटना अपडेट :  ३ जनाको मृत्यु, ४ जना बेपत्ता",
+   "link": "https://www.ratopati.com/story/601206/motorboat-accident-update-4-missing-9-safe",
+   "date": "Sun, 25 Oct 2026 12:31:02 +0000",
+   "ts": 1792931462000
   },
   {
    "source": "Khabarhub (English)",
@@ -56,13 +119,13 @@
    "ts": 1792914473000
   },
   {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "बाढीपछिको नेपाल : जनस्वास्थ्य सुरक्षा र दिगो पुनर्स्थापनाका लागि भौगोलिक दृष्टिकोण",
-   "link": "https://www.onlinekhabar.com/2026/10/2043393/nepal-after-the-floods-a-geographical-perspective-for-public-health-security-and-sustainable-recovery",
-   "date": "Sun, 25 Oct 2026 06:13:01 +0000",
-   "ts": 1792908781000
+   "source": "The Kathmandu Post",
+   "sourceId": "kathmandupost",
+   "site": "https://kathmandupost.com",
+   "title": "Three dead, three missing in motorboat accident in eastern Nepal",
+   "link": "https://kathmandupost.com/province-no-1/2026/10/25/three-dead-three-missing-in-motorboat-accident-in-eastern-nepal",
+   "date": "",
+   "ts": 0
   },
   {
    "source": "The Kathmandu Post",
@@ -95,12 +158,12 @@
   {
    "source": "अनलाइनखबर",
    "ok": true,
-   "count": 3
+   "count": 5
   },
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 1
+   "count": 4
   },
   {
    "source": "सेतोपाटी",
@@ -110,12 +173,12 @@
   {
    "source": "Khabarhub (English)",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "source": "The Kathmandu Post",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "source": "incidents",
