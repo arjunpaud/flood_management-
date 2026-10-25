@@ -1,6 +1,15 @@
 {
- "generatedAt": "2026-10-24T23:37:33.239Z",
+ "generatedAt": "2026-10-25T01:33:26.769Z",
  "news": [
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "फापरखेत पहिरो र सिङ्गा–तातोपानी कुण्ड संरक्षणमा मन्त्री पुनको चासो",
+   "link": "https://nagariknews.nagariknetwork.com/politics/minister-pun-s-interest-in-phaparkhet-landslide-and-protection-of-singa-tatopani-pond-br-40-67.html",
+   "date": "Sun, 25 Oct 2026 06:50:01 +0545",
+   "ts": 1792890301000
+  },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
@@ -29,15 +38,6 @@
    "ts": 1792849263000
   },
   {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "देशभर २० विपद्का घटना, आठ जना घाइते",
-   "link": "https://www.ratopati.com/story/601089/20-disaster-incidents-across-the-country-eight-injured",
-   "date": "Sat, 24 Oct 2026 13:35:00 +0000",
-   "ts": 1792848900000
-  },
-  {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
    "site": "https://www.onlinekhabar.com",
@@ -54,15 +54,6 @@
    "link": "https://www.onlinekhabar.com/2026/10/2043165/bodies-of-two-missing-japanese-climbers-found-in-gangapurna-himalayas",
    "date": "Sat, 24 Oct 2026 08:22:19 +0000",
    "ts": 1792830139000
-  },
-  {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "Bodies of missing Japanese climbers found in Manang",
-   "link": "https://english.khabarhub.com/2026/24/572980/",
-   "date": "Sat, 24 Oct 2026 06:27:19 +0000",
-   "ts": 1792823239000
   }
  ],
  "incidents": [],
@@ -72,7 +63,7 @@
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "source": "अनलाइनखबर",
@@ -82,7 +73,7 @@
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "source": "सेतोपाटी",
@@ -92,7 +83,7 @@
   {
    "source": "Khabarhub (English)",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "source": "The Kathmandu Post",
