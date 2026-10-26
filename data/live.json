@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T23:18:18.925Z",
+ "generatedAt": "2026-10-26T01:15:35.469Z",
  "news": [
   {
    "source": "अनलाइनखबर",
@@ -38,6 +38,15 @@
    "ts": 1792935153000
   },
   {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "‘पहाडहरु भिजेका छन्, पहिरोको जोखिम उच्च छ’",
+   "link": "https://nagariknews.nagariknetwork.com/interview/the-mountains-are-wet-the-risk-of-landslides-is-high-13-13.html",
+   "date": "Sun, 25 Oct 2026 19:16:06 +0545",
+   "ts": 1792935066000
+  },
+  {
    "source": "Khabarhub (English)",
    "sourceId": "khabarhub",
    "site": "https://english.khabarhub.com",
@@ -56,13 +65,31 @@
    "ts": 1792931535000
   },
   {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "Power supply restored in disaster-hit areas of Myagdi",
-   "link": "https://english.khabarhub.com/2026/25/573084/",
-   "date": "Sun, 25 Oct 2026 07:47:53 +0000",
-   "ts": 1792914473000
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "‘भोटेकोशी बाढी जलवायुजन्य घटना हो, यसमा दुविधा छैन’",
+   "link": "https://nagariknews.nagariknetwork.com/interview/bhotekoshi-flood-is-a-climate-related-event-there-is-no-doubt-about-it-71-37.html",
+   "date": "Wed, 09 Sep 2026 11:11:15 +0545",
+   "ts": 1788931575000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "महाप्रलयजस्तो बाढी आउँदैछ भनेर हामीले स्पष्ट रूपमा बुझाउन सकेनौँ : डा उप्रेती",
+   "link": "https://nagariknews.nagariknetwork.com/interview/we-could-not-clearly-say-that-a-flood-like-a-great-flood-was-coming-dr-upreti-95-38.html",
+   "date": "Tue, 01 Sep 2026 14:56:19 +0545",
+   "ts": 1788253879000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "'भोटेकोशी बाढीबारे समयमै पूर्वसूचना दिन पाएको भए अझ धेरैको ज्यान जोगाउन सकिन्थ्यो'",
+   "link": "https://nagariknews.nagariknetwork.com/interview/if-we-had-been-able-to-provide-timely-advance-warning-about-the-bhotekoshi-floods-many-more-lives-could-have-been-saved-59-39.html",
+   "date": "Mon, 31 Aug 2026 11:02:37 +0545",
+   "ts": 1788153457000
   },
   {
    "source": "The Kathmandu Post",
@@ -109,7 +136,7 @@
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 0
+   "count": 4
   },
   {
    "source": "सेतोपाटी",
@@ -119,7 +146,7 @@
   {
    "source": "Khabarhub (English)",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "source": "The Kathmandu Post",
