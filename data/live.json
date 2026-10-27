@@ -1,23 +1,14 @@
 {
- "generatedAt": "2026-10-27T13:24:24.077Z",
+ "generatedAt": "2026-10-27T18:46:44.926Z",
  "news": [
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "सुनकोसी सुमो जीप दुर्घटना: बेपत्ता तीनमध्ये दुई यात्रुको श’व फेला",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/sunkoshi-sumo-jeep-accident-bodies-of-two-of-the-three-missing-passengers-found-92-69.html",
-   "date": "Tue, 27 Oct 2026 17:35:01 +0545",
-   "ts": 1793101801000
-  },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
    "site": "https://www.ratopati.com",
-   "title": "चितवनसँग हारपछि कप्तान सन्दीप लामिछानेले के भने ?",
-   "link": "https://www.ratopati.com/story/601621/what-did-captain-sandeep-lamichhane-say-after-the-loss-to-chitwan",
-   "date": "Tue, 27 Oct 2026 11:13:58 +0000",
-   "ts": 1793099638000
+   "title": "अन्तर्राष्ट्रिय धादिङ समाजको अध्यक्षमा बद्री खतिवडा, जिल्लामा रोजगारी सिर्जनासहितका योजना",
+   "link": "https://www.ratopati.com/story/601677/badri-khatiwada-appointed-as-president-of-international-dhading-society-plans-to-create-employment-in-the-district",
+   "date": "Tue, 27 Oct 2026 15:59:49 +0000",
+   "ts": 1793116789000
   },
   {
    "source": "अनलाइनखबर",
@@ -38,15 +29,6 @@
    "ts": 1793093238000
   },
   {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "मलानकाे अर्धशतकमा चितवनले विराटनगरलाई दियो १५८ रनको लक्ष्य",
-   "link": "https://www.onlinekhabar.com/2026/10/2044868/malans-half-century-helps-chitwan-set-a-target-of-158-runs-for-biratnagar",
-   "date": "Tue, 27 Oct 2026 08:27:47 +0000",
-   "ts": 1793089667000
-  },
-  {
    "source": "Khabarhub (English)",
    "sourceId": "khabarhub",
    "site": "https://english.khabarhub.com",
@@ -56,22 +38,13 @@
    "ts": 1793089095000
   },
   {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "Tourist arrivals rebound in Sauraha after floods and road disruptions",
-   "link": "https://english.khabarhub.com/2026/27/573344/",
-   "date": "Tue, 27 Oct 2026 07:35:16 +0000",
-   "ts": 1793086516000
-  },
-  {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "Floods and landslides trigger drinking water shortage in Beni",
-   "link": "https://english.khabarhub.com/2026/27/573335/",
-   "date": "Tue, 27 Oct 2026 07:22:45 +0000",
-   "ts": 1793085765000
+   "source": "The Kathmandu Post",
+   "sourceId": "kathmandupost",
+   "site": "https://kathmandupost.com",
+   "title": "Nuwakot flood victims form struggle committee to pressure federal government for help",
+   "link": "https://kathmandupost.com/national/2026/10/27/nuwakot-flood-victims-form-struggle-committee-to-pressure-federal-government-for-help",
+   "date": "",
+   "ts": 0
   },
   {
    "source": "The Kathmandu Post",
@@ -104,12 +77,12 @@
   {
    "source": "अनलाइनखबर",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "source": "सेतोपाटी",
@@ -119,12 +92,12 @@
   {
    "source": "Khabarhub (English)",
    "ok": true,
-   "count": 3
+   "count": 1
   },
   {
    "source": "The Kathmandu Post",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "source": "incidents",
