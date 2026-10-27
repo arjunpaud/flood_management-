@@ -1,14 +1,77 @@
 {
- "generatedAt": "2026-10-27T01:59:51.278Z",
+ "generatedAt": "2026-10-27T07:21:11.204Z",
  "news": [
   {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "बाढीपहिरोले पाइपलाइन बगाएपछि बेनीमा खानेपानीको समस्या",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/drinking-water-problem-in-beni-after-floods-and-landslides-wash-away-pipeline-47-59.html",
-   "date": "Tue, 27 Oct 2026 07:17:43 +0545",
-   "ts": 1793064763000
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "जग्गा कित्ताकाट खुलाउन चितवनका व्यवसायीको माग, सहजीकरण गर्ने मन्त्री रावलको आश्वासन",
+   "link": "https://www.onlinekhabar.com/2026/10/2044679/chitwan-businessmen-demand-clarification-of-land-allotment-minister-rawal-assures-to-facilitate",
+   "date": "Tue, 27 Oct 2026 06:36:20 +0000",
+   "ts": 1793082980000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "विराटनगरविरुद्ध रवि बोपाराको कप्तानीमा चितवन, कुशल मल्ल बेन्चमा",
+   "link": "https://www.onlinekhabar.com/2026/10/2044653/chitwan-to-face-biratnagar-under-ravi-boparas-captaincy-kushal-malla-on-bench",
+   "date": "Tue, 27 Oct 2026 06:36:14 +0000",
+   "ts": 1793082974000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "विराटनगर किङ्स र चितवन राइनोजबिच प्रतिस्पर्धा",
+   "link": "https://www.ratopati.com/story/601525/rivalry-between-biratnagar-kings-and-chitwan-rhinos",
+   "date": "Tue, 27 Oct 2026 06:33:56 +0000",
+   "ts": 1793082836000
+  },
+  {
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "Deposits in PM’s relief funds exceed Rs. 18.13 billion",
+   "link": "https://english.khabarhub.com/2026/27/573321/",
+   "date": "Tue, 27 Oct 2026 06:18:42 +0000",
+   "ts": 1793081922000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "भोटेकोशी बाढीपीडितलाई पशुपति फाउन्डेसन अमेरिकाको डेढ करोड सहयोग",
+   "link": "https://www.onlinekhabar.com/2026/10/2044687/pashupati-foundation-of-america-provides-rs-15-million-to-bhotekoshi-flood-victims",
+   "date": "Tue, 27 Oct 2026 05:52:23 +0000",
+   "ts": 1793080343000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "नेपालका बाढीपीडितका लागि अस्ट्रेलियाली फिल्म निर्माताद्वारा ३ हजार डलर सहयोग",
+   "link": "https://www.onlinekhabar.com/2026/10/2044676/australian-filmmaker-donates-3000-to-nepal-flood-victims",
+   "date": "Tue, 27 Oct 2026 05:42:35 +0000",
+   "ts": 1793079755000
+  },
+  {
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "Two months after Bhotekoshi flood, families still await DNA results for missing relatives",
+   "link": "https://english.khabarhub.com/2026/27/573310/",
+   "date": "Tue, 27 Oct 2026 05:03:08 +0000",
+   "ts": 1793077388000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "चितवनको धारापानीमा ट्रक, बस र माइक्रोबस ठोक्किए, ११ जना घाइते",
+   "link": "https://www.onlinekhabar.com/2026/10/2044638/truck-bus-and-microbus-collide-in-kurintar-11-injured",
+   "date": "Tue, 27 Oct 2026 04:17:56 +0000",
+   "ts": 1793074676000
   },
   {
    "source": "अनलाइनखबर",
@@ -20,42 +83,6 @@
    "ts": 1793063393000
   },
   {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "एनपीएलमा आज विराटनगर र चितवन तथा जनकपुर र कर्णाली भिड्दै, अघिल्लो संस्करणको नतिजा कस्तो थियो ?",
-   "link": "https://www.ratopati.com/story/601469/biratnagar-and-chitwan-and-janakpur-and-karnali-are-facing-off-today-in-the-npl-what-were-the-results-of-the-previous-edition",
-   "date": "Tue, 27 Oct 2026 00:59:02 +0000",
-   "ts": 1793062742000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "एनपिएलमा आज दुई खेल, विराटनगर र चितवन भिड्दै",
-   "link": "https://nagariknews.nagariknetwork.com/sports/two-matches-in-npl-today-biratnagar-and-chitwan-clash-94-38.html",
-   "date": "Tue, 27 Oct 2026 06:43:41 +0545",
-   "ts": 1793062721000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "बेलायतस्थित व्यवसायी उत्तम नेपालद्वारा बाढी पीडितका लागि एक करोड सहयोग",
-   "link": "https://nagariknews.nagariknetwork.com/diaspora/uk-based-businessman-uttam-nepal-donates-rs-10-million-to-flood-victims-43-32.html",
-   "date": "Tue, 27 Oct 2026 06:33:48 +0545",
-   "ts": 1793062128000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "बाढीपहिरोले पाइपलाइन बगाएपछि बेनीमा खानेपानीको समस्या",
-   "link": "https://www.ratopati.com/story/601468/drinking-water-problem-in-beni-after-floods-and-landslides-wash-away-pipeline",
-   "date": "Tue, 27 Oct 2026 00:41:55 +0000",
-   "ts": 1793061715000
-  },
-  {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
    "site": "https://www.onlinekhabar.com",
@@ -65,49 +92,31 @@
    "ts": 1793061603000
   },
   {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "भोटेकोशी बाढीः डीएनए रिपोर्टको प्रतीक्षामै बित्यो दसैँ",
-   "link": "https://www.ratopati.com/story/601466/bhotekoshi-flood-dashain-spent-waiting-for-dna-report",
-   "date": "Tue, 27 Oct 2026 00:37:40 +0000",
-   "ts": 1793061460000
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "विपद् जोखिम थाहा छ, तयारी कहाँ छ?",
+   "link": "https://nagariknews.nagariknetwork.com/blog/disaster-risk-is-known-where-is-the-preparation-br-97-83.html",
+   "date": "Fri, 16 Oct 2026 12:43:08 +0545",
+   "ts": 1792133888000
   },
   {
    "source": "नागरिक",
    "sourceId": "nagarik",
    "site": "https://nagariknews.nagariknetwork.com",
-   "title": "भोटेकोशी बाढीः डीएनए रिपोर्टको प्रतीक्षामै बित्यो दसैँ",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/bhotekoshi-flood-dashain-spent-waiting-for-dna-report-61-68.html",
-   "date": "Tue, 27 Oct 2026 06:22:12 +0545",
-   "ts": 1793061432000
+   "title": "भोटेकोशी विपत्तिका ४५ दिनः प्रियजनकाे सम्झनाले पिराेलिरहन्छ",
+   "link": "https://nagariknews.nagariknetwork.com/blog/45-days-of-the-bhotekoshi-disaster-the-flooded-settlement-is-not-lost-br-38-68.html",
+   "date": "Fri, 09 Oct 2026 12:42:55 +0545",
+   "ts": 1791529075000
   },
   {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "सुनकोशीमा बेपत्ता तीनमध्ये दुई जनाको शव फेला",
-   "link": "https://www.ratopati.com/story/601461/bodies-of-two-of-three-missing-people-found-in-sunkoshi",
-   "date": "Mon, 26 Oct 2026 17:08:17 +0000",
-   "ts": 1793034497000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "मझिया स्मृति कप महिला फुटबलमा पदमा स्पोर्ट्स क्लबको फराकिलो जित",
-   "link": "https://www.onlinekhabar.com/2026/10/2044501/sports-club-wins-by-a-landslide-in-majhia-memorial-cup-womens-football",
-   "date": "Mon, 26 Oct 2026 16:03:15 +0000",
-   "ts": 1793030595000
-  },
-  {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "23 disaster incidents reported in 24 hours, six dead, three missing",
-   "link": "https://english.khabarhub.com/2026/26/573255/",
-   "date": "Mon, 26 Oct 2026 13:15:11 +0000",
-   "ts": 1793020511000
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "मनसुनजन्य विपद् अझै तर्सिरहन्छ टीकाभैरव",
+   "link": "https://nagariknews.nagariknetwork.com/blog/monsoon-induced-disasters-still-loom-large-says-tika-bhairav-br-41-26.html",
+   "date": "Fri, 25 Sep 2026 13:50:10 +0545",
+   "ts": 1790323510000
   },
   {
    "source": "The Kathmandu Post",
@@ -144,15 +153,6 @@
    "link": "https://kathmandupost.com/national/2026/10/26/nepal-to-expand-flood-warning-systems-across-six-river-basins",
    "date": "",
    "ts": 0
-  },
-  {
-   "source": "The Kathmandu Post",
-   "sourceId": "kathmandupost",
-   "site": "https://kathmandupost.com",
-   "title": "Three dead, three missing in motorboat accident in eastern Nepal",
-   "link": "https://kathmandupost.com/province-no-1/2026/10/25/three-dead-three-missing-in-motorboat-accident-in-eastern-nepal",
-   "date": "",
-   "ts": 0
   }
  ],
  "incidents": [],
@@ -162,17 +162,17 @@
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 4
+   "count": 1
   },
   {
    "source": "अनलाइनखबर",
    "ok": true,
-   "count": 3
+   "count": 7
   },
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "source": "सेतोपाटी",
@@ -182,12 +182,12 @@
   {
    "source": "Khabarhub (English)",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "source": "The Kathmandu Post",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "source": "incidents",
