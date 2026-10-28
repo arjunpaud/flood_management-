@@ -1,14 +1,32 @@
 {
- "generatedAt": "2026-10-27T22:38:09.300Z",
+ "generatedAt": "2026-10-28T01:39:02.799Z",
  "news": [
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
    "site": "https://www.ratopati.com",
-   "title": "अन्तर्राष्ट्रिय धादिङ समाजको अध्यक्षमा बद्री खतिवडा, जिल्लामा रोजगारी सिर्जनासहितका योजना",
-   "link": "https://www.ratopati.com/story/601677/badri-khatiwada-appointed-as-president-of-international-dhading-society-plans-to-create-employment-in-the-district",
-   "date": "Tue, 27 Oct 2026 15:59:49 +0000",
-   "ts": 1793116789000
+   "title": "बाढीले सरकारी कार्यालयका कागजात र उपकरण नष्ट, सेवा प्रवाह प्रभावित",
+   "link": "https://www.ratopati.com/story/601716/flood-destroys-documents-and-equipment-in-government-offices-disrupts-service-delivery",
+   "date": "Wed, 28 Oct 2026 01:27:44 +0000",
+   "ts": 1793150864000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "कब्जियतबाट राहत पाउन अपनाउनुहोस् यी उपायहरू",
+   "link": "https://www.ratopati.com/story/601713/follow-these-steps-to-get-relief-from-constipation",
+   "date": "Wed, 28 Oct 2026 01:13:41 +0000",
+   "ts": 1793150021000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "ममता काफ्ले बेपत्ता प्रकरण : श्रीमान् नरेशविरुद्ध परिस्थितिजन्य प्रमाणहरूको सहारा",
+   "link": "https://www.ratopati.com/story/601672/mamta-kafle-missing-case-circumstantial-evidence-relied-on-against-husband-naresh",
+   "date": "Wed, 28 Oct 2026 00:45:00 +0000",
+   "ts": 1793148300000
   },
   {
    "source": "अनलाइनखबर",
@@ -18,24 +36,6 @@
    "link": "https://www.onlinekhabar.com/2026/10/2045029/chitwans-thrilling-win-over-biratnagar-as-the-lotus-shines",
    "date": "Tue, 27 Oct 2026 10:34:56 +0000",
    "ts": 1793097296000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "देउडा खेल्दै मुख्यमन्त्रीलाई स्थानीयको आग्रह- ‘खत्याडको विकास गर, पहिरोले बन्द सडक खोल’",
-   "link": "https://www.onlinekhabar.com/2026/10/2044965/locals-urge-chief-minister-to-develop-khatyad-open-roads-blocked-by-landslides",
-   "date": "Tue, 27 Oct 2026 09:27:18 +0000",
-   "ts": 1793093238000
-  },
-  {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "SPFU contributes around Rs 15 million to Prime Minister’s Disaster Relief Fund",
-   "link": "https://english.khabarhub.com/2026/27/573348/",
-   "date": "Tue, 27 Oct 2026 08:18:15 +0000",
-   "ts": 1793089095000
   },
   {
    "source": "The Kathmandu Post",
@@ -72,12 +72,12 @@
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 1
+   "count": 3
   },
   {
    "source": "अनलाइनखबर",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "source": "नागरिक",
@@ -92,7 +92,7 @@
   {
    "source": "Khabarhub (English)",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "source": "The Kathmandu Post",
