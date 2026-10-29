@@ -1,6 +1,42 @@
 {
- "generatedAt": "2026-10-29T15:41:17.232Z",
+ "generatedAt": "2026-10-29T20:37:47.331Z",
  "news": [
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "१२ बजे १२ समाचार : बिचौलियासँग नाम जोडिएपछि आफूलाई चोखो देखाउन विज्ञप्तिको बाढी, सीजी मोटर्सको लापरबाही",
+   "link": "https://www.ratopati.com/story/602139/12-oclock-12-news-flood-of-press-releases-to-show-itself-clean-after-being-linked-to-middlemen-cg-motors-negligence",
+   "date": "Thu, 29 Oct 2026 18:15:30 +0000",
+   "ts": 1793297730000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "धादिङमा सिग्नेचर ब्रिजसहित पाँच सडकको स्तरोन्नति गरिने",
+   "link": "https://www.ratopati.com/story/602138/five-roads-including-signature-bridge-to-be-upgraded-in-dhading",
+   "date": "Thu, 29 Oct 2026 17:45:50 +0000",
+   "ts": 1793295950000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "बिचौलिया इनम सापकोटासँग नाम जोडिएपछि आफूलाई चोखो देखाउन विज्ञप्तिको बाढी, कसको पत्याउने ?",
+   "link": "https://www.ratopati.com/story/602135/after-being-linked-to-middleman-inam-sapkota-there-is-a-flood-of-statements-to-make-themselves-look-clean-who-to-believe",
+   "date": "Thu, 29 Oct 2026 17:19:18 +0000",
+   "ts": 1793294358000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "चितवनमा ४६ ग्रामभन्दा बढी खैरो हेरोइनसहित तीन जना पक्राउ",
+   "link": "https://www.ratopati.com/story/602133/three-arrested-with-over-46-grams-of-brown-heroin-in-chitwan",
+   "date": "Thu, 29 Oct 2026 16:47:46 +0000",
+   "ts": 1793292466000
+  },
   {
    "source": "Khabarhub (English)",
    "sourceId": "khabarhub",
@@ -20,15 +56,6 @@
    "ts": 1793282477000
   },
   {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "कांग्रेसको पहिलो बैठक : चियापान होइन बाढीपीडितको राहतमा जुट्ने, चार–चार महिनामा कामको समीक्षा गर्ने",
-   "link": "https://www.ratopati.com/story/602100/first-meeting-of-congress-not-a-tea-party-but-a-focus-on-flood-relief-review-of-work-every-four-months",
-   "date": "Thu, 29 Oct 2026 13:29:37 +0000",
-   "ts": 1793280577000
-  },
-  {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
    "site": "https://www.onlinekhabar.com",
@@ -45,6 +72,15 @@
    "link": "https://www.onlinekhabar.com/2026/10/2046657/reconstruction-in-bhotekoshi-and-kaligandaki-corridor-areas-to-move-forward-soon-secretary-upadhyay",
    "date": "Thu, 29 Oct 2026 11:43:45 +0000",
    "ts": 1793274225000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "विपद्को छायामा दशैँ, तिनकुनेमा लिङ्गे पिङको रौनक",
+   "link": "https://nagariknews.nagariknetwork.com/photo-feature/dashain-in-the-shadow-of-disaster-the-splendor-of-the-linga-ping-festival-in-tinkune-20-17.html",
+   "date": "Fri, 16 Oct 2026 17:04:12 +0545",
+   "ts": 1792149552000
   },
   {
    "source": "The Kathmandu Post",
@@ -81,7 +117,7 @@
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 1
+   "count": 4
   },
   {
    "source": "अनलाइनखबर",
@@ -91,7 +127,7 @@
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "source": "सेतोपाटी",
