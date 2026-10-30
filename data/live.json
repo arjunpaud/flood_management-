@@ -1,6 +1,15 @@
 {
- "generatedAt": "2026-10-29T20:37:47.331Z",
+ "generatedAt": "2026-10-30T00:16:37.636Z",
  "news": [
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "पाउद्धार पहिरोको प्रारम्भिक भौगर्भिक अध्ययन",
+   "link": "https://www.ratopati.com/story/602160/preliminary-geological-study-of-the-pauddar-landslide",
+   "date": "Thu, 29 Oct 2026 23:48:28 +0000",
+   "ts": 1793317708000
+  },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
@@ -74,15 +83,6 @@
    "ts": 1793274225000
   },
   {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "विपद्को छायामा दशैँ, तिनकुनेमा लिङ्गे पिङको रौनक",
-   "link": "https://nagariknews.nagariknetwork.com/photo-feature/dashain-in-the-shadow-of-disaster-the-splendor-of-the-linga-ping-festival-in-tinkune-20-17.html",
-   "date": "Fri, 16 Oct 2026 17:04:12 +0545",
-   "ts": 1792149552000
-  },
-  {
    "source": "The Kathmandu Post",
    "sourceId": "kathmandupost",
    "site": "https://kathmandupost.com",
@@ -117,7 +117,7 @@
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "source": "अनलाइनखबर",
@@ -127,7 +127,7 @@
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "source": "सेतोपाटी",
