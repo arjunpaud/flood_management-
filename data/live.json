@@ -1,95 +1,167 @@
 {
- "generatedAt": "2026-10-31T06:38:57.744Z",
+ "generatedAt": "2026-10-31T13:01:22.668Z",
  "news": [
   {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "सिस्नेरीमा लेदोसहितको पहिरो हेटौँडा–भीमफेदी–दक्षिणकाली सडक अवरुद्ध",
-   "link": "https://www.ratopati.com/story/602397/landslide-with-debris-in-sisneri-blocks-hetauda-bhimphedi-dakshinkali-road",
-   "date": "Sat, 31 Oct 2026 05:50:17 +0000",
-   "ts": 1793425817000
+   "source": "सेतोपाटी",
+   "sourceId": "setopati",
+   "site": "https://www.setopati.com",
+   "title": "हिमपातपछि बडीमालिकामा फसेका एक जनाको उद्धार, एकको खोजी जारी",
+   "link": "https://www.setopati.com/social/401701",
+   "date": "Sat, 31 Oct 2026 18:42:00 +0545",
+   "ts": 1793451420000
   },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
    "site": "https://www.ratopati.com",
-   "title": "कुलेखानी ड्याममा जलसतह बढेसँगै पहिलो चेतावनी जारी",
-   "link": "https://www.ratopati.com/story/602395/first-warning-issued-as-water-level-rises-at-kulekhani-dam",
-   "date": "Sat, 31 Oct 2026 05:40:47 +0000",
-   "ts": 1793425247000
+   "title": "पाल्पामा विपद् : दश वर्षमा १०२ जनाको मृत्यु",
+   "link": "https://www.ratopati.com/story/602486/disaster-in-palpa-102-people-killed-in-ten-years",
+   "date": "Sat, 31 Oct 2026 12:49:12 +0000",
+   "ts": 1793450952000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "बडीमालिका हिमपात: हेलिकप्टरमार्फत एक युवकको सकुशल उद्धार, अर्का एक अझै बेपत्ता",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/badimalika-snowfall-one-youth-rescued-safely-by-helicopter-another-still-missing-14-73.html",
+   "date": "Sat, 31 Oct 2026 18:32:54 +0545",
+   "ts": 1793450874000
   },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
    "site": "https://www.ratopati.com",
-   "title": "‘अर्नब’ को प्रभाव : यी राजमार्गहरूमा पहिरोको उच्च जोखिम, सतर्क रहन आग्रह",
-   "link": "https://www.ratopati.com/story/602380/impact-of-arnab-high-risk-of-landslides-on-these-highways-urges-caution",
-   "date": "Sat, 31 Oct 2026 04:21:21 +0000",
-   "ts": 1793420481000
+   "title": "सुन्दरीजलबाट सिन्धुपाल्चोक र नुवाकोट जाने सडक अवरुद्ध",
+   "link": "https://www.ratopati.com/story/602484/road-from-sundarijal-to-sindhupalchowk-and-nuwakot-blocked",
+   "date": "Sat, 31 Oct 2026 12:46:16 +0000",
+   "ts": 1793450776000
   },
   {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "Rain-triggered landslides block five major roads",
-   "link": "https://english.khabarhub.com/2026/31/573812/",
-   "date": "Sat, 31 Oct 2026 02:30:59 +0000",
-   "ts": 1793413859000
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "पाल्पामा विपद् : दश वर्षमा १०२ जनाको मृ*त्यु",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/disaster-in-palpa-102-people-die-in-ten-years-br-85-53.html",
+   "date": "Sat, 31 Oct 2026 17:53:44 +0545",
+   "ts": 1793448524000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "१० दिनदेखि बेपत्ता बालक मृत फेला, धानखेतमा भेटियो शव",
+   "link": "https://www.ratopati.com/story/602476/missing-boy-found-dead-after-10-days-body-found-in-rice-field",
+   "date": "Sat, 31 Oct 2026 12:05:49 +0000",
+   "ts": 1793448349000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "पृथ्वी राजमार्गको सीमलधारामा पहिरो, सडक एकतर्फी अवरुद्ध",
+   "link": "https://www.ratopati.com/story/602471/landslide-at-simaldhara-on-prithvi-highway-road-blocked-in-one-direction",
+   "date": "Sat, 31 Oct 2026 11:43:40 +0000",
+   "ts": 1793447020000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "बडीमालिका हिमपात : एक जनाको उद्धार, एकको खोजी जारी",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/badimalika-avalanche-one-person-rescued-search-continues-for-another-br-84-56.html",
+   "date": "Sat, 31 Oct 2026 17:17:11 +0545",
+   "ts": 1793446331000
   },
   {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
    "site": "https://www.onlinekhabar.com",
-   "title": "लगातार दोस्रो जितको लक्ष्यसहित लुम्बिनी र चितवन भिड्दै",
-   "link": "https://www.onlinekhabar.com/2026/10/2047617/lumbini-and-chitwan-clash-with-the-goal-of-a-second-consecutive-win",
-   "date": "Sat, 31 Oct 2026 01:21:00 +0000",
-   "ts": 1793409660000
-  },
-  {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "BP Highway blocked by landslides",
-   "link": "https://english.khabarhub.com/2026/31/573801/",
-   "date": "Sat, 31 Oct 2026 01:08:56 +0000",
-   "ts": 1793408936000
+   "title": "कुलेखानीको जलसतह बढेपछि उच्च सतर्कता अपनाउन सर्लाही प्रशासनको आग्रह",
+   "link": "https://www.onlinekhabar.com/2026/10/2047976/sarlahi-administration-urges-people-to-adopt-high-alert-as-water-level-in-kulekhani-rises",
+   "date": "Sat, 31 Oct 2026 11:18:20 +0000",
+   "ts": 1793445500000
   },
   {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
    "site": "https://www.onlinekhabar.com",
-   "title": "बूढीगण्डकी बाढी प्रभावित क्षेत्रमा ड्रोनमार्फत् पुर्‍याइयो राहत",
-   "link": "https://www.onlinekhabar.com/2026/10/2047043/relief-delivered-via-drone-to-budhigandaki-flood-affected-areas",
-   "date": "Fri, 30 Oct 2026 15:56:25 +0000",
-   "ts": 1793375785000
+   "title": "बडीमालिकामा अलपत्र परेका एक जनाको हेलिकप्टरबाट उद्धार",
+   "link": "https://www.onlinekhabar.com/2026/10/2047970/one-person-stranded-in-badimalika-rescued-by-helicopter",
+   "date": "Sat, 31 Oct 2026 11:11:16 +0000",
+   "ts": 1793445076000
   },
   {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "प्रधानमन्त्री राहत कोषमा ३४ लाख बढी सहयोग",
-   "link": "https://nagariknews.nagariknetwork.com/economy/more-than-3-4-million-donated-to-the-prime-minister-s-relief-fund-74-79.html",
-   "date": "Fri, 30 Oct 2026 21:25:44 +0545",
-   "ts": 1793374844000
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "धनुषामा १० दिनदेखि बेपत्ता बालक धानखेतमा मृ*त फेला",
+   "link": "https://www.onlinekhabar.com/2026/10/2047954/boy-missing-for-10-days-found-dead-in-paddy-field-in-dhanusha",
+   "date": "Sat, 31 Oct 2026 11:03:37 +0000",
+   "ts": 1793444617000
   },
   {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "भोटेकोशी बाढीपीडितलाई फुङलिङ नगरको ३४ लाख सहयोग",
-   "link": "https://nagariknews.nagariknetwork.com/economy/phungling-municipality-provides-rs-3-4-million-assistance-to-bhotekoshi-flood-victims-br-61-63.html",
-   "date": "Fri, 30 Oct 2026 18:12:31 +0545",
-   "ts": 1793363251000
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "सुख्खा पहिरोको त्रासमा डोटीको भारिकोटबासी",
+   "link": "https://www.onlinekhabar.com/2026/10/2047916/dotis-bharikot-residents-fear-dry-landslides",
+   "date": "Sat, 31 Oct 2026 10:05:18 +0000",
+   "ts": 1793441118000
   },
   {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "सहकारीको सकस : कोषमा ६५ करोड, राहत पाउने दायरा  सीमित",
-   "link": "https://nagariknews.nagariknetwork.com/economy/cooperatives-in-trouble-650-million-in-fund-scope-of-relief-limited-50-42.html",
-   "date": "Fri, 30 Oct 2026 09:13:49 +0545",
-   "ts": 1793330929000
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "लुम्बिनी लायन्स र चितवन राइनोजबीचको खेल रद्द, अंक बाँडियो",
+   "link": "https://www.onlinekhabar.com/2026/10/2047876/lumbini-lions-vs-chitwan-rhinos-match-postponed-points-shared",
+   "date": "Sat, 31 Oct 2026 08:34:46 +0000",
+   "ts": 1793435686000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "बडीमालिकामा भारी हिमपात, दुई पर्यटक सम्पर्कविहीन",
+   "link": "https://www.onlinekhabar.com/2026/10/2047873/heavy-snowfall-in-badimalika-two-tourists-missing",
+   "date": "Sat, 31 Oct 2026 08:23:46 +0000",
+   "ts": 1793435026000
+  },
+  {
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "Two tourists missing amid heavy snowfall in Badimalika",
+   "link": "https://english.khabarhub.com/2026/31/573842/",
+   "date": "Sat, 31 Oct 2026 07:40:59 +0000",
+   "ts": 1793432459000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "बडीमालिका दर्शन गर्न पुगेका दुई पर्यटक सम्पर्कविहीन",
+   "link": "https://www.onlinekhabar.com/2026/10/2047836/two-tourists-who-visited-badimalika-go-missing",
+   "date": "Sat, 31 Oct 2026 07:35:10 +0000",
+   "ts": 1793432110000
+  },
+  {
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "More than 12 road sections blocked by floods, landslides",
+   "link": "https://english.khabarhub.com/2026/31/573838/",
+   "date": "Sat, 31 Oct 2026 06:39:45 +0000",
+   "ts": 1793428785000
+  },
+  {
+   "source": "The Kathmandu Post",
+   "sourceId": "kathmandupost",
+   "site": "https://kathmandupost.com",
+   "title": "Rising Kulekhani reservoir prompts flood alert along Bagmati river",
+   "link": "https://kathmandupost.com/national/2026/10/31/rising-kulekhani-reservoir-prompts-flood-alert-along-bagmati-river",
+   "date": "",
+   "ts": 0
   },
   {
    "source": "The Kathmandu Post",
@@ -144,12 +216,12 @@
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "source": "अनलाइनखबर",
    "ok": true,
-   "count": 2
+   "count": 7
   },
   {
    "source": "नागरिक",
@@ -159,7 +231,7 @@
   {
    "source": "सेतोपाटी",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "source": "Khabarhub (English)",
@@ -169,7 +241,7 @@
   {
    "source": "The Kathmandu Post",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "source": "incidents",
