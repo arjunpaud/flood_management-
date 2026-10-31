@@ -1,14 +1,23 @@
 {
- "generatedAt": "2026-10-31T17:38:34.502Z",
+ "generatedAt": "2026-10-31T20:38:55.096Z",
  "news": [
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
    "site": "https://www.ratopati.com",
-   "title": "बडीमालिकामा हिमपातमा फसेका एक पर्यटकको हेलिकप्टरबाट उद्धार",
-   "link": "https://www.ratopati.com/story/602505/tourist-trapped-in-snowfall-in-badimalika-rescued-by-helicopter",
-   "date": "Sat, 31 Oct 2026 15:08:17 +0000",
-   "ts": 1793459297000
+   "title": "देशभरका विपद्का घटनामा एकको मृत्यु, दुई घाइते, लाखौँको क्षति",
+   "link": "https://www.ratopati.com/story/602531/one-dead-two-injured-millions-in-damage-in-disasters-across-the-country",
+   "date": "Sat, 31 Oct 2026 18:19:15 +0000",
+   "ts": 1793470755000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "धनुषामा दश दिनदेखि बेपत्ता सात वर्षीय बालक धानखेतमा मृ’ त फेला",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/seven-year-old-boy-missing-for-ten-days-in-dhanusha-found-dead-in-paddy-field-10-77.html",
+   "date": "Sat, 31 Oct 2026 19:00:02 +0545",
+   "ts": 1793452502000
   },
   {
    "source": "अनलाइनखबर",
@@ -18,6 +27,15 @@
    "link": "https://www.onlinekhabar.com/2026/10/2048048/road-from-sundarijal-to-sindhupalchowk-and-nuwakot-blocked",
    "date": "Sat, 31 Oct 2026 13:05:31 +0000",
    "ts": 1793451931000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "बडीमालिका हिमपात: हेलिकप्टरमार्फत एक युवकको सकुशल उद्धार, अर्का एक अझै बेपत्ता",
+   "link": "https://nagariknews.nagariknetwork.com/social-affairs/badimalika-snowfall-one-youth-rescued-safely-by-helicopter-another-still-missing-14-73.html",
+   "date": "Sat, 31 Oct 2026 18:32:54 +0545",
+   "ts": 1793450874000
   },
   {
    "source": "अनलाइनखबर",
@@ -136,7 +154,7 @@
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 0
+   "count": 2
   },
   {
    "source": "सेतोपाटी",
