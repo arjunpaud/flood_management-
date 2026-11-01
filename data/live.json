@@ -1,6 +1,24 @@
 {
- "generatedAt": "2026-11-01T20:35:09.911Z",
+ "generatedAt": "2026-11-01T23:50:26.959Z",
  "news": [
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "विपद् प्रभावित जलजलामा क्षतिको विवरण सङ्कलन र मूल्याङ्कन अन्तिम चरणमा",
+   "link": "https://www.ratopati.com/story/602740/collection-and-assessment-of-damage-details-in-disaster-affected-water-bodies-in-final-stages",
+   "date": "Sun, 01 Nov 2026 22:48:34 +0000",
+   "ts": 1793573314000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "चितवनमा लङ्गुर बुर्जा नियन्त्रण अभियान",
+   "link": "https://www.ratopati.com/story/602736/langur-burja-control-campaign-in-chitwan",
+   "date": "Sun, 01 Nov 2026 22:33:52 +0000",
+   "ts": 1793572432000
+  },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
@@ -29,13 +47,13 @@
    "ts": 1793548745000
   },
   {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "कांग्रेस देउवा समूहको चितवन सभापतिमा मिलनबाबु श्रेष्ठ",
-   "link": "https://www.ratopati.com/story/602705/milan-babu-shrestha-elected-as-chitwan-president-of-congress-deuba-faction",
-   "date": "Sun, 01 Nov 2026 15:44:32 +0000",
-   "ts": 1793547872000
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "हात गुमाएका पीडितको गुनासो सुनेलगत्तै गृहमन्त्रीले गरे सिडिओलाई फोन",
+   "link": "https://nagariknews.nagariknetwork.com/politics/had-to-amputate-hand-but-no-relief-home-minister-sudhan-gurung-immediately-called-the-cdo-after-the-victim-s-complaint-83-12.html",
+   "date": "Sun, 01 Nov 2026 21:33:03 +0545",
+   "ts": 1793548083000
   },
   {
    "source": "Khabarhub (English)",
@@ -99,7 +117,7 @@
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "source": "अनलाइनखबर",
@@ -109,7 +127,7 @@
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "source": "सेतोपाटी",
