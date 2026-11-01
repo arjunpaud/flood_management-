@@ -1,14 +1,32 @@
 {
- "generatedAt": "2026-11-01T16:19:30.795Z",
+ "generatedAt": "2026-11-01T20:35:09.911Z",
  "news": [
   {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "हात गुमाएका पीडितको गुनासो सुनेलगत्तै गृहमन्त्रीले गरे सिडिओलाई फोन",
-   "link": "https://nagariknews.nagariknetwork.com/politics/had-to-amputate-hand-but-no-relief-home-minister-sudhan-gurung-immediately-called-the-cdo-after-the-victim-s-complaint-83-12.html",
-   "date": "Sun, 01 Nov 2026 21:33:03 +0545",
-   "ts": 1793548083000
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "देशभर सात हजार ६८८ विपद्का घटना, ४०२ जनाको मृत्यु",
+   "link": "https://www.ratopati.com/story/602728/7688-disaster-incidents-across-the-country-402-deaths",
+   "date": "Sun, 01 Nov 2026 17:30:18 +0000",
+   "ts": 1793554218000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "बाढी विस्थापितले किन पाएनन् घरभाडाको १५ हजार ?",
+   "link": "https://www.onlinekhabar.com/2026/11/2048681/why-didnt-flood-displaced-people-get-15000-rupees-for-rent",
+   "date": "Sun, 01 Nov 2026 16:05:41 +0000",
+   "ts": 1793549141000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "विपद न्यूनीकरणको प्रयास : चार हिमतालको पानी घटाउने, पूर्वसूचना प्रणाली विस्तार गर्ने",
+   "link": "https://www.onlinekhabar.com/2026/11/2048219/disaster-mitigation-efforts-reducing-the-water-level-of-four-glacial-lakes-expanding-the-early-warning-system",
+   "date": "Sun, 01 Nov 2026 15:59:05 +0000",
+   "ts": 1793548745000
   },
   {
    "source": "रातोपाटी",
@@ -18,24 +36,6 @@
    "link": "https://www.ratopati.com/story/602705/milan-babu-shrestha-elected-as-chitwan-president-of-congress-deuba-faction",
    "date": "Sun, 01 Nov 2026 15:44:32 +0000",
    "ts": 1793547872000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "बाढी विस्थापितले किन पाएनन् घरभाडाको १५ हजार ?",
-   "link": "https://www.onlinekhabar.com/2026/11/2048681/why-didnt-flood-displaced-people-get-15000-rupees-for-rent",
-   "date": "Sun, 01 Nov 2026 15:36:41 +0000",
-   "ts": 1793547401000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "विपद न्यूनीकरणको प्रयास : चार हिमतालको पानी घटाउने, पूर्वसूचना प्रणाली विस्तार गर्ने",
-   "link": "https://www.onlinekhabar.com/2026/11/2048219/disaster-mitigation-efforts-reducing-the-water-level-of-four-glacial-lakes-expanding-the-early-warning-system",
-   "date": "Sun, 01 Nov 2026 15:30:05 +0000",
-   "ts": 1793547005000
   },
   {
    "source": "Khabarhub (English)",
@@ -54,15 +54,6 @@
    "link": "https://english.khabarhub.com/2026/01/573996/",
    "date": "Sun, 01 Nov 2026 14:54:30 +0000",
    "ts": 1793544870000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "देशभर ४३ विपद्का घटना, १३ जना घाइते",
-   "link": "https://www.ratopati.com/story/602693/43-disaster-incidents-across-the-country-13-injured",
-   "date": "Sun, 01 Nov 2026 14:29:04 +0000",
-   "ts": 1793543344000
   },
   {
    "source": "अनलाइनखबर",
@@ -118,7 +109,7 @@
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "source": "सेतोपाटी",
