@@ -1,122 +1,95 @@
 {
- "generatedAt": "2026-11-01T02:36:10.931Z",
+ "generatedAt": "2026-11-01T09:38:53.376Z",
  "news": [
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "वर्षा र पहिरोले काभ्रे, खोटाङ र ललितपुरका सडक अवरुद्ध",
-   "link": "https://www.onlinekhabar.com/2026/11/2048208/rain-and-landslides-block-roads-in-kavre-khotang-and-lalitpur",
-   "date": "Sun, 01 Nov 2026 01:49:10 +0000",
-   "ts": 1793497750000
-  },
-  {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "Six Indian tourists missing in Dolpa snowfall",
-   "link": "https://english.khabarhub.com/2026/01/573907/",
-   "date": "Sun, 01 Nov 2026 01:46:02 +0000",
-   "ts": 1793497562000
-  },
-  {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "Heavy rainfall triggers landslides, blocks roads in three districts",
-   "link": "https://english.khabarhub.com/2026/01/573904/",
-   "date": "Sun, 01 Nov 2026 01:32:36 +0000",
-   "ts": 1793496756000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "हिमपातले डोल्पामा ६ भारतीय पर्यटक सम्पर्कविहीन, उद्धारका लागि हेलिकप्टर माग",
-   "link": "https://www.onlinekhabar.com/2026/11/2048191/6-indian-tourists-missing-in-dolpa-due-to-snowfall-helicopter-requested-for-rescue",
-   "date": "Sun, 01 Nov 2026 01:23:36 +0000",
-   "ts": 1793496216000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "देशभरका विपद्का घटनामा एक जनाको मृत्यु, दुई घाइते",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/one-dead-two-injured-in-disasters-across-the-country-66-38.html",
-   "date": "Sun, 01 Nov 2026 07:01:26 +0545",
-   "ts": 1793495786000
-  },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
    "site": "https://www.ratopati.com",
-   "title": "वर्षा र पहिरोले अवरुद्ध छन् यी सडक",
-   "link": "https://www.ratopati.com/story/602551/these-roads-are-blocked-by-rain-and-landslides",
-   "date": "Sun, 01 Nov 2026 01:01:58 +0000",
-   "ts": 1793494918000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "वर्षा र पहिरोले काभ्रे, खोटाङ र ललितपुरका सडक अवरुद्ध",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/rain-and-landslides-block-roads-in-kavre-khotang-and-lalitpur-20-70.html",
-   "date": "Sun, 01 Nov 2026 06:44:14 +0545",
-   "ts": 1793494754000
+   "title": "बडीमालिकामा सम्पर्कविहीन युवक मृत फेला",
+   "link": "https://www.ratopati.com/story/602636/uncontacted-youth-found-dead-in-badimalika",
+   "date": "Sun, 01 Nov 2026 09:24:54 +0000",
+   "ts": 1793525094000
   },
   {
    "source": "सेतोपाटी",
    "sourceId": "setopati",
    "site": "https://www.setopati.com",
-   "title": "वर्षा र पहिरोले काभ्रे, खोटाङ र ललितपुरका सडक अवरूद्ध",
-   "link": "https://www.setopati.com/social/401724",
-   "date": "Sun, 01 Nov 2026 06:40:46 +0545",
-   "ts": 1793494546000
+   "title": "७ वर्षको तथ्यांकबाट सिकाइयो पहिरो अनुमान गर्न, त्यसपछिका २ वर्षमा लिइयो परीक्षा",
+   "link": "https://www.setopati.com/social/401752",
+   "date": "Sun, 01 Nov 2026 14:45:49 +0545",
+   "ts": 1793523649000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "नेपाल आइपुगे ७ देशका कन्टेन्ट क्रिएटर, पोखरा, चितवन र बर्दिया जाने",
+   "link": "https://www.onlinekhabar.com/2026/11/2048456/content-creators-from-7-countries-arrive-in-nepal-heading-to-pokhara-chitwan-and-bardiya",
+   "date": "Sun, 01 Nov 2026 08:12:47 +0000",
+   "ts": 1793520767000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "उपल्लो डोल्पामा फसेका ६ भारतीय पर्यटकको उद्धारमा ढिलाइ",
+   "link": "https://www.onlinekhabar.com/2026/11/2048429/rescue-of-6-indian-tourists-stranded-in-upper-dolpa-delayed-due-to-lack-of-helicopter",
+   "date": "Sun, 01 Nov 2026 07:57:56 +0000",
+   "ts": 1793519876000
   },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
    "site": "https://www.ratopati.com",
-   "title": "देशभरका विपद्का घटनामा एकको मृत्यु, दुई घाइते, लाखौँको क्षति",
-   "link": "https://www.ratopati.com/story/602531/one-dead-two-injured-millions-in-damage-in-disasters-across-the-country",
-   "date": "Sat, 31 Oct 2026 18:19:15 +0000",
-   "ts": 1793470755000
+   "title": "धादिङको मझिमटारमा सोमबार तीन घण्टा पृथ्वी राजमार्ग बन्द हुने",
+   "link": "https://www.ratopati.com/story/602615/prithvi-highway-to-be-closed-for-three-hours-in-majhimtar-dhading-on-monday",
+   "date": "Sun, 01 Nov 2026 07:36:43 +0000",
+   "ts": 1793518603000
   },
   {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
    "site": "https://www.onlinekhabar.com",
-   "title": "सुन्दरीजलबाट सिन्धुपाल्चोक र नुवाकोट जाने सडक अवरुद्ध",
-   "link": "https://www.onlinekhabar.com/2026/10/2048048/road-from-sundarijal-to-sindhupalchowk-and-nuwakot-blocked",
-   "date": "Sat, 31 Oct 2026 13:05:31 +0000",
-   "ts": 1793451931000
+   "title": "बडीमालिकामा सम्पर्कविहीन भएका युवक मृ*त फेला",
+   "link": "https://www.onlinekhabar.com/2026/11/2048362/missing-youth-found-dead-in-badimalika",
+   "date": "Sun, 01 Nov 2026 07:05:48 +0000",
+   "ts": 1793516748000
   },
   {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
    "site": "https://www.onlinekhabar.com",
-   "title": "कुलेखानीको जलसतह बढेपछि उच्च सतर्कता अपनाउन सर्लाही प्रशासनको आग्रह",
-   "link": "https://www.onlinekhabar.com/2026/10/2047976/sarlahi-administration-urges-people-to-adopt-high-alert-as-water-level-in-kulekhani-rises",
-   "date": "Sat, 31 Oct 2026 11:18:20 +0000",
-   "ts": 1793445500000
+   "title": "बाढीपीडितको घर सरसफाइमा खटियो अन्टुफको श्रमदान टोली",
+   "link": "https://www.onlinekhabar.com/2026/11/2048371/antufs-shramdan-team-mobilized-to-clean-flood-victims-homes",
+   "date": "Sun, 01 Nov 2026 07:01:30 +0000",
+   "ts": 1793516490000
   },
   {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
    "site": "https://www.onlinekhabar.com",
-   "title": "बडीमालिकामा अलपत्र परेका एक जनाको हेलिकप्टरबाट उद्धार",
-   "link": "https://www.onlinekhabar.com/2026/10/2047970/one-person-stranded-in-badimalika-rescued-by-helicopter",
-   "date": "Sat, 31 Oct 2026 11:11:16 +0000",
-   "ts": 1793445076000
+   "title": "विपद न्यूनीकरणको प्रयास : चार हिमतालको पानी घटाउने, पूर्वसूचना प्रणाली विस्तार गर्ने",
+   "link": "https://www.onlinekhabar.com/2026/11/2048219/disaster-mitigation-efforts-reducing-the-water-level-of-four-glacial-lakes-expanding-the-early-warning-system",
+   "date": "Sun, 01 Nov 2026 04:12:05 +0000",
+   "ts": 1793506325000
   },
   {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "धनुषामा १० दिनदेखि बेपत्ता बालक धानखेतमा मृ*त फेला",
-   "link": "https://www.onlinekhabar.com/2026/10/2047954/boy-missing-for-10-days-found-dead-in-paddy-field-in-dhanusha",
-   "date": "Sat, 31 Oct 2026 11:03:37 +0000",
-   "ts": 1793444617000
+   "source": "Khabarhub (English)",
+   "sourceId": "khabarhub",
+   "site": "https://english.khabarhub.com",
+   "title": "Landslide puts seven houses at risk in Kalikot",
+   "link": "https://english.khabarhub.com/2026/01/573921/",
+   "date": "Sun, 01 Nov 2026 04:08:41 +0000",
+   "ts": 1793506121000
+  },
+  {
+   "source": "The Kathmandu Post",
+   "sourceId": "kathmandupost",
+   "site": "https://kathmandupost.com",
+   "title": "Army helicopter to rescue six Indian tourists stranded by snow in Dolpa",
+   "link": "https://kathmandupost.com/karnali-province/2026/11/01/army-helicopter-to-rescue-six-indian-tourists-stranded-by-snow-in-dolpa",
+   "date": "",
+   "ts": 0
   },
   {
    "source": "The Kathmandu Post",
@@ -144,15 +117,6 @@
    "link": "https://kathmandupost.com/national/2026/10/31/five-day-fire-ritual-next-week-for-bhotekoshi-flood-dead-and-missing",
    "date": "",
    "ts": 0
-  },
-  {
-   "source": "The Kathmandu Post",
-   "sourceId": "kathmandupost",
-   "site": "https://kathmandupost.com",
-   "title": "No bridge, no market: Vegetables rot in fields after Bhotekoshi floods",
-   "link": "https://kathmandupost.com/money/2026/10/30/no-bridge-no-market-vegetables-rot-in-fields-after-bhotekoshi-floods",
-   "date": "",
-   "ts": 0
   }
  ],
  "incidents": [],
@@ -167,12 +131,12 @@
   {
    "source": "अनलाइनखबर",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 2
+   "count": 0
   },
   {
    "source": "सेतोपाटी",
@@ -182,7 +146,7 @@
   {
    "source": "Khabarhub (English)",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "source": "The Kathmandu Post",
