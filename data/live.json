@@ -1,41 +1,59 @@
 {
- "generatedAt": "2026-11-14T14:57:48.131Z",
+ "generatedAt": "2026-11-14T19:39:18.377Z",
  "news": [
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "१२ बजे १२ समाचार : रसुवागढी नाका तीन महिनादेखि ठप्प, एनपीएल प्लेअफ समीकरण पूरा",
+   "link": "https://www.ratopati.com/story/605245/12-oclock-12-news-rasuwagadhi-border-crossing-has-been-closed-for-three-months-npl-playoff-equation-complete",
+   "date": "Sat, 14 Nov 2026 18:15:00 +0000",
+   "ts": 1794680100000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "लुम्बिनी क्वालिफायरमा, विराटनगर बाहिरिँदा काठमाडौँ र चितवनलाई प्लेअफको बाटो खुला",
+   "link": "https://www.ratopati.com/story/605237/lumbini-in-the-qualifiers-biratnagars-exit-opens-the-way-for-kathmandu-and-chitwan-to-the-playoffs",
+   "date": "Sat, 14 Nov 2026 16:46:37 +0000",
+   "ts": 1794674797000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "जलवायु विपद्का पीडितलाई ऋण होइन, अनुदान दिनुपर्ने नेपालको माग",
+   "link": "https://www.ratopati.com/story/605230/nepal-demands-grants-not-loans-for-climate-disaster-victims",
+   "date": "Sat, 14 Nov 2026 15:58:53 +0000",
+   "ts": 1794671933000
+  },
   {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
    "site": "https://www.onlinekhabar.com",
    "title": "विवादास्पद छविका अभिषेक गिरी सम्पर्कविहीन भएपछि घरमा टाँसियो प्रहरीको पत्र",
    "link": "https://www.onlinekhabar.com/2026/11/2057393/a-police-letter-was-posted-at-the-house-of-controversial-abhishek-giri-after-he-went-missing",
-   "date": "Sat, 14 Nov 2026 14:31:25 +0000",
-   "ts": 1794666685000
+   "date": "Sat, 14 Nov 2026 15:38:25 +0000",
+   "ts": 1794670705000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "विराटनगरलाई हराउँदै लुम्बिनी क्वालिफायरमा, काठमान्डु र चितवन पनि प्लेअफमा",
+   "link": "https://www.onlinekhabar.com/2026/11/2057727/lumbini-defeats-biratnagar-to-advance-to-qualifiers-chitwan-also-enters-playoffs",
+   "date": "Sat, 14 Nov 2026 15:35:47 +0000",
+   "ts": 1794670547000
   },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
    "site": "https://www.ratopati.com",
-   "title": "छठ पूजाको स्वागतमा झिलिमिली बन्यो नारायणी किनार",
-   "link": "https://www.ratopati.com/story/605204/narayani-banks-sparkle-in-welcome-of-chhath-puja",
-   "date": "Sat, 14 Nov 2026 13:52:06 +0000",
-   "ts": 1794664326000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "भोटेकोशी बाढी प्रभावितको पुनःस्थापना: मासिक खर्च दिने निर्णय, जग्गा साट्नेबारे छलफल",
-   "link": "https://nagariknews.nagariknetwork.com/politics/rehabilitation-of-bhotekoshi-trishuli-flood-victims-decision-to-provide-monthly-expenses-discussion-on-land-exchange-16-71.html",
-   "date": "Sat, 14 Nov 2026 19:32:52 +0545",
-   "ts": 1794664072000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "रसुवागढी नाका तीन महिनादेखि ठप्प : स्याफ्रुबेँसीपारि ‘बेलिब्रिज कि पक्की’ भन्नेमा अन्योल",
-   "link": "https://www.ratopati.com/story/605170/rasuwagadhi-border-crossing-closed-for-three-months-confusion-over-whether-the-bridge-across-syafrubesi-is-a-bridge-or-a-concrete-bridge",
-   "date": "Sat, 14 Nov 2026 13:45:00 +0000",
-   "ts": 1794663900000
+   "title": "रोमाञ्चक जित निकाल्दै लुम्बिनी क्वालिफायरमा, काठमान्डु र चितवन पनि प्लेअफमा",
+   "link": "https://www.ratopati.com/story/605222/lumbini-scores-thrilling-win-kathmandu-and-chitwan-advance-to-playoffs",
+   "date": "Sat, 14 Nov 2026 15:00:56 +0000",
+   "ts": 1794668456000
   }
  ],
  "incidents": [
@@ -2132,9 +2150,9 @@
  ],
  "rivers": [
   {
-   "id": 26397944,
-   "createdOn": "2026-11-14T20:35:09.842860+05:45",
-   "modifiedOn": "2026-11-14T20:35:09.842862+05:45",
+   "id": 26401233,
+   "createdOn": "2026-11-15T01:15:09.708415+05:45",
+   "modifiedOn": "2026-11-15T01:15:09.708417+05:45",
    "title": "Trishuli at Galchi",
    "basin": "Narayani",
    "point": {
@@ -2144,14 +2162,14 @@
      27.802328
     ]
    },
-   "waterLevel": 359.039520264,
+   "waterLevel": 359.020721436,
    "image": "http://daq.hydrology.gov.np/images/96917ebb6f5c49a5673ea38a1b4fa8e0",
    "dangerLevel": null,
    "warningLevel": 367,
-   "waterLevelOn": "2026-11-14T20:30:00+05:45",
+   "waterLevelOn": "2026-11-15T01:10:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 378,
-   "steady": "STEADY",
+   "steady": "FALLING",
    "description": "RLS from RTS",
    "stationSeriesId": 36628,
    "dataSource": "hydrology.gov.np",
@@ -2163,9 +2181,9 @@
    "station": 281
   },
   {
-   "id": 26397943,
-   "createdOn": "2026-11-14T20:35:09.842817+05:45",
-   "modifiedOn": "2026-11-14T20:35:09.842819+05:45",
+   "id": 26401232,
+   "createdOn": "2026-11-15T01:15:09.708376+05:45",
+   "modifiedOn": "2026-11-15T01:15:09.708378+05:45",
    "title": "Trishuli River at Kali Khola",
    "basin": "Narayani",
    "point": {
@@ -2175,11 +2193,11 @@
      27.833
     ]
    },
-   "waterLevel": 2.75199890137,
+   "waterLevel": 2.62299919128,
    "image": "http://daq.hydrology.gov.np/images/364ef9a4cae0f2a57b48d88b42f579ff",
    "dangerLevel": 12.1,
    "warningLevel": 10.8,
-   "waterLevelOn": "2026-11-14T20:30:00+05:45",
+   "waterLevelOn": "2026-11-15T01:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 250,
    "steady": "STEADY",
@@ -2194,9 +2212,9 @@
    "station": 67
   },
   {
-   "id": 26397937,
-   "createdOn": "2026-11-14T20:35:09.842569+05:45",
-   "modifiedOn": "2026-11-14T20:35:09.842571+05:45",
+   "id": 26401223,
+   "createdOn": "2026-11-15T01:15:09.708023+05:45",
+   "modifiedOn": "2026-11-15T01:15:09.708025+05:45",
    "title": "Tadi at Belkot",
    "basin": "Narayani",
    "point": {
@@ -2206,11 +2224,11 @@
      27.860094
     ]
    },
-   "waterLevel": 1.48199939728,
+   "waterLevel": 1.47999954224,
    "image": "http://daq.hydrology.gov.np/images/325da877378a7511354dba39e151ea7c",
    "dangerLevel": 5.5,
    "warningLevel": 4.5,
-   "waterLevelOn": "2026-11-14T20:20:00+05:45",
+   "waterLevelOn": "2026-11-15T01:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -2225,9 +2243,9 @@
    "station": 135
   },
   {
-   "id": 26397936,
-   "createdOn": "2026-11-14T20:35:09.842528+05:45",
-   "modifiedOn": "2026-11-14T20:35:09.842531+05:45",
+   "id": 26401222,
+   "createdOn": "2026-11-15T01:15:09.707983+05:45",
+   "modifiedOn": "2026-11-15T01:15:09.707986+05:45",
    "title": "Tadi Khola at Rautar",
    "basin": "Narayani",
    "point": {
@@ -2237,11 +2255,11 @@
      27.918694
     ]
    },
-   "waterLevel": 0.175000190735,
+   "waterLevel": 0.197699546814,
    "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
    "dangerLevel": null,
    "warningLevel": 3.5,
-   "waterLevelOn": "2026-11-14T20:30:00+05:45",
+   "waterLevelOn": "2026-11-15T01:10:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -2256,9 +2274,9 @@
    "station": 65
   },
   {
-   "id": 26397909,
-   "createdOn": "2026-11-14T20:35:09.841278+05:45",
-   "modifiedOn": "2026-11-14T20:35:09.841280+05:45",
+   "id": 26401190,
+   "createdOn": "2026-11-15T01:15:09.706618+05:45",
+   "modifiedOn": "2026-11-15T01:15:09.706621+05:45",
    "title": "Narayani at Devghat",
    "basin": "Narayani",
    "point": {
@@ -2268,11 +2286,11 @@
      27.71
     ]
    },
-   "waterLevel": 3.1799993515,
+   "waterLevel": 3.14499950409,
    "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
    "dangerLevel": 9,
    "warningLevel": 7.3,
-   "waterLevelOn": "2026-11-14T20:10:00+05:45",
+   "waterLevelOn": "2026-11-15T00:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -2287,9 +2305,9 @@
    "station": 25
   },
   {
-   "id": 26397899,
-   "createdOn": "2026-11-14T20:35:09.840890+05:45",
-   "modifiedOn": "2026-11-14T20:35:09.840892+05:45",
+   "id": 26401178,
+   "createdOn": "2026-11-15T01:15:09.706115+05:45",
+   "modifiedOn": "2026-11-15T01:15:09.706117+05:45",
    "title": "Manahari Khola at Manahari",
    "basin": "Narayani",
    "point": {
@@ -2299,11 +2317,11 @@
      27.548673
     ]
    },
-   "waterLevel": 0.759999275208,
+   "waterLevel": 0.763999938965,
    "image": "http://daq.hydrology.gov.np/images/dda94e5a1fe05535b24b7907976c7efe",
    "dangerLevel": null,
    "warningLevel": 4.3,
-   "waterLevelOn": "2026-11-14T20:30:00+05:45",
+   "waterLevelOn": "2026-11-15T01:10:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 305,
    "steady": "STEADY",
@@ -2318,9 +2336,9 @@
    "station": 116
   },
   {
-   "id": 26397891,
-   "createdOn": "2026-11-14T20:35:09.840561+05:45",
-   "modifiedOn": "2026-11-14T20:35:09.840564+05:45",
+   "id": 26401170,
+   "createdOn": "2026-11-15T01:15:09.705766+05:45",
+   "modifiedOn": "2026-11-15T01:15:09.705770+05:45",
    "title": "Lothar Khola at Lothar",
    "basin": "Narayani",
    "point": {
@@ -2330,11 +2348,11 @@
      27.5877
     ]
    },
-   "waterLevel": 1.3220000267,
+   "waterLevel": 1.32399988174,
    "image": "http://daq.hydrology.gov.np/images/93f6c4e346f0c03f64410c51ac9f71a0",
    "dangerLevel": 7,
    "warningLevel": 6.5,
-   "waterLevelOn": "2026-11-14T20:20:00+05:45",
+   "waterLevelOn": "2026-11-15T01:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 207,
    "steady": "STEADY",
@@ -2349,40 +2367,9 @@
    "station": 16
   },
   {
-   "id": 26397841,
-   "createdOn": "2026-11-14T20:35:09.838503+05:45",
-   "modifiedOn": "2026-11-14T20:35:09.838505+05:45",
-   "title": "Bhote Koshi at Bahrabise",
-   "basin": "Koshi",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.899324,
-     27.786773
-    ]
-   },
-   "waterLevel": 0.65299987793,
-   "image": "http://daq.hydrology.gov.np/images/1fa9f7b4833192d038492298d9a42cc7",
-   "dangerLevel": 3.6,
-   "warningLevel": 3.1,
-   "waterLevelOn": "2026-11-14T20:20:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "CDCP with RLS",
-   "stationSeriesId": 1640,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 2879,
-   "municipality": 23002,
-   "district": 24,
-   "province": 3,
-   "station": 91
-  },
-  {
-   "id": 26397594,
-   "createdOn": "2026-11-14T20:15:11.151910+05:45",
-   "modifiedOn": "2026-11-14T20:15:11.151912+05:45",
+   "id": 26401130,
+   "createdOn": "2026-11-15T01:15:09.703967+05:45",
+   "modifiedOn": "2026-11-15T01:15:09.703970+05:45",
    "title": "East Rapti at Rajaiya",
    "basin": "Narayani",
    "point": {
@@ -2392,11 +2379,11 @@
      27.44
     ]
    },
-   "waterLevel": 0.774000167847,
+   "waterLevel": 0.786999702454,
    "image": "http://daq.hydrology.gov.np/images/6b3873a603048aca368d9d8fe8e5ca1d",
    "dangerLevel": 3.7,
    "warningLevel": 3.3,
-   "waterLevelOn": "2026-11-14T19:50:00+05:45",
+   "waterLevelOn": "2026-11-15T01:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -2409,6 +2396,37 @@
    "district": 31,
    "province": 3,
    "station": 70
+  },
+  {
+   "id": 26400992,
+   "createdOn": "2026-11-15T01:05:10.027579+05:45",
+   "modifiedOn": "2026-11-15T01:05:10.027581+05:45",
+   "title": "Bhote Koshi at Bahrabise",
+   "basin": "Koshi",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.899324,
+     27.786773
+    ]
+   },
+   "waterLevel": 0.605999946594,
+   "image": "http://daq.hydrology.gov.np/images/1fa9f7b4833192d038492298d9a42cc7",
+   "dangerLevel": 3.6,
+   "warningLevel": 3.1,
+   "waterLevelOn": "2026-11-15T00:50:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": null,
+   "steady": "RISING",
+   "description": "CDCP with RLS",
+   "stationSeriesId": 1640,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 2879,
+   "municipality": 23002,
+   "district": 24,
+   "province": 3,
+   "station": 91
   }
  ],
  "alerts": [
@@ -6855,17 +6873,17 @@
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 2
+   "count": 4
   },
   {
    "source": "अनलाइनखबर",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "source": "सेतोपाटी",
