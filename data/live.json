@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T21:26:28.453Z",
+ "generatedAt": "2026-11-16T01:12:25.047Z",
  "news": [
   {
    "source": "रातोपाटी",
@@ -63,6 +63,15 @@
    "link": "https://www.onlinekhabar.com/2026/11/2058175/karnali-defeats-chitwan-in-hussain-talats-all-round-performance",
    "date": "Sun, 15 Nov 2026 10:34:56 +0000",
    "ts": 1794738896000
+  },
+  {
+   "source": "The Kathmandu Post",
+   "sourceId": "kathmandupost",
+   "site": "https://kathmandupost.com",
+   "title": "Why drying Madhesh is a disaster in the making",
+   "link": "https://kathmandupost.com/columns/2026/11/15/why-drying-madhesh-is-a-disaster-in-the-making",
+   "date": "",
+   "ts": 0
   }
  ],
  "incidents": [
@@ -599,44 +608,6 @@
    "updatedBy": null
   },
   {
-   "id": 95907,
-   "title": "Landslide at Gokulganga Rural Municipality-4",
-   "wards": [
-    5141
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     86.18811,
-     27.53685
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:04.164964+05:45",
-   "modifiedOn": "2026-11-02T10:01:04.164977+05:45",
-   "titleNe": "बाग्मती, रामेछाप, गोकुलगङ्गा-४ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-11-01T00:00:00+05:45",
-   "reportedOn": "2026-11-02T09:43:40+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92178,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 489874,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
    "id": 95911,
    "title": "Landslide at Nechasalyan Rural Municipality-6",
    "wards": [
@@ -709,6 +680,82 @@
    "event": null,
    "hazard": 14,
    "loss": 490222,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95907,
+   "title": "Landslide at Gokulganga Rural Municipality-4",
+   "wards": [
+    5141
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     86.18811,
+     27.53685
+    ]
+   },
+   "createdOn": "2026-11-02T10:01:04.164964+05:45",
+   "modifiedOn": "2026-11-02T10:01:04.164977+05:45",
+   "titleNe": "बाग्मती, रामेछाप, गोकुलगङ्गा-४ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-11-01T00:00:00+05:45",
+   "reportedOn": "2026-11-02T09:43:40+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 92178,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 489874,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95939,
+   "title": "Heavy Rainfall at Balkhu , Konjyosom Rural Municipality-4",
+   "wards": [
+    2010
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.33968,
+     27.54796
+    ]
+   },
+   "createdOn": "2026-11-02T10:01:05.547834+05:45",
+   "modifiedOn": "2026-11-02T10:01:05.547841+05:45",
+   "titleNe": "बाग्मती, ललितपुर, कोन्ज्योसोम-४ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-31T00:00:00+05:45",
+   "reportedOn": "2026-10-31T15:34:40+05:45",
+   "streetAddress": "Balkhu ",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 92146,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 489906,
    "createdBy": null,
    "updatedBy": null
   },
@@ -1625,44 +1672,6 @@
    "updatedBy": null
   },
   {
-   "id": 95939,
-   "title": "Heavy Rainfall at Balkhu , Konjyosom Rural Municipality-4",
-   "wards": [
-    2010
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.33968,
-     27.54796
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:05.547834+05:45",
-   "modifiedOn": "2026-11-02T10:01:05.547841+05:45",
-   "titleNe": "बाग्मती, ललितपुर, कोन्ज्योसोम-४ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-31T00:00:00+05:45",
-   "reportedOn": "2026-10-31T15:34:40+05:45",
-   "streetAddress": "Balkhu ",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92146,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 489906,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
    "id": 95938,
    "title": "Landslide at Rakse , Resunga Municipality-14",
    "wards": [
@@ -1929,82 +1938,6 @@
    "updatedBy": null
   },
   {
-   "id": 95973,
-   "title": "Flood at Dhankuta Municipality-2",
-   "wards": [
-    463
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     87.36671,
-     27.00791
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:07.000180+05:45",
-   "modifiedOn": "2026-11-02T10:01:07.000187+05:45",
-   "titleNe": "कोशी, धनकुटा, धनकुटा-२ मा बाढी",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-30T00:00:00+05:45",
-   "reportedOn": "2026-10-31T08:26:59+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92111,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 11,
-   "loss": 489940,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95975,
-   "title": "Heavy Rainfall at Shikhar Municipality-2",
-   "wards": [
-    636
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     80.84086,
-     29.18116
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:07.075578+05:45",
-   "modifiedOn": "2026-11-02T10:01:07.075585+05:45",
-   "titleNe": "सुदुरपश्चिम, डोटी, शिखर-२ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-30T00:00:00+05:45",
-   "reportedOn": "2026-10-31T08:24:21+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92109,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 489942,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
    "id": 95965,
    "title": "Heavy Rainfall at Halesi Tuwachung Municipality-3",
    "wards": [
@@ -2039,6 +1972,44 @@
    "event": null,
    "hazard": 14,
    "loss": 489932,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95963,
+   "title": "Landslide at Halesi Tuwachung Municipality-11",
+   "wards": [
+    880
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     86.7091,
+     27.15572
+    ]
+   },
+   "createdOn": "2026-11-02T10:01:06.550563+05:45",
+   "modifiedOn": "2026-11-02T10:01:06.550572+05:45",
+   "titleNe": "कोशी, खोटाङ्ग, हलेसी तुवाचुङ-११ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-30T00:00:00+05:45",
+   "reportedOn": "2026-10-31T08:50:56+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 92121,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 489930,
    "createdBy": null,
    "updatedBy": null
   },
@@ -2081,6 +2052,44 @@
    "updatedBy": null
   },
   {
+   "id": 95975,
+   "title": "Heavy Rainfall at Shikhar Municipality-2",
+   "wards": [
+    636
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     80.84086,
+     29.18116
+    ]
+   },
+   "createdOn": "2026-11-02T10:01:07.075578+05:45",
+   "modifiedOn": "2026-11-02T10:01:07.075585+05:45",
+   "titleNe": "सुदुरपश्चिम, डोटी, शिखर-२ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-30T00:00:00+05:45",
+   "reportedOn": "2026-10-31T08:24:21+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 92109,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 489942,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
    "id": 95962,
    "title": "Landslide at Waling Municipality-13",
    "wards": [
@@ -2119,21 +2128,21 @@
    "updatedBy": null
   },
   {
-   "id": 95963,
-   "title": "Landslide at Halesi Tuwachung Municipality-11",
+   "id": 95973,
+   "title": "Flood at Dhankuta Municipality-2",
    "wards": [
-    880
+    463
    ],
    "point": {
     "type": "Point",
     "coordinates": [
-     86.7091,
-     27.15572
+     87.36671,
+     27.00791
     ]
    },
-   "createdOn": "2026-11-02T10:01:06.550563+05:45",
-   "modifiedOn": "2026-11-02T10:01:06.550572+05:45",
-   "titleNe": "कोशी, खोटाङ्ग, हलेसी तुवाचुङ-११ मा पहिरो",
+   "createdOn": "2026-11-02T10:01:07.000180+05:45",
+   "modifiedOn": "2026-11-02T10:01:07.000187+05:45",
+   "titleNe": "कोशी, धनकुटा, धनकुटा-२ मा बाढी",
    "description": null,
    "cause": null,
    "verified": true,
@@ -2141,89 +2150,27 @@
    "approved": true,
    "polygon": null,
    "incidentOn": "2026-10-30T00:00:00+05:45",
-   "reportedOn": "2026-10-31T08:50:56+05:45",
+   "reportedOn": "2026-10-31T08:26:59+05:45",
    "streetAddress": "",
    "detail": null,
    "needFollowup": false,
    "region": null,
    "regionId": null,
-   "dataSourceId": 92121,
+   "dataSourceId": 92111,
    "dataSource": "drr_api",
    "source": "other",
    "event": null,
-   "hazard": 17,
-   "loss": 489930,
+   "hazard": 11,
+   "loss": 489940,
    "createdBy": null,
    "updatedBy": null
   }
  ],
  "rivers": [
   {
-   "id": 26419474,
-   "createdOn": "2026-11-16T03:05:08.722660+05:45",
-   "modifiedOn": "2026-11-16T03:05:08.722662+05:45",
-   "title": "Tadi at Belkot",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.134943,
-     27.860094
-    ]
-   },
-   "waterLevel": 1.47599983215,
-   "image": "http://daq.hydrology.gov.np/images/325da877378a7511354dba39e151ea7c",
-   "dangerLevel": 5.5,
-   "warningLevel": 4.5,
-   "waterLevelOn": "2026-11-16T02:50:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "Hydrological & Discharge Measurement Station",
-   "stationSeriesId": 1082,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 3702,
-   "municipality": 28001,
-   "district": 25,
-   "province": 3,
-   "station": 135
-  },
-  {
-   "id": 26419438,
-   "createdOn": "2026-11-16T03:05:08.721073+05:45",
-   "modifiedOn": "2026-11-16T03:05:08.721076+05:45",
-   "title": "Bhote Koshi at Bahrabise",
-   "basin": "Koshi",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.899324,
-     27.786773
-    ]
-   },
-   "waterLevel": 0.543000221252,
-   "image": "http://daq.hydrology.gov.np/images/1fa9f7b4833192d038492298d9a42cc7",
-   "dangerLevel": 3.6,
-   "warningLevel": 3.1,
-   "waterLevelOn": "2026-11-16T02:50:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "CDCP with RLS",
-   "stationSeriesId": 1640,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 2879,
-   "municipality": 23002,
-   "district": 24,
-   "province": 3,
-   "station": 91
-  },
-  {
-   "id": 26419417,
-   "createdOn": "2026-11-16T02:55:09.405332+05:45",
-   "modifiedOn": "2026-11-16T02:55:09.405334+05:45",
+   "id": 26422171,
+   "createdOn": "2026-11-16T06:55:08.662374+05:45",
+   "modifiedOn": "2026-11-16T06:55:08.662376+05:45",
    "title": "Trishuli at Galchi",
    "basin": "Narayani",
    "point": {
@@ -2233,11 +2180,11 @@
      27.802328
     ]
    },
-   "waterLevel": 359.014099121,
+   "waterLevel": 358.978210449,
    "image": "http://daq.hydrology.gov.np/images/96917ebb6f5c49a5673ea38a1b4fa8e0",
    "dangerLevel": null,
    "warningLevel": 367,
-   "waterLevelOn": "2026-11-16T02:50:00+05:45",
+   "waterLevelOn": "2026-11-16T06:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 378,
    "steady": "FALLING",
@@ -2252,9 +2199,9 @@
    "station": 281
   },
   {
-   "id": 26419416,
-   "createdOn": "2026-11-16T02:55:09.405294+05:45",
-   "modifiedOn": "2026-11-16T02:55:09.405296+05:45",
+   "id": 26422170,
+   "createdOn": "2026-11-16T06:55:08.662336+05:45",
+   "modifiedOn": "2026-11-16T06:55:08.662339+05:45",
    "title": "Trishuli River at Kali Khola",
    "basin": "Narayani",
    "point": {
@@ -2264,11 +2211,11 @@
      27.833
     ]
    },
-   "waterLevel": 2.77799987793,
+   "waterLevel": 2.78799819946,
    "image": "http://daq.hydrology.gov.np/images/364ef9a4cae0f2a57b48d88b42f579ff",
    "dangerLevel": 12.1,
    "warningLevel": 10.8,
-   "waterLevelOn": "2026-11-16T02:50:00+05:45",
+   "waterLevelOn": "2026-11-16T06:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 250,
    "steady": "STEADY",
@@ -2283,9 +2230,9 @@
    "station": 67
   },
   {
-   "id": 26419407,
-   "createdOn": "2026-11-16T02:55:09.404954+05:45",
-   "modifiedOn": "2026-11-16T02:55:09.404956+05:45",
+   "id": 26422163,
+   "createdOn": "2026-11-16T06:55:08.662063+05:45",
+   "modifiedOn": "2026-11-16T06:55:08.662065+05:45",
    "title": "Tadi Khola at Rautar",
    "basin": "Narayani",
    "point": {
@@ -2295,11 +2242,11 @@
      27.918694
     ]
    },
-   "waterLevel": 0.184300422668,
+   "waterLevel": 0.201100349426,
    "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
    "dangerLevel": null,
    "warningLevel": 3.5,
-   "waterLevelOn": "2026-11-16T02:50:00+05:45",
+   "waterLevelOn": "2026-11-16T06:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -2314,9 +2261,9 @@
    "station": 65
   },
   {
-   "id": 26419380,
-   "createdOn": "2026-11-16T02:55:09.403873+05:45",
-   "modifiedOn": "2026-11-16T02:55:09.403875+05:45",
+   "id": 26422139,
+   "createdOn": "2026-11-16T06:55:08.661090+05:45",
+   "modifiedOn": "2026-11-16T06:55:08.661092+05:45",
    "title": "Narayani at Devghat",
    "basin": "Narayani",
    "point": {
@@ -2326,11 +2273,11 @@
      27.71
     ]
    },
-   "waterLevel": 3.17299938202,
+   "waterLevel": 3.15299987793,
    "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
    "dangerLevel": 9,
    "warningLevel": 7.3,
-   "waterLevelOn": "2026-11-16T02:30:00+05:45",
+   "waterLevelOn": "2026-11-16T06:30:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -2345,9 +2292,9 @@
    "station": 25
   },
   {
-   "id": 26419368,
-   "createdOn": "2026-11-16T02:55:09.403383+05:45",
-   "modifiedOn": "2026-11-16T02:55:09.403385+05:45",
+   "id": 26422129,
+   "createdOn": "2026-11-16T06:55:08.660655+05:45",
+   "modifiedOn": "2026-11-16T06:55:08.660657+05:45",
    "title": "Manahari Khola at Manahari",
    "basin": "Narayani",
    "point": {
@@ -2357,11 +2304,11 @@
      27.548673
     ]
    },
-   "waterLevel": 0.754999160767,
+   "waterLevel": 0.750999450684,
    "image": "http://daq.hydrology.gov.np/images/dda94e5a1fe05535b24b7907976c7efe",
    "dangerLevel": null,
    "warningLevel": 4.3,
-   "waterLevelOn": "2026-11-16T02:50:00+05:45",
+   "waterLevelOn": "2026-11-16T06:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 305,
    "steady": "STEADY",
@@ -2376,9 +2323,9 @@
    "station": 116
   },
   {
-   "id": 26419360,
-   "createdOn": "2026-11-16T02:55:09.403058+05:45",
-   "modifiedOn": "2026-11-16T02:55:09.403060+05:45",
+   "id": 26422121,
+   "createdOn": "2026-11-16T06:55:08.660316+05:45",
+   "modifiedOn": "2026-11-16T06:55:08.660318+05:45",
    "title": "Lothar Khola at Lothar",
    "basin": "Narayani",
    "point": {
@@ -2388,11 +2335,11 @@
      27.5877
     ]
    },
-   "waterLevel": 1.32000017166,
+   "waterLevel": 1.31599998474,
    "image": "http://daq.hydrology.gov.np/images/93f6c4e346f0c03f64410c51ac9f71a0",
    "dangerLevel": 7,
    "warningLevel": 6.5,
-   "waterLevelOn": "2026-11-16T02:50:00+05:45",
+   "waterLevelOn": "2026-11-16T06:40:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 207,
    "steady": "STEADY",
@@ -2405,6 +2352,68 @@
    "district": 31,
    "province": 3,
    "station": 16
+  },
+  {
+   "id": 26422065,
+   "createdOn": "2026-11-16T06:55:08.657964+05:45",
+   "modifiedOn": "2026-11-16T06:55:08.657968+05:45",
+   "title": "Bhote Koshi at Bahrabise",
+   "basin": "Koshi",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.899324,
+     27.786773
+    ]
+   },
+   "waterLevel": 0.598000526428,
+   "image": "http://daq.hydrology.gov.np/images/1fa9f7b4833192d038492298d9a42cc7",
+   "dangerLevel": 3.6,
+   "warningLevel": 3.1,
+   "waterLevelOn": "2026-11-16T06:40:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": null,
+   "steady": "STEADY",
+   "description": "CDCP with RLS",
+   "stationSeriesId": 1640,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 2879,
+   "municipality": 23002,
+   "district": 24,
+   "province": 3,
+   "station": 91
+  },
+  {
+   "id": 26422042,
+   "createdOn": "2026-11-16T06:45:22.356911+05:45",
+   "modifiedOn": "2026-11-16T06:45:22.356913+05:45",
+   "title": "Tadi at Belkot",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.134943,
+     27.860094
+    ]
+   },
+   "waterLevel": 1.48199939728,
+   "image": "http://daq.hydrology.gov.np/images/325da877378a7511354dba39e151ea7c",
+   "dangerLevel": 5.5,
+   "warningLevel": 4.5,
+   "waterLevelOn": "2026-11-16T06:30:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": null,
+   "steady": "STEADY",
+   "description": "Hydrological & Discharge Measurement Station",
+   "stationSeriesId": 1082,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 3702,
+   "municipality": 28001,
+   "district": 25,
+   "province": 3,
+   "station": 135
   }
  ],
  "alerts": [
@@ -6876,7 +6885,7 @@
   {
    "source": "The Kathmandu Post",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "source": "incidents",
