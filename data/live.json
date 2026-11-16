@@ -1,59 +1,32 @@
 {
- "generatedAt": "2026-11-16T07:59:08.366Z",
+ "generatedAt": "2026-11-16T17:56:34.436Z",
  "news": [
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "बझाङमा अटो दुर्घटना हुँदा तीन जनाको मृत्यु, एक बेपत्ता",
-   "link": "https://www.onlinekhabar.com/2026/11/2058754/three-killed-one-missing-in-auto-accident-in-bajhang",
-   "date": "Mon, 16 Nov 2026 07:25:41 +0000",
-   "ts": 1794813941000
-  },
-  {
-   "source": "अनलाइनखबर",
-   "sourceId": "onlinekhabar",
-   "site": "https://www.onlinekhabar.com",
-   "title": "मुगु दुर्घटना : घाइते दुई जनाको हेलिकोप्टरबाट उद्धार",
-   "link": "https://www.onlinekhabar.com/2026/11/2058689/mugu-accident-two-injured-rescued-by-helicopter",
-   "date": "Mon, 16 Nov 2026 06:16:25 +0000",
-   "ts": 1794809785000
-  },
   {
    "source": "नागरिक",
    "sourceId": "nagarik",
    "site": "https://nagariknews.nagariknetwork.com",
-   "title": "विपदमा संगठनको नेतृत्वदायी भूमिका राज्यको विपद् प्रतिकार्य क्षमताको महत्वपूर्ण आधार बनेको छ : सेना",
-   "link": "https://nagariknews.nagariknetwork.com/social-affairs/the-organization-s-leadership-role-in-disasters-has-become-an-important-foundation-for-the-state-s-disaster-response-capacity-army-br-51-12.html",
-   "date": "Mon, 16 Nov 2026 11:53:37 +0545",
-   "ts": 1794809317000
-  },
-  {
-   "source": "रातोपाटी",
-   "sourceId": "ratopati",
-   "site": "https://www.ratopati.com",
-   "title": "चितवनमा दसैँ–तिहार अवधिमा सडक दुर्घटनामा कमी, राजस्व बढ्यो",
-   "link": "https://www.ratopati.com/story/605507/chitwan-sees-decrease-in-road-accidents-revenue-increases-during-dashain-tihar-period",
-   "date": "Mon, 16 Nov 2026 05:26:29 +0000",
-   "ts": 1794806789000
-  },
-  {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "IFRC chief Chapagain urges stronger link between early warnings and disaster preparedness",
-   "link": "https://english.khabarhub.com/2026/16/575782/",
-   "date": "Mon, 16 Nov 2026 03:15:24 +0000",
-   "ts": 1794798924000
+   "title": "१० महिनामा भित्रिए १० लाख बढी पर्यटक, बाढीपछि लयमा फर्किँदै ठमेल",
+   "link": "https://nagariknews.nagariknetwork.com/economy/foreign-tourists-are-increasingly-flocking-to-the-streets-of-thamel-39-81.html",
+   "date": "Mon, 16 Nov 2026 20:37:58 +0545",
+   "ts": 1794840778000
   },
   {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
    "site": "https://www.onlinekhabar.com",
-   "title": "एनपीएल प्लेअफ : लुम्बिनी र सुदूरपश्चिमले क्वालिफायर खेल्ने, काठमान्डुले चितवनसँग एलिमिनेटर खेल्ने",
-   "link": "https://www.onlinekhabar.com/2026/11/2058509/npl-playoffs-lumbini-and-sudurpaschim-will-play-qualifiers-kathmandu-will-play-eliminator-with-chitwan",
-   "date": "Sun, 15 Nov 2026 16:14:59 +0000",
-   "ts": 1794759299000
+   "title": "दूधको मूल्यवृद्धि गर्न चितवनका किसानहरूको माग",
+   "link": "https://www.onlinekhabar.com/2026/11/2058984/chitwan-farmers-demand-increase-in-milk-prices",
+   "date": "Mon, 16 Nov 2026 11:49:36 +0000",
+   "ts": 1794829776000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "प्रधानमन्त्री दैवी प्रकोप उद्धार कोषको रकम दुरुपयोग हुँदैन : मन्त्री पुन",
+   "link": "https://www.onlinekhabar.com/2026/11/2058934/prime-ministers-disaster-relief-fund-funds-should-not-be-misused-minister-pun",
+   "date": "Mon, 16 Nov 2026 10:20:51 +0000",
+   "ts": 1794824451000
   },
   {
    "source": "The Kathmandu Post",
@@ -2197,9 +2170,9 @@
  ],
  "rivers": [
   {
-   "id": 26426573,
-   "createdOn": "2026-11-16T13:35:10.199291+05:45",
-   "modifiedOn": "2026-11-16T13:35:10.199293+05:45",
+   "id": 26433212,
+   "createdOn": "2026-11-16T23:35:08.987986+05:45",
+   "modifiedOn": "2026-11-16T23:35:08.987988+05:45",
    "title": "Trishuli at Galchi",
    "basin": "Narayani",
    "point": {
@@ -2209,14 +2182,14 @@
      27.802328
     ]
    },
-   "waterLevel": 359.11529541,
+   "waterLevel": 359.002105713,
    "image": "http://daq.hydrology.gov.np/images/96917ebb6f5c49a5673ea38a1b4fa8e0",
    "dangerLevel": null,
    "warningLevel": 367,
-   "waterLevelOn": "2026-11-16T13:20:00+05:45",
+   "waterLevelOn": "2026-11-16T23:30:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 378,
-   "steady": "STEADY",
+   "steady": "FALLING",
    "description": "RLS from RTS",
    "stationSeriesId": 36628,
    "dataSource": "hydrology.gov.np",
@@ -2228,9 +2201,9 @@
    "station": 281
   },
   {
-   "id": 26426572,
-   "createdOn": "2026-11-16T13:35:10.199249+05:45",
-   "modifiedOn": "2026-11-16T13:35:10.199251+05:45",
+   "id": 26433211,
+   "createdOn": "2026-11-16T23:35:08.987947+05:45",
+   "modifiedOn": "2026-11-16T23:35:08.987949+05:45",
    "title": "Trishuli River at Kali Khola",
    "basin": "Narayani",
    "point": {
@@ -2240,11 +2213,11 @@
      27.833
     ]
    },
-   "waterLevel": 2.63899993896,
+   "waterLevel": 2.58899879456,
    "image": "http://daq.hydrology.gov.np/images/364ef9a4cae0f2a57b48d88b42f579ff",
    "dangerLevel": 12.1,
    "warningLevel": 10.8,
-   "waterLevelOn": "2026-11-16T13:20:00+05:45",
+   "waterLevelOn": "2026-11-16T23:30:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 250,
    "steady": "STEADY",
@@ -2259,9 +2232,9 @@
    "station": 67
   },
   {
-   "id": 26426571,
-   "createdOn": "2026-11-16T13:35:10.199210+05:45",
-   "modifiedOn": "2026-11-16T13:35:10.199212+05:45",
+   "id": 26433210,
+   "createdOn": "2026-11-16T23:35:08.987909+05:45",
+   "modifiedOn": "2026-11-16T23:35:08.987912+05:45",
    "title": "Trishuli Khola at Dhunche",
    "basin": "Narayani",
    "point": {
@@ -2271,11 +2244,11 @@
      28.098163
     ]
    },
-   "waterLevel": 1.95649957657,
+   "waterLevel": 1.95679950714,
    "image": "http://daq.hydrology.gov.np/images/0a4d86552fd0e57c5ab02555b4dc693f",
    "dangerLevel": null,
    "warningLevel": 3.2,
-   "waterLevelOn": "2026-11-16T13:20:00+05:45",
+   "waterLevelOn": "2026-11-16T23:20:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -2290,164 +2263,9 @@
    "station": 105
   },
   {
-   "id": 26426544,
-   "createdOn": "2026-11-16T13:35:10.198097+05:45",
-   "modifiedOn": "2026-11-16T13:35:10.198099+05:45",
-   "title": "Narayani at Devghat",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.43,
-     27.71
-    ]
-   },
-   "waterLevel": 3.15400028229,
-   "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
-   "dangerLevel": 9,
-   "warningLevel": 7.3,
-   "waterLevelOn": "2026-11-16T13:10:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "Hydrological station with RLS",
-   "stationSeriesId": 4140,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 3479,
-   "municipality": 76005,
-   "district": 481,
-   "province": 4,
-   "station": 25
-  },
-  {
-   "id": 26426534,
-   "createdOn": "2026-11-16T13:35:10.197668+05:45",
-   "modifiedOn": "2026-11-16T13:35:10.197670+05:45",
-   "title": "Manahari Khola at Manahari",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.827716,
-     27.548673
-    ]
-   },
-   "waterLevel": 0.753999710083,
-   "image": "http://daq.hydrology.gov.np/images/dda94e5a1fe05535b24b7907976c7efe",
-   "dangerLevel": null,
-   "warningLevel": 4.3,
-   "waterLevelOn": "2026-11-16T13:20:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": 305,
-   "steady": "STEADY",
-   "description": "HS_manual",
-   "stationSeriesId": 21323,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 2378,
-   "municipality": 31009,
-   "district": 31,
-   "province": 3,
-   "station": 116
-  },
-  {
-   "id": 26426526,
-   "createdOn": "2026-11-16T13:35:10.197344+05:45",
-   "modifiedOn": "2026-11-16T13:35:10.197347+05:45",
-   "title": "Lothar Khola at Lothar",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.7361,
-     27.5877
-    ]
-   },
-   "waterLevel": 1.31500005722,
-   "image": "http://daq.hydrology.gov.np/images/93f6c4e346f0c03f64410c51ac9f71a0",
-   "dangerLevel": 7,
-   "warningLevel": 6.5,
-   "waterLevelOn": "2026-11-16T13:20:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": 207,
-   "steady": "STEADY",
-   "description": "Hydrological station with RLS",
-   "stationSeriesId": 1318,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 2397,
-   "municipality": 31008,
-   "district": 31,
-   "province": 3,
-   "station": 16
-  },
-  {
-   "id": 26426491,
-   "createdOn": "2026-11-16T13:35:10.195871+05:45",
-   "modifiedOn": "2026-11-16T13:35:10.195873+05:45",
-   "title": "East Rapti at Rajaiya",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.97,
-     27.44
-    ]
-   },
-   "waterLevel": 0.795000076294,
-   "image": "http://daq.hydrology.gov.np/images/6b3873a603048aca368d9d8fe8e5ca1d",
-   "dangerLevel": 3.7,
-   "warningLevel": 3.3,
-   "waterLevelOn": "2026-11-16T13:20:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "Station under PPCR",
-   "stationSeriesId": 3733,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 2364,
-   "municipality": 31004,
-   "district": 31,
-   "province": 3,
-   "station": 70
-  },
-  {
-   "id": 26426472,
-   "createdOn": "2026-11-16T13:35:10.195055+05:45",
-   "modifiedOn": "2026-11-16T13:35:10.195058+05:45",
-   "title": "Bhote Koshi at Bahrabise",
-   "basin": "Koshi",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.899324,
-     27.786773
-    ]
-   },
-   "waterLevel": 0.543000221252,
-   "image": "http://daq.hydrology.gov.np/images/1fa9f7b4833192d038492298d9a42cc7",
-   "dangerLevel": 3.6,
-   "warningLevel": 3.1,
-   "waterLevelOn": "2026-11-16T13:20:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "CDCP with RLS",
-   "stationSeriesId": 1640,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 2879,
-   "municipality": 23002,
-   "district": 24,
-   "province": 3,
-   "station": 91
-  },
-  {
-   "id": 26426446,
-   "createdOn": "2026-11-16T13:25:09.271247+05:45",
-   "modifiedOn": "2026-11-16T13:25:09.271249+05:45",
+   "id": 26433203,
+   "createdOn": "2026-11-16T23:35:08.987617+05:45",
+   "modifiedOn": "2026-11-16T23:35:08.987619+05:45",
    "title": "Tadi at Belkot",
    "basin": "Narayani",
    "point": {
@@ -2461,7 +2279,7 @@
    "image": "http://daq.hydrology.gov.np/images/325da877378a7511354dba39e151ea7c",
    "dangerLevel": 5.5,
    "warningLevel": 4.5,
-   "waterLevelOn": "2026-11-16T13:10:00+05:45",
+   "waterLevelOn": "2026-11-16T23:20:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -2476,9 +2294,9 @@
    "station": 135
   },
   {
-   "id": 26426445,
-   "createdOn": "2026-11-16T13:25:09.271210+05:45",
-   "modifiedOn": "2026-11-16T13:25:09.271212+05:45",
+   "id": 26433202,
+   "createdOn": "2026-11-16T23:35:08.987579+05:45",
+   "modifiedOn": "2026-11-16T23:35:08.987581+05:45",
    "title": "Tadi Khola at Rautar",
    "basin": "Narayani",
    "point": {
@@ -2488,11 +2306,11 @@
      27.918694
     ]
    },
-   "waterLevel": 0.174699783325,
+   "waterLevel": 0.194999694824,
    "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
    "dangerLevel": null,
    "warningLevel": 3.5,
-   "waterLevelOn": "2026-11-16T13:20:00+05:45",
+   "waterLevelOn": "2026-11-16T23:30:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -2505,6 +2323,130 @@
    "district": 25,
    "province": 3,
    "station": 65
+  },
+  {
+   "id": 26433172,
+   "createdOn": "2026-11-16T23:35:08.986082+05:45",
+   "modifiedOn": "2026-11-16T23:35:08.986084+05:45",
+   "title": "Narayani at Devghat",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.43,
+     27.71
+    ]
+   },
+   "waterLevel": 3.14200019836,
+   "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
+   "dangerLevel": 9,
+   "warningLevel": 7.3,
+   "waterLevelOn": "2026-11-16T23:00:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": null,
+   "steady": "STEADY",
+   "description": "Hydrological station with RLS",
+   "stationSeriesId": 4140,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 3479,
+   "municipality": 76005,
+   "district": 481,
+   "province": 4,
+   "station": 25
+  },
+  {
+   "id": 26433159,
+   "createdOn": "2026-11-16T23:35:08.985552+05:45",
+   "modifiedOn": "2026-11-16T23:35:08.985554+05:45",
+   "title": "Manahari Khola at Manahari",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.827716,
+     27.548673
+    ]
+   },
+   "waterLevel": 0.747999191284,
+   "image": "http://daq.hydrology.gov.np/images/dda94e5a1fe05535b24b7907976c7efe",
+   "dangerLevel": null,
+   "warningLevel": 4.3,
+   "waterLevelOn": "2026-11-16T23:30:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": 305,
+   "steady": "STEADY",
+   "description": "HS_manual",
+   "stationSeriesId": 21323,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 2378,
+   "municipality": 31009,
+   "district": 31,
+   "province": 3,
+   "station": 116
+  },
+  {
+   "id": 26433153,
+   "createdOn": "2026-11-16T23:35:08.985300+05:45",
+   "modifiedOn": "2026-11-16T23:35:08.985302+05:45",
+   "title": "Lothar Khola at Lothar",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.7361,
+     27.5877
+    ]
+   },
+   "waterLevel": 1.31300020218,
+   "image": "http://daq.hydrology.gov.np/images/93f6c4e346f0c03f64410c51ac9f71a0",
+   "dangerLevel": 7,
+   "warningLevel": 6.5,
+   "waterLevelOn": "2026-11-16T23:20:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": 207,
+   "steady": "STEADY",
+   "description": "Hydrological station with RLS",
+   "stationSeriesId": 1318,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 2397,
+   "municipality": 31008,
+   "district": 31,
+   "province": 3,
+   "station": 16
+  },
+  {
+   "id": 26433096,
+   "createdOn": "2026-11-16T23:35:08.982952+05:45",
+   "modifiedOn": "2026-11-16T23:35:08.982954+05:45",
+   "title": "Bhote Koshi at Bahrabise",
+   "basin": "Koshi",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.899324,
+     27.786773
+    ]
+   },
+   "waterLevel": 0.456000328064,
+   "image": "http://daq.hydrology.gov.np/images/1fa9f7b4833192d038492298d9a42cc7",
+   "dangerLevel": 3.6,
+   "warningLevel": 3.1,
+   "waterLevelOn": "2026-11-16T23:20:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": null,
+   "steady": "STEADY",
+   "description": "CDCP with RLS",
+   "stationSeriesId": 1640,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 2879,
+   "municipality": 23002,
+   "district": 24,
+   "province": 3,
+   "station": 91
   }
  ],
  "alerts": [
@@ -2533,10 +2475,10 @@
    "verified": true,
    "public": true,
    "startedOn": "2026-11-16T09:50:00+05:45",
-   "expireOn": null,
+   "expireOn": "2026-11-16T18:05:03.940337+05:45",
    "polygon": null,
    "referenceType": "river",
-   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Lohandra Khola at East West Highway\", \"basin\": \"Keshaliya\", \"point\": \"SRID=4326;POINT (87.408989 26.661169)\", \"water_level\": 125.538, \"image\": \"http://daq.hydrology.gov.np/images/7f0c6e6d11ced7662076e0da0ae066e0\", \"danger_level\": 125.8, \"warning_level\": 125.3, \"water_level_on\": \"2026-11-16T07:35:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": 123, \"steady\": \"FALLING\", \"description\": \"Lohandra Khola at East West Highway\", \"station_series_id\": 27913, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 5793, \"municipality\": 5001, \"district\": 5, \"province\": 1, \"station\": 211}}",
+   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Lohandra Khola at East West Highway\", \"basin\": \"Keshaliya\", \"point\": \"SRID=4326;POINT (87.408989 26.661169)\", \"water_level\": 125.569, \"image\": \"http://daq.hydrology.gov.np/images/7f0c6e6d11ced7662076e0da0ae066e0\", \"danger_level\": 125.8, \"warning_level\": 125.3, \"water_level_on\": \"2026-11-16T11:55:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": 123, \"steady\": \"STEADY\", \"description\": \"Lohandra Khola at East West Highway\", \"station_series_id\": 27913, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 5793, \"municipality\": 5001, \"district\": 5, \"province\": 1, \"station\": 211}}",
    "referenceId": 5532,
    "region": null,
    "regionId": null,
@@ -6951,12 +6893,12 @@
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "source": "अनलाइनखबर",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "source": "नागरिक",
@@ -6971,7 +6913,7 @@
   {
    "source": "Khabarhub (English)",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "source": "The Kathmandu Post",
@@ -6986,7 +6928,7 @@
   {
    "source": "rivers",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "source": "alerts",
