@@ -1,32 +1,86 @@
 {
- "generatedAt": "2026-11-17T09:15:51.959Z",
+ "generatedAt": "2026-11-17T18:35:29.749Z",
  "news": [
   {
-   "source": "Khabarhub (English)",
-   "sourceId": "khabarhub",
-   "site": "https://english.khabarhub.com",
-   "title": "Nepal commits to preserving cultural identities in post-disaster resettlement",
-   "link": "https://english.khabarhub.com/2026/17/575895/",
-   "date": "Tue, 17 Nov 2026 07:38:09 +0000",
-   "ts": 1794901089000
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "धादिङमा बढी आयकर बुझाउने तीन करदाता सम्मानित",
+   "link": "https://www.ratopati.com/story/605896/three-taxpayers-honored-for-paying-the-highest-income-tax-in-dhading",
+   "date": "Tue, 17 Nov 2026 16:06:06 +0000",
+   "ts": 1794931566000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "युएईमा अलपत्र नेपालीद्वारा उद्धारको गुहार, गृहमन्त्रीले भने- २ दिनभित्र स्वदेश फर्काइन्छ",
+   "link": "https://nagariknews.nagariknetwork.com/politics/nepalis-stranded-in-uae-seek-rescue-home-minister-says-they-will-be-repatriated-within-2-days-41-23.html",
+   "date": "Tue, 17 Nov 2026 21:49:29 +0545",
+   "ts": 1794931469000
   },
   {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
    "site": "https://www.onlinekhabar.com",
-   "title": "रसुवा बाढीका कारण रोकिएको नाटक ‘वीर गणेशमान’ पुनः मञ्चन हुँदै",
-   "link": "https://www.onlinekhabar.com/2026/11/2059335/the-play-bir-ganeshman-which-was-halted-due-to-the-rasuwa-floods-is-being-re-staged",
-   "date": "Tue, 17 Nov 2026 06:36:53 +0000",
-   "ts": 1794897413000
+   "title": "विदेशबाट शव ल्याउन र बेचबिखनमा परेका व्यक्तिको उद्धार गर्न महिनौं किन लाग्छ ?",
+   "link": "https://www.onlinekhabar.com/2026/11/2059500/why-does-it-take-months-to-bring-bodies-from-abroad-and-rescue-trafficked-people",
+   "date": "Tue, 17 Nov 2026 15:51:37 +0000",
+   "ts": 1794930697000
   },
   {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
    "site": "https://www.onlinekhabar.com",
-   "title": "मांसपेशीको दुखाइ र कडापनबाट तत्कालका लागि कसरी छुटकारा पाउने ?",
-   "link": "https://www.onlinekhabar.com/2026/11/2054298/how-to-get-instant-relief-from-muscle-pain-and-stiffness",
-   "date": "Tue, 17 Nov 2026 04:59:54 +0000",
-   "ts": 1794891594000
+   "title": "विपद् सूचना प्रणालीलाई स्थानीय तहसम्म विस्तार गरिँदै",
+   "link": "https://www.onlinekhabar.com/2026/11/2059916/disaster-information-system-being-expanded-to-the-local-level",
+   "date": "Tue, 17 Nov 2026 15:43:16 +0000",
+   "ts": 1794930196000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "विपद् सूचना प्रणालीलाई स्थानीय तहसम्म विस्तार गरिने",
+   "link": "https://www.ratopati.com/story/605890/disaster-information-system-to-be-expanded-to-the-local-level",
+   "date": "Tue, 17 Nov 2026 15:31:55 +0000",
+   "ts": 1794929515000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "विपद्पछि होइन, नीतिमै विज्ञान जोड्न नेपालको आग्रह",
+   "link": "https://www.ratopati.com/story/605887/nepal-urges-to-integrate-science-into-policy-not-after-disasters",
+   "date": "Tue, 17 Nov 2026 15:21:56 +0000",
+   "ts": 1794928916000
+  },
+  {
+   "source": "रातोपाटी",
+   "sourceId": "ratopati",
+   "site": "https://www.ratopati.com",
+   "title": "भोटेकोशी बाढीपीडितका समस्या र पुनर्स्थापनाबारे उत्तरगया गाउँपालिकामा छलफल",
+   "link": "https://www.ratopati.com/story/605880/discussion-in-uttargaya-rural-municipality-on-the-problems-and-rehabilitation-of-bhotekoshi-flood-victims",
+   "date": "Tue, 17 Nov 2026 14:47:37 +0000",
+   "ts": 1794926857000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "भोटेकोशी बाढी : सरकारी जमिनमा त्रिपाल टाँगेर बस्न थाले विस्थापित",
+   "link": "https://www.onlinekhabar.com/2026/11/2059499/bhotekoshi-flood-displaced-people-start-living-in-tents-on-government-land",
+   "date": "Tue, 17 Nov 2026 11:40:24 +0000",
+   "ts": 1794915624000
+  },
+  {
+   "source": "The Kathmandu Post",
+   "sourceId": "kathmandupost",
+   "site": "https://kathmandupost.com",
+   "title": "Nepali youth press COP31 presidency for grants to rebuild after disasters",
+   "link": "https://kathmandupost.com/climate-environment/2026/11/17/nepali-youth-press-cop31-presidency-for-grants-to-rebuild-after-disasters",
+   "date": "",
+   "ts": 0
   },
   {
    "source": "The Kathmandu Post",
@@ -116,44 +170,6 @@
    "updatedBy": null
   },
   {
-   "id": 96393,
-   "title": "Heavy Rainfall at Kageshwori Manahora Municipality-9",
-   "wards": [
-    3837
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.37856,
-     27.69912
-    ]
-   },
-   "createdOn": "2026-11-12T08:45:05.365564+05:45",
-   "modifiedOn": "2026-11-12T08:45:05.365582+05:45",
-   "titleNe": "बाग्मती, काठमाण्डौ, कागेश्वरी मनोहरा-९ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-11-11T00:00:00+05:45",
-   "reportedOn": "2026-11-12T08:37:21+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92437,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 491122,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
    "id": 96402,
    "title": "Landslide at Resunga Municipality-14",
    "wards": [
@@ -188,6 +204,44 @@
    "event": null,
    "hazard": 17,
    "loss": 491131,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 96393,
+   "title": "Heavy Rainfall at Kageshwori Manahora Municipality-9",
+   "wards": [
+    3837
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.37856,
+     27.69912
+    ]
+   },
+   "createdOn": "2026-11-12T08:45:05.365564+05:45",
+   "modifiedOn": "2026-11-12T08:45:05.365582+05:45",
+   "titleNe": "बाग्मती, काठमाण्डौ, कागेश्वरी मनोहरा-९ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-11-11T00:00:00+05:45",
+   "reportedOn": "2026-11-12T08:37:21+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 92437,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 491122,
    "createdBy": null,
    "updatedBy": null
   },
@@ -268,6 +322,44 @@
    "updatedBy": null
   },
   {
+   "id": 96268,
+   "title": "Landslide at Machhapuchchhre Rural Municipality-2",
+   "wards": [
+    3895
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     83.99007,
+     28.34628
+    ]
+   },
+   "createdOn": "2026-11-08T15:45:03.842171+05:45",
+   "modifiedOn": "2026-11-08T15:45:03.842184+05:45",
+   "titleNe": "गण्डकी, कास्की, माछापुच्छ्रे-२ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-11-08T00:00:00+05:45",
+   "reportedOn": "2026-11-08T15:38:05+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 92310,
+   "dataSource": "drr_api",
+   "source": "nepal_police",
+   "event": null,
+   "hazard": 17,
+   "loss": 490913,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
    "id": 96274,
    "title": "Landslide at Bharatpur Metropolitan City-14",
    "wards": [
@@ -340,44 +432,6 @@
    "event": null,
    "hazard": 17,
    "loss": 490926,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 96268,
-   "title": "Landslide at Machhapuchchhre Rural Municipality-2",
-   "wards": [
-    3895
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.99007,
-     28.34628
-    ]
-   },
-   "createdOn": "2026-11-08T15:45:03.842171+05:45",
-   "modifiedOn": "2026-11-08T15:45:03.842184+05:45",
-   "titleNe": "गण्डकी, कास्की, माछापुच्छ्रे-२ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-11-08T00:00:00+05:45",
-   "reportedOn": "2026-11-08T15:38:05+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92310,
-   "dataSource": "drr_api",
-   "source": "nepal_police",
-   "event": null,
-   "hazard": 17,
-   "loss": 490913,
    "createdBy": null,
    "updatedBy": null
   },
@@ -724,6 +778,500 @@
    "updatedBy": null
   },
   {
+   "id": 95945,
+   "title": "Landslide at Netrawati Dabjong Rural Municipality-1",
+   "wards": [
+    3169
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.94688,
+     28.00638
+    ]
+   },
+   "createdOn": "2026-11-02T10:01:05.801770+05:45",
+   "modifiedOn": "2026-11-02T10:01:05.801777+05:45",
+   "titleNe": "बाग्मती, धादिङ्ग, नेत्रावती डबजोङ-१ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-31T00:00:00+05:45",
+   "reportedOn": "2026-10-31T15:24:19+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 92140,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 489912,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95943,
+   "title": "Flood at Namobuddha Municipality-7",
+   "wards": [
+    6164
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.63649,
+     27.54493
+    ]
+   },
+   "createdOn": "2026-11-02T10:01:05.723485+05:45",
+   "modifiedOn": "2026-11-02T10:01:05.723493+05:45",
+   "titleNe": "बाग्मती, काभ्रेपलाञ्चोक, नमोबुद्ध-७ मा बाढी",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-31T00:00:00+05:45",
+   "reportedOn": "2026-10-31T15:26:42+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 92142,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 11,
+   "loss": 489910,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95941,
+   "title": "Landslide at Halesi Tuwachung Municipality-11",
+   "wards": [
+    880
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     86.7091,
+     27.15572
+    ]
+   },
+   "createdOn": "2026-11-02T10:01:05.647425+05:45",
+   "modifiedOn": "2026-11-02T10:01:05.647432+05:45",
+   "titleNe": "कोशी, खोटाङ्ग, हलेसी तुवाचुङ-११ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-31T00:00:00+05:45",
+   "reportedOn": "2026-10-31T15:30:52+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 92144,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 489908,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95940,
+   "title": "Heavy Rainfall at Lo Ghekar Damodarkunda Rural Municipality-5",
+   "wards": [
+    5092
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     83.86811,
+     28.9548
+    ]
+   },
+   "createdOn": "2026-11-02T10:01:05.603493+05:45",
+   "modifiedOn": "2026-11-02T10:01:05.603501+05:45",
+   "titleNe": "गण्डकी, मुस्ताङ्ग, लो-घेकर दामोदरकुण्ड-५ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-31T00:00:00+05:45",
+   "reportedOn": "2026-10-31T15:34:36+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 92145,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 489907,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95939,
+   "title": "Heavy Rainfall at Balkhu , Konjyosom Rural Municipality-4",
+   "wards": [
+    2010
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.33968,
+     27.54796
+    ]
+   },
+   "createdOn": "2026-11-02T10:01:05.547834+05:45",
+   "modifiedOn": "2026-11-02T10:01:05.547841+05:45",
+   "titleNe": "बाग्मती, ललितपुर, कोन्ज्योसोम-४ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-31T00:00:00+05:45",
+   "reportedOn": "2026-10-31T15:34:40+05:45",
+   "streetAddress": "Balkhu ",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 92146,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 489906,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95938,
+   "title": "Landslide at Rakse , Resunga Municipality-14",
+   "wards": [
+    3239
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     83.31058,
+     28.09848
+    ]
+   },
+   "createdOn": "2026-11-02T10:01:05.513136+05:45",
+   "modifiedOn": "2026-11-02T10:01:05.513144+05:45",
+   "titleNe": "लुम्बिनी, गुल्मी, रेसुङ्गा-१४ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-31T00:00:00+05:45",
+   "reportedOn": "2026-10-31T15:34:58+05:45",
+   "streetAddress": "Rakse ",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 92147,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 489905,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95937,
+   "title": "Landslide at Kasiban , Rampur Municipality-1",
+   "wards": [
+    5751
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     83.97524709,
+     27.83943704
+    ]
+   },
+   "createdOn": "2026-11-02T10:01:05.469467+05:45",
+   "modifiedOn": "2026-11-02T10:01:05.469475+05:45",
+   "titleNe": "लुम्बिनी, पाल्पा, रामपुर-१ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-31T00:00:00+05:45",
+   "reportedOn": "2026-10-31T15:36:02+05:45",
+   "streetAddress": "Kasiban ",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 92148,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 489904,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95927,
+   "title": "Landslide at Thosnekhola , Konjyosom Rural Municipality-4",
+   "wards": [
+    2010
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.33968,
+     27.54796
+    ]
+   },
+   "createdOn": "2026-11-02T10:01:05.046522+05:45",
+   "modifiedOn": "2026-11-02T10:01:05.046531+05:45",
+   "titleNe": "बाग्मती, ललितपुर, कोन्ज्योसोम-४ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-31T00:00:00+05:45",
+   "reportedOn": "2026-11-01T10:36:09+05:45",
+   "streetAddress": "Thosnekhola ",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 92158,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 489894,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95926,
+   "title": "Landslide at Konjyosom Rural Municipality-4",
+   "wards": [
+    2010
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.33968,
+     27.54796
+    ]
+   },
+   "createdOn": "2026-11-02T10:01:05.013965+05:45",
+   "modifiedOn": "2026-11-02T10:01:05.013975+05:45",
+   "titleNe": "बाग्मती, ललितपुर, कोन्ज्योसोम-४ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-31T00:00:00+05:45",
+   "reportedOn": "2026-11-01T10:37:09+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 92159,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 489893,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95923,
+   "title": "Flood at Dharche Rural Municipality-5",
+   "wards": [
+    3363
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.8101,
+     28.27345
+    ]
+   },
+   "createdOn": "2026-11-02T10:01:04.893713+05:45",
+   "modifiedOn": "2026-11-02T10:01:04.893725+05:45",
+   "titleNe": "गण्डकी, गोरखा, धार्चे-५ मा बाढी",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-31T00:00:00+05:45",
+   "reportedOn": "2026-11-01T10:47:03+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 92162,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 11,
+   "loss": 489890,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95922,
+   "title": "Heavy Rainfall at Konjyosom Rural Municipality-4",
+   "wards": [
+    2010
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.33968,
+     27.54796
+    ]
+   },
+   "createdOn": "2026-11-02T10:01:04.845438+05:45",
+   "modifiedOn": "2026-11-02T10:01:04.845449+05:45",
+   "titleNe": "बाग्मती, ललितपुर, कोन्ज्योसोम-४ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-31T00:00:00+05:45",
+   "reportedOn": "2026-11-01T10:50:24+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 92163,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 489889,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95946,
+   "title": "Landslide at Mugum Karmarong Rural Municipality-7",
+   "wards": [
+    1072
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     82.30447,
+     29.67916
+    ]
+   },
+   "createdOn": "2026-11-02T10:01:05.856819+05:45",
+   "modifiedOn": "2026-11-02T10:01:05.856827+05:45",
+   "titleNe": "कर्णाली, मुगु, मुगूम कार्मारोङ-७ मा पहिरो",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-31T00:00:00+05:45",
+   "reportedOn": "2026-10-31T15:21:48+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 92139,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 17,
+   "loss": 489913,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
+   "id": 95920,
+   "title": "Heavy Rainfall at Gokulganga Rural Municipality-4",
+   "wards": [
+    5141
+   ],
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     86.18811,
+     27.53685
+    ]
+   },
+   "createdOn": "2026-11-02T10:01:04.766461+05:45",
+   "modifiedOn": "2026-11-02T10:01:04.766470+05:45",
+   "titleNe": "बाग्मती, रामेछाप, गोकुलगङ्गा-४ मा भारीवर्षा",
+   "description": null,
+   "cause": null,
+   "verified": true,
+   "verificationMessage": null,
+   "approved": true,
+   "polygon": null,
+   "incidentOn": "2026-10-31T00:00:00+05:45",
+   "reportedOn": "2026-11-01T10:50:47+05:45",
+   "streetAddress": "",
+   "detail": null,
+   "needFollowup": false,
+   "region": null,
+   "regionId": null,
+   "dataSourceId": 92165,
+   "dataSource": "drr_api",
+   "source": "other",
+   "event": null,
+   "hazard": 14,
+   "loss": 489887,
+   "createdBy": null,
+   "updatedBy": null
+  },
+  {
    "id": 95908,
    "title": "Avalanche at Shey Phoksundo Rural Municipality-99",
    "wards": [
@@ -1064,728 +1612,44 @@
    "loss": 489925,
    "createdBy": null,
    "updatedBy": null
-  },
-  {
-   "id": 95957,
-   "title": "Landslide at Makawanpurgadhi Rural Municipality-5",
-   "wards": [
-    2308
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.08797,
-     27.4427
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:06.292652+05:45",
-   "modifiedOn": "2026-11-02T10:01:06.292659+05:45",
-   "titleNe": "बाग्मती, मकवानपुर, मकवानपुरगढी-५ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-31T00:00:00+05:45",
-   "reportedOn": "2026-10-31T15:03:55+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92127,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 489924,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95956,
-   "title": "Landslide at Netrawati Dabjong Rural Municipality-1",
-   "wards": [
-    3169
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.94688,
-     28.00638
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:06.256907+05:45",
-   "modifiedOn": "2026-11-02T10:01:06.256915+05:45",
-   "titleNe": "बाग्मती, धादिङ्ग, नेत्रावती डबजोङ-१ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-31T00:00:00+05:45",
-   "reportedOn": "2026-10-31T15:09:32+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92128,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 489923,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95955,
-   "title": "Landslide at Narpa Bhoomi Rural Municipality-3",
-   "wards": [
-    1040
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.18079,
-     28.67916
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:06.219069+05:45",
-   "modifiedOn": "2026-11-02T10:01:06.219076+05:45",
-   "titleNe": "गण्डकी, मनाङ्ग, नार्पा भूमि-३ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-31T00:00:00+05:45",
-   "reportedOn": "2026-10-31T15:10:55+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92129,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 489922,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95954,
-   "title": "Heavy Rainfall at Sunwal Municipality-5",
-   "wards": [
-    3605
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.67556861,
-     27.58688004
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:06.166217+05:45",
-   "modifiedOn": "2026-11-02T10:01:06.166224+05:45",
-   "titleNe": "लुम्बिनी, नवलपरासी (बर्दघाट सुस्ता पश्चिम), सुनवल-५ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-31T00:00:00+05:45",
-   "reportedOn": "2026-10-31T15:13:35+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92131,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 489921,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95953,
-   "title": "Landslide at Benighat Rorang Rural Municipality-10",
-   "wards": [
-    3124
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.66706411,
-     27.79618124
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:06.126226+05:45",
-   "modifiedOn": "2026-11-02T10:01:06.126233+05:45",
-   "titleNe": "बाग्मती, धादिङ्ग, बेनीघाट रोराङ-१० मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-31T00:00:00+05:45",
-   "reportedOn": "2026-10-31T15:14:57+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92132,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 489920,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95952,
-   "title": "Landslide at Bidur Municipality-11",
-   "wards": [
-    3650
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.18955271,
-     27.95391867
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:06.088949+05:45",
-   "modifiedOn": "2026-11-02T10:01:06.088956+05:45",
-   "titleNe": "बाग्मती, नुवाकोट, विदुर-११ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-31T00:00:00+05:45",
-   "reportedOn": "2026-10-31T15:15:47+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92133,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 489919,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95950,
-   "title": "Landslide at Krishnabhir, Netrawati Dabjong Rural Municipality-1",
-   "wards": [
-    3169
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.94688,
-     28.00638
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:06.018216+05:45",
-   "modifiedOn": "2026-11-02T10:01:06.018223+05:45",
-   "titleNe": "बाग्मती, धादिङ्ग, नेत्रावती डबजोङ-१ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-31T00:00:00+05:45",
-   "reportedOn": "2026-10-31T15:17:39+05:45",
-   "streetAddress": "Krishnabhir",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92135,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 489917,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95949,
-   "title": "Flood at Gosaikunda Rural Municipality-4",
-   "wards": [
-    1428
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.46091,
-     28.1755
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:05.981443+05:45",
-   "modifiedOn": "2026-11-02T10:01:05.981450+05:45",
-   "titleNe": "बाग्मती, रसुवा, गोसाईकुण्ड-४ मा बाढी",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-31T00:00:00+05:45",
-   "reportedOn": "2026-10-31T15:19:08+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92136,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 11,
-   "loss": 489916,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95948,
-   "title": "Flood at Namobuddha Municipality-7",
-   "wards": [
-    6164
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.63649,
-     27.54493
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:05.945104+05:45",
-   "modifiedOn": "2026-11-02T10:01:05.945111+05:45",
-   "titleNe": "बाग्मती, काभ्रेपलाञ्चोक, नमोबुद्ध-७ मा बाढी",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-31T00:00:00+05:45",
-   "reportedOn": "2026-10-31T15:20:20+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92137,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 11,
-   "loss": 489915,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95947,
-   "title": "Landslide at Hupsekot Rural Municipality-4",
-   "wards": [
-    3464
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.0621737780921,
-     27.6873921782637
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:05.907660+05:45",
-   "modifiedOn": "2026-11-02T10:01:05.907668+05:45",
-   "titleNe": "गण्डकी, नवलपरासी (बर्दघाट सुस्ता पूर्व), हुप्सेकोट-४ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-31T00:00:00+05:45",
-   "reportedOn": "2026-10-31T15:21:10+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92138,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 489914,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95946,
-   "title": "Landslide at Mugum Karmarong Rural Municipality-7",
-   "wards": [
-    1072
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     82.30447,
-     29.67916
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:05.856819+05:45",
-   "modifiedOn": "2026-11-02T10:01:05.856827+05:45",
-   "titleNe": "कर्णाली, मुगु, मुगूम कार्मारोङ-७ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-31T00:00:00+05:45",
-   "reportedOn": "2026-10-31T15:21:48+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92139,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 489913,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95945,
-   "title": "Landslide at Netrawati Dabjong Rural Municipality-1",
-   "wards": [
-    3169
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.94688,
-     28.00638
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:05.801770+05:45",
-   "modifiedOn": "2026-11-02T10:01:05.801777+05:45",
-   "titleNe": "बाग्मती, धादिङ्ग, नेत्रावती डबजोङ-१ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-31T00:00:00+05:45",
-   "reportedOn": "2026-10-31T15:24:19+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92140,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 489912,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95943,
-   "title": "Flood at Namobuddha Municipality-7",
-   "wards": [
-    6164
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.63649,
-     27.54493
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:05.723485+05:45",
-   "modifiedOn": "2026-11-02T10:01:05.723493+05:45",
-   "titleNe": "बाग्मती, काभ्रेपलाञ्चोक, नमोबुद्ध-७ मा बाढी",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-31T00:00:00+05:45",
-   "reportedOn": "2026-10-31T15:26:42+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92142,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 11,
-   "loss": 489910,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95941,
-   "title": "Landslide at Halesi Tuwachung Municipality-11",
-   "wards": [
-    880
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     86.7091,
-     27.15572
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:05.647425+05:45",
-   "modifiedOn": "2026-11-02T10:01:05.647432+05:45",
-   "titleNe": "कोशी, खोटाङ्ग, हलेसी तुवाचुङ-११ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-31T00:00:00+05:45",
-   "reportedOn": "2026-10-31T15:30:52+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92144,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 489908,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95940,
-   "title": "Heavy Rainfall at Lo Ghekar Damodarkunda Rural Municipality-5",
-   "wards": [
-    5092
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.86811,
-     28.9548
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:05.603493+05:45",
-   "modifiedOn": "2026-11-02T10:01:05.603501+05:45",
-   "titleNe": "गण्डकी, मुस्ताङ्ग, लो-घेकर दामोदरकुण्ड-५ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-31T00:00:00+05:45",
-   "reportedOn": "2026-10-31T15:34:36+05:45",
-   "streetAddress": "",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92145,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 489907,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95939,
-   "title": "Heavy Rainfall at Balkhu , Konjyosom Rural Municipality-4",
-   "wards": [
-    2010
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.33968,
-     27.54796
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:05.547834+05:45",
-   "modifiedOn": "2026-11-02T10:01:05.547841+05:45",
-   "titleNe": "बाग्मती, ललितपुर, कोन्ज्योसोम-४ मा भारीवर्षा",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-31T00:00:00+05:45",
-   "reportedOn": "2026-10-31T15:34:40+05:45",
-   "streetAddress": "Balkhu ",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92146,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 14,
-   "loss": 489906,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95938,
-   "title": "Landslide at Rakse , Resunga Municipality-14",
-   "wards": [
-    3239
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.31058,
-     28.09848
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:05.513136+05:45",
-   "modifiedOn": "2026-11-02T10:01:05.513144+05:45",
-   "titleNe": "लुम्बिनी, गुल्मी, रेसुङ्गा-१४ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-31T00:00:00+05:45",
-   "reportedOn": "2026-10-31T15:34:58+05:45",
-   "streetAddress": "Rakse ",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92147,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 489905,
-   "createdBy": null,
-   "updatedBy": null
-  },
-  {
-   "id": 95937,
-   "title": "Landslide at Kasiban , Rampur Municipality-1",
-   "wards": [
-    5751
-   ],
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     83.97524709,
-     27.83943704
-    ]
-   },
-   "createdOn": "2026-11-02T10:01:05.469467+05:45",
-   "modifiedOn": "2026-11-02T10:01:05.469475+05:45",
-   "titleNe": "लुम्बिनी, पाल्पा, रामपुर-१ मा पहिरो",
-   "description": null,
-   "cause": null,
-   "verified": true,
-   "verificationMessage": null,
-   "approved": true,
-   "polygon": null,
-   "incidentOn": "2026-10-31T00:00:00+05:45",
-   "reportedOn": "2026-10-31T15:36:02+05:45",
-   "streetAddress": "Kasiban ",
-   "detail": null,
-   "needFollowup": false,
-   "region": null,
-   "regionId": null,
-   "dataSourceId": 92148,
-   "dataSource": "drr_api",
-   "source": "other",
-   "event": null,
-   "hazard": 17,
-   "loss": 489904,
-   "createdBy": null,
-   "updatedBy": null
   }
  ],
  "rivers": [
   {
-   "id": 26444769,
-   "createdOn": "2026-11-17T14:55:09.663477+05:45",
-   "modifiedOn": "2026-11-17T14:55:09.663480+05:45",
-   "title": "Trishuli River at Kali Khola",
+   "id": 26451588,
+   "createdOn": "2026-11-18T00:15:13.195077+05:45",
+   "modifiedOn": "2026-11-18T00:15:13.195079+05:45",
+   "title": "Trishuli at Galchi",
    "basin": "Narayani",
    "point": {
     "type": "Point",
     "coordinates": [
-     84.546,
-     27.833
+     85.00305,
+     27.802328
     ]
    },
-   "waterLevel": 2.6609992981,
-   "image": "http://daq.hydrology.gov.np/images/364ef9a4cae0f2a57b48d88b42f579ff",
-   "dangerLevel": 12.1,
-   "warningLevel": 10.8,
-   "waterLevelOn": "2026-11-17T14:50:00+05:45",
+   "waterLevel": 358.957305908,
+   "image": "http://daq.hydrology.gov.np/images/96917ebb6f5c49a5673ea38a1b4fa8e0",
+   "dangerLevel": null,
+   "warningLevel": 367,
+   "waterLevelOn": "2026-11-18T00:10:00+05:45",
    "status": "BELOW WARNING LEVEL",
-   "elevation": 250,
+   "elevation": 378,
    "steady": "STEADY",
-   "description": "MHS",
-   "stationSeriesId": 19583,
+   "description": "RLS from RTS",
+   "stationSeriesId": 36628,
    "dataSource": "hydrology.gov.np",
    "dataSourceId": null,
-   "ward": 2452,
-   "municipality": 38001,
-   "district": 43,
-   "province": 4,
-   "station": 67
+   "ward": 3089,
+   "municipality": 30004,
+   "district": 26,
+   "province": 3,
+   "station": 281
   },
   {
-   "id": 26444761,
-   "createdOn": "2026-11-17T14:55:09.663175+05:45",
-   "modifiedOn": "2026-11-17T14:55:09.663177+05:45",
+   "id": 26451581,
+   "createdOn": "2026-11-18T00:15:13.194812+05:45",
+   "modifiedOn": "2026-11-18T00:15:13.194814+05:45",
    "title": "Tadi at Belkot",
    "basin": "Narayani",
    "point": {
@@ -1795,11 +1659,11 @@
      27.860094
     ]
    },
-   "waterLevel": 1.46500015259,
+   "waterLevel": 1.47399997711,
    "image": "http://daq.hydrology.gov.np/images/325da877378a7511354dba39e151ea7c",
    "dangerLevel": 5.5,
    "warningLevel": 4.5,
-   "waterLevelOn": "2026-11-17T14:40:00+05:45",
+   "waterLevelOn": "2026-11-18T00:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -1814,9 +1678,9 @@
    "station": 135
   },
   {
-   "id": 26444760,
-   "createdOn": "2026-11-17T14:55:09.663137+05:45",
-   "modifiedOn": "2026-11-17T14:55:09.663139+05:45",
+   "id": 26451580,
+   "createdOn": "2026-11-18T00:15:13.194770+05:45",
+   "modifiedOn": "2026-11-18T00:15:13.194772+05:45",
    "title": "Tadi Khola at Rautar",
    "basin": "Narayani",
    "point": {
@@ -1826,11 +1690,11 @@
      27.918694
     ]
    },
-   "waterLevel": 0.188099861145,
+   "waterLevel": 0.111999511719,
    "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
    "dangerLevel": null,
    "warningLevel": 3.5,
-   "waterLevelOn": "2026-11-17T14:50:00+05:45",
+   "waterLevelOn": "2026-11-18T00:10:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -1845,9 +1709,9 @@
    "station": 65
   },
   {
-   "id": 26444731,
-   "createdOn": "2026-11-17T14:55:09.661978+05:45",
-   "modifiedOn": "2026-11-17T14:55:09.661980+05:45",
+   "id": 26451555,
+   "createdOn": "2026-11-18T00:15:13.193763+05:45",
+   "modifiedOn": "2026-11-18T00:15:13.193766+05:45",
    "title": "Narayani at Devghat",
    "basin": "Narayani",
    "point": {
@@ -1857,11 +1721,11 @@
      27.71
     ]
    },
-   "waterLevel": 3.12099933624,
+   "waterLevel": 3.19499969482,
    "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
    "dangerLevel": 9,
    "warningLevel": 7.3,
-   "waterLevelOn": "2026-11-17T14:30:00+05:45",
+   "waterLevelOn": "2026-11-17T23:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -1876,9 +1740,71 @@
    "station": 25
   },
   {
-   "id": 26444719,
-   "createdOn": "2026-11-17T14:55:09.661496+05:45",
-   "modifiedOn": "2026-11-17T14:55:09.661498+05:45",
+   "id": 26451488,
+   "createdOn": "2026-11-18T00:15:13.190995+05:45",
+   "modifiedOn": "2026-11-18T00:15:13.190997+05:45",
+   "title": "Bhote Koshi at Bahrabise",
+   "basin": "Koshi",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     85.899324,
+     27.786773
+    ]
+   },
+   "waterLevel": 0.668000221252,
+   "image": "http://daq.hydrology.gov.np/images/1fa9f7b4833192d038492298d9a42cc7",
+   "dangerLevel": 3.6,
+   "warningLevel": 3.1,
+   "waterLevelOn": "2026-11-18T00:00:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": null,
+   "steady": "FALLING",
+   "description": "CDCP with RLS",
+   "stationSeriesId": 1640,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 2879,
+   "municipality": 23002,
+   "district": 24,
+   "province": 3,
+   "station": 91
+  },
+  {
+   "id": 26451468,
+   "createdOn": "2026-11-18T00:05:09.134380+05:45",
+   "modifiedOn": "2026-11-18T00:05:09.134382+05:45",
+   "title": "Trishuli River at Kali Khola",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.546,
+     27.833
+    ]
+   },
+   "waterLevel": 2.64999961853,
+   "image": "http://daq.hydrology.gov.np/images/364ef9a4cae0f2a57b48d88b42f579ff",
+   "dangerLevel": 12.1,
+   "warningLevel": 10.8,
+   "waterLevelOn": "2026-11-18T00:00:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": 250,
+   "steady": "STEADY",
+   "description": "MHS",
+   "stationSeriesId": 19583,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 2452,
+   "municipality": 38001,
+   "district": 43,
+   "province": 4,
+   "station": 67
+  },
+  {
+   "id": 26451427,
+   "createdOn": "2026-11-18T00:05:09.132708+05:45",
+   "modifiedOn": "2026-11-18T00:05:09.132710+05:45",
    "title": "Manahari Khola at Manahari",
    "basin": "Narayani",
    "point": {
@@ -1888,11 +1814,11 @@
      27.548673
     ]
    },
-   "waterLevel": 0.748999595642,
+   "waterLevel": 0.747999191284,
    "image": "http://daq.hydrology.gov.np/images/dda94e5a1fe05535b24b7907976c7efe",
    "dangerLevel": null,
    "warningLevel": 4.3,
-   "waterLevelOn": "2026-11-17T14:40:00+05:45",
+   "waterLevelOn": "2026-11-18T00:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 305,
    "steady": "STEADY",
@@ -1907,9 +1833,9 @@
    "station": 116
   },
   {
-   "id": 26444712,
-   "createdOn": "2026-11-17T14:55:09.661223+05:45",
-   "modifiedOn": "2026-11-17T14:55:09.661225+05:45",
+   "id": 26451422,
+   "createdOn": "2026-11-18T00:05:09.132508+05:45",
+   "modifiedOn": "2026-11-18T00:05:09.132510+05:45",
    "title": "Lothar Khola at Lothar",
    "basin": "Narayani",
    "point": {
@@ -1919,11 +1845,11 @@
      27.5877
     ]
    },
-   "waterLevel": 1.30900001526,
+   "waterLevel": 1.3029999733,
    "image": "http://daq.hydrology.gov.np/images/93f6c4e346f0c03f64410c51ac9f71a0",
    "dangerLevel": 7,
    "warningLevel": 6.5,
-   "waterLevelOn": "2026-11-17T14:40:00+05:45",
+   "waterLevelOn": "2026-11-18T00:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 207,
    "steady": "STEADY",
@@ -1938,9 +1864,9 @@
    "station": 16
   },
   {
-   "id": 26444675,
-   "createdOn": "2026-11-17T14:55:09.659730+05:45",
-   "modifiedOn": "2026-11-17T14:55:09.659732+05:45",
+   "id": 26451392,
+   "createdOn": "2026-11-18T00:05:09.131257+05:45",
+   "modifiedOn": "2026-11-18T00:05:09.131259+05:45",
    "title": "East Rapti at Rajaiya",
    "basin": "Narayani",
    "point": {
@@ -1950,11 +1876,11 @@
      27.44
     ]
    },
-   "waterLevel": 0.809999465942,
+   "waterLevel": 0.817999839783,
    "image": "http://daq.hydrology.gov.np/images/6b3873a603048aca368d9d8fe8e5ca1d",
    "dangerLevel": 3.7,
    "warningLevel": 3.3,
-   "waterLevelOn": "2026-11-17T14:40:00+05:45",
+   "waterLevelOn": "2026-11-17T23:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -1967,68 +1893,6 @@
    "district": 31,
    "province": 3,
    "station": 70
-  },
-  {
-   "id": 26444657,
-   "createdOn": "2026-11-17T14:55:09.658988+05:45",
-   "modifiedOn": "2026-11-17T14:55:09.658990+05:45",
-   "title": "Bhote Koshi at Bahrabise",
-   "basin": "Koshi",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.899324,
-     27.786773
-    ]
-   },
-   "waterLevel": 0.603000640869,
-   "image": "http://daq.hydrology.gov.np/images/1fa9f7b4833192d038492298d9a42cc7",
-   "dangerLevel": 3.6,
-   "warningLevel": 3.1,
-   "waterLevelOn": "2026-11-17T14:40:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": null,
-   "steady": "STEADY",
-   "description": "CDCP with RLS",
-   "stationSeriesId": 1640,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 2879,
-   "municipality": 23002,
-   "district": 24,
-   "province": 3,
-   "station": 91
-  },
-  {
-   "id": 26444630,
-   "createdOn": "2026-11-17T14:45:11.887345+05:45",
-   "modifiedOn": "2026-11-17T14:45:11.887347+05:45",
-   "title": "Trishuli at Galchi",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     85.00305,
-     27.802328
-    ]
-   },
-   "waterLevel": 359.084320068,
-   "image": "http://daq.hydrology.gov.np/images/96917ebb6f5c49a5673ea38a1b4fa8e0",
-   "dangerLevel": null,
-   "warningLevel": 367,
-   "waterLevelOn": "2026-11-17T14:30:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": 378,
-   "steady": "STEADY",
-   "description": "RLS from RTS",
-   "stationSeriesId": 36628,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 3089,
-   "municipality": 30004,
-   "district": 26,
-   "province": 3,
-   "station": 281
   }
  ],
  "alerts": [
@@ -2057,10 +1921,10 @@
    "verified": true,
    "public": true,
    "startedOn": "2026-11-17T08:40:00+05:45",
-   "expireOn": null,
+   "expireOn": "2026-11-17T17:25:03.641287+05:45",
    "polygon": null,
    "referenceType": "river",
-   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Lohandra Khola at East West Highway\", \"basin\": \"Keshaliya\", \"point\": \"SRID=4326;POINT (87.408989 26.661169)\", \"water_level\": 125.534, \"image\": \"http://daq.hydrology.gov.np/images/7f0c6e6d11ced7662076e0da0ae066e0\", \"danger_level\": 125.8, \"warning_level\": 125.3, \"water_level_on\": \"2026-11-17T09:05:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": 123, \"steady\": \"STEADY\", \"description\": \"Lohandra Khola at East West Highway\", \"station_series_id\": 27913, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 5793, \"municipality\": 5001, \"district\": 5, \"province\": 1, \"station\": 211}}",
+   "referenceData": "{\"model\": \"realtime.river\", \"pk\": null, \"fields\": {\"created_on\": null, \"modified_on\": null, \"title\": \"Lohandra Khola at East West Highway\", \"basin\": \"Keshaliya\", \"point\": \"SRID=4326;POINT (87.408989 26.661169)\", \"water_level\": 125.529, \"image\": \"http://daq.hydrology.gov.np/images/7f0c6e6d11ced7662076e0da0ae066e0\", \"danger_level\": 125.8, \"warning_level\": 125.3, \"water_level_on\": \"2026-11-17T11:15:00Z\", \"status\": \"ABOVE WARNING LEVEL\", \"elevation\": 123, \"steady\": \"STEADY\", \"description\": \"Lohandra Khola at East West Highway\", \"station_series_id\": 27913, \"data_source\": \"hydrology.gov.np\", \"data_source_id\": null, \"ward\": 5793, \"municipality\": 5001, \"district\": 5, \"province\": 1, \"station\": 211}}",
    "referenceId": 5532,
    "region": null,
    "regionId": null,
@@ -6475,17 +6339,17 @@
   {
    "source": "रातोपाटी",
    "ok": true,
-   "count": 0
+   "count": 4
   },
   {
    "source": "अनलाइनखबर",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "source": "नागरिक",
    "ok": true,
-   "count": 0
+   "count": 1
   },
   {
    "source": "सेतोपाटी",
@@ -6495,17 +6359,17 @@
   {
    "source": "Khabarhub (English)",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "source": "The Kathmandu Post",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "source": "incidents",
    "ok": true,
-   "count": 45
+   "count": 40
   },
   {
    "source": "rivers",
