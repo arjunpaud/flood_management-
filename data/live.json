@@ -1,41 +1,68 @@
 {
- "generatedAt": "2026-11-22T07:31:03.068Z",
+ "generatedAt": "2026-11-22T15:36:28.070Z",
  "news": [
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "विपद्को जोखिम र स्थानीयको भावना बुझेर बस्ती पुनर्निर्माण गर्नुपर्छ : गगन थापा",
+   "link": "https://www.onlinekhabar.com/2026/11/2063458/settlements-should-be-reconstructed-by-understanding-disaster-risks-and-the-feelings-of-locals-gagan-thapa",
+   "date": "Sun, 22 Nov 2026 15:25:00 +0000",
+   "ts": 1795361100000
+  },
   {
    "source": "रातोपाटी",
    "sourceId": "ratopati",
    "site": "https://www.ratopati.com",
-   "title": "इन्डोनेसियाको मिठाई कारखानामा आगलागी हुँदा ३ जनाको मृत्यु, ३६ जना बेपत्ता",
-   "link": "https://www.ratopati.com/story/606869/3-dead-36-missing-in-indonesian-candy-factory-fire",
-   "date": "Sun, 22 Nov 2026 07:29:33 +0000",
-   "ts": 1795332573000
-  },
-  {
-   "source": "सेतोपाटी",
-   "sourceId": "setopati",
-   "site": "https://www.setopati.com",
-   "title": "बाढीको लेदोमा पुरिएका घर आफै सफा गर्दै स्थानीय, काम गरेबापत ज्याला पनि पाउँदै",
-   "link": "https://www.setopati.com/social/403025",
-   "date": "Sun, 22 Nov 2026 12:58:00 +0545",
-   "ts": 1795331580000
-  },
-  {
-   "source": "नागरिक",
-   "sourceId": "nagarik",
-   "site": "https://nagariknews.nagariknetwork.com",
-   "title": "इन्डोनेसियाको मिठाई कारखानामा आगलागी, तीन जनाको मृ’त्यु, ३६ को अवस्था अज्ञात",
-   "link": "https://nagariknews.nagariknetwork.com/international/three-dead-36-missing-in-indonesian-candy-factory-fire-70-26.html",
-   "date": "Sun, 22 Nov 2026 12:48:58 +0545",
-   "ts": 1795331038000
+   "title": "जोखिम मूल्याङ्कन गरेर मात्रै बाढी प्रभावित बस्ती पुनर्निर्माण गर्नुपर्छ : गगन थापा",
+   "link": "https://www.ratopati.com/story/606948/flood-affected-settlements-should-be-reconstructed-only-after-risk-assessment-gagan-thapa",
+   "date": "Sun, 22 Nov 2026 14:52:10 +0000",
+   "ts": 1795359130000
   },
   {
    "source": "अनलाइनखबर",
    "sourceId": "onlinekhabar",
    "site": "https://www.onlinekhabar.com",
-   "title": "गगन थापा भोटेकोसी र त्रिशूली करिडोरमा बाढी प्रभावितसँग अन्तरक्रिया गर्दै",
-   "link": "https://www.onlinekhabar.com/2026/11/2062855/gagan-thapa-interacting-with-flood-victims-in-the-bhotekoshi-and-trishuli-corridors",
-   "date": "Sun, 22 Nov 2026 03:08:17 +0000",
-   "ts": 1795316897000
+   "title": "इन्डोनेसिया मिठाइ कारखाना आगलागी : मृतकको संख्या ६ पुग्यो, ३३ जना बेपत्ता",
+   "link": "https://www.onlinekhabar.com/2026/11/2063435/indonesia-candy-factory-fire-death-toll-rises-to-6-33-missing",
+   "date": "Sun, 22 Nov 2026 14:12:32 +0000",
+   "ts": 1795356752000
+  },
+  {
+   "source": "सेतोपाटी",
+   "sourceId": "setopati",
+   "site": "https://www.setopati.com",
+   "title": "भोटेकोशी-त्रिशूली बाढी पीडितलाई सार्वजनिक नभए निजी जग्गा किनेर दिनुपर्छ- गगन थापा",
+   "link": "https://www.setopati.com/politics/403152",
+   "date": "Sun, 22 Nov 2026 19:07:00 +0545",
+   "ts": 1795353720000
+  },
+  {
+   "source": "नागरिक",
+   "sourceId": "nagarik",
+   "site": "https://nagariknews.nagariknetwork.com",
+   "title": "‘पुनर्स्थापनामा सरकार उदासीन देखियो, निजी जग्गा किनेर भए पनि बाढीपीडितलाई बसोबास मिलाउनुपर्छ’",
+   "link": "https://nagariknews.nagariknetwork.com/politics/the-government-appears-indifferent-to-rehabilitation-even-if-it-means-buying-private-land-flood-victims-should-be-provided-with-housing-18-15.html",
+   "date": "Sun, 22 Nov 2026 18:51:20 +0545",
+   "ts": 1795352780000
+  },
+  {
+   "source": "अनलाइनखबर",
+   "sourceId": "onlinekhabar",
+   "site": "https://www.onlinekhabar.com",
+   "title": "भोटेकोशी बाढी प्रभावित क्याम्पस पुन: सञ्चालन गर्न एनसेल फाउन्डेसनको शैक्षिक पूर्वाधार सहयोग",
+   "link": "https://www.onlinekhabar.com/2026/11/2063277/ncell-foundations-educational-infrastructure-support-to-re-open-bhotekoshi-flood-affected-campus",
+   "date": "Sun, 22 Nov 2026 11:51:59 +0000",
+   "ts": 1795348319000
+  },
+  {
+   "source": "The Kathmandu Post",
+   "sourceId": "kathmandupost",
+   "site": "https://kathmandupost.com",
+   "title": "Seven body bags recovered, 50 missing after Indonesian factory fire",
+   "link": "https://kathmandupost.com/world/2026/11/22/seven-body-bags-recovered-50-missing-after-indonesian-factory-fire",
+   "date": "",
+   "ts": 0
   },
   {
    "source": "The Kathmandu Post",
@@ -554,9 +581,9 @@
  ],
  "rivers": [
   {
-   "id": 26531310,
-   "createdOn": "2026-11-22T13:15:11.259584+05:45",
-   "modifiedOn": "2026-11-22T13:15:11.259586+05:45",
+   "id": 26537159,
+   "createdOn": "2026-11-22T21:15:10.098320+05:45",
+   "modifiedOn": "2026-11-22T21:15:10.098322+05:45",
    "title": "Trishuli at Galchi",
    "basin": "Narayani",
    "point": {
@@ -566,11 +593,11 @@
      27.802328
     ]
    },
-   "waterLevel": 358.984405518,
+   "waterLevel": 358.98651123,
    "image": "http://daq.hydrology.gov.np/images/96917ebb6f5c49a5673ea38a1b4fa8e0",
    "dangerLevel": null,
    "warningLevel": 367,
-   "waterLevelOn": "2026-11-22T13:10:00+05:45",
+   "waterLevelOn": "2026-11-22T21:10:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 378,
    "steady": "STEADY",
@@ -585,9 +612,9 @@
    "station": 281
   },
   {
-   "id": 26531309,
-   "createdOn": "2026-11-22T13:15:11.259547+05:45",
-   "modifiedOn": "2026-11-22T13:15:11.259549+05:45",
+   "id": 26537157,
+   "createdOn": "2026-11-22T21:15:10.098248+05:45",
+   "modifiedOn": "2026-11-22T21:15:10.098250+05:45",
    "title": "Trishuli Khola at Dhunche",
    "basin": "Narayani",
    "point": {
@@ -597,11 +624,11 @@
      28.098163
     ]
    },
-   "waterLevel": 1.93759965897,
+   "waterLevel": 1.93919944763,
    "image": "http://daq.hydrology.gov.np/images/0a4d86552fd0e57c5ab02555b4dc693f",
    "dangerLevel": null,
    "warningLevel": 3.2,
-   "waterLevelOn": "2026-11-22T13:00:00+05:45",
+   "waterLevelOn": "2026-11-22T21:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -616,9 +643,9 @@
    "station": 105
   },
   {
-   "id": 26531304,
-   "createdOn": "2026-11-22T13:15:11.259358+05:45",
-   "modifiedOn": "2026-11-22T13:15:11.259361+05:45",
+   "id": 26537151,
+   "createdOn": "2026-11-22T21:15:10.098027+05:45",
+   "modifiedOn": "2026-11-22T21:15:10.098029+05:45",
    "title": "Tadi at Belkot",
    "basin": "Narayani",
    "point": {
@@ -628,11 +655,11 @@
      27.860094
     ]
    },
-   "waterLevel": 1.43699932098,
+   "waterLevel": 1.42799949646,
    "image": "http://daq.hydrology.gov.np/images/325da877378a7511354dba39e151ea7c",
    "dangerLevel": 5.5,
    "warningLevel": 4.5,
-   "waterLevelOn": "2026-11-22T13:00:00+05:45",
+   "waterLevelOn": "2026-11-22T21:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -647,9 +674,9 @@
    "station": 135
   },
   {
-   "id": 26531303,
-   "createdOn": "2026-11-22T13:15:11.259322+05:45",
-   "modifiedOn": "2026-11-22T13:15:11.259324+05:45",
+   "id": 26537150,
+   "createdOn": "2026-11-22T21:15:10.097989+05:45",
+   "modifiedOn": "2026-11-22T21:15:10.097991+05:45",
    "title": "Tadi Khola at Rautar",
    "basin": "Narayani",
    "point": {
@@ -659,11 +686,11 @@
      27.918694
     ]
    },
-   "waterLevel": 0.141900062561,
+   "waterLevel": 0.13539981842,
    "image": "http://daq.hydrology.gov.np/images/a9820e8ec9d96bd220e9caa29e9f9d74",
    "dangerLevel": null,
    "warningLevel": 3.5,
-   "waterLevelOn": "2026-11-22T13:10:00+05:45",
+   "waterLevelOn": "2026-11-22T21:10:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -678,9 +705,9 @@
    "station": 65
   },
   {
-   "id": 26531275,
-   "createdOn": "2026-11-22T13:15:11.258194+05:45",
-   "modifiedOn": "2026-11-22T13:15:11.258197+05:45",
+   "id": 26537122,
+   "createdOn": "2026-11-22T21:15:10.096866+05:45",
+   "modifiedOn": "2026-11-22T21:15:10.096868+05:45",
    "title": "Narayani at Devghat",
    "basin": "Narayani",
    "point": {
@@ -690,11 +717,11 @@
      27.71
     ]
    },
-   "waterLevel": 3.35200023651,
+   "waterLevel": 3.38599967957,
    "image": "http://daq.hydrology.gov.np/images/82f9703dad054cae6100809681272696",
    "dangerLevel": 9,
    "warningLevel": 7.3,
-   "waterLevelOn": "2026-11-22T12:50:00+05:45",
+   "waterLevelOn": "2026-11-22T20:50:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -709,9 +736,40 @@
    "station": 25
   },
   {
-   "id": 26531258,
-   "createdOn": "2026-11-22T13:15:11.257479+05:45",
-   "modifiedOn": "2026-11-22T13:15:11.257481+05:45",
+   "id": 26537110,
+   "createdOn": "2026-11-22T21:15:10.096062+05:45",
+   "modifiedOn": "2026-11-22T21:15:10.096064+05:45",
+   "title": "Manahari Khola at Manahari",
+   "basin": "Narayani",
+   "point": {
+    "type": "Point",
+    "coordinates": [
+     84.827716,
+     27.548673
+    ]
+   },
+   "waterLevel": 0.735999107361,
+   "image": "http://daq.hydrology.gov.np/images/dda94e5a1fe05535b24b7907976c7efe",
+   "dangerLevel": null,
+   "warningLevel": 4.3,
+   "waterLevelOn": "2026-11-22T21:10:00+05:45",
+   "status": "BELOW WARNING LEVEL",
+   "elevation": 305,
+   "steady": "STEADY",
+   "description": "HS_manual",
+   "stationSeriesId": 21323,
+   "dataSource": "hydrology.gov.np",
+   "dataSourceId": null,
+   "ward": 2378,
+   "municipality": 31009,
+   "district": 31,
+   "province": 3,
+   "station": 116
+  },
+  {
+   "id": 26537102,
+   "createdOn": "2026-11-22T21:15:10.095717+05:45",
+   "modifiedOn": "2026-11-22T21:15:10.095719+05:45",
    "title": "Lothar Khola at Lothar",
    "basin": "Narayani",
    "point": {
@@ -721,11 +779,11 @@
      27.5877
     ]
    },
-   "waterLevel": 1.29200029373,
+   "waterLevel": 1.29099988937,
    "image": "http://daq.hydrology.gov.np/images/93f6c4e346f0c03f64410c51ac9f71a0",
    "dangerLevel": 7,
    "warningLevel": 6.5,
-   "waterLevelOn": "2026-11-22T13:00:00+05:45",
+   "waterLevelOn": "2026-11-22T21:10:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": 207,
    "steady": "STEADY",
@@ -740,9 +798,9 @@
    "station": 16
   },
   {
-   "id": 26531202,
-   "createdOn": "2026-11-22T13:15:11.255049+05:45",
-   "modifiedOn": "2026-11-22T13:15:11.255051+05:45",
+   "id": 26537040,
+   "createdOn": "2026-11-22T21:15:10.093041+05:45",
+   "modifiedOn": "2026-11-22T21:15:10.093043+05:45",
    "title": "Bhote Koshi at Bahrabise",
    "basin": "Koshi",
    "point": {
@@ -752,11 +810,11 @@
      27.786773
     ]
    },
-   "waterLevel": 0.538000106812,
+   "waterLevel": 0.611000061035,
    "image": "http://daq.hydrology.gov.np/images/1fa9f7b4833192d038492298d9a42cc7",
    "dangerLevel": 3.6,
    "warningLevel": 3.1,
-   "waterLevelOn": "2026-11-22T13:00:00+05:45",
+   "waterLevelOn": "2026-11-22T21:00:00+05:45",
    "status": "BELOW WARNING LEVEL",
    "elevation": null,
    "steady": "STEADY",
@@ -769,37 +827,6 @@
    "district": 24,
    "province": 3,
    "station": 91
-  },
-  {
-   "id": 26531126,
-   "createdOn": "2026-11-22T13:05:10.400990+05:45",
-   "modifiedOn": "2026-11-22T13:05:10.400992+05:45",
-   "title": "Manahari Khola at Manahari",
-   "basin": "Narayani",
-   "point": {
-    "type": "Point",
-    "coordinates": [
-     84.827716,
-     27.548673
-    ]
-   },
-   "waterLevel": 0.732999801636,
-   "image": "http://daq.hydrology.gov.np/images/dda94e5a1fe05535b24b7907976c7efe",
-   "dangerLevel": null,
-   "warningLevel": 4.3,
-   "waterLevelOn": "2026-11-22T13:00:00+05:45",
-   "status": "BELOW WARNING LEVEL",
-   "elevation": 305,
-   "steady": "STEADY",
-   "description": "HS_manual",
-   "stationSeriesId": 21323,
-   "dataSource": "hydrology.gov.np",
-   "dataSourceId": null,
-   "ward": 2378,
-   "municipality": 31009,
-   "district": 31,
-   "province": 3,
-   "station": 116
   }
  ],
  "alerts": [
@@ -5249,7 +5276,7 @@
   {
    "source": "अनलाइनखबर",
    "ok": true,
-   "count": 1
+   "count": 3
   },
   {
    "source": "नागरिक",
@@ -5269,7 +5296,7 @@
   {
    "source": "The Kathmandu Post",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "source": "incidents",
